@@ -1,0 +1,72 @@
+---
+title: "NHANES Variables Metadata"
+output: html_notebook
+---
+
+Load the *nhanesA* library.
+```{r}
+library(nhanesA)
+```
+
+Get all the NHANES tables across all survey years.
+```{r}
+nhanes_data_group <- 'DIET'
+survey_years <- c(1999, 2001, 2003, 2005, 2007, 2009, 2011, 2013, 2015, 2017)
+all_tables <- NULL
+for (year in survey_years) {
+  tables_year <- nhanesTables(data_group=nhanes_data_group, year=year)
+  all_tables <- rbind(all_tables, tables_year)
+}
+print(all_tables)
+```
+
+Error when trying to obtain the '2019' and '2021' data frames.
+```{r}
+tables_2019 <- nhanesTables(data_group=nhanes_data_group, year=2019)
+print(tables_2019)
+```
+
+Define function to get all variables in the given NHANES tables.
+```{r}
+get_all_variables <- function(nhanes_data_group, tables) {
+  all_variables <- NULL
+  for (nhanes_table in 1:nrow(tables)) {
+    table_name <- tables[nhanes_table, 'Data.File.Name']
+    variables <- nhanesTableVars(data_group=nhanes_data_group, 
+                                 nh_table=table_name, 
+                                 details=TRUE, 
+                                 nchar=500, 
+                                 namesonly=FALSE)
+    all_variables <- rbind(all_variables, variables)
+  }
+  return(all_variables)
+}
+```
+
+Get all the variables in all the tables.
+```{r}
+variables_all_tables <- get_all_variables(nhanes_data_group=nhanes_data_group, tables=all_tables)
+print(variables_all_tables)
+```
+
+**Here we are missing the SAS Label of each variable (issue posted on GitHub)**
+
+Write out the variable details to CSV. 
+```{r}
+write.csv(variables_all_tables, "all_variables.csv", row.names=FALSE)
+```
+
+
+Get the possible values for the given variable.
+```{r}
+variable_details <- function(table_name, variable_id) {
+    return(nhanesTranslate(nh_table=table_name, colnames=variable_id, details=TRUE))
+}
+```
+
+
+Get details for an example variable.
+```{r}
+details <- variable_details('DR1TOT_F', 'DR1MNRSP')
+print(details)
+```
