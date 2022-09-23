@@ -36,6 +36,8 @@ print(tables_2019)
 Define function to get all variables in all NHANES tables.
 ```{r}
 get_all_variables <- function(nhanes_data_group, tables) {
+  response_details_folder = "response_details/"
+  dir.create(file.path(".", response_details_folder))
   all_variables <- data.frame(matrix(ncol = 5, nrow = 0))
   colnames(all_variables) <-c("Variable Name", "SAS Label", "English Text", "Target", "Table")
   for (nhanes_table in 1:nrow(tables)) {
@@ -55,11 +57,11 @@ get_all_variables <- function(nhanes_data_group, tables) {
           name <- variable_details['Variable Name']
           label <- variable_details['SAS Label']
           text <- variable_details['English Text']
-          target <- variable_details['Target']
+          target <- gsub("[\r\n]", " ", variable_details['Target'])
           variable_details_vector <- c(name, label, text, target, table_name)
           all_variables[nrow(all_variables) + 1, ] <- variable_details_vector
           response_options <- variable_details[length(variable_details)]
-          out_file <- paste("response_details/", name, ".csv", sep = "")
+          out_file <- paste(response_details_folder, name, ".csv", sep = "")
           write.csv(response_options, file = out_file, row.names = FALSE)
         }, error=function(e) {
             cat("ERROR: ", conditionMessage(e), "\n")
