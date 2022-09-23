@@ -3,21 +3,28 @@ title: "NHANES Variables Metadata"
 output: html_notebook
 ---
 
-Load the *nhanesA* library.
+Load the *nhanesA* library. Since changes in v0.7.1, we also need to load *stringr* and *rvest* libraries.
 ```{r}
 library(nhanesA)
+library(stringr)
+library(rvest)
 ```
 
-Get all the NHANES tables across all survey years.
+Get all NHANES tables from all survey years (table names and descriptions).
 ```{r}
 nhanes_data_group <- 'DIET'
 survey_years <- c(1999, 2001, 2003, 2005, 2007, 2009, 2011, 2013, 2015, 2017)
-all_tables <- NULL
+all_tables <- c()
 for (year in survey_years) {
   tables_year <- nhanesTables(data_group=nhanes_data_group, year=year)
   all_tables <- rbind(all_tables, tables_year)
 }
 print(all_tables)
+```
+
+Write out a table with all NHANES table names and descriptions.
+```{r}
+write.csv(all_tables, "nhanes_tables.csv", row.names=FALSE)
 ```
 
 Error when trying to obtain the '2019' and '2021' data frames.
@@ -26,18 +33,41 @@ tables_2019 <- nhanesTables(data_group=nhanes_data_group, year=2019)
 print(tables_2019)
 ```
 
-Define function to get all variables in the given NHANES tables.
+Define function to get all variables in all NHANES tables.
 ```{r}
 get_all_variables <- function(nhanes_data_group, tables) {
-  all_variables <- NULL
+  all_variables <- data.frame(matrix(ncol = 5, nrow = 0))
+  colnames(all_variables) <-c("Variable Name", "SAS Label", "English Text", "Target", "Table")
   for (nhanes_table in 1:nrow(tables)) {
     table_name <- tables[nhanes_table, 'Data.File.Name']
-    variables <- nhanesTableVars(data_group=nhanes_data_group, 
-                                 nh_table=table_name, 
-                                 details=TRUE, 
-                                 nchar=500, 
-                                 namesonly=FALSE)
-    all_variables <- rbind(all_variables, variables)
+    
+    # Get all variables in this table
+    table_variables <- nhanesTableVars(data_group=nhanes_data_group, 
+                                       nh_table=table_name, details=TRUE, 
+                                       nchar=1024, namesonly=FALSE)
+
+    # For each variable in this table get its details
+    if(length(table_variables) > 0) {
+      for (variable in 1:nrow(table_variables)) {
+        variable_name <- table_variables[variable, 'Variable.Name']
+        tryCatch({
+          variable_details <- nhanesCodebook(nh_table = table_name, variable_name)
+          name <- variable_details['Variable Name']
+          label <- variable_details['SAS Label']
+          text <- variable_details['English Text']
+          target <- variable_details['Target']
+          instructions <- variable_details['English Instructions']
+          variable_details_vector <- c(name, label, text, target, table_name)
+          all_variables[nrow(all_variables) + 1, ] <- variable_details_vector
+          response_options <- variable_details[length(variable_details)]
+          out_file <- paste("response_details/", name, ".csv", sep = "")
+          write.csv(response_options, file = out_file, row.names = FALSE)
+        }, error=function(e) {
+            cat("ERROR: ", conditionMessage(e), "\n")
+            cat("Variable: ", variable_name, ". Table: ", table_name, "\n")
+        })
+      }
+    }
   }
   return(all_variables)
 }
@@ -46,27 +76,11 @@ get_all_variables <- function(nhanes_data_group, tables) {
 Get all the variables in all the tables.
 ```{r}
 variables_all_tables <- get_all_variables(nhanes_data_group=nhanes_data_group, tables=all_tables)
-print(variables_all_tables)
-```
-
-**Here we are missing the SAS Label of each variable (issue posted on GitHub)**
-
-Write out the variable details to CSV. 
-```{r}
-write.csv(variables_all_tables, "all_variables.csv", row.names=FALSE)
 ```
 
 
-Get the possible values for the given variable.
 ```{r}
-variable_details <- function(table_name, variable_id) {
-    return(nhanesTranslate(nh_table=table_name, colnames=variable_id, details=TRUE))
-}
-```
-
-
-Get details for an example variable.
-```{r}
-details <- variable_details('DR1TOT_F', 'DR1MNRSP')
-print(details)
+unique_variables <- unique.data.frame(variables_all_tables)
+print(unique_variables)
+write.csv(unique_variables, "nhanes_unique_variables.csv", row.names=FALSE)
 ```
