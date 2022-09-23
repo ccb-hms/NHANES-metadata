@@ -1,0 +1,26 @@
+"DRDCCMTY.Code.or.Value","DRDCCMTY.Value.Description","DRDCCMTY.Count","DRDCCMTY.Cumulative","DRDCCMTY.Skip.to.Item"
+"0","Non-combination food",56969,56969,NA
+"1","Baby food combo",1284,58253,NA
+"2","Dried beans w/adds",462,58715,NA
+"3","Beverage combo",8901,67616,NA
+"4","Bread/baked products w/adds",5606,73222,NA
+"5","Cereal mix/cereal w/adds",6253,79475,NA
+"6","Chips w/adds",827,80302,NA
+"7","Crackers w/adds",531,80833,NA
+"8","Desserts w/adds",1247,82080,NA
+"9","Eggs w/adds",685,82765,NA
+"10","Fish w/adds",629,83394,NA
+"11","Frozen meal",324,83718,NA
+"12","Fruit combo",835,84553,NA
+"13","Grains w/adds",1022,85575,NA
+"14","Meat w/adds",1445,87020,NA
+"15","Mixed dish",5833,92853,NA
+"17","Poultry w/adds",1739,94592,NA
+"18","Salads (greens based)",5042,99634,NA
+"19","Salads (non-greens based)",515,100149,NA
+"20","Sandwiches",16373,116522,NA
+"21","Soup combo",1229,117751,NA
+"22","Tortilla w/adds",4808,122559,NA
+"23","Vegetable combo",4614,127173,NA
+"90","Other foods eaten together",667,127840,NA
+".","Missing",0,127840,NA

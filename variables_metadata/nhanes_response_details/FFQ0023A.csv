@@ -1,0 +1,14 @@
+"FFQ0023A.Code.or.Value","FFQ0023A.Value.Description","FFQ0023A.Count","FFQ0023A.Cumulative","FFQ0023A.Skip.to.Item"
+1,"never",123,123,NA
+2,"1-6 times per season",1419,1542,NA
+3,"7-11 times per season",705,2247,NA
+4,"1 time per month",333,2580,NA
+5,"2-3 times per month",794,3374,NA
+6,"1 time per week",426,3800,NA
+7,"2 times per week",495,4295,NA
+8,"3-4 times per week",413,4708,NA
+9,"5-6 times per week",110,4818,NA
+10,"1 time per day",95,4913,NA
+11,"2 or more times per day",62,4975,NA
+88,"Blank",1015,5990,NA
+99,"Error",23,6013,NA

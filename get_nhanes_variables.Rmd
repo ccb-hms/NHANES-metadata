@@ -56,7 +56,6 @@ get_all_variables <- function(nhanes_data_group, tables) {
           label <- variable_details['SAS Label']
           text <- variable_details['English Text']
           target <- variable_details['Target']
-          instructions <- variable_details['English Instructions']
           variable_details_vector <- c(name, label, text, target, table_name)
           all_variables[nrow(all_variables) + 1, ] <- variable_details_vector
           response_options <- variable_details[length(variable_details)]
@@ -78,7 +77,7 @@ Get all the variables in all the tables.
 variables_all_tables <- get_all_variables(nhanes_data_group=nhanes_data_group, tables=all_tables)
 ```
 
-
+Save only unique rows in the variables data frame.
 ```{r}
 unique_variables <- unique.data.frame(variables_all_tables)
 print(unique_variables)

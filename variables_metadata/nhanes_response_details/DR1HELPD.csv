@@ -1,0 +1,18 @@
+"DR1HELPD.Code.or.Value","DR1HELPD.Value.Description","DR1HELPD.Count","DR1HELPD.Cumulative","DR1HELPD.Skip.to.Item"
+"1","SP",704,704,NA
+"2","Mother of SP",338,1042,NA
+"3","Father of SP",115,1157,NA
+"4","Wife of SP",1,1158,NA
+"5","Husband of SP",2,1160,NA
+"6","Daughter of SP",8,1168,NA
+"7","Son of SP",5,1173,NA
+"8","Grandparent of SP",17,1190,NA
+"9","Friend, Partner, Non Relative",3,1193,NA
+"10","Translator, not a HH member",53,1246,NA
+"11","Child care provider, Caretaker",6,1252,NA
+"12","Other Relative",28,1280,NA
+"13","No one",7347,8627,NA
+"14","Other specify",0,8627,NA
+"77","Refused",0,8627,NA
+"99","Don't know",1,8628,NA
+".","Missing",1185,9813,NA

@@ -1,0 +1,19 @@
+"DRD030Z.Code.or.Value","DRD030Z.Value.Description","DRD030Z.Count","DRD030Z.Cumulative","DRD030Z.Skip.to.Item"
+"1","Breakfast",25398,25398,NA
+"2","Lunch",30708,56106,NA
+"3","Dinner/supper",38283,94389,NA
+"5","Brunch",1669,96058,NA
+"6","Snack/beverage",30873,126931,NA
+"8","Infant feeding",3268,130199,NA
+"9","Extended consumption",2299,132498,NA
+"10","Desayano (Spanish)",1639,134137,NA
+"11","Almuerzo (Spanish)",1369,135506,NA
+"12","Comida (Spanish)",2834,138340,NA
+"13","Merienda (Spanish)",644,138984,NA
+"14","Cena (Spanish)",2233,141217,NA
+"15","Entre comida/bebida/tentempie (Spanish)",962,142179,NA
+"16","Botana (Spanish)",329,142508,NA
+"17","Bocadillo (Spanish)",402,142910,NA
+"91","Other",92,143002,NA
+"99","Don't know",2,143004,NA
+".","Missing",0,143004,NA

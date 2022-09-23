@@ -1,0 +1,13 @@
+"FFQ0010A.Code.or.Value","FFQ0010A.Value.Description","FFQ0010A.Count","FFQ0010A.Cumulative","FFQ0010A.Skip.to.Item"
+1,"never",817,817,NA
+2,"1 time per month or less",529,1346,NA
+3,"2-3 times per month",439,1785,NA
+4,"1-2 times per week",301,2086,NA
+5,"3-4 times per week",186,2272,NA
+6,"5-6 times per week",63,2335,NA
+7,"1 time per day",63,2398,NA
+8,"2-3 times per day",56,2454,NA
+9,"4-5 times per day",26,2480,NA
+10,"6 or more times per day",22,2502,NA
+88,"Blank",3500,6002,NA
+99,"Error",11,6013,NA
