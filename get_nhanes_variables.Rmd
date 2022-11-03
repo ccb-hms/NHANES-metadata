@@ -5,83 +5,98 @@ output: html_notebook
 
 Load the *nhanesA* library. Since changes in v0.7.1, we also need to load *stringr* and *rvest* libraries.
 ```{r}
+library(devtools)
+install_github("cjendres1/nhanes")
 library(nhanesA)
 library(stringr)
 library(rvest)
 ```
 
-Get all NHANES tables from all survey years (table names and descriptions).
+Get metadata about NHANES tables from all survey years and data groups.
 ```{r}
-nhanes_data_group <- 'DIET'
-survey_years <- c(1999, 2001, 2003, 2005, 2007, 2009, 2011, 2013, 2015, 2017)
-all_tables <- c()
-for (year in survey_years) {
-  tables_year <- nhanesTables(data_group=nhanes_data_group, year=year)
-  all_tables <- rbind(all_tables, tables_year)
+get_all_tables <- function() {
+  data_groups <- c("DEMOGRAPHICS", "DIETARY", "EXAMINATION", "LABORATORY", "QUESTIONNAIRE")
+  survey_years <- c(1999, 2001, 2003, 2005, 2007, 2009, 2011, 2013, 2015, 2017)
+  all_tables <- c()
+  for (year in survey_years) {
+    for (data_group in data_groups) {
+      tables_year <- get_tables(data_group=data_group, year=year)
+      all_tables <- rbind(all_tables, tables_year)
+    }
+  }
+  return(all_tables)
 }
+
+get_tables <- function(data_group, year) {
+  tables <- nhanesTables(data_group=data_group, year=year)
+  tables$Data.Group <- c(data_group)
+  tables$Data.Year <- c(year)
+  return(tables)
+}
+```
+
+Get the metadata about all the NHANES tables. Print it out. Write to a CSV file.
+```{r}
+output_folder <- "metadata/"
+all_tables <- get_all_tables()
 print(all_tables)
+write.csv(all_tables, paste(output_folder, "nhanes_tables.csv", sep = ''), row.names=FALSE)
 ```
 
-Write out a table with all NHANES table names and descriptions.
+Get metadata about all variables in the given collection of NHANES tables.
 ```{r}
-write.csv(all_tables, "nhanes_tables.csv", row.names=FALSE)
-```
-
-Error when trying to obtain the '2019' and '2021' data frames.
-```{r}
-tables_2019 <- nhanesTables(data_group=nhanes_data_group, year=2019)
-print(tables_2019)
-```
-
-Define function to get all variables in all NHANES tables.
-```{r}
-get_all_variables <- function(nhanes_data_group, tables) {
-  response_details_folder = "response_details/"
-  dir.create(file.path(".", response_details_folder))
+get_all_variables <- function(tables) {
+  details_folder = paste(output_folder, "response_details/", sep="")
+  dir.create(file.path(".", details_folder), showWarnings=FALSE)
   all_variables <- data.frame(matrix(ncol = 5, nrow = 0))
   colnames(all_variables) <-c("Variable Name", "SAS Label", "English Text", "Target", "Table")
   for (nhanes_table in 1:nrow(tables)) {
     table_name <- tables[nhanes_table, 'Data.File.Name']
-    
-    # Get all variables in this table
-    table_variables <- nhanesTableVars(data_group=nhanes_data_group, 
-                                       nh_table=table_name, details=TRUE, 
-                                       nchar=1024, namesonly=FALSE)
+    data_group <- tables[nhanes_table, "Data.Group"]
+    table_variables <- get_variables_in_table(table_name = table_name, 
+                                              nhanes_data_group = data_group, 
+                                              response_details_folder = details_folder)
+    all_variables <- rbind(all_variables, table_variables)
+  }
+  return(all_variables)
+}
+```
 
-    # For each variable in this table get its details
-    if(length(table_variables) > 0) {
-      for (variable in 1:nrow(table_variables)) {
-        variable_name <- table_variables[variable, 'Variable.Name']
-        tryCatch({
-          variable_details <- nhanesCodebook(nh_table = table_name, variable_name)
-          name <- variable_details['Variable Name']
-          label <- variable_details['SAS Label']
-          text <- variable_details['English Text']
-          target <- gsub("[\r\n]", " ", variable_details['Target'])
-          variable_details_vector <- c(name, label, text, target, table_name)
-          all_variables[nrow(all_variables) + 1, ] <- variable_details_vector
-          response_options <- variable_details[length(variable_details)]
-          out_file <- paste(response_details_folder, name, ".csv", sep = "")
-          write.csv(response_options, file = out_file, row.names = FALSE)
-        }, error=function(e) {
-            cat("ERROR: ", conditionMessage(e), "\n")
-            cat("Variable: ", variable_name, ". Table: ", table_name, "\n")
-        })
-      }
+Get metadata about the variables in the given NHANES table (specified by the table name) and data group.
+```{r}
+get_variables_in_table <- function(table_name, nhanes_data_group, response_details_folder) {
+  all_variables <- data.frame(matrix(ncol = 5, nrow = 0))
+  colnames(all_variables) <-c("Variable Name", "SAS Label", "English Text", "Target", "Table")
+  table_variables <- nhanesTableVars(data_group=nhanes_data_group, 
+                                     nh_table=table_name, details=TRUE, 
+                                     nchar=1024, namesonly=FALSE)
+  # For each variable in this table get its details
+  if(length(table_variables) > 0) {
+    for (variable in 1:nrow(table_variables)) {
+      variable_name <- table_variables[variable, 'Variable.Name']
+      tryCatch({
+        variable_details <- nhanesCodebook(nh_table = table_name, variable_name)
+        name <- variable_details['Variable Name']
+        label <- variable_details['SAS Label']
+        text <- variable_details['English Text']
+        target <- gsub("[\r\n]", " ", variable_details['Target'])
+        variable_details_vector <- c(name, label, text, target, table_name)
+        all_variables[nrow(all_variables) + 1, ] <- variable_details_vector
+        response_options <- variable_details[length(variable_details)]
+        out_file <- paste(response_details_folder, name, ".csv", sep = "")
+        write.csv(response_options, file = out_file, row.names = FALSE)
+      }, error=function(e) {
+        cat("ERROR: ", conditionMessage(e), "\n")
+        cat("Variable: ", variable_name, ". Table: ", table_name, "\n")
+      })
     }
   }
   return(all_variables)
 }
 ```
 
-Get all the variables in all the tables.
+Get metadata about all variables in all the NHANES tables. Write to a variable metadata table.
 ```{r}
-variables_all_tables <- get_all_variables(nhanes_data_group=nhanes_data_group, tables=all_tables)
-```
-
-Save only unique rows in the variables data frame.
-```{r}
-unique_variables <- unique.data.frame(variables_all_tables)
-print(unique_variables)
-write.csv(unique_variables, "nhanes_unique_variables.csv", row.names=FALSE)
+all_variables <- get_all_variables(all_tables)
+write.csv(all_variables, paste(output_folder, "nhanes_variables.csv", sep = ''), row.names=FALSE)
 ```
