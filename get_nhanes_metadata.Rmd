@@ -1,6 +1,8 @@
 ---
-title: "NHANES Variables Metadata"
-output: html_notebook
+title: "NHANES Metadata"
+output:
+  html_document:
+    df_print: paged
 ---
 
 Load the *nhanesA* library. Since changes in v0.7.1, we also need to load *stringr* and *rvest* libraries.
