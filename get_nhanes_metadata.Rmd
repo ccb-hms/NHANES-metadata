@@ -81,10 +81,10 @@ get_variables_in_table <- function(table_name, nhanes_data_group, response_detai
       variable_name <- table_variables[variable, 'Variable.Name']
       tryCatch({
         variable_details <- nhanesCodebook(nh_table = table_name, variable_name)
-        name <- clean(variable_details['Variable Name'])
-        label <- clean(variable_details['SAS Label'])
-        text <- clean(variable_details['English Text'])
-        target <- clean(variable_details['Target'])
+        name <- clean(variable_details['Variable Name:'])
+        label <- clean(variable_details['SAS Label:'])
+        text <- clean(variable_details['English Text:'])
+        target <- clean(variable_details['Target:'])
         variable_details_vector <- c(name, label, text, target, table_name)
         all_variables[nrow(all_variables) + 1, ] <- variable_details_vector
         response_options <- variable_details[length(variable_details)]
