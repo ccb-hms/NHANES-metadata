@@ -1,0 +1,5 @@
+"CFDAPP.Code.or.Value","CFDAPP.Value.Description","CFDAPP.Count","CFDAPP.Cumulative","CFDAPP.Skip.to.Item"
+"1","Passed",1661,1661,"CFDAST"
+"2","Failed",11,1672,"CFDDPP"
+"3","Not done",14,1686,""
+".","Missing",99,1785,""

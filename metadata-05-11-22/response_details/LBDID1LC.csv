@@ -1,0 +1,5 @@
+"LBDID1LC.Code.or.Value","LBDID1LC.Value.Description","LBDID1LC.Count","LBDID1LC.Cumulative","LBDID1LC.Skip.to.Item"
+"0","At or above the detection limit",1673,1673,NA
+"1","Below lower detection limit",6661,8334,NA
+"2","Above upper detection limit",2,8336,NA
+".","Missing",1104,9440,NA

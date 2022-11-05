@@ -1,0 +1,10 @@
+"CBQ915.Code.or.Value","CBQ915.Value.Description","CBQ915.Count","CBQ915.Cumulative","CBQ915.Skip.to.Item"
+"1","Only percent daily value",293,293,NA
+"2","Percent daily value more often",420,713,NA
+"3","Both percent daily value and amount of nutrients about the same",1032,1745,NA
+"4","Amount of nutrients more often",912,2657,NA
+"5","Only amount of nutrients",525,3182,NA
+"6","Do not use either",110,3292,NA
+"7","Refused",0,3292,NA
+"9","Don't know",33,3325,NA
+".","Missing",1939,5264,NA

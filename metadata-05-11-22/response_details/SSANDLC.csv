@@ -1,0 +1,4 @@
+"SSANDLC.Code.or.Value","SSANDLC.Value.Description","SSANDLC.Count","SSANDLC.Cumulative","SSANDLC.Skip.to.Item"
+"0","At or above the detection limit",905,905,NA
+"1","Below lower detection limit",1513,2418,NA
+".","Missing",20,2438,NA

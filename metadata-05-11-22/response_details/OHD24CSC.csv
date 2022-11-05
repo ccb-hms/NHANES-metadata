@@ -1,0 +1,11 @@
+"OHD24CSC.Code.or.Value","OHD24CSC.Value.Description","OHD24CSC.Count","OHD24CSC.Cumulative","OHD24CSC.Skip.to.Item"
+"Multiple surface conditions found","Value was recorded",47,47,NA
+"0","Lingual surface caries",1,48,NA
+"2","Facial surface caries",3,51,NA
+"3","Mesial caries",5,56,NA
+"4","Distal caries",7,63,NA
+"5","Lingual surface restoration",4,67,NA
+"7","Facial surface restoration",7,74,NA
+"8","Mesial restoration",10,84,NA
+"9","Distal restoration",8,92,NA
+"< blank >","Missing",9506,9598,NA

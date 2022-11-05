@@ -1,0 +1,4 @@
+"LBD101LC.Code.or.Value","LBD101LC.Value.Description","LBD101LC.Count","LBD101LC.Cumulative","LBD101LC.Skip.to.Item"
+"0","At or above the detection limit",64,64,NA
+"1","Below lower detection limit",200,264,NA
+".","Missing",0,264,NA

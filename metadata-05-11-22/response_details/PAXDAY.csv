@@ -1,0 +1,9 @@
+"PAXDAY.Code.or.Value","PAXDAY.Value.Description","PAXDAY.Count","PAXDAY.Cumulative","PAXDAY.Skip.to.Item"
+"1","Sunday",10688322,10688322,NA
+"2","Monday",10705886,21394208,NA
+"3","Tuesday",10715049,32109257,NA
+"4","Wednesday",10709780,42819037,NA
+"5","Thursday",10700083,53519120,NA
+"6","Friday",10691594,64210714,NA
+"7","Saturday",10663381,74874095,NA
+".","Missing",0,74874095,NA

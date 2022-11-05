@@ -1,0 +1,4 @@
+"SSBDCPPL.Code.or.Value","SSBDCPPL.Value.Description","SSBDCPPL.Count","SSBDCPPL.Cumulative","SSBDCPPL.Skip.to.Item"
+"0","At or above the detection limit",2352,2352,NA
+"1","Below lower detection limit",78,2430,NA
+".","Missing",0,2430,NA

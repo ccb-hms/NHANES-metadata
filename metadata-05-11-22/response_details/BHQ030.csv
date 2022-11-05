@@ -1,0 +1,10 @@
+"BHQ030.Code.or.Value","BHQ030.Value.Description","BHQ030.Count","BHQ030.Cumulative","BHQ030.Skip.to.Item"
+"1","2 or more times a day",14,14,NA
+"2","Once a day",10,24,NA
+"3","2 or more times a week",32,56,NA
+"4","Once a week",26,82,NA
+"5","1-3 times a month",272,354,NA
+"6","Never",4907,5261,NA
+"77","Refused",0,5261,NA
+"99","Don't know",16,5277,NA
+".","Missing",782,6059,NA

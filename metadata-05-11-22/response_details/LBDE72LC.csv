@@ -1,0 +1,5 @@
+"LBDE72LC.Code.or.Value","LBDE72LC.Value.Description","LBDE72LC.Count","LBDE72LC.Cumulative","LBDE72LC.Skip.to.Item"
+"0","At or above the detection limit",119,119,NA
+"1","Below lower detection limit",7237,7356,NA
+"2","Above upper detection limit",0,7356,NA
+".","Missing",2084,9440,NA

@@ -1,0 +1,4 @@
+"SSCLPFL.Code.or.Value","SSCLPFL.Value.Description","SSCLPFL.Count","SSCLPFL.Cumulative","SSCLPFL.Skip.to.Item"
+"0","At or above the detection limit",199,199,NA
+"1","Below lower detection limit",1473,1672,NA
+".","Missing",0,1672,NA

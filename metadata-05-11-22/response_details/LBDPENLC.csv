@@ -1,0 +1,4 @@
+"LBDPENLC.Code.or.Value","LBDPENLC.Value.Description","LBDPENLC.Count","LBDPENLC.Cumulative","LBDPENLC.Skip.to.Item"
+"0","At or above the detection limit",4401,4401,NA
+"1","Below lower detection limit",0,4401,NA
+".","Missing",1242,5643,NA

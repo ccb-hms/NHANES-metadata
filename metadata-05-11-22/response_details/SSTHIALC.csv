@@ -1,0 +1,4 @@
+"SSTHIALC.Code.or.Value","SSTHIALC.Value.Description","SSTHIALC.Count","SSTHIALC.Cumulative","SSTHIALC.Skip.to.Item"
+"0","At or above the detection limit",3,3,NA
+"1","Below lower detection limit",2405,2408,NA
+".","Missing",30,2438,NA

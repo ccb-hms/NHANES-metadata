@@ -1,0 +1,8 @@
+"AUQ470.Code.or.Value","AUQ470.Value.Description","AUQ470.Count","AUQ470.Cumulative","AUQ470.Skip.to.Item"
+"1","Less than 1 year",12,12,"End of Section"
+"2","1 to 2 years",5,17,"End of Section"
+"3","3 to 4 years",4,21,"End of Section"
+"4","5 or more years",9,30,"End of Section"
+"7","Refused",0,30,"End of Section"
+"9","Don't know",1,31,"End of Section"
+".","Missing",8866,8897,""

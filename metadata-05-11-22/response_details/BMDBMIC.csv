@@ -1,0 +1,6 @@
+"BMDBMIC.Code.or.Value","BMDBMIC.Value.Description","BMDBMIC.Count","BMDBMIC.Cumulative","BMDBMIC.Skip.to.Item"
+"1","Underweight",86,86,NA
+"2","Normal weight",2041,2127,NA
+"3","Overweight",561,2688,NA
+"4","Obese",652,3340,NA
+".","Missing",6204,9544,NA

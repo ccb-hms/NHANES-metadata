@@ -1,0 +1,8 @@
+"CIQD095.Code.or.Value","CIQD095.Value.Description","CIQD095.Count","CIQD095.Cumulative","CIQD095.Skip.to.Item"
+"1","A lot",33,33,""
+"2","Some",45,78,""
+"3","A little",27,105,""
+"4","Not at all",8,113,"CIQD109"
+"7","Refused",0,113,""
+"9","Don't know",1,114,""
+".","Missing",736,850,""

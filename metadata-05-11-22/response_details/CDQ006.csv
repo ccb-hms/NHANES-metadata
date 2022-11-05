@@ -1,0 +1,6 @@
+"CDQ006.Code.or.Value","CDQ006.Value.Description","CDQ006.Count","CDQ006.Cumulative","CDQ006.Skip.to.Item"
+"1","10 minutes or less",218,218,""
+"2","More than 10 minutes",47,265,"CDQ008"
+"7","Refused",0,265,"CDQ008"
+"9","Don't know",2,267,"CDQ008"
+".","Missing",3615,3882,""

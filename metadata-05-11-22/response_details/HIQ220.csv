@@ -1,0 +1,9 @@
+"HIQ220.Code.or.Value","HIQ220.Value.Description","HIQ220.Count","HIQ220.Cumulative","HIQ220.Skip.to.Item"
+"1","6 months or less",319,319,NA
+"2","More than 6 months, but not more than 1 year ago",178,497,NA
+"3","More than 1 year, but not more than 3 years ago",289,786,NA
+"4","More than 3 years",386,1172,NA
+"5","Never",497,1669,NA
+"7","Refused",2,1671,NA
+"9","Don't know",43,1714,NA
+".","Missing",8408,10122,NA

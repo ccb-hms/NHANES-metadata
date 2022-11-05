@@ -1,0 +1,8 @@
+"HCASCCT1.Code.or.Value","HCASCCT1.Value.Description","HCASCCT1.Count","HCASCCT1.Cumulative","HCASCCT1.Skip.to.Item"
+"1","Unable to contact SP",54,54,"End of Section"
+"2","Refusal",8,62,"End of Section"
+"3","Communication problem or cognitive impairment",0,62,"End of Section"
+"4","SP expired",0,62,"End of Section"
+"5","Did not receive letter",0,62,"End of Section"
+"6","Other",0,62,"End of Section"
+".","Missing",31,93,""

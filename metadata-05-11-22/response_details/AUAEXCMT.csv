@@ -1,0 +1,15 @@
+"AUAEXCMT.Code.or.Value","AUAEXCMT.Value.Description","AUAEXCMT.Count","AUAEXCMT.Cumulative","AUAEXCMT.Skip.to.Item"
+"2","SP refusal",45,45,NA
+"3","No time",22,67,NA
+"4","Physical limitation",161,228,NA
+"5","Communication problem",5,233,NA
+"6","Equipment failure",23,256,NA
+"7","SP ill/emergency",5,261,NA
+"14","Interrupted",1,262,NA
+"51","SP unable to comply",319,581,NA
+"56","Came late/left early",129,710,NA
+"72","Error (technician/software/supply)",33,743,NA
+"99","Other, specify",24,767,NA
+"122","Language barrier",2,769,NA
+"150","SP with parent SP",2,771,NA
+".","Missing",2360,3131,NA

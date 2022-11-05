@@ -1,0 +1,6 @@
+"OPDDNVO.Code.or.Value","OPDDNVO.Value.Description","OPDDNVO.Count","OPDDNVO.Cumulative","OPDDNVO.Skip.to.Item"
+"0","None",3227,3227,NA
+"1","Questionable",3,3230,NA
+"2","< 10A",2,3232,NA
+"3",">= 10A",0,3232,NA
+".","Missing",631,3863,NA

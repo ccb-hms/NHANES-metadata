@@ -1,0 +1,17 @@
+"OPASCCT1.Code.or.Value","OPASCCT1.Value.Description","OPASCCT1.Count","OPASCCT1.Cumulative","OPASCCT1.Skip.to.Item"
+"1","Safety exclusion",6,6,NA
+"2","SP refusal",36,42,NA
+"3","No time",18,60,NA
+"4","Physical limitation",99,159,NA
+"5","Communication problem",43,202,NA
+"6","Equipment failure",10,212,NA
+"7","SP ill/emergency",9,221,NA
+"12","Eye specific limitation",62,283,NA
+"14","Interrupted",2,285,NA
+"40","Unable to follow protocol",15,300,NA
+"56","Came late/left early",315,615,NA
+"72","Error (technician/software/supply)",3,618,NA
+"84","SP with child",12,630,NA
+"86","SP Blind",7,637,NA
+"99","Other, specify",1,638,NA
+".","Missing",3225,3863,NA

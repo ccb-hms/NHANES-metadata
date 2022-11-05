@@ -1,0 +1,5 @@
+"OHX02BPM.Code.or.Value","OHX02BPM.Value.Description","OHX02BPM.Count","OHX02BPM.Cumulative","OHX02BPM.Skip.to.Item"
+"1","Bleeding is detected following the probing",184,184,NA
+"2","No evidence of bleeding following the probing",1827,2011,NA
+"9","Cannot be assessed",502,2513,NA
+".","Missing",4205,6718,NA

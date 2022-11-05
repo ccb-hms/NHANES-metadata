@@ -1,0 +1,8 @@
+"OCD470G.Code.or.Value","OCD470G.Value.Description","OCD470G.Count","OCD470G.Cumulative","OCD470G.Skip.to.Item"
+"1","Enter occupation",40,40,""
+"2","Same as current occupation",61,101,"End of Section"
+"3","Same as longest occupation",45,146,"OCD480"
+"4","Not working at that time",416,562,"End of Section"
+"7","Refused",0,562,"End of Section"
+"9","Don't know",0,562,"End of Section"
+".","Missing",5651,6213,""

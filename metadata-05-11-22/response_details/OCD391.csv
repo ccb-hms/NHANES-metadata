@@ -1,0 +1,24 @@
+"OCD391.Code.or.Value","OCD391.Value.Description","OCD391.Count","OCD391.Cumulative","OCD391.Skip.to.Item"
+"1","Agriculture, Forestry, Fishing",77,77,NA
+"2","Mining",27,104,NA
+"3","Utilities",24,128,NA
+"4","Construction",274,402,NA
+"5","Manufacturing: Durable Goods",279,681,NA
+"6","Manufacturing: Non-Durable Goods",208,889,NA
+"7","Wholesale Trade",86,975,NA
+"8","Retail Trade",361,1336,NA
+"9","Transportation, Warehousing",133,1469,NA
+"10","Information",92,1561,NA
+"11","Finance, Insurance",148,1709,NA
+"12","Real Estate, Rental, Leasing",32,1741,NA
+"13","Professional, Technical Services",124,1865,NA
+"14","Management,Business,Cleaning/Waste Services",95,1960,NA
+"15","Education Services",240,2200,NA
+"16","Health Care, Social Assistance",448,2648,NA
+"17","Arts, Entertainment, Recreation",77,2725,NA
+"18","Accommodation, Food Services",363,3088,NA
+"19","Other Services",137,3225,NA
+"20","Private Households",25,3250,NA
+"21","Public Administration",146,3396,NA
+"22","Armed Forces",38,3434,NA
+".","Missing",3030,6464,NA

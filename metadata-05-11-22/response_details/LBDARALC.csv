@@ -1,0 +1,4 @@
+"LBDARALC.Code.or.Value","LBDARALC.Value.Description","LBDARALC.Count","LBDARALC.Cumulative","LBDARALC.Skip.to.Item"
+"0","At or above the detection limit",4418,4418,NA
+"1","Below lower detection limit",0,4418,NA
+".","Missing",1225,5643,NA

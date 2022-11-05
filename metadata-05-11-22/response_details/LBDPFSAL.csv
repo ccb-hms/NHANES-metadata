@@ -1,0 +1,4 @@
+"LBDPFSAL.Code.or.Value","LBDPFSAL.Value.Description","LBDPFSAL.Count","LBDPFSAL.Cumulative","LBDPFSAL.Skip.to.Item"
+"0","At or above the detection limit",15,15,NA
+"1","Below lower detection limit",1889,1904,NA
+".","Missing",273,2177,NA

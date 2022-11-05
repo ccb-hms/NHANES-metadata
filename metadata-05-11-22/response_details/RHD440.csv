@@ -1,0 +1,6 @@
+"RHD440.Code.or.Value","RHD440.Value.Description","RHD440.Count","RHD440.Cumulative","RHD440.Skip.to.Item"
+"1","Yes",239,239,"RHQ460Q"
+"2","No",672,911,""
+"7","Refused",0,911,"RHQ510"
+"9","Don't know",0,911,"RHQ510"
+".","Missing",2954,3865,""

@@ -1,0 +1,9 @@
+"DEAIARSN.Code.or.Value","DEAIARSN.Value.Description","DEAIARSN.Count","DEAIARSN.Cumulative","DEAIARSN.Skip.to.Item"
+"1","Safety exclusion",0,0,NA
+"2","SP refusal",1,1,NA
+"3","No time",0,1,NA
+"4","Physical limitation",4,5,NA
+"5","Communication problem",0,5,NA
+"6","Equipment failure",0,5,NA
+"7","SP ill/emergency",0,5,NA
+".","Missing",2987,2992,NA

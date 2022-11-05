@@ -1,0 +1,4 @@
+"SSPTL.Code.or.Value","SSPTL.Value.Description","SSPTL.Count","SSPTL.Cumulative","SSPTL.Skip.to.Item"
+"0","At or above LLOQ",5901,5901,NA
+"1","Below LLOQ",1,5902,NA
+".","Missing",9,5911,NA

@@ -1,0 +1,15 @@
+"ALQ290.Code.or.Value","ALQ290.Value.Description","ALQ290.Count","ALQ290.Cumulative","ALQ290.Skip.to.Item"
+"0","Never in the last year",269,269,NA
+"1","Every day",2,271,NA
+"2","Nearly every day",6,277,NA
+"3","3 to 4 times a week",8,285,NA
+"4","2 times a week",14,299,NA
+"5","Once a week",29,328,NA
+"6","2 to 3 times a month",27,355,NA
+"7","Once a month",25,380,NA
+"8","7 to 11 times in the last year",19,399,NA
+"9","3 to 6 times in the last year",29,428,NA
+"10","1 to 2 times in the last year",89,517,NA
+"77","Refused",1,518,NA
+"99","Don't know",4,522,NA
+".","Missing",5011,5533,NA

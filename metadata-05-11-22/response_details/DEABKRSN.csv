@@ -1,0 +1,9 @@
+"DEABKRSN.Code.or.Value","DEABKRSN.Value.Description","DEABKRSN.Count","DEABKRSN.Cumulative","DEABKRSN.Skip.to.Item"
+"1","Safety exclusion",0,0,NA
+"2","SP refusal",3,3,NA
+"3","No time",0,3,NA
+"4","Physical limitation",2,5,NA
+"5","Communication problem",0,5,NA
+"6","Equipment failure",1,6,NA
+"7","SP ill/emergency",0,6,NA
+".","Missing",2986,2992,NA

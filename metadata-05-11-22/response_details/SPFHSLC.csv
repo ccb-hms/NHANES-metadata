@@ -1,0 +1,4 @@
+"SPFHSLC.Code.or.Value","SPFHSLC.Value.Description","SPFHSLC.Count","SPFHSLC.Cumulative","SPFHSLC.Skip.to.Item"
+"0","At or above the detection limit",1452,1452,NA
+"1","Below lower detection limit",4,1456,NA
+".","Missing",0,1456,NA

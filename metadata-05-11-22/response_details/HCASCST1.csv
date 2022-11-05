@@ -1,0 +1,5 @@
+"HCASCST1.Code.or.Value","HCASCST1.Value.Description","HCASCST1.Count","HCASCST1.Cumulative","HCASCST1.Skip.to.Item"
+"1","Complete",31,31,"HCQ020"
+"2","Partial",0,31,"HCQ020"
+"3","Not Done",62,93,""
+".","Missing",0,93,""

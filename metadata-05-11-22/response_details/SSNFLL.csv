@@ -1,0 +1,4 @@
+"SSNFLL.Code.or.Value","SSNFLL.Value.Description","SSNFLL.Count","SSNFLL.Cumulative","SSNFLL.Skip.to.Item"
+"0","At or above the detection limit",2035,2035,NA
+"1","Below lower detection limit",36,2071,NA
+".","Missing",14,2085,NA

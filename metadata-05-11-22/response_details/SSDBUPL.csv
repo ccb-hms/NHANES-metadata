@@ -1,0 +1,4 @@
+"SSDBUPL.Code.or.Value","SSDBUPL.Value.Description","SSDBUPL.Count","SSDBUPL.Cumulative","SSDBUPL.Skip.to.Item"
+"0","At or above the detection limit",1160,1160,NA
+"1","Below lower detection limit",1270,2430,NA
+".","Missing",0,2430,NA

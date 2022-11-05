@@ -1,0 +1,12 @@
+"AUQ360.Code.or.Value","AUQ360.Value.Description","AUQ360.Count","AUQ360.Cumulative","AUQ360.Skip.to.Item"
+"1","Less than 3 months",18,18,NA
+"2","3 to 11 months",21,39,NA
+"3","1 to 2 years",31,70,NA
+"4","3 to 4 years",30,100,NA
+"5","5 to 9 years",43,143,NA
+"6","10 to 14 years",20,163,NA
+"7","15 or more years",132,295,NA
+"8","Not exposed",0,295,NA
+"77","Refused",0,295,NA
+"99","Don't know",2,297,NA
+".","Missing",8600,8897,NA

@@ -1,0 +1,4 @@
+"SSDOCPL.Code.or.Value","SSDOCPL.Value.Description","SSDOCPL.Count","SSDOCPL.Cumulative","SSDOCPL.Skip.to.Item"
+"0","At or above the detection limit",1,1,NA
+"1","Below lower detection limit",2315,2316,NA
+".","Missing",1,2317,NA

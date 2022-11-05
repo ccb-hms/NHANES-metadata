@@ -1,0 +1,4 @@
+"LBDEPALC.Code.or.Value","LBDEPALC.Value.Description","LBDEPALC.Count","LBDEPALC.Cumulative","LBDEPALC.Skip.to.Item"
+"0","At or above the detection limit",4420,4420,NA
+"1","Below lower detection limit",1,4421,NA
+".","Missing",1222,5643,NA

@@ -1,0 +1,4 @@
+"SPFSALC.Code.or.Value","SPFSALC.Value.Description","SPFSALC.Count","SPFSALC.Cumulative","SPFSALC.Skip.to.Item"
+"0","At or above the detection limit",1423,1423,NA
+"1","Below lower detection limit",33,1456,NA
+".","Missing",0,1456,NA

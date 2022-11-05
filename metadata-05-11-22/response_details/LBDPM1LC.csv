@@ -1,0 +1,4 @@
+"LBDPM1LC.Code.or.Value","LBDPM1LC.Value.Description","LBDPM1LC.Count","LBDPM1LC.Cumulative","LBDPM1LC.Skip.to.Item"
+"0","At or above the detection limit",4415,4415,NA
+"1","Below lower detection limit",0,4415,NA
+".","Missing",1228,5643,NA

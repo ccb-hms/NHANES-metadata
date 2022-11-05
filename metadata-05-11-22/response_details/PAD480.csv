@@ -1,0 +1,11 @@
+"PAD480.Code.or.Value","PAD480.Value.Description","PAD480.Count","PAD480.Cumulative","PAD480.Skip.to.Item"
+"0","Less than 1 hour,",734,734,NA
+"1","1 hour,",977,1711,NA
+"2","2 hours,",1640,3351,NA
+"3","3 hours,",1145,4496,NA
+"4","4 hours,",725,5221,NA
+"5","5 hours or more, or",1272,6493,NA
+"6","None",123,6616,NA
+"77","Refused",3,6619,NA
+"99","Don't know",5,6624,NA
+".","Missing",3470,10094,NA

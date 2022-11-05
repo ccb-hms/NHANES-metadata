@@ -1,0 +1,9 @@
+"DIQ220.Code.or.Value","DIQ220.Value.Description","DIQ220.Count","DIQ220.Cumulative","DIQ220.Skip.to.Item"
+"1","3 months ago or less",15,15,NA
+"2","More than 3 months ago but not more than 6 months ago",22,37,NA
+"3","More than 6 months ago but not more than 9 months ago",12,49,NA
+"4","More than 9 months ago but not more than 12 months ago, or",18,67,NA
+"5","More than 12 months ago",75,142,NA
+"7","Refused",0,142,NA
+"9","Don't know",0,142,NA
+".","Missing",9524,9666,NA

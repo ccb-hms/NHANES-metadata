@@ -1,0 +1,4 @@
+"LBDV1DLC.Code.or.Value","LBDV1DLC.Value.Description","LBDV1DLC.Count","LBDV1DLC.Cumulative","LBDV1DLC.Skip.to.Item"
+"0","At or above detection limit",1,1,NA
+"1","Below lower detection limit",2841,2842,NA
+".","Missing",330,3172,NA

@@ -1,0 +1,10 @@
+"OHX08DI.Code.or.Value","OHX08DI.Value.Description","OHX08DI.Count","OHX08DI.Cumulative","OHX08DI.Skip.to.Item"
+"0","Normal",3102,3102,NA
+"1","Very mild",515,3617,NA
+"2","Mild",110,3727,NA
+"3","Moderate",30,3757,NA
+"4","Severe",4,3761,NA
+"5","Questionable",753,4514,NA
+"8","Non-fluoride opacities",84,4598,NA
+"9","Cannot be assessed",677,5275,NA
+".","Missing",3572,8847,NA

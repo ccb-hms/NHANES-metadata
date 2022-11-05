@@ -1,0 +1,6 @@
+"OSQ040bc.Code.or.Value","OSQ040bc.Value.Description","OSQ040bc.Count","OSQ040bc.Cumulative","OSQ040bc.Skip.to.Item"
+"1","Under 50 years old, or",10,10,"OSQ025"
+"2","50 years old or older?",5,15,""
+"7","Refused",0,15,"OSQ025"
+"9","Don't know",0,15,"OSQ025"
+".","Missing",3054,3069,""

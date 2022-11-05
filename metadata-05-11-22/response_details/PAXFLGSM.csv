@@ -1,0 +1,28 @@
+"PAXFLGSM.Code.or.Value","PAXFLGSM.Value.Description","PAXFLGSM.Count","PAXFLGSM.Cumulative","PAXFLGSM.Skip.to.Item"
+"Quality flags triggered","Value was recorded",33625,33625,NA
+"A","Occurrence of spikes on x-axis",5256,38881,NA
+"B","Occurrence of spikes on y-axis",1535,40416,NA
+"C","Occurrence of spikes on z-axis",2799,43215,NA
+"D","Occurrence of maximum g_values on the x-axis",24,43239,NA
+"E","Occurrence of maximum g_values on the y-axis",3,43242,NA
+"F","Occurrence of maximum g_values on the z-axis",10,43252,NA
+"G","Occurrence of minimum g_values on the x-axis",1,43253,NA
+"H","Occurrence of minimum g_values on the y-axis",2,43255,NA
+"I","Occurrence of minimum g_values on the z-axis",831,44086,NA
+"J","Occurrence of contiguous maximum g_values on the x-axis",3,44089,NA
+"K","Occurrence of contiguous maximum g_values on the y-axis",2,44091,NA
+"L","Occurrence of contiguous maximum g_values on the z-axis",2,44093,NA
+"M","Occurrence of contiguous minimum g_values on the x-axis",13,44106,NA
+"N","Occurrence of contiguous minimum g_values on the y-axis",1,44107,NA
+"O","Occurrence of contiguous minimum g_values on the z-axis",7,44114,NA
+"P","Occurrence of contiguous impossible g_values for gravity (i.e., zero g for gravity)",150724,194838,NA
+"Q","Occurrence of contiguous adjacent zero values on the z-, y-, or z-axis",16884,211722,NA
+"R","Occurrence of contiguous adjacent identical non-zero values on the x-, y-, or z-axis",4338,216060,NA
+"S","Occurrence of spikes on the x-axis in 1-second intervals",187,216247,NA
+"T","Occurrence of spikes on the y-axis in 1-second intervals",74,216321,NA
+"U","Occurrence of spikes on the z-axis in 1-second intervals",14,216335,NA
+"V","Adjacent measures to periods of invalid data",57692,274027,NA
+"W","Interval jump in measurements on the x-axis (i.e., no measurement for the x-axis for this time period)",0,274027,NA
+"X","Interval jump in measurements on the y-axis (i.e., no measurement for the y-axis for this time period)",0,274027,NA
+"Y","Interval jump in measurements on the z-axis (i.e., no measurement for the z-axis for this time period)",0,274027,NA
+"< blank >","Missing",87949452,88223479,NA

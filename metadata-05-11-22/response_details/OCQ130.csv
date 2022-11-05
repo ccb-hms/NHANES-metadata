@@ -1,0 +1,11 @@
+"OCQ130.Code.or.Value","OCQ130.Value.Description","OCQ130.Count","OCQ130.Cumulative","OCQ130.Skip.to.Item"
+"1","5 or fewer hours,",65,65,NA
+"2","6 to 9 hours,",22,87,NA
+"3","10 to 14 hours,",22,109,NA
+"4","15 to 19 hours,",16,125,NA
+"5","20 to 24 hours, or",10,135,NA
+"6","25 or more hours?",5,140,NA
+"7","None",1105,1245,NA
+"77","Refused",0,1245,NA
+"99","Don't know",2,1247,NA
+".","Missing",6048,7295,NA

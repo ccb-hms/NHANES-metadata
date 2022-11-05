@@ -1,0 +1,11 @@
+"BAAEXCMT.Code.or.Value","BAAEXCMT.Value.Description","BAAEXCMT.Count","BAAEXCMT.Cumulative","BAAEXCMT.Skip.to.Item"
+"1","Safety exclusion",279,279,NA
+"2","SP refusal",145,424,NA
+"3","No time",6,430,NA
+"4","Physical limitation",66,496,NA
+"5","Communication problem",3,499,NA
+"7","SP ill/emergency",8,507,NA
+"72","Error (technician/software/supply)",1,508,NA
+"84","SP With Child",12,520,NA
+"99","Other, specify",137,657,NA
+".","Missing",2429,3086,NA

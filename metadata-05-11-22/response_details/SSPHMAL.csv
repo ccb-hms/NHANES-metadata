@@ -1,0 +1,4 @@
+"SSPHMAL.Code.or.Value","SSPHMAL.Value.Description","SSPHMAL.Count","SSPHMAL.Cumulative","SSPHMAL.Skip.to.Item"
+"0","At or above the detection limit",911,911,NA
+"1","Below lower detection limit",1315,2226,NA
+".","Missing",753,2979,NA

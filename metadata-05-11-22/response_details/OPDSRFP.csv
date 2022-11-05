@@ -1,0 +1,7 @@
+"OPDSRFP.Code.or.Value","OPDSRFP.Value.Description","OPDSRFP.Count","OPDSRFP.Cumulative","OPDSRFP.Skip.to.Item"
+"0","None",3187,3187,NA
+"1","Questionable",4,3191,NA
+"2","FPD only",1,3192,NA
+"3","FPE only",6,3198,NA
+"4","FPD + FPE",1,3199,NA
+".","Missing",664,3863,NA

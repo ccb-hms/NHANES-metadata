@@ -1,0 +1,10 @@
+"SPXBCMT.Code.or.Value","SPXBCMT.Value.Description","SPXBCMT.Count","SPXBCMT.Cumulative","SPXBCMT.Skip.to.Item"
+"2","SP refusal",115,115,NA
+"3","No time",4,119,NA
+"4","Physical limitation",1,120,NA
+"5","Communication problem",3,123,NA
+"7","SP ill/emergency",2,125,NA
+"27","Proxy no information",2,127,NA
+"51","SP unable to comply",7,134,NA
+"99","Other",70,204,NA
+".","Missing",7291,7495,NA

@@ -1,0 +1,6 @@
+"OPXDSIZE.Code.or.Value","OPXDSIZE.Value.Description","OPXDSIZE.Count","OPXDSIZE.Cumulative","OPXDSIZE.Skip.to.Item"
+"0","Small",64,64,NA
+"1","Average",324,388,NA
+"2","Large",24,412,NA
+"3","Ungradable",6,418,NA
+".","Missing",3445,3863,NA

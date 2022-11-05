@@ -1,0 +1,9 @@
+"VIQ030.Code.or.Value","VIQ030.Value.Description","VIQ030.Count","VIQ030.Cumulative","VIQ030.Skip.to.Item"
+"1","Excellent,",565,565,NA
+"2","Good,",1279,1844,NA
+"3","Fair,",492,2336,NA
+"4","Poor, or",123,2459,NA
+"5","Very poor?",65,2524,NA
+"7","Refused",2,2526,NA
+"9","Don't know",3,2529,NA
+".","Missing",34,2563,NA

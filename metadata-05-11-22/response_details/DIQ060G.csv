@@ -1,0 +1,6 @@
+"DIQ060G.Code.or.Value","DIQ060G.Value.Description","DIQ060G.Count","DIQ060G.Cumulative","DIQ060G.Skip.to.Item"
+"1","Enter number (of months or years)",135,135,NA
+"2","Less than 1 month",3,138,NA
+"7","Refused",0,138,NA
+"9","Don't know",0,138,NA
+".","Missing",9355,9493,NA

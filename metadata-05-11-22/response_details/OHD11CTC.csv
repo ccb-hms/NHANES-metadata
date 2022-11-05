@@ -1,0 +1,12 @@
+"OHD11CTC.Code.or.Value","OHD11CTC.Value.Description","OHD11CTC.Count","OHD11CTC.Cumulative","OHD11CTC.Skip.to.Item"
+"D","Sound primary tooth",1772,1772,NA
+"E","Missing due to dental disease",77,1849,NA
+"K","Primary tooth with surface condition (s)",46,1895,NA
+"M","Missing due to other causes",16,1911,NA
+"R","Missing due to dental disease but replaced",732,2643,NA
+"S","Sound permanent tooth",5554,8197,NA
+"U","Unerupted",64,8261,NA
+"X","Missing due to other causes but replaced",23,8284,NA
+"Y","Tooth present, condition cannot be assessed",109,8393,NA
+"Z","Permanent tooth with surface condition (s)",578,8971,NA
+"< blank >","Missing",627,9598,NA

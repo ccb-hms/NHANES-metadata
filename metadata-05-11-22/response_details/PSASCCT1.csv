@@ -1,0 +1,8 @@
+"PSASCCT1.Code.or.Value","PSASCCT1.Value.Description","PSASCCT1.Count","PSASCCT1.Cumulative","PSASCCT1.Skip.to.Item"
+"1","Unable to contact SP",23,23,"End of Section"
+"2","Refusal",5,28,"End of Section"
+"3","Communication problem or cognitive impairment",0,28,"End of Section"
+"4","SP expired",0,28,"End of Section"
+"5","Did not receive letter",0,28,"End of Section"
+"6","Other",0,28,"End of Section"
+".","Missing",24,52,""

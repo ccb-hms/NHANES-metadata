@@ -1,0 +1,5 @@
+"CVDEXSTS.Code.or.Value","CVDEXSTS.Value.Description","CVDEXSTS.Count","CVDEXSTS.Cumulative","CVDEXSTS.Skip.to.Item"
+"1","VO2max estimated",2809,2809,NA
+"2","Tested but VO2max estimate missing",415,3224,NA
+"3","Not done",1439,4663,NA
+".","Missing",0,4663,NA

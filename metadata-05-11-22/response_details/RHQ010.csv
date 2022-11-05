@@ -1,0 +1,7 @@
+"RHQ010.Code.or.Value","RHQ010.Value.Description","RHQ010.Count","RHQ010.Cumulative","RHQ010.Skip.to.Item"
+"6 to 19","Range of Values",2948,2948,""
+"0","Hasn't started yet",32,2980,"End of Section"
+"20","20 years or older",6,2986,""
+"777","Refused",4,2990,"RHQ020"
+"999","Don't know",35,3025,"RHQ020"
+".","Missing",261,3286,""

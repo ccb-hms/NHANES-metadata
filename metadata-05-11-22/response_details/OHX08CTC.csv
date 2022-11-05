@@ -1,0 +1,18 @@
+"OHX08CTC.Code.or.Value","OHX08CTC.Value.Description","OHX08CTC.Count","OHX08CTC.Cumulative","OHX08CTC.Skip.to.Item"
+"A","Primary tooth with a restored surface condition",31,31,NA
+"D","Sound primary tooth",929,960,NA
+"E","Missing due to dental disease",127,1087,NA
+"F","Permanent tooth with a restored surface condition",625,1712,NA
+"J","Permanent root tip is present but no restorative replacement is present",32,1744,NA
+"K","Primary tooth with a dental carious surface condition",34,1778,NA
+"M","Missing due to other causes",17,1795,NA
+"P","Missing due to dental disease but replaced by a removable restoration",661,2456,NA
+"Q","Missing due to other causes but replaced by a removable restoration",64,2520,NA
+"R","Missing due to dental disease but replaced by a fixed restoration",61,2581,NA
+"S","Sound permanent tooth",5061,7642,NA
+"T","Permanent root tip is present but a restorative replacement is present",0,7642,NA
+"U","Unerupted",62,7704,NA
+"X","Missing due to other causes but replaced by a fixed restoration",20,7724,NA
+"Y","Tooth present, condition cannot be assessed",206,7930,NA
+"Z","Permanent tooth with a dental carious surface condition",170,8100,NA
+"< blank >","Missing",266,8366,NA

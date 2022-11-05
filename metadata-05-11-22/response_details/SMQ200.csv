@@ -1,0 +1,7 @@
+"SMQ200.Code.or.Value","SMQ200.Value.Description","SMQ200.Count","SMQ200.Cumulative","SMQ200.Skip.to.Item"
+"1","Every day",47,47,""
+"2","Some days",14,61,"SMQ210"
+"3","Not at all",94,155,"SMQ210"
+"7","Refused",0,155,"SMQ210"
+"9","Don't know",0,155,"SMQ210"
+".","Missing",4886,5041,""

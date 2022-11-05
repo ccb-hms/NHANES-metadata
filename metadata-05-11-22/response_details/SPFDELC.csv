@@ -1,0 +1,4 @@
+"SPFDELC.Code.or.Value","SPFDELC.Value.Description","SPFDELC.Count","SPFDELC.Cumulative","SPFDELC.Skip.to.Item"
+"0","At or above the detection limit",438,438,NA
+"1","Below lower detection limit",1018,1456,NA
+".","Missing",0,1456,NA

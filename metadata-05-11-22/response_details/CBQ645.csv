@@ -1,0 +1,11 @@
+"CBQ645.Code.or.Value","CBQ645.Value.Description","CBQ645.Count","CBQ645.Cumulative","CBQ645.Skip.to.Item"
+"1","Less than 500 calories",279,279,NA
+"2","500-1000 calories",530,809,NA
+"3","1001-1500 calories",994,1803,NA
+"4","1501-2000 calories",1197,3000,NA
+"5","2001-2500 calories",600,3600,NA
+"6","2501-3000 calories",172,3772,NA
+"7","More than 3000 calories",81,3853,NA
+"77","Refused",0,3853,NA
+"99","Don't know",300,4153,NA
+".","Missing",1111,5264,NA

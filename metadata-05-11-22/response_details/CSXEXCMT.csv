@@ -1,0 +1,18 @@
+"CSXEXCMT.Code.or.Value","CSXEXCMT.Value.Description","CSXEXCMT.Count","CSXEXCMT.Cumulative","CSXEXCMT.Skip.to.Item"
+"1","Safety exclusion",3,3,NA
+"2","Refused",9,12,NA
+"3","No Time",8,20,NA
+"4","Physical Limitation",6,26,NA
+"5","Communication Problem",19,45,NA
+"6","Equipment problem",2,47,NA
+"7","SP ill/emergency",14,61,NA
+"12","Eye specific limitation",8,69,NA
+"34","SP pregnant",1,70,NA
+"38","Technical difficulty",1,71,NA
+"49","Urine not Collected",9,80,NA
+"51","SP unable to comply",4,84,NA
+"56","Came Late/Left Early",97,181,NA
+"84","SP with Child",2,183,NA
+"99","Other",14,197,NA
+"122","Language Barrier",11,208,NA
+".","Missing",3500,3708,NA

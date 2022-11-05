@@ -1,0 +1,10 @@
+"HOD030.Code.or.Value","HOD030.Value.Description","HOD030.Count","HOD030.Cumulative","HOD030.Skip.to.Item"
+"1","1 or 2",172,172,NA
+"3","3 or 4",324,496,NA
+"4","5 to 9",476,972,NA
+"5","10 to 19",439,1411,NA
+"6","20 to 49",174,1585,NA
+"7","50 or more",215,1800,NA
+"77","Refused",0,1800,NA
+"99","Don't know",51,1851,NA
+".","Missing",8497,10348,NA

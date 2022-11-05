@@ -1,0 +1,7 @@
+"SMD160.Code.or.Value","SMD160.Value.Description","SMD160.Count","SMD160.Cumulative","SMD160.Skip.to.Item"
+"6 to 75","Range of Values",272,272,""
+"0","Never smoked cigars regularly",420,692,"SMQ180"
+"85","85 years or older",0,692,""
+"777","Refused",0,692,"SMQ180"
+"999","Don't know",4,696,"SMQ180"
+".","Missing",4345,5041,""

@@ -1,0 +1,6 @@
+"MCQ320.Code.or.Value","MCQ320.Value.Description","MCQ320.Count","MCQ320.Cumulative","MCQ320.Skip.to.Item"
+"1 to 79","Range of Values",1005,1005,NA
+"80","80 years or older",17,1022,NA
+"777","Refused",0,1022,NA
+"999","Don't know",67,1089,NA
+".","Missing",8577,9666,NA

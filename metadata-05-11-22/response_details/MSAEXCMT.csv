@@ -1,0 +1,13 @@
+"MSAEXCMT.Code.or.Value","MSAEXCMT.Value.Description","MSAEXCMT.Count","MSAEXCMT.Cumulative","MSAEXCMT.Skip.to.Item"
+"1","Safety exclusion",234,234,NA
+"2","SP refusal",40,274,NA
+"3","No time",17,291,NA
+"4","Physical limitation",219,510,NA
+"5","Communication problem",8,518,NA
+"6","Equipment failure",23,541,NA
+"7","SP ill/emergency",14,555,NA
+"40","Unable to follow protocol",3,558,NA
+"56","Came late/left early",106,664,NA
+"72","Error (technician/software/supply)",2,666,NA
+"99","Other, specify",67,733,NA
+".","Missing",1560,2293,NA

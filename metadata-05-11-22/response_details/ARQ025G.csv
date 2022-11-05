@@ -1,0 +1,9 @@
+"ARQ025G.Code.or.Value","ARQ025G.Value.Description","ARQ025G.Count","ARQ025G.Cumulative","ARQ025G.Skip.to.Item"
+"1","suddenly, within an hour,",27,27,NA
+"2","in a single day,",20,47,NA
+"3","over 1 to 3 weeks,",8,55,NA
+"4","from a month up to a year, or",16,71,NA
+"5","over a year or more?",8,79,NA
+"7","Refused",0,79,NA
+"9","Don't know",0,79,NA
+".","Missing",5027,5106,NA

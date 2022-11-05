@@ -1,0 +1,5 @@
+"LBDF24LC.Code.or.Value","LBDF24LC.Value.Description","LBDF24LC.Count","LBDF24LC.Cumulative","LBDF24LC.Skip.to.Item"
+"0","At or above the detection limit",577,577,NA
+"1","Below lower detection limit",6800,7377,NA
+"2","Above upper detection limit",0,7377,NA
+".","Missing",2063,9440,NA

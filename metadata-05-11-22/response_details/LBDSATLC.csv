@@ -1,0 +1,4 @@
+"LBDSATLC.Code.or.Value","LBDSATLC.Value.Description","LBDSATLC.Count","LBDSATLC.Cumulative","LBDSATLC.Skip.to.Item"
+"0","At or above detection limit",5901,5901,NA
+"1","Below lower detection limit",1,5902,NA
+".","Missing",499,6401,NA

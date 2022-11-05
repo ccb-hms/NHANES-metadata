@@ -1,0 +1,12 @@
+"AUQ400.Code.or.Value","AUQ400.Value.Description","AUQ400.Count","AUQ400.Cumulative","AUQ400.Skip.to.Item"
+"1","Before age 1 year old",14,14,NA
+"2","Between 2 and 5 years old",24,38,NA
+"3","Between 6 and 19 years old",79,117,NA
+"4","Between 20 and 39 years old",46,163,NA
+"5","Between 40 and 59 years old",78,241,NA
+"6","Between 60 and 69 years old",129,370,NA
+"7","70 years and older",219,589,NA
+"8","No hearing loss",6,595,NA
+"77","Refused",0,595,NA
+"99","Don't know",11,606,NA
+".","Missing",8291,8897,NA

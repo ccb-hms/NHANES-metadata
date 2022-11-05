@@ -1,0 +1,6 @@
+"SPXBSTAT.Code.or.Value","SPXBSTAT.Value.Description","SPXBSTAT.Count","SPXBSTAT.Cumulative","SPXBSTAT.Skip.to.Item"
+"1","Complete Exam",456,456,NA
+"2","Partial Exam",1,457,NA
+"3","Not Done",218,675,NA
+"4","Safety Exclusion",167,842,NA
+".","Missing",6653,7495,NA

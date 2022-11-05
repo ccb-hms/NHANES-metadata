@@ -1,0 +1,10 @@
+"OHX30DI.Code.or.Value","OHX30DI.Value.Description","OHX30DI.Count","OHX30DI.Cumulative","OHX30DI.Skip.to.Item"
+"0","Normal",2007,2007,NA
+"1","Very mild",638,2645,NA
+"2","Mild",182,2827,NA
+"3","Moderate",50,2877,NA
+"4","Severe",3,2880,NA
+"5","Questionable",1068,3948,NA
+"8","Non-fluoride opacities",4,3952,NA
+"9","Cannot be assessed",1323,5275,NA
+".","Missing",3572,8847,NA

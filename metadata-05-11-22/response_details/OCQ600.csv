@@ -1,0 +1,10 @@
+"OCQ600.Code.or.Value","OCQ600.Value.Description","OCQ600.Count","OCQ600.Cumulative","OCQ600.Skip.to.Item"
+"1","Always",196,196,NA
+"2","Usually",60,256,NA
+"3","About half the time",74,330,NA
+"4","Seldom",208,538,NA
+"5","Never",2510,3048,NA
+"6","No noise exposure past 12 months",469,3517,NA
+"77","Refused",1,3518,NA
+"99","Don't know",1,3519,NA
+".","Missing",2808,6327,NA

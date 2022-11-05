@@ -1,0 +1,9 @@
+"CSQ140.Code.or.Value","CSQ140.Value.Description","CSQ140.Count","CSQ140.Cumulative","CSQ140.Skip.to.Item"
+"1","Less than 3 Months Ago",85,85,NA
+"2","3 to 12 Months (1 Yesr) Ago",126,211,NA
+"3","1 to 4 years ago",166,377,NA
+"4","5 to 9 years ago",95,472,NA
+"5","Ten or more years ago",126,598,NA
+"7","Refused",5,603,NA
+"9","Don't know",57,660,NA
+".","Missing",3155,3815,NA

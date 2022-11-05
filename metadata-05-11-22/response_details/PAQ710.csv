@@ -1,0 +1,11 @@
+"PAQ710.Code.or.Value","PAQ710.Value.Description","PAQ710.Count","PAQ710.Cumulative","PAQ710.Skip.to.Item"
+"0","Less than 1 hour,",345,345,NA
+"1","1 hour,",545,890,NA
+"2","2 hours,",787,1677,NA
+"3","3 hours,",406,2083,NA
+"4","4 hours, or",234,2317,NA
+"5","5 hours or more, or",362,2679,NA
+"8","{You don't/SP does not} watch TV or videos",71,2750,NA
+"77","Refused",0,2750,NA
+"99","Don't know",1,2751,NA
+".","Missing",27,2778,NA

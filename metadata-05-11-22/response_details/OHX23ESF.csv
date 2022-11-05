@@ -1,0 +1,8 @@
+"OHX23ESF.Code.or.Value","OHX23ESF.Value.Description","OHX23ESF.Count","OHX23ESF.Cumulative","OHX23ESF.Skip.to.Item"
+"0","Sound; Any wear restricted to enamel only",5350,5350,NA
+"1","Loss of enamel just exposing dentin",60,5410,NA
+"2","Loss of enamel and extensive loss of dentin (see notes for surface details for scoring)",12,5422,NA
+"3","Complete loss of enamel on a surface; pulp exposure or exposure of secondary dentin where pulp used",1,5423,NA
+"8","Loss due to trauma and not wear",3,5426,NA
+"9","Could not assess",341,5767,NA
+".","Missing",951,6718,NA

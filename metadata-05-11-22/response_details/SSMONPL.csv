@@ -1,0 +1,4 @@
+"SSMONPL.Code.or.Value","SSMONPL.Value.Description","SSMONPL.Count","SSMONPL.Cumulative","SSMONPL.Skip.to.Item"
+"0","At or above the detection limit",2229,2229,NA
+"1","Below lower detection limit",164,2393,NA
+".","Missing",0,2393,NA

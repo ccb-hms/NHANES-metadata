@@ -1,0 +1,4 @@
+"LBDD05LC.Code.or.Value","LBDD05LC.Value.Description","LBDD05LC.Count","LBDD05LC.Cumulative","LBDD05LC.Skip.to.Item"
+"0","At or above the detection limit",290,290,NA
+"1","Below lower detection limit",1,291,NA
+".","Missing",10,301,NA

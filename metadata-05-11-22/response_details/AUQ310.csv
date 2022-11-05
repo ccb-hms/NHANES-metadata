@@ -1,0 +1,9 @@
+"AUQ310.Code.or.Value","AUQ310.Value.Description","AUQ310.Count","AUQ310.Cumulative","AUQ310.Skip.to.Item"
+"1","1 to less than 100 rounds",289,289,NA
+"2","100 to less than 1000 rounds",154,443,NA
+"3","1000 to less than 10,000 rounds",131,574,NA
+"4","10,000 to less than 50,000 rounds",45,619,NA
+"5","50,000 rounds or more",15,634,NA
+"7","Refused",2,636,NA
+"9","Don't know",10,646,NA
+".","Missing",8251,8897,NA

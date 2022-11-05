@@ -1,0 +1,4 @@
+"LBDZCFLC.Code.or.Value","LBDZCFLC.Value.Description","LBDZCFLC.Count","LBDZCFLC.Cumulative","LBDZCFLC.Skip.to.Item"
+"0","Result at or above the limit of detection.",523,523,NA
+"1","Result below the limit of detection.",128,651,NA
+".","Missing",200,851,NA

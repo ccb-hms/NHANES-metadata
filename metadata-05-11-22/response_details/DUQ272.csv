@@ -1,0 +1,10 @@
+"DUQ272.Code.or.Value","DUQ272.Value.Description","DUQ272.Count","DUQ272.Cumulative","DUQ272.Skip.to.Item"
+"1","Once",42,42,NA
+"2","2-5 times",118,160,NA
+"3","6-19 times",85,245,NA
+"4","20-49 times",86,331,NA
+"5","50-99 times",58,389,NA
+"6","100 times or more",88,477,NA
+"77","Refused",0,477,NA
+"99","Don't know",1,478,NA
+".","Missing",4094,4572,NA

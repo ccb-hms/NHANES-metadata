@@ -1,0 +1,8 @@
+"OPDSHMA.Code.or.Value","OPDSHMA.Value.Description","OPDSHMA.Count","OPDSHMA.Cumulative","OPDSHMA.Skip.to.Item"
+"0","None",2772,2772,NA
+"1","Questionable",110,2882,NA
+"2","MAS only",131,3013,NA
+"3","HEM only",55,3068,NA
+"4","HEM+MAS < 2A",88,3156,NA
+"5","HEM+MAS >= 2A",2,3158,NA
+".","Missing",705,3863,NA

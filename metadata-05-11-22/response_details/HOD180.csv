@@ -1,0 +1,6 @@
+"HOD180.Code.or.Value","HOD180.Value.Description","HOD180.Count","HOD180.Cumulative","HOD180.Skip.to.Item"
+"1","One room",41,41,NA
+"2","Two or more rooms",21,62,NA
+"77","Refused",0,62,NA
+"99","Don't know",0,62,NA
+".","Missing",10060,10122,NA

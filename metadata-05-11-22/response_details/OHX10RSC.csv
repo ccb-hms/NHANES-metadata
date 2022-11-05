@@ -1,0 +1,14 @@
+"OHX10RSC.Code.or.Value","OHX10RSC.Value.Description","OHX10RSC.Count","OHX10RSC.Cumulative","OHX10RSC.Skip.to.Item"
+"Coronal Caries: 2nd restoration code #10","Value was recorded",1,1,NA
+"0","lingual AMALGAM restoration",0,1,NA
+"1","occlusal AMALGAM restoration",0,1,NA
+"2","facial AMALGAM restoration",0,1,NA
+"3","mesial AMALGAM restoration",0,1,NA
+"4","distal AMALGAM restoration",0,1,NA
+"5","lingual OTHER restoration",0,1,NA
+"6","occlusal OTHER restoration",0,1,NA
+"7","facial OTHER restoration",0,1,NA
+"8","mesial OTHER restoration",4,5,NA
+"9","distal OTHER restoration",3,8,NA
+"-1","Crown (non-specific full-coverage restoration)",0,8,NA
+"< blank >","Missing",8358,8366,NA

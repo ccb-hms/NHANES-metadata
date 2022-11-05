@@ -1,0 +1,4 @@
+"LBDBCOLC.Code.or.Value","LBDBCOLC.Value.Description","LBDBCOLC.Count","LBDBCOLC.Cumulative","LBDBCOLC.Skip.to.Item"
+"0","At or above the detection limit",3490,3490,NA
+"1","Below lower detection limit",30,3520,NA
+".","Missing",156,3676,NA

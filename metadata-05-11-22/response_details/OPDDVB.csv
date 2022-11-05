@@ -1,0 +1,5 @@
+"OPDDVB.Code.or.Value","OPDDVB.Value.Description","OPDDVB.Count","OPDDVB.Cumulative","OPDDVB.Skip.to.Item"
+"0","No",3210,3210,NA
+"1","Questionable",2,3212,NA
+"2","Yes",0,3212,NA
+".","Missing",651,3863,NA

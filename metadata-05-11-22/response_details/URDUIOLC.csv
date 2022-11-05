@@ -1,0 +1,4 @@
+"URDUIOLC.Code.or.Value","URDUIOLC.Value.Description","URDUIOLC.Count","URDUIOLC.Cumulative","URDUIOLC.Skip.to.Item"
+"0","At or above detection limit",2812,2812,NA
+"1","Below lower detection limit",0,2812,NA
+".","Missing",167,2979,NA

@@ -1,0 +1,5 @@
+"LBDIM6LC.Code.or.Value","LBDIM6LC.Value.Description","LBDIM6LC.Count","LBDIM6LC.Cumulative","LBDIM6LC.Skip.to.Item"
+"0","At or above the detection limit",779,779,NA
+"1","Below lower detection limit",7509,8288,NA
+"2","Above upper detection limit",0,8288,NA
+".","Missing",1152,9440,NA

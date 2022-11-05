@@ -1,0 +1,7 @@
+"MCD240c.Code.or.Value","MCD240c.Value.Description","MCD240c.Count","MCD240c.Cumulative","MCD240c.Skip.to.Item"
+"33 to 76","Range of Values",8,8,NA
+"16","16 years or younger",0,8,NA
+"80","80 years or older",1,9,NA
+"77777","Refused",0,9,NA
+"99999","Don't know",0,9,NA
+".","Missing",8888,8897,NA

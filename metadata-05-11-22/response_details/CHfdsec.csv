@@ -1,0 +1,6 @@
+"CHfdsec.Code.or.Value","CHfdsec.Value.Description","CHfdsec.Count","CHfdsec.Cumulative","CHfdsec.Skip.to.Item"
+"1","CH food quality & quantity unaffected: 0",5615,5615,NA
+"2","CH marginally food secure: 1",510,6125,NA
+"3","CH reduced food quality or quantity: 2-4",929,7054,NA
+"4","CH food insecure with hunger: 5-8",130,7184,NA
+".","Missing",3855,11039,NA

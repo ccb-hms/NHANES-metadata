@@ -1,0 +1,17 @@
+"OPDSREA.Code.or.Value","OPDSREA.Value.Description","OPDSREA.Count","OPDSREA.Cumulative","OPDSREA.Skip.to.Item"
+"0","None",3179,3179,NA
+"1","Trauma",0,3179,NA
+"2","Laser RX",18,3197,NA
+"3","Vessel occlusion",5,3202,NA
+"4","Macular dystrophy",4,3206,NA
+"5","Myopic degeneration",5,3211,NA
+"6","Histoplasmosis/toxoplasmosis",8,3219,NA
+"7","Inflammatory lesion",4,3223,NA
+"9","Retinopathy of prematurity",0,3223,NA
+"10","Non-ARM RPE abnormality",8,3231,NA
+"11","Non-ARM detachment",2,3233,NA
+"12","Unknown etiology",6,3239,NA
+"15","Other",11,3250,NA
+"16","Coloboma/staphyloma",0,3250,NA
+"99","No photos of eye",0,3250,NA
+".","Missing",613,3863,NA

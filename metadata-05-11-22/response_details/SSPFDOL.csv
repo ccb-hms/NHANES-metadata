@@ -1,0 +1,4 @@
+"SSPFDOL.Code.or.Value","SSPFDOL.Value.Description","SSPFDOL.Count","SSPFDOL.Cumulative","SSPFDOL.Skip.to.Item"
+"0","At or above the detection limit",0,0,NA
+"1","Below lower detection limit",525,525,NA
+".","Missing",0,525,NA

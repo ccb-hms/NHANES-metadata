@@ -1,0 +1,6 @@
+"CIQPPE.Code.or.Value","CIQPPE.Value.Description","CIQPPE.Count","CIQPPE.Cumulative","CIQPPE.Skip.to.Item"
+"1","Yes",0,0,""
+"2","No",10,10,"CIDPPRB"
+"7","Refused",0,10,"CIDPPRB"
+"9","Don't know",0,10,"CIDPPRB"
+".","Missing",840,850,""

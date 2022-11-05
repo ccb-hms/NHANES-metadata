@@ -1,0 +1,4 @@
+"SSPFDEL.Code.or.Value","SSPFDEL.Value.Description","SSPFDEL.Count","SSPFDEL.Cumulative","SSPFDEL.Skip.to.Item"
+"0","At or above the detection limit",0,0,NA
+"1","Below lower detection limit",2328,2328,NA
+".","Missing",0,2328,NA

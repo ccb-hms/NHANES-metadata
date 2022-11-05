@@ -1,0 +1,6 @@
+"DID060G.Code.or.Value","DID060G.Value.Description","DID060G.Count","DID060G.Cumulative","DID060G.Skip.to.Item"
+"1","Enter number (of months or years)",143,143,NA
+"2","Less than 1 month",0,143,NA
+"7","Refused",0,143,NA
+"9","Don't know",1,144,NA
+".","Missing",9501,9645,NA

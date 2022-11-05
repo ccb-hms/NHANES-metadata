@@ -1,0 +1,8 @@
+"OPX2OD02.Code.or.Value","OPX2OD02.Value.Description","OPX2OD02.Count","OPX2OD02.Cumulative","OPX2OD02.Skip.to.Item"
+"0","None",25,25,NA
+"6","p >= 5% 1st presentation",2781,2806,NA
+"7","p >= 5% 2nd presentation",266,3072,NA
+"8","p < 5%",82,3154,NA
+"9","p < 2%",48,3202,NA
+"10","p < 1%",80,3282,NA
+".","Missing",581,3863,NA

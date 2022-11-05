@@ -1,0 +1,4 @@
+"SPFHPLC.Code.or.Value","SPFHPLC.Value.Description","SPFHPLC.Count","SPFHPLC.Cumulative","SPFHPLC.Skip.to.Item"
+"0","At or above the detection limit",206,206,NA
+"1","Below lower detection limit",1250,1456,NA
+".","Missing",0,1456,NA

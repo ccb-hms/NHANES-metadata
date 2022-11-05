@@ -1,0 +1,7 @@
+"BPD035.Code.or.Value","BPD035.Value.Description","BPD035.Count","BPD035.Cumulative","BPD035.Skip.to.Item"
+"13 to 79","Range of Values",2036,2036,NA
+"12","12 years or younger",11,2047,NA
+"80","80 years or older",24,2071,NA
+"777","Refused",0,2071,NA
+"999","Don't know",66,2137,NA
+".","Missing",4024,6161,NA

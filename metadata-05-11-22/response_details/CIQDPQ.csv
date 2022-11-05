@@ -1,0 +1,7 @@
+"CIQDPQ.Code.or.Value","CIQDPQ.Value.Description","CIQDPQ.Count","CIQDPQ.Cumulative","CIQDPQ.Skip.to.Item"
+"1","Nothing abnormal",4,4,"CIDDPRB"
+"2","No examination",1,5,"CIDDPRB"
+"5","Something abnormal",0,5,""
+"7","Refused",0,5,"CIDDPRB"
+"9","Don't know",2,7,"CIDDPRB"
+".","Missing",843,850,""

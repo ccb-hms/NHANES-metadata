@@ -1,0 +1,5 @@
+"OHX11BPD.Code.or.Value","OHX11BPD.Value.Description","OHX11BPD.Count","OHX11BPD.Cumulative","OHX11BPD.Skip.to.Item"
+"1","Bleeding is detected following the probing",196,196,NA
+"2","No evidence of bleeding following the probing",2109,2305,NA
+"9","Cannot be assessed",247,2552,NA
+".","Missing",4166,6718,NA

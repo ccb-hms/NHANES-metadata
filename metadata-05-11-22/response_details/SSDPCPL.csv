@@ -1,0 +1,4 @@
+"SSDPCPL.Code.or.Value","SSDPCPL.Value.Description","SSDPCPL.Count","SSDPCPL.Cumulative","SSDPCPL.Skip.to.Item"
+"0","At or above the detection limit",310,310,NA
+"1","Below lower detection limit",2006,2316,NA
+".","Missing",1,2317,NA

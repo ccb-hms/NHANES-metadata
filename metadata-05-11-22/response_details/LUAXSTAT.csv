@@ -1,0 +1,6 @@
+"LUAXSTAT.Code.or.Value","LUAXSTAT.Value.Description","LUAXSTAT.Count","LUAXSTAT.Cumulative","LUAXSTAT.Skip.to.Item"
+"1","Complete",5494,5494,"LUAPNME"
+"2","Partial",493,5987,""
+"3","Ineligible",258,6245,"LUARXIN"
+"4","Not done",156,6401,"LUARXND"
+".","Missing",0,6401,""
