@@ -38,8 +38,8 @@ get_tables <- function(data_group, year) {
 Get the metadata about all the NHANES tables. Print it out. Write to a CSV file.
 ```{r}
 output_folder <- "metadata/"
+dir.create(file.path(".", output_folder), showWarnings=FALSE, recursive=TRUE)
 all_tables <- get_all_tables()
-print(all_tables)
 write.csv(all_tables, paste(output_folder, "nhanes_tables.csv", sep = ''), row.names=FALSE)
 ```
 
