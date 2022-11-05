@@ -46,7 +46,7 @@ write.csv(all_tables, paste(output_folder, "nhanes_tables.csv", sep = ''), row.n
 Get metadata about all variables in the given collection of NHANES tables.
 ```{r}
 get_all_variables <- function(tables) {
-  details_folder = paste(output_folder, "response_details/", sep="")
+  details_folder = paste(output_folder, "response_metadata/", sep="")
   dir.create(file.path(".", details_folder), showWarnings=FALSE, recursive=TRUE)
   all_variables <- data.frame(matrix(ncol = 5, nrow = 0))
   colnames(all_variables) <-c("Variable Name", "SAS Label", "English Text", "Target", "Table")
