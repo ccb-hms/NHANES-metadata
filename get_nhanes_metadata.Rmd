@@ -5,13 +5,11 @@ output:
     df_print: paged
 ---
 
-Load the *nhanesA* library. Since changes in v0.7.1, we also need to load *stringr* and *rvest* libraries.
+Load the *nhanesA* library (v0.7.2 from GitHub).
 ```{r}
 library(devtools)
 install_github("cjendres1/nhanes")
 library(nhanesA)
-library(stringr)
-library(rvest)
 ```
 
 Get metadata about NHANES tables from all survey years and data groups.
