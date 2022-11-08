@@ -91,6 +91,9 @@ get_variables_in_table <- function(table_name, nhanes_data_group, response_detai
       }, error=function(e) {
         cat("ERROR: ", conditionMessage(e), "\n")
         cat("Variable: ", variable_name, ". Table: ", table_name, "\n")
+      }, warning=function(w) {
+        cat("WARNING: ", conditionMessage(w), "\n")
+        cat("Variable: ", variable_name, ". Table: ", table_name, "\n")
       })
     }
   }
@@ -106,5 +109,8 @@ clean <- function(text) {
 
 Get metadata about all variables in all the NHANES tables collected above. The metadata will be written to a variable metadata table.
 ```{r}
+start_time <- Sys.time()
 get_all_variables(all_tables)
+run_time <- Sys.time()-start_time
+cat("Metadata extraction completed in: ", run_time, " seconds")
 ```
