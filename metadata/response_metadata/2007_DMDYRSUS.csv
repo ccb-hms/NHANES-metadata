@@ -1,0 +1,13 @@
+"DMDYRSUS.Code.or.Value","DMDYRSUS.Value.Description","DMDYRSUS.Count","DMDYRSUS.Cumulative","DMDYRSUS.Skip.to.Item"
+"1","Less than 1 year",78,78,NA
+"2","1 yr., less than 5 yrs.",216,294,NA
+"3","5 yrs., less than 10 yrs.",280,574,NA
+"4","10 yrs., less than 15 yrs.",189,763,NA
+"5","15 yrs., less than 20 yrs.",204,967,NA
+"6","20 yrs., less than 30 yrs.",298,1265,NA
+"7","30 yrs., less than 40 yrs.",178,1443,NA
+"8","40 yrs., less than 50 yrs.",126,1569,NA
+"9","50 years or more",85,1654,NA
+"77","Refused",20,1674,NA
+"99","Don't know",36,1710,NA
+".","Missing",8439,10149,NA

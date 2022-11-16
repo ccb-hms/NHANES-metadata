@@ -1,0 +1,18 @@
+"DR1CCMTX.Code.or.Value","DR1CCMTX.Value.Description","DR1CCMTX.Count","DR1CCMTX.Cumulative","DR1CCMTX.Skip.to.Item"
+"0","Non-combination food",75335,75335,NA
+"1","Beverage w/ additions",10947,86282,NA
+"2","Cereal w/ additions",5466,91748,NA
+"3","Bread/baked products w/ additions",5300,97048,NA
+"4","Salad",5337,102385,NA
+"5","Sandwiches",13313,115698,NA
+"6","Soup",832,116530,NA
+"7","Frozen meals",52,116582,NA
+"8","Ice cream/frozen yogurt w/ additions",491,117073,NA
+"9","Dried beans and vegetable w/ additions",3690,120763,NA
+"10","Fruit w/ additions",666,121429,NA
+"11","Tortilla products",1781,123210,NA
+"12","Meat, poultry, fish",2653,125863,NA
+"13","LunchablesÂ®",169,126032,NA
+"14","Chips w/ additions",721,126753,NA
+"90","Other mixtures",4641,131394,NA
+".","Missing",0,131394,NA

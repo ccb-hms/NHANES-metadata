@@ -1,0 +1,6 @@
+"URXPREG.Code.or.Value","URXPREG.Value.Description","URXPREG.Count","URXPREG.Cumulative","URXPREG.Skip.to.Item"
+"1","Positive",60,60,NA
+"2","Negative",1180,1240,NA
+"3","Not done",21,1261,NA
+"4","Invalid",0,1261,NA
+".","Missing",1,1262,NA

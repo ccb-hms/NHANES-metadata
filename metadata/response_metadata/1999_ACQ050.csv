@@ -1,0 +1,9 @@
+"ACQ050.Code.or.Value","ACQ050.Value.Description","ACQ050.Count","ACQ050.Cumulative","ACQ050.Skip.to.Item"
+"1","Only Spanish,",949,949,NA
+"2","More Spanish than English,",201,1150,NA
+"3","Both equally,",454,1604,NA
+"4","More English than Spanish, or",348,1952,NA
+"5","Only English?",773,2725,NA
+"7","Refused",0,2725,NA
+"9","Don't know",43,2768,NA
+".","Missing",4527,7295,NA

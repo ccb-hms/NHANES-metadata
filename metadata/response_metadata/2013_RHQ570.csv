@@ -1,0 +1,6 @@
+"RHQ570.Code.or.Value","RHQ570.Value.Description","RHQ570.Count","RHQ570.Cumulative","RHQ570.Skip.to.Item"
+"1","Yes",80,80,""
+"2","No",288,368,"RHQ580"
+"7","Refused",0,368,"RHQ580"
+"9","Don't know",39,407,"RHQ580"
+".","Missing",3211,3618,""

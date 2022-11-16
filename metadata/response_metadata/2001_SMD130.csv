@@ -1,0 +1,6 @@
+"SMD130.Code.or.Value","SMD130.Value.Description","SMD130.Count","SMD130.Cumulative","SMD130.Skip.to.Item"
+"10 to 79","Range of Values",277,277,""
+"0","Never smoked a pipe regularly",176,453,"SMQ150"
+"777","Refused",0,453,"SMQ150"
+"999","Don't know",5,458,"SMQ150"
+".","Missing",4953,5411,""

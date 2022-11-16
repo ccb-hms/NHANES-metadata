@@ -1,0 +1,5 @@
+"URXUPB.Code.or.Value","URXUPB.Value.Description","URXUPB.Count","URXUPB.Cumulative","URXUPB.Skip.to.Item"
+"0.07 to 12.9","Range of Values",2558,2558,NA
+"-0.07","First Fill Value of Limit of Detection",0,2558,NA
+"-0.23","Second Fill Value of Limit of Detection",0,2558,NA
+".","Missing",115,2673,NA

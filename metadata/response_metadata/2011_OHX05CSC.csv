@@ -1,0 +1,13 @@
+"OHX05CSC.Code.or.Value","OHX05CSC.Value.Description","OHX05CSC.Count","OHX05CSC.Cumulative","OHX05CSC.Skip.to.Item"
+"Coronal Caries:  Surface condition #5","Value was recorded",1150,1150,NA
+"0","Lingual surface caries",3,1153,NA
+"1","Occlusal/incisal caries",47,1200,NA
+"2","Facial surface caries",13,1213,NA
+"3","Mesial caries",6,1219,NA
+"4","Distal caries",12,1231,NA
+"5","Lingual surface restoration",2,1233,NA
+"6","Occlusal/incisal restoration",275,1508,NA
+"7","Facial surface restoration",11,1519,NA
+"8","Mesial restoration",0,1519,NA
+"9","Distal restoration",1,1520,NA
+"< blank >","Missing",7436,8956,NA

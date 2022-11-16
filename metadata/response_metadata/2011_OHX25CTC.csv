@@ -1,0 +1,16 @@
+"OHX25CTC.Code.or.Value","OHX25CTC.Value.Description","OHX25CTC.Count","OHX25CTC.Cumulative","OHX25CTC.Skip.to.Item"
+"D","Sound primary tooth",1106,1106,NA
+"E","Missing due to dental disease",174,1280,NA
+"J","Permanent root tip is present but no restorative replacement is present",22,1302,NA
+"K","Primary tooth with surface condition (s)",1,1303,NA
+"M","Missing due to other causes",19,1322,NA
+"P","Missing due to dental disease but replaced by a removable restoration",410,1732,NA
+"Q","Missing due to other causes but replaced by a removable restoration",0,1732,NA
+"R","Missing due to dental disease, but replaced by a fixed restoration",34,1766,NA
+"S","Sound permanent tooth",6443,8209,NA
+"T","Permanent root tip is present but a restorative replacement is present",1,8210,NA
+"U","Unerupted",11,8221,NA
+"X","Missing due to other causes, but replaced by a fixed restoration",4,8225,NA
+"Y","Tooth present, condition cannot be assessed",77,8302,NA
+"Z","Permanent tooth with surface condition (s)",139,8441,NA
+"< blank >","Missing",515,8956,NA

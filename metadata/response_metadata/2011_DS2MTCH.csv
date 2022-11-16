@@ -1,0 +1,10 @@
+"DS2MTCH.Code.or.Value","DS2MTCH.Value.Description","DS2MTCH.Count","DS2MTCH.Cumulative","DS2MTCH.Skip.to.Item"
+"1","Exact or near exact match",1962,1962,NA
+"2","Probable match",278,2240,NA
+"3","Generic match",1345,3585,NA
+"4","Reasonable match",725,4310,NA
+"5","Default match",1099,5409,NA
+"6","No match",113,5522,NA
+"7","Refused",0,5522,NA
+"9","Don't know",4,5526,NA
+".","Missing",0,5526,NA

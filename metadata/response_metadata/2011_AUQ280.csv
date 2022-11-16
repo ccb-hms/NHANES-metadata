@@ -1,0 +1,9 @@
+"AUQ280.Code.or.Value","AUQ280.Value.Description","AUQ280.Count","AUQ280.Cumulative","AUQ280.Skip.to.Item"
+"1","No problem",190,190,NA
+"2","A small problem",285,475,NA
+"3","A moderate problem",145,620,NA
+"4","A big problem",41,661,NA
+"5","A very big problem",23,684,NA
+"7","Refused",0,684,NA
+"9","Don't know",0,684,NA
+".","Missing",8680,9364,NA

@@ -1,0 +1,8 @@
+"BPQ070.Code.or.Value","BPQ070.Value.Description","BPQ070.Count","BPQ070.Cumulative","BPQ070.Skip.to.Item"
+"1","Less than 1 year ago,",2021,2021,NA
+"2","1 year but less than 2 years ago,",628,2649,NA
+"3","2 years but less than 5 years ago, or",464,3113,NA
+"4","5 years or more?",225,3338,NA
+"7","Refused",0,3338,NA
+"9","Don't know",32,3370,NA
+".","Missing",2769,6139,NA

@@ -1,0 +1,5 @@
+"RHD080.Code.or.Value","RHD080.Value.Description","RHD080.Count","RHD080.Cumulative","RHD080.Skip.to.Item"
+"0 to 354","Range of Values",1735,1735,NA
+"777","Refused",0,1735,NA
+"999","Don't know",24,1759,NA
+".","Missing",2106,3865,NA

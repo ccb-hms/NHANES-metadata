@@ -1,0 +1,9 @@
+"PAQ746.Code.or.Value","PAQ746.Value.Description","PAQ746.Count","PAQ746.Cumulative","PAQ746.Skip.to.Item"
+"1","1 day a week",36,36,NA
+"2","2 days a week",65,101,NA
+"3","3 days a week",129,230,NA
+"4","4 days a week, or",24,254,NA
+"5","Every day",302,556,NA
+"7","Refused",0,556,NA
+"9","Don't know",0,556,NA
+".","Missing",8928,9484,NA

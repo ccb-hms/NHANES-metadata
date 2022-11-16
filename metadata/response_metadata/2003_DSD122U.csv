@@ -1,0 +1,30 @@
+"DSD122U.Code.or.Value","DSD122U.Value.Description","DSD122U.Count","DSD122U.Cumulative","DSD122U.Skip.to.Item"
+"1","Tablets, capsules, pills, caplets, softgels, gelcaps",7692,7692,NA
+"2","Droppers",24,7716,NA
+"3","Drops",20,7736,NA
+"5","Injections/Shots",0,7736,NA
+"6","Lozenges",3,7739,NA
+"7","Milliliters",107,7846,NA
+"10","Powder/Granules",0,7846,NA
+"11","Tablespoons",53,7899,NA
+"12","Teaspoons",149,8048,NA
+"13","Wafers",6,8054,NA
+"15","Cans",0,8054,NA
+"16","Grams",11,8065,NA
+"17","Dots",0,8065,NA
+"18","Cups",1,8066,NA
+"19","Spray/Squirts",5,8071,NA
+"20","Chews",100,8171,NA
+"21","Scoop",30,8201,NA
+"22","CC",0,8201,NA
+"23","Capful",14,8215,NA
+"24","MG",0,8215,NA
+"25","Units",0,8215,NA
+"26","Gulp",0,8215,NA
+"27","Ounces",15,8230,NA
+"28","Packages/Packets",52,8282,NA
+"29","Vial",0,8282,NA
+"30","Gumball",13,8295,NA
+"77","Refused",0,8295,NA
+"99","Don't know",2,8297,NA
+".","Missing",119,8416,NA

@@ -1,0 +1,6 @@
+"FSDCH.Code.or.Value","FSDCH.Value.Description","FSDCH.Count","FSDCH.Cumulative","FSDCH.Skip.to.Item"
+"1","CH full or marginal food security: 0",5061,5061,NA
+"2","CH marginal food security: 1",510,5571,NA
+"3","CH low food security: 2-4",688,6259,NA
+"4","CH very low food security: 5-8",154,6413,NA
+".","Missing",3558,9971,NA

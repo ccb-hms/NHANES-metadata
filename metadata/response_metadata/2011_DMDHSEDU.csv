@@ -1,0 +1,9 @@
+"DMDHSEDU.Code.or.Value","DMDHSEDU.Value.Description","DMDHSEDU.Count","DMDHSEDU.Cumulative","DMDHSEDU.Skip.to.Item"
+"1","Less Than 9th Grade",503,503,NA
+"2","9-11th Grade (Includes 12th grade with no diploma)",550,1053,NA
+"3","High School Grad/GED or Equivalent",991,2044,NA
+"4","Some College or AA degree",1236,3280,NA
+"5","College Graduate or above",1571,4851,NA
+"7","Refused",0,4851,NA
+"9","Don't Know",24,4875,NA
+".","Missing",4881,9756,NA

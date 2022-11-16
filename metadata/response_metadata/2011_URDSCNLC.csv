@@ -1,0 +1,4 @@
+"URDSCNLC.Code.or.Value","URDSCNLC.Value.Description","URDSCNLC.Count","URDSCNLC.Cumulative","URDSCNLC.Skip.to.Item"
+"0","At or above the detection limit",2465,2465,NA
+"1","Below lower detection limit",2,2467,NA
+".","Missing",127,2594,NA

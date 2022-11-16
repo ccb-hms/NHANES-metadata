@@ -1,0 +1,6 @@
+"AUXTWIDL.Code.or.Value","AUXTWIDL.Value.Description","AUXTWIDL.Count","AUXTWIDL.Cumulative","AUXTWIDL.Skip.to.Item"
+"2 to 479","Range of Values",4103,4103,NA
+"555","Compliance <= 0.2",0,4103,NA
+"777","Refused",0,4103,NA
+"888","Could not obtain",0,4103,NA
+".","Missing",479,4582,NA

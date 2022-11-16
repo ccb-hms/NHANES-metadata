@@ -1,0 +1,21 @@
+"LEDSCCT2.Code.or.Value","LEDSCCT2.Value.Description","LEDSCCT2.Count","LEDSCCT2.Cumulative","LEDSCCT2.Skip.to.Item"
+"0","None",2334,2334,NA
+"1","Safety exclusion",1,2335,NA
+"2","SP refusal",76,2411,NA
+"3","No time",17,2428,NA
+"4","Physical limitation",95,2523,NA
+"5","Communication problem",2,2525,NA
+"6","Equipment failure",4,2529,NA
+"7","SP ill/emergency",16,2545,NA
+"14","Interrupted",1,2546,NA
+"22","Pain or discomfort",7,2553,NA
+"43","Weight limitation on equipment",3,2556,NA
+"56","Came late/left early",143,2699,NA
+"58","Unable to obtain all bps",461,3160,NA
+"72","Error (technician/software/supply)",2,3162,NA
+"84","SP with child",15,3177,NA
+"101","Bandage, stocking, or other obstruction",1,3178,NA
+"103","As per doctor's request",1,3179,NA
+"104","Swollen legs/ankle edema",1,3180,NA
+"999","Other, specify",4,3184,NA
+".","Missing",0,3184,NA

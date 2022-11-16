@@ -1,0 +1,5 @@
+"URXUUR.Code.or.Value","URXUUR.Value.Description","URXUUR.Count","URXUUR.Cumulative","URXUUR.Skip.to.Item"
+"0.001 to 0.979","Range of Values",2557,2557,NA
+"-0.001","First Fill Value of Limit of Detection",0,2557,NA
+"-0.004","Second Fill Value of Limit of Detection",0,2557,NA
+".","Missing",116,2673,NA

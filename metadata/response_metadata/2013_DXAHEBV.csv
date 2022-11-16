@@ -1,0 +1,7 @@
+"DXAHEBV.Code.or.Value","DXAHEBV.Value.Description","DXAHEBV.Count","DXAHEBV.Cumulative","DXAHEBV.Skip.to.Item"
+"0","Valid data",5379,5379,NA
+"1","Removable or non-removable objects",45,5424,NA
+"5","Body parts out of scan region",14,5438,NA
+"6","Positioning problem",8,5446,NA
+"7","Other",0,5446,NA
+".","Missing",587,6033,NA

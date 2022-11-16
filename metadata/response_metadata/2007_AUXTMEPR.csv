@@ -1,0 +1,6 @@
+"AUXTMEPR.Code.or.Value","AUXTMEPR.Value.Description","AUXTMEPR.Count","AUXTMEPR.Cumulative","AUXTMEPR.Skip.to.Item"
+"-258 to 144","Range of Values",1090,1090,NA
+"555","Compliance <= 0.2",46,1136,NA
+"777","Refused",1,1137,NA
+"888","Could not obtain",7,1144,NA
+".","Missing",66,1210,NA

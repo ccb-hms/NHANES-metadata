@@ -1,0 +1,9 @@
+"OHQ011.Code.or.Value","OHQ011.Value.Description","OHQ011.Count","OHQ011.Cumulative","OHQ011.Skip.to.Item"
+"1","Excellent",333,333,NA
+"2","Very good",755,1088,NA
+"3","Good",1751,2839,NA
+"4","Fair",1555,4394,NA
+"5","Poor",1040,5434,NA
+"7","Refused",0,5434,NA
+"9","Don't know",8,5442,NA
+".","Missing",3405,8847,NA

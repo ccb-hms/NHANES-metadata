@@ -1,0 +1,35 @@
+"MCQ230B.Code.or.Value","MCQ230B.Value.Description","MCQ230B.Count","MCQ230B.Cumulative","MCQ230B.Skip.to.Item"
+"10","Bladder",3,3,NA
+"11","Blood",0,3,NA
+"12","Bone",1,4,NA
+"13","Brain",0,4,NA
+"14","Breast",1,5,NA
+"15","Cervix (cervical)",1,6,NA
+"16","Colon",6,12,NA
+"17","Esophagus (esophageal)",0,12,NA
+"18","Gallbladder",0,12,NA
+"19","Kidney",3,15,NA
+"20","Larynx/ windpipe",0,15,NA
+"21","Leukemia",0,15,NA
+"22","Liver",1,16,NA
+"23","Lung",1,17,NA
+"24","Lymphoma/Hodgkin's disease",1,18,NA
+"25","Melanoma",3,21,NA
+"26","Mouth/tongue/lip",1,22,NA
+"27","Nervous system",0,22,NA
+"28","Ovary (ovarian)",1,23,NA
+"29","Pancreas (pancreatic)",0,23,NA
+"30","Prostate",4,27,NA
+"31","Rectum (rectal)",1,28,NA
+"32","Skin (non-melanoma)",8,36,NA
+"33","Skin (don't know what kind)",4,40,NA
+"34","Soft tissue (muscle or fat)",0,40,NA
+"35","Stomach",0,40,NA
+"36","Testis (testicular)",0,40,NA
+"37","Thyroid",1,41,NA
+"38","Uterus (uterine)",1,42,NA
+"39","Other",4,46,NA
+"66","More than 3 kinds",0,46,NA
+"77","Refused",0,46,NA
+"99","Don't know",0,46,NA
+".","Missing",9599,9645,NA

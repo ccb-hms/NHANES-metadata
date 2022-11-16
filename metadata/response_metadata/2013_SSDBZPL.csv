@@ -1,0 +1,4 @@
+"SSDBZPL.Code.or.Value","SSDBZPL.Value.Description","SSDBZPL.Count","SSDBZPL.Cumulative","SSDBZPL.Skip.to.Item"
+"0","At or above the detection limit",0,0,NA
+"1","Below lower detection limit",2316,2316,NA
+".","Missing",1,2317,NA

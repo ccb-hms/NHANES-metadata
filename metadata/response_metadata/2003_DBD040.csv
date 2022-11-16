@@ -1,0 +1,6 @@
+"DBD040.Code.or.Value","DBD040.Value.Description","DBD040.Count","DBD040.Cumulative","DBD040.Skip.to.Item"
+"1 to 456","Range of Values",1665,1665,""
+"0","Never on a daily basis",200,1865,"DBD060"
+"777777","Refused",0,1865,""
+"999999","Don't know",8,1873,""
+".","Missing",8249,10122,""

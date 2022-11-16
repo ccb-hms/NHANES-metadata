@@ -1,0 +1,11 @@
+"PAD590.Code.or.Value","PAD590.Value.Description","PAD590.Count","PAD590.Cumulative","PAD590.Skip.to.Item"
+"0","Less than 1 hour,",1122,1122,NA
+"1","1 hour,",1528,2650,NA
+"2","2 hours,",2478,5128,NA
+"3","3 hours,",1593,6721,NA
+"4","4 hours, or",901,7622,NA
+"5","5 hours or more?",1441,9063,NA
+"6","None",131,9194,NA
+"77","Refused",1,9195,NA
+"99","Don't know",2,9197,NA
+".","Missing",81,9278,NA

@@ -1,0 +1,13 @@
+"OHX18CSC.Code.or.Value","OHX18CSC.Value.Description","OHX18CSC.Count","OHX18CSC.Cumulative","OHX18CSC.Skip.to.Item"
+"Coronal Caries:  Surface condition #18","Value was recorded",1375,1375,NA
+"0","Lingual surface caries",0,1375,NA
+"1","Occlusal/incisal caries",199,1574,NA
+"2","Facial surface caries",56,1630,NA
+"3","Mesial caries",1,1631,NA
+"4","Distal caries",0,1631,NA
+"5","Lingual surface restoration",0,1631,NA
+"6","Occlusal/incisal restoration",948,2579,NA
+"7","Facial surface restoration",62,2641,NA
+"8","Mesial restoration",1,2642,NA
+"9","Distal restoration",0,2642,NA
+"< blank >","Missing",6780,9422,NA

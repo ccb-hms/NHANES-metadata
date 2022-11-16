@@ -1,0 +1,5 @@
+"PAQ655.Code.or.Value","PAQ655.Value.Description","PAQ655.Count","PAQ655.Cumulative","PAQ655.Skip.to.Item"
+"1 to 7","Range of Values",2193,2193,""
+"77","Refused",0,2193,"PAQ665"
+"99","Don't know",0,2193,"PAQ665"
+".","Missing",7062,9255,""

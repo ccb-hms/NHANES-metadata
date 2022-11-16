@@ -1,0 +1,8 @@
+"OCD390G.Code.or.Value","OCD390G.Value.Description","OCD390G.Count","OCD390G.Cumulative","OCD390G.Skip.to.Item"
+"1","Enter occupation",3675,3675,""
+"2","Same as current occupation",1972,5647,"OCQ460"
+"3","Armed forces",50,5697,"OCD395"
+"4","Never worked",506,6203,"End of Section"
+"7","Refused",9,6212,""
+"9","Don't know",1,6213,""
+".","Missing",0,6213,""

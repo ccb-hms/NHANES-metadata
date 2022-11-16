@@ -1,0 +1,6 @@
+"URDNCTLC.Code.or.Value","URDNCTLC.Value.Description","URDNCTLC.Count","URDNCTLC.Cumulative","URDNCTLC.Skip.to.Item"
+"0","At or above detection limit",486,486,NA
+"1","Below lower detection limit",128,614,NA
+"2","Result not obtained, cotinine (URXCOTT) result below 20 
+      ng/mL",1957,2571,NA
+".","Missing",184,2755,NA

@@ -1,0 +1,6 @@
+"RHD280.Code.or.Value","RHD280.Value.Description","RHD280.Count","RHD280.Cumulative","RHD280.Skip.to.Item"
+"1","Yes",557,557,""
+"2","No",1972,2529,"RHQ305"
+"7","Refused",0,2529,"RHQ305"
+"9","Don't know",1,2530,"RHQ305"
+".","Missing",941,3471,""

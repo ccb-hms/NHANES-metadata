@@ -1,0 +1,9 @@
+"HOD060.Code.or.Value","HOD060.Value.Description","HOD060.Count","HOD060.Cumulative","HOD060.Skip.to.Item"
+"1","Less than one year",1801,1801,NA
+"2","1-2 years",1878,3679,NA
+"3","3-5 years",1985,5664,NA
+"4","6-10 years",1592,7256,NA
+"5","More than 10 years",2717,9973,NA
+"77","Refused",12,9985,NA
+"99","Don't know",4,9989,NA
+".","Missing",133,10122,NA

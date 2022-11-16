@@ -1,0 +1,6 @@
+"CIQD085.Code.or.Value","CIQD085.Value.Description","CIQD085.Count","CIQD085.Cumulative","CIQD085.Skip.to.Item"
+"1","Past Month",2,2,"CIQD087"
+"2","More than a month ago",1,3,"CIQD087"
+"7","Refuse",0,3,"CIQD087"
+"9","Don't know",0,3,"CIQD087"
+".","Missing",775,778,""

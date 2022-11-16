@@ -1,0 +1,4 @@
+"URD2MHLC.Code.or.Value","URD2MHLC.Value.Description","URD2MHLC.Count","URD2MHLC.Cumulative","URD2MHLC.Skip.to.Item"
+"0","At or above the detection limit",2161,2161,NA
+"1","Below lower detection limit",79,2240,NA
+".","Missing",109,2349,NA

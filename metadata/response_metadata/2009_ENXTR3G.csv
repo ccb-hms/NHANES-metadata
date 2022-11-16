@@ -1,0 +1,6 @@
+"ENXTR3G.Code.or.Value","ENXTR3G.Value.Description","ENXTR3G.Count","ENXTR3G.Cumulative","ENXTR3G.Skip.to.Item"
+"1","Acceptable measurement",1495,1495,NA
+"2","Could Not Obtain",15,1510,NA
+"3","< 5 ppb",134,1644,NA
+"4","> 300 ppb",2,1646,NA
+".","Missing",6549,8195,NA

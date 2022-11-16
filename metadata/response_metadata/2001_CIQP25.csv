@@ -1,0 +1,7 @@
+"CIQP25.Code.or.Value","CIQP25.Value.Description","CIQP25.Count","CIQP25.Cumulative","CIQP25.Skip.to.Item"
+"1","Past Month",0,0,"CIQP30ZZ"
+"2","Past 6 Months",3,3,"CIQP30ZZ"
+"3","More than 6 months",5,8,"CIQP30ZZ"
+"7","Refused",0,8,"CIQP30ZZ"
+"9","Don't know",0,8,"CIQP30ZZ"
+".","Missing",920,928,""

@@ -1,0 +1,7 @@
+"BAQ030A.Code.or.Value","BAQ030A.Value.Description","BAQ030A.Count","BAQ030A.Cumulative","BAQ030A.Skip.to.Item"
+"1","Less than 2 weeks",436,436,"BAQ020b"
+"2","2 weeks to 3 months",58,494,"BAQ020b"
+"3","More than 3 months",123,617,"BAQ020b"
+"7","Refused",0,617,"BAQ020b"
+"9","Don't know",11,628,"BAQ020b"
+".","Missing",2557,3185,""

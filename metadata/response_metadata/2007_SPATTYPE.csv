@@ -1,0 +1,4 @@
+"SPATTYPE.Code.or.Value","SPATTYPE.Value.Description","SPATTYPE.Count","SPATTYPE.Cumulative","SPATTYPE.Skip.to.Item"
+"Pre","Pre-Bronchodilator Test",32353,32353,NA
+"Bron","Post-Bronchodilator Test",2504,34857,NA
+"< blank >","Missing",0,34857,NA

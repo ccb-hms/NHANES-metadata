@@ -1,0 +1,8 @@
+"SMD093.Code.or.Value","SMD093.Value.Description","SMD093.Count","SMD093.Cumulative","SMD093.Skip.to.Item"
+"1","Yes",768,768,""
+"2","No",241,1009,"SMD100BR"
+"3","No usual brand",45,1054,"SMQ670"
+"4","Rolls own",43,1097,"SMD100BR"
+"7","Refused",3,1100,""
+"9","Don't know",0,1100,""
+".","Missing",5901,7001,""

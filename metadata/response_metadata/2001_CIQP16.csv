@@ -1,0 +1,7 @@
+"CIQP16.Code.or.Value","CIQP16.Value.Description","CIQP16.Count","CIQP16.Cumulative","CIQP16.Skip.to.Item"
+"1","Past Month",0,0,"CIQP20"
+"2","Past 6 Months",3,3,"CIQP20"
+"3","Over 6 Months",1,4,"CIQP20"
+"7","Refused",0,4,"CIQP20"
+"9","Don't know",0,4,"CIQP20"
+".","Missing",924,928,""

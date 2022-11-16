@@ -1,0 +1,9 @@
+"DIQ230.Code.or.Value","DIQ230.Value.Description","DIQ230.Count","DIQ230.Cumulative","DIQ230.Skip.to.Item"
+"1","1 year ago or less",194,194,NA
+"2","More than 1 year ago but no more than 2 years ago",55,249,NA
+"3","More than 2 years ago but no more than 5 years ago",65,314,NA
+"4","More than 5 years ago",43,357,NA
+"5","Never",158,515,NA
+"7","Refused",0,515,NA
+"9","Don't know",6,521,NA
+".","Missing",9301,9822,NA

@@ -1,0 +1,8 @@
+"SLQ030.Code.or.Value","SLQ030.Value.Description","SLQ030.Count","SLQ030.Cumulative","SLQ030.Skip.to.Item"
+"0","Never",1936,1936,NA
+"1","Rarely (1-2 nights/week)",1016,2952,NA
+"2","Occasionally (3-4 nights/week)",1124,4076,NA
+"3","Frequently (5 or more nights/week)",1882,5958,NA
+"7","Refused",1,5959,NA
+"9","Don't know",587,6546,NA
+".","Missing",0,6546,NA

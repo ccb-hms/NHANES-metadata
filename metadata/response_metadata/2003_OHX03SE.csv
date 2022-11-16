@@ -1,0 +1,9 @@
+"OHX03SE.Code.or.Value","OHX03SE.Value.Description","OHX03SE.Count","OHX03SE.Cumulative","OHX03SE.Skip.to.Item"
+"Multiple sealants found","Value was recorded",135,135,NA
+"0","Sealant not present",3431,3566,NA
+"1","Occlusal sealant on permanent tooth",578,4144,NA
+"2","Facial sealant on permanent tooth",0,4144,NA
+"3","Lingual sealant on permanent tooth",3,4147,NA
+"4","Occlusal sealant on primary tooth",0,4147,NA
+"9","Cannot be assessed",938,5085,NA
+"< blank >","Missing",3762,8847,NA

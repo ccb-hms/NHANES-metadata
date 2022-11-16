@@ -1,0 +1,6 @@
+"SPAQEFF.Code.or.Value","SPAQEFF.Value.Description","SPAQEFF.Count","SPAQEFF.Cumulative","SPAQEFF.Skip.to.Item"
+"A","The curve quality attributes were acceptable",20140,20140,NA
+"B","The curve had a large time to peak flow or a non-repeatable peak flow",5661,25801,NA
+"C","The curve had either < 6 seconds of exhalation or no plateau",8027,33828,NA
+"D","The curve had either a cough or large extrapolated volume",2593,36421,NA
+"< blank >","Missing",0,36421,NA

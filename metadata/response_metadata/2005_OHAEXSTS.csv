@@ -1,0 +1,5 @@
+"OHAEXSTS.Code.or.Value","OHAEXSTS.Value.Description","OHAEXSTS.Count","OHAEXSTS.Cumulative","OHAEXSTS.Skip.to.Item"
+"1","Complete",7686,7686,NA
+"2","Partial",1,7687,NA
+"3","Not Done",618,8305,NA
+".","Missing",0,8305,NA

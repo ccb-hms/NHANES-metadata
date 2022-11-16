@@ -1,0 +1,22 @@
+"OPASCCT2.Code.or.Value","OPASCCT2.Value.Description","OPASCCT2.Count","OPASCCT2.Cumulative","OPASCCT2.Skip.to.Item"
+"1","Safety exclusion",3,3,NA
+"2","SP refusal",85,88,NA
+"3","No time",13,101,NA
+"4","Physical limitation",94,195,NA
+"5","Communication problem",22,217,NA
+"6","Equipment failure",3,220,NA
+"7","SP ill/emergency",16,236,NA
+"12","Eye specific limitation",60,296,NA
+"56","Came late/left early",198,494,NA
+"72","Error (technician/software/supply)",4,498,NA
+"84","SP with child",15,513,NA
+"86","SP Blind",1,514,NA
+"99","Other, specify",2,516,NA
+"100","Eye specific limitation: Eye missing/glass eye",1,517,NA
+"101","Eye specific limitation: Small pupil size",2,519,NA
+"102","Eye specific limitation: Cataract, right eye",1,520,NA
+"103","Eye specific limitation: SP unable to keep eyes open",6,526,NA
+"104","Eye specific limitation: SP unable to fixate adequately",3,529,NA
+"105","Eye specific limitation: Interference with drooping eyelids",1,530,NA
+"106","Eye specific limitation: SP not able to control blinking",1,531,NA
+".","Missing",2403,2934,NA

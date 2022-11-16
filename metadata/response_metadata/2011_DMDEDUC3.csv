@@ -1,0 +1,22 @@
+"DMDEDUC3.Code.or.Value","DMDEDUC3.Value.Description","DMDEDUC3.Count","DMDEDUC3.Cumulative","DMDEDUC3.Skip.to.Item"
+"0","Never attended / kindergarten only",282,282,NA
+"1","1st grade",231,513,NA
+"2","2nd grade",213,726,NA
+"3","3rd grade",229,955,NA
+"4","4th grade",210,1165,NA
+"5","5th grade",204,1369,NA
+"6","6th grade",182,1551,NA
+"7","7th grade",157,1708,NA
+"8","8th grade",167,1875,NA
+"9","9th grade",151,2026,NA
+"10","10th grade",167,2193,NA
+"11","11th grade",150,2343,NA
+"12","12th grade, no diploma",38,2381,NA
+"13","High school graduate",89,2470,NA
+"14","GED or equivalent",8,2478,NA
+"15","More than high school",106,2584,NA
+"55","Less than 5th grade",2,2586,NA
+"66","Less than 9th grade",13,2599,NA
+"77","Refused",0,2599,NA
+"99","Don't Know",0,2599,NA
+".","Missing",7157,9756,NA

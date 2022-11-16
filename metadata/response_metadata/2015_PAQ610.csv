@@ -1,0 +1,5 @@
+"PAQ610.Code.or.Value","PAQ610.Value.Description","PAQ610.Count","PAQ610.Cumulative","PAQ610.Skip.to.Item"
+"1 to 7","Range of Values",1360,1360,""
+"77","Refused",0,1360,"PAQ620"
+"99","Don't know",6,1366,"PAQ620"
+".","Missing",7889,9255,""

@@ -1,0 +1,7 @@
+"SMD057.Code.or.Value","SMD057.Value.Description","SMD057.Count","SMD057.Cumulative","SMD057.Skip.to.Item"
+"2 to 90","Range of Values",1000,1000,NA
+"1","1 cigarette or less",136,1136,NA
+"95","95 cigarettes or more",3,1139,NA
+"777","Refused",0,1139,NA
+"999","Don't know",15,1154,NA
+".","Missing",5636,6790,NA

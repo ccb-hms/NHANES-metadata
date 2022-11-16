@@ -1,0 +1,7 @@
+"SPXNQFV1.Code.or.Value","SPXNQFV1.Value.Description","SPXNQFV1.Count","SPXNQFV1.Cumulative","SPXNQFV1.Skip.to.Item"
+"A","Exceeds ATS data collection standards",5026,5026,NA
+"B","Meets ATS data collection standards",1455,6481,NA
+"C","Potentially usable value, but does not meet all ATS standards",389,6870,NA
+"D","Questionable result, use with caution",203,7073,NA
+"F","Results not valid",100,7173,NA
+"< blank >","Missing",1022,8195,NA

@@ -1,0 +1,9 @@
+"AUQ100.Code.or.Value","AUQ100.Value.Description","AUQ100.Count","AUQ100.Cumulative","AUQ100.Skip.to.Item"
+"1","Always",173,173,NA
+"2","Usually",356,529,NA
+"3","About half the time",551,1080,NA
+"4","Seldom",1145,2225,NA
+"5","Never",2448,4673,NA
+"7","Refused",0,4673,NA
+"9","Don't know",2,4675,NA
+".","Missing",4689,9364,NA

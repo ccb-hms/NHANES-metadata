@@ -1,0 +1,7 @@
+"PAQ100.Code.or.Value","PAQ100.Value.Description","PAQ100.Count","PAQ100.Cumulative","PAQ100.Skip.to.Item"
+"1","Yes",3455,3455,""
+"2","No",2561,6016,"PAQ180"
+"3","Unable to do activity",194,6210,"PAQ180"
+"7","Refused",1,6211,"PAQ180"
+"9","Don't know",2,6213,"PAQ180"
+".","Missing",3065,9278,""

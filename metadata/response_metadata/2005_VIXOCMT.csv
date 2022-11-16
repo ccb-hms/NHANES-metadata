@@ -1,0 +1,9 @@
+"VIXOCMT.Code.or.Value","VIXOCMT.Value.Description","VIXOCMT.Count","VIXOCMT.Cumulative","VIXOCMT.Skip.to.Item"
+"1","Monovision glasses/contacts worn for visual acuity",11,11,NA
+"2","Cataract contact lenses worn for objective refraction",3,14,NA
+"3","Contacts worn for objective refraction",17,31,NA
+"4","Artificial eye",6,37,NA
+"5","Monovision contacts worn for objective refraction",2,39,NA
+"6","Contact in right eye only for presenting visual acuity",1,40,NA
+"7","Contact in left eye only for presenting visual acuity",3,43,NA
+".","Missing",6937,6980,NA

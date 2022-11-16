@@ -1,0 +1,5 @@
+"DS2ANTA.Code.or.Value","DS2ANTA.Value.Description","DS2ANTA.Count","DS2ANTA.Cumulative","DS2ANTA.Skip.to.Item"
+"0","Non-antacid supplement",5455,5455,NA
+"1","Antacid containing calcium and/or magnesium",0,5455,NA
+"2","Antacids reported with antacids",143,5598,NA
+".","Missing",0,5598,NA

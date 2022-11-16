@@ -1,0 +1,5 @@
+"MSAEXSTS.Code.or.Value","MSAEXSTS.Value.Description","MSAEXSTS.Count","MSAEXSTS.Cumulative","MSAEXSTS.Skip.to.Item"
+"1","Complete",1481,1481,NA
+"2","Partial",461,1942,NA
+"3","Not done",214,2156,NA
+".","Missing",0,2156,NA

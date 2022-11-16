@@ -1,0 +1,5 @@
+"DSDANTA.Code.or.Value","DSDANTA.Value.Description","DSDANTA.Count","DSDANTA.Cumulative","DSDANTA.Skip.to.Item"
+"0","Non-antacid supplement",7586,7586,NA
+"1","Antacid reported with dietary supplement (DSQ)",2,7588,NA
+"2","Antacid reported with medication (RXQ)",812,8400,NA
+".","Missing",0,8400,NA

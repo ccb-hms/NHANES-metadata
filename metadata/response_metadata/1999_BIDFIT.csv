@@ -1,0 +1,9 @@
+"BIDFIT.Code.or.Value","BIDFIT.Value.Description","BIDFIT.Count","BIDFIT.Cumulative","BIDFIT.Skip.to.Item"
+"0","Excellent",4001,4001,NA
+"1","Good",52,4053,NA
+"2","Marginal",46,4099,NA
+"3","Questionable",28,4127,NA
+"4","Bad",9,4136,NA
+"5","Could not be fit",133,4269,NA
+"7","No BIA data",1042,5311,NA
+".","Missing",0,5311,NA

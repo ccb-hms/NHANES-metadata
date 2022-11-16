@@ -1,0 +1,6 @@
+"PSQ150.Code.or.Value","PSQ150.Value.Description","PSQ150.Count","PSQ150.Cumulative","PSQ150.Skip.to.Item"
+"1","Yes",25,25,""
+"2","No",20,45,"PSQ180"
+"7","Refused",0,45,"PSQ180"
+"9","Don't know",1,46,"PSQ180"
+".","Missing",75,121,""

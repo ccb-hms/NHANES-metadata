@@ -1,0 +1,9 @@
+"RHD042.Code.or.Value","RHD042.Value.Description","RHD042.Count","RHD042.Cumulative","RHD042.Skip.to.Item"
+"1","Pregnancy",22,22,NA
+"2","Breast feeding",2,24,NA
+"7","Menopause/Hysterectomy",960,984,NA
+"8","Medical conditions/treatments",14,998,NA
+"9","Other",21,1019,NA
+"77","Refused",0,1019,NA
+"99","Don't know",4,1023,NA
+".","Missing",2574,3597,NA

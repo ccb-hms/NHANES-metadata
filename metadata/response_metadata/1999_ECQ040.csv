@@ -1,0 +1,13 @@
+"ECQ040.Code.or.Value","ECQ040.Value.Description","ECQ040.Count","ECQ040.Cumulative","ECQ040.Skip.to.Item"
+"1","First month",40,40,NA
+"2","Second month",36,76,NA
+"3","Third month",46,122,NA
+"4","Fourth month",21,143,NA
+"5","Fifth month",20,163,NA
+"6","Sixth month",19,182,NA
+"7","Seventh month",11,193,NA
+"8","Eighth month",3,196,NA
+"9","Ninth month",7,203,NA
+"77","Refused",0,203,NA
+"99","Don't know",6,209,NA
+".","Missing",3712,3921,NA

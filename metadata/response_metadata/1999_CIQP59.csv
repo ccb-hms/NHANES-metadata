@@ -1,0 +1,8 @@
+"CIQP59.Code.or.Value","CIQP59.Value.Description","CIQP59.Count","CIQP59.Cumulative","CIQP59.Skip.to.Item"
+"1","A lot",3,3,""
+"2","Some",13,16,""
+"3","A little",14,30,""
+"4","Not at all",22,52,"CIDPSCOR"
+"7","Refused",0,52,""
+"9","Don't know",0,52,""
+".","Missing",726,778,""

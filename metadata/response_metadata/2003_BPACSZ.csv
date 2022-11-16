@@ -1,0 +1,7 @@
+"BPACSZ.Code.or.Value","BPACSZ.Value.Description","BPACSZ.Count","BPACSZ.Cumulative","BPACSZ.Skip.to.Item"
+"1","Infant (6X12)",0,0,NA
+"2","Child (9X17)",394,394,NA
+"3","Adult (12X22)",2769,3163,NA
+"4","Large (15X32)",3347,6510,NA
+"5","Thigh (18X35)",781,7291,NA
+".","Missing",2352,9643,NA

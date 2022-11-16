@@ -1,0 +1,11 @@
+"AUAEXCMT.Code.or.Value","AUAEXCMT.Value.Description","AUAEXCMT.Count","AUAEXCMT.Cumulative","AUAEXCMT.Skip.to.Item"
+"1","Safety Exclusion",1,1,NA
+"2","SP refusal",17,18,NA
+"3","No time",3,21,NA
+"4","Physical limitation",16,37,NA
+"5","Communication problem",22,59,NA
+"6","Equipment failure",19,78,NA
+"7","Sp ill/emergency",9,87,NA
+"56","Came late/left early",53,140,NA
+"99","Other, specify",70,210,NA
+".","Missing",1597,1807,NA

@@ -1,0 +1,7 @@
+"DXASPNST.Code.or.Value","DXASPNST.Value.Description","DXASPNST.Count","DXASPNST.Cumulative","DXASPNST.Skip.to.Item"
+"1","Spine scan completed, all vertebrae are valid",5843,5843,NA
+"2","Spine scan completed, but one or more vertebrae are invalid",543,6386,NA
+"3","Spine not scanned, pregnancy",371,6757,NA
+"4","Spine not scanned, weight > 300 lbs",95,6852,NA
+"5","Spine not scanned, other reason",868,7720,NA
+".","Missing",0,7720,NA

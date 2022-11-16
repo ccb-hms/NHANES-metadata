@@ -1,0 +1,4 @@
+"URDATCLC.Code.or.Value","URDATCLC.Value.Description","URDATCLC.Count","URDATCLC.Cumulative","URDATCLC.Skip.to.Item"
+"0","At or above the detection limit",2276,2276,NA
+"1","Below lower detection limit",80,2356,NA
+".","Missing",106,2462,NA

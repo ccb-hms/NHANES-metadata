@@ -1,0 +1,23 @@
+"DR1_030Z.Code.or.Value","DR1_030Z.Value.Description","DR1_030Z.Count","DR1_030Z.Cumulative","DR1_030Z.Skip.to.Item"
+"1","Breakfast",24899,24899,NA
+"2","Lunch",27989,52888,NA
+"3","Dinner",27527,80415,NA
+"4","Supper",8974,89389,NA
+"5","Brunch",1137,90526,NA
+"6","Snack",23458,113984,NA
+"7","Drink",7576,121560,NA
+"8","Infant feeding",3643,125203,NA
+"9","Extended consumption",3754,128957,NA
+"10","Desayano",3220,132177,NA
+"11","Almuerzo",2557,134734,NA
+"12","Comida",3024,137758,NA
+"13","Merienda",1247,139005,NA
+"14","Cena",3601,142606,NA
+"15","Entre comida",595,143201,NA
+"16","Botana",700,143901,NA
+"17","Bocadillo",623,144524,NA
+"18","Tentempie",76,144600,NA
+"19","Bebida",1103,145703,NA
+"91","Other",0,145703,NA
+"99","Don't know",0,145703,NA
+".","Missing",0,145703,NA

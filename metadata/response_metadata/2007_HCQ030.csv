@@ -1,0 +1,6 @@
+"HCQ030.Code.or.Value","HCQ030.Value.Description","HCQ030.Count","HCQ030.Cumulative","HCQ030.Skip.to.Item"
+"1","Yes",16,16,"HCQ070"
+"2","No",15,31,""
+"7","Refused",0,31,"HCQ070"
+"9","Don't know",1,32,"HCQ070"
+".","Missing",84,116,""

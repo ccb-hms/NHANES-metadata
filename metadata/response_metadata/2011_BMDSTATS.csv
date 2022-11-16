@@ -1,0 +1,6 @@
+"BMDSTATS.Code.or.Value","BMDSTATS.Value.Description","BMDSTATS.Count","BMDSTATS.Cumulative","BMDSTATS.Skip.to.Item"
+"1","Complete data for age group",8520,8520,NA
+"2","Partial:  Only height and weight obtained",310,8830,NA
+"3","Other partial exam",433,9263,NA
+"4","No body measures exam data",75,9338,NA
+".","Missing",0,9338,NA

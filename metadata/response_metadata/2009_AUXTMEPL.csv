@@ -1,0 +1,6 @@
+"AUXTMEPL.Code.or.Value","AUXTMEPL.Value.Description","AUXTMEPL.Count","AUXTMEPL.Cumulative","AUXTMEPL.Skip.to.Item"
+"-294 to 120","Range of Values",1950,1950,NA
+"555","Compliance <= 0.2",208,2158,NA
+"777","Refused",2,2160,NA
+"888","Could not obtain",62,2222,NA
+".","Missing",146,2368,NA

@@ -1,0 +1,4 @@
+"PAXSTAT.Code.or.Value","PAXSTAT.Value.Description","PAXSTAT.Count","PAXSTAT.Cumulative","PAXSTAT.Skip.to.Item"
+"1","Data is deemed reliable",71836747,71836747,NA
+"2","Data reliability is questionable",413280,72250027,NA
+".","Missing",0,72250027,NA

@@ -1,0 +1,4 @@
+"LBD187LC.Code.or.Value","LBD187LC.Value.Description","LBD187LC.Count","LBD187LC.Cumulative","LBD187LC.Skip.to.Item"
+"0","At or above the detection limit",256,256,NA
+"1","Below lower detection limit",8,264,NA
+".","Missing",0,264,NA

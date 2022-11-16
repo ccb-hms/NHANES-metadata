@@ -1,0 +1,11 @@
+"RHQ070.Code.or.Value","RHQ070.Value.Description","RHQ070.Count","RHQ070.Cumulative","RHQ070.Skip.to.Item"
+"1","Younger than 30",0,0,NA
+"2","30 to 34",5,5,NA
+"3","35 to 39",10,15,NA
+"4","40 to 44",9,24,NA
+"5","45 to 49",13,37,NA
+"6","50 to 54, or",9,46,NA
+"7","55 or older?",6,52,NA
+"77","Refused",0,52,NA
+"99","Don't know",22,74,NA
+".","Missing",3523,3597,NA

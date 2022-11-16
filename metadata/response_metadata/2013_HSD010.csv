@@ -1,0 +1,9 @@
+"HSD010.Code.or.Value","HSD010.Value.Description","HSD010.Count","HSD010.Cumulative","HSD010.Skip.to.Item"
+"1","Excellent",641,641,NA
+"2","Very good,",1826,2467,NA
+"3","Good,",2605,5072,NA
+"4","Fair, or",1186,6258,NA
+"5","Poor?",208,6466,NA
+"7","Refused",0,6466,NA
+"9","Don't know",1,6467,NA
+".","Missing",2955,9422,NA

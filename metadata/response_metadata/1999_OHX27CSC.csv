@@ -1,0 +1,11 @@
+"OHX27CSC.Code.or.Value","OHX27CSC.Value.Description","OHX27CSC.Count","OHX27CSC.Cumulative","OHX27CSC.Skip.to.Item"
+"Multiple surface conditions found","Value was recorded",128,128,NA
+"0","Lingual surface caries",1,129,NA
+"2","Facial surface caries",29,158,NA
+"3","Mesial caries",3,161,NA
+"4","Distal caries",9,170,NA
+"5","Lingual surface restoration",6,176,NA
+"7","Facial surface restoration",62,238,NA
+"8","Mesial restoration",5,243,NA
+"9","Distal restoration",26,269,NA
+"< blank >","Missing",8318,8587,NA

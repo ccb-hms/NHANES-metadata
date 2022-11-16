@@ -1,0 +1,5 @@
+"LBD2DFLC.Code.or.Value","LBD2DFLC.Value.Description","LBD2DFLC.Count","LBD2DFLC.Cumulative","LBD2DFLC.Skip.to.Item"
+"0","detectable result",506,506,NA
+"1","below detectable limit",2239,2745,NA
+"2","detectable result and exceeds the calibrated range of assay",0,2745,NA
+".","Missing",670,3415,NA

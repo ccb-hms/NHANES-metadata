@@ -1,0 +1,10 @@
+"FCX23DI.Code.or.Value","FCX23DI.Value.Description","FCX23DI.Count","FCX23DI.Cumulative","FCX23DI.Skip.to.Item"
+"0","Normal",890,890,NA
+"1","Very mild",291,1181,NA
+"2","Mild",184,1365,NA
+"3","Moderate",48,1413,NA
+"4","Severe",0,1413,NA
+"5","Questionable",704,2117,NA
+"8","Non-fluoride opacities",10,2127,NA
+"9","Cannot be assessed",524,2651,NA
+".","Missing",52,2703,NA

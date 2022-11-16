@@ -1,0 +1,9 @@
+"CSQ060.Code.or.Value","CSQ060.Value.Description","CSQ060.Count","CSQ060.Cumulative","CSQ060.Skip.to.Item"
+"1","Less than 3 Months Ago",88,88,NA
+"2","3 to 12 months (1 year) ago",86,174,NA
+"3","1 to 4 years ago",201,375,NA
+"4","5 to 9 years ago",166,541,NA
+"5","Ten or more years ago",245,786,NA
+"7","Refused",1,787,NA
+"9","Don't know",52,839,NA
+".","Missing",2764,3603,NA

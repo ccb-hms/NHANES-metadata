@@ -1,0 +1,5 @@
+"LBDBPBSI.Code.or.Value","LBDBPBSI.Value.Description","LBDBPBSI.Count","LBDBPBSI.Cumulative","LBDBPBSI.Skip.to.Item"
+"0.013 to 1.599","Range of Values",8259,8259,NA
+"0.01","First Below Detection Limit Fill Value",0,8259,NA
+"0.009","Second Below Detection Limit Fill Value",7,8266,NA
+".","Missing",1041,9307,NA

@@ -1,0 +1,10 @@
+"IND247.Code.or.Value","IND247.Value.Description","IND247.Count","IND247.Cumulative","IND247.Skip.to.Item"
+"1","Less than $500",4038,4038,NA
+"2","$501- $1000",288,4326,NA
+"3","$1001-$2000",145,4471,NA
+"4","$2001-$3000",94,4565,NA
+"5","$3001-$4000",45,4610,NA
+"6","$4001-$5000",37,4647,NA
+"77","Refused",92,4739,NA
+"99","Don't know",64,4803,NA
+".","Missing",4953,9756,NA

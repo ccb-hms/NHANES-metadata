@@ -1,0 +1,27 @@
+"DR1FS.Code.or.Value","DR1FS.Value.Description","DR1FS.Count","DR1FS.Cumulative","DR1FS.Skip.to.Item"
+"1","Store",99775,99775,NA
+"2","Restaurant with waiter/waitress",9417,109192,NA
+"3","Restaurant fast food/pizza",10921,120113,NA
+"4","Bar/tavern/lounge",251,120364,NA
+"5","Restaurant no additional information",10,120374,NA
+"6","Cafeteria not at school",607,120981,NA
+"7","Cafeteria at school",3794,124775,NA
+"8","Child care center",550,125325,NA
+"9","Family/adult day care center",227,125552,NA
+"10","Soup kitchen/shelter/food pantry",61,125613,NA
+"11","Meals on Wheels",85,125698,NA
+"12","Community food program - other",224,125922,NA
+"13","Community program no additional information",0,125922,NA
+"14","Vending machine",487,126409,NA
+"15","Common coffee pot or snack tray",834,127243,NA
+"16","From someone else/gift",7429,134672,NA
+"17","Mail order purchase",206,134878,NA
+"18","Residential dining facility",113,134991,NA
+"19","Grown or caught by you or someone you know",775,135766,NA
+"20","Fish caught by you or someone you know",38,135804,NA
+"24","Sport, recreation, or entertainment facility",818,136622,NA
+"25","Street vendor, vending truck",430,137052,NA
+"26","Fundraiser sales",152,137204,NA
+"91","Other, specify",39,137243,NA
+"99","Don't know",53,137296,NA
+".","Missing",8407,145703,NA

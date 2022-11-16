@@ -1,0 +1,4 @@
+"URDRIMLC.Code.or.Value","URDRIMLC.Value.Description","URDRIMLC.Count","URDRIMLC.Cumulative","URDRIMLC.Skip.to.Item"
+"0","At or above the detection limit",0,0,NA
+"1","Below lower detection limit",2593,2593,NA
+".","Missing",163,2756,NA

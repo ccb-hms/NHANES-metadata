@@ -1,0 +1,4 @@
+"SSBCPPL.Code.or.Value","SSBCPPL.Value.Description","SSBCPPL.Count","SSBCPPL.Cumulative","SSBCPPL.Skip.to.Item"
+"0","At or above the detection limit",1168,1168,NA
+"1","Below lower detection limit",886,2054,NA
+".","Missing",0,2054,NA

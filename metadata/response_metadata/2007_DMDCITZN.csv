@@ -1,0 +1,6 @@
+"DMDCITZN.Code.or.Value","DMDCITZN.Value.Description","DMDCITZN.Count","DMDCITZN.Cumulative","DMDCITZN.Skip.to.Item"
+"1","Citizen by birth or naturalization",9180,9180,NA
+"2","Not a citizen of the US",957,10137,NA
+"7","Refused",4,10141,NA
+"9","Don't know",2,10143,NA
+".","Missing",6,10149,NA

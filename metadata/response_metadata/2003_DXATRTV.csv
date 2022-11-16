@@ -1,0 +1,9 @@
+"DXATRTV.Code.or.Value","DXATRTV.Value.Description","DXATRTV.Count","DXATRTV.Cumulative","DXATRTV.Skip.to.Item"
+"0","Valid data",6235,6235,NA
+"1","Objects not removed",12,6247,NA
+"2","Non-removable objects such as implants",167,6414,NA
+"3","Excessive x-ray noise due to morbid obesity",136,6550,NA
+"4","Hip arm overlap",1,6551,NA
+"5","Movement",1,6552,NA
+"7","Other",84,6636,NA
+".","Missing",1020,7656,NA

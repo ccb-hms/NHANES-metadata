@@ -1,0 +1,4 @@
+"URD4FPLC.Code.or.Value","URD4FPLC.Value.Description","URD4FPLC.Count","URD4FPLC.Cumulative","URD4FPLC.Skip.to.Item"
+"0","At or above the detection limit",375,375,NA
+"1","Below lower detection limit",2053,2428,NA
+".","Missing",77,2505,NA

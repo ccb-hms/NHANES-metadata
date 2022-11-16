@@ -1,0 +1,5 @@
+"OPDUARM.Code.or.Value","OPDUARM.Value.Description","OPDUARM.Count","OPDUARM.Cumulative","OPDUARM.Skip.to.Item"
+"0","No ARM",2220,2220,NA
+"1","Early ARM",166,2386,NA
+"2","Late ARM",27,2413,NA
+".","Missing",521,2934,NA

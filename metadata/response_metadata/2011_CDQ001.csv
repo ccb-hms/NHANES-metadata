@@ -1,0 +1,6 @@
+"CDQ001.Code.or.Value","CDQ001.Value.Description","CDQ001.Count","CDQ001.Cumulative","CDQ001.Skip.to.Item"
+"1","Yes",858,858,""
+"2","No",2742,3600,"CDQ010"
+"7","Refused",1,3601,"CDQ010"
+"9","Don't know",2,3603,"CDQ010"
+".","Missing",0,3603,""

@@ -1,0 +1,10 @@
+"HUQ061.Code.or.Value","HUQ061.Value.Description","HUQ061.Count","HUQ061.Cumulative","HUQ061.Skip.to.Item"
+"1","6 months or less,",71,71,NA
+"2","more than 6 months, but not more than 1 year ago,",85,156,NA
+"3","more than 1 year, but not more than 2 years ago,",521,677,NA
+"4","more than 2 years, but not more than 5 years ago,",378,1055,NA
+"5","more than 5 years ago, or",204,1259,NA
+"6","Never?",22,1281,NA
+"77","Refused",0,1281,NA
+"99","Don't know",6,1287,NA
+".","Missing",8888,10175,NA

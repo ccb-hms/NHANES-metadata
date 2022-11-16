@@ -1,0 +1,9 @@
+"AUQ200.Code.or.Value","AUQ200.Value.Description","AUQ200.Count","AUQ200.Cumulative","AUQ200.Skip.to.Item"
+"1","Almost always,",263,263,NA
+"2","At least once a day,",106,369,NA
+"3","At least once a week,",170,539,NA
+"4","At least once a month, or",205,744,NA
+"5","Less frequently than once a month?",402,1146,NA
+"7","Refused",0,1146,NA
+"9","Don't know",15,1161,NA
+".","Missing",8332,9493,NA

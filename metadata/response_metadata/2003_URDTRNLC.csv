@@ -1,0 +1,4 @@
+"URDTRNLC.Code.or.Value","URDTRNLC.Value.Description","URDTRNLC.Count","URDTRNLC.Cumulative","URDTRNLC.Skip.to.Item"
+"0","At or above the detection limit",0,0,NA
+"1","Below lower detection limit",2427,2427,NA
+".","Missing",185,2612,NA

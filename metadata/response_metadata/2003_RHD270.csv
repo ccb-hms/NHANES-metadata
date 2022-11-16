@@ -1,0 +1,5 @@
+"RHD270.Code.or.Value","RHD270.Value.Description","RHD270.Count","RHD270.Cumulative","RHD270.Skip.to.Item"
+"0 to 3","Range of Values",240,240,NA
+"77","Refused",0,240,NA
+"99","Don't know",1,241,NA
+".","Missing",3323,3564,NA

@@ -1,0 +1,6 @@
+"RHQ250.Code.or.Value","RHQ250.Value.Description","RHQ250.Count","RHQ250.Cumulative","RHQ250.Skip.to.Item"
+"1","Yes",241,241,""
+"2","No",1590,1831,"RHQ275A"
+"7","Refused",0,1831,"RHQ275A"
+"9","Don't know",7,1838,"RHQ275A"
+".","Missing",1726,3564,""

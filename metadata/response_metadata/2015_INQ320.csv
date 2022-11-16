@@ -1,0 +1,14 @@
+"INQ320.Code.or.Value","INQ320.Value.Description","INQ320.Count","INQ320.Cumulative","INQ320.Skip.to.Item"
+"1","In my car",8179,8179,NA
+"2","In a car that belongs to someone I live with",409,8588,NA
+"3","In a car that belongs to someone who lives elsewhere",410,8998,NA
+"4","Walk",311,9309,NA
+"5","Ride bicycle",30,9339,NA
+"6","Bus, subway or other public transit",124,9463,NA
+"7","Taxi or other paid driver",75,9538,NA
+"8","Someone else delivers groceries",36,9574,NA
+"9","Other",44,9618,NA
+"66","No usual mode of traveling to store",11,9629,NA
+"77","Refused",13,9642,NA
+"99","Don't know",0,9642,NA
+".","Missing",329,9971,NA

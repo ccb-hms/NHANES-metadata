@@ -1,0 +1,8 @@
+"DPQ100.Code.or.Value","DPQ100.Value.Description","DPQ100.Count","DPQ100.Cumulative","DPQ100.Skip.to.Item"
+"0","Not at all difficult,",2262,2262,NA
+"1","Somewhat difficult,",739,3001,NA
+"2","Very difficult,",130,3131,NA
+"3","Extremely difficult",63,3194,NA
+"7","Refused",0,3194,NA
+"9","Don't know",5,3199,NA
+".","Missing",2416,5615,NA

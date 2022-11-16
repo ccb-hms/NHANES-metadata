@@ -1,0 +1,8 @@
+"LEALM1C2.Code.or.Value","LEALM1C2.Value.Description","LEALM1C2.Count","LEALM1C2.Cumulative","LEALM1C2.Skip.to.Item"
+"1","Lesions, bandages, elastic stockings",0,0,NA
+"2","Casts",0,0,NA
+"3","Amputation",0,0,NA
+"4","Callus",0,0,NA
+"5","Technical problem",1,1,NA
+"6","Other",0,1,NA
+".","Missing",2874,2875,NA

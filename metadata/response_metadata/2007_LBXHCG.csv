@@ -1,0 +1,11 @@
+"LBXHCG.Code.or.Value","LBXHCG.Value.Description","LBXHCG.Count","LBXHCG.Cumulative","LBXHCG.Skip.to.Item"
+"1","Genotype 1a",53,53,NA
+"2","Genotype 1b",21,74,NA
+"3","Genotype 1 other than 1a/1b/or with subtype not determined",1,75,NA
+"4","Genotype 2",7,82,NA
+"5","Genotype 3",5,87,NA
+"6","Genotype 4",0,87,NA
+"7","Genotype 5",0,87,NA
+"8","Genotype 6",0,87,NA
+"9","Genotype undetermined",1,88,NA
+".","Missing",8044,8132,NA

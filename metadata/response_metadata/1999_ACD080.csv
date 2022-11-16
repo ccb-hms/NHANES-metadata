@@ -1,0 +1,10 @@
+"ACD080.Code.or.Value","ACD080.Value.Description","ACD080.Count","ACD080.Cumulative","ACD080.Skip.to.Item"
+"1","United States, except Puerto Rico",776,776,NA
+"2","Puerto Rico",81,857,NA
+"3","Cuba",83,940,NA
+"4","Mexico",1605,2545,NA
+"5","Other country",143,2688,NA
+"6","Dominican Republic",73,2761,NA
+"77","Refused",0,2761,NA
+"99","Don't know",7,2768,NA
+".","Missing",4527,7295,NA

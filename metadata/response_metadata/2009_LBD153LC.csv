@@ -1,0 +1,4 @@
+"LBD153LC.Code.or.Value","LBD153LC.Value.Description","LBD153LC.Count","LBD153LC.Cumulative","LBD153LC.Skip.to.Item"
+"0","At or above the detection limit",299,299,NA
+"1","Below lower detection limit",0,299,NA
+".","Missing",2,301,NA

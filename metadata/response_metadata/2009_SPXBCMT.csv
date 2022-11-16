@@ -1,0 +1,10 @@
+"SPXBCMT.Code.or.Value","SPXBCMT.Value.Description","SPXBCMT.Count","SPXBCMT.Cumulative","SPXBCMT.Skip.to.Item"
+"2","SP refusal",99,99,NA
+"3","No time",25,124,NA
+"5","Communication problem",2,126,NA
+"7","SP ill/emergency",4,130,NA
+"27","Proxy no information",2,132,NA
+"56","Came late/left early",33,165,NA
+"84","SP with child",9,174,NA
+"99","Other",17,191,NA
+".","Missing",8004,8195,NA

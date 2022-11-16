@@ -1,0 +1,10 @@
+"OHX11DI.Code.or.Value","OHX11DI.Value.Description","OHX11DI.Count","OHX11DI.Cumulative","OHX11DI.Skip.to.Item"
+"0","Normal",3523,3523,NA
+"1","Very mild",461,3984,NA
+"2","Mild",61,4045,NA
+"3","Moderate",14,4059,NA
+"4","Severe",1,4060,NA
+"5","Questionable",355,4415,NA
+"8","Non-fluoride opacities",36,4451,NA
+"9","Cannot be assessed",1484,5935,NA
+".","Missing",3663,9598,NA

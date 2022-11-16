@@ -1,0 +1,6 @@
+"OSQ010c.Code.or.Value","OSQ010c.Value.Description","OSQ010c.Count","OSQ010c.Cumulative","OSQ010c.Skip.to.Item"
+"1","Yes",111,111,"OSQ020c"
+"2","No",6103,6214,"OSQ025"
+"7","Refused",0,6214,"OSQ025"
+"9","Don't know",4,6218,"OSQ025"
+".","Missing",0,6218,""

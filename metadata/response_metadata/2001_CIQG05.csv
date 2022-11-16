@@ -1,0 +1,8 @@
+"CIQG05.Code.or.Value","CIQG05.Value.Description","CIQG05.Count","CIQG05.Cumulative","CIQG05.Skip.to.Item"
+"1","All Day Long",13,13,"CIQG12"
+"2","Most of the Day",32,45,"CIQG12"
+"3","About Half",32,77,"CIQG12"
+"4","Less than Half",16,93,"CIQG12"
+"7","Refused",0,93,"CIQG12"
+"9","Don't know",0,93,"CIQG12"
+".","Missing",835,928,""

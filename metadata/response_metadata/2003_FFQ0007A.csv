@@ -1,0 +1,11 @@
+"FFQ0007A.Code.or.Value","FFQ0007A.Value.Description","FFQ0007A.Count","FFQ0007A.Cumulative","FFQ0007A.Skip.to.Item"
+1,"Whole milk",2090,2090,NA
+2,"2% fat milk",2119,4209,NA
+3,"1% fat milk",440,4649,NA
+4,"Skim, nonfat, or 1/2% fat milk",571,5220,NA
+5,"Soy milk",87,5307,NA
+6,"Rice milk",9,5316,NA
+7,"Raw, unpasteurized milk",4,5320,NA
+8,"Other",101,5421,NA
+88,"Blank",962,6383,NA
+99,"Error",89,6472,NA

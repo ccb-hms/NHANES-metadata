@@ -1,0 +1,4 @@
+"URDMEPLC.Code.or.Value","URDMEPLC.Value.Description","URDMEPLC.Count","URDMEPLC.Cumulative","URDMEPLC.Skip.to.Item"
+"0","At or above the detection limit",2486,2486,NA
+"1","Below lower detection limit",3,2489,NA
+".","Missing",105,2594,NA

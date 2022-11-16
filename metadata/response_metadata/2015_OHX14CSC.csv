@@ -1,0 +1,19 @@
+"OHX14CSC.Code.or.Value","OHX14CSC.Value.Description","OHX14CSC.Count","OHX14CSC.Cumulative","OHX14CSC.Skip.to.Item"
+"Coronal Caries:  Surface condition #14","Value was recorded",1251,1251,NA
+"0","Lingual AMALGAM restoration",18,1269,NA
+"1","Occlusal AMALGAM restoration",358,1627,NA
+"2","Facial AMALGAM restoration",2,1629,NA
+"3","Mesial AMALGAM restoration",0,1629,NA
+"4","Distal AMALGAM restoration",0,1629,NA
+"5","Lingual OTHER restoration",4,1633,NA
+"6","Occlusal OTHER restoration",375,2008,NA
+"7","Facial OTHER restoration",1,2009,NA
+"8","Mesial OTHER restoration",1,2010,NA
+"9","Distal OTHER restoration",0,2010,NA
+"-1","Crown (non-specific full-coverage restoration)",513,2523,NA
+"-4","Lingual caries",14,2537,NA
+"-5","Occlusal caries",100,2637,NA
+"-6","Facial caries",0,2637,NA
+"-7","Mesial caries",11,2648,NA
+"-8","Distal caries",8,2656,NA
+"< blank >","Missing",6509,9165,NA

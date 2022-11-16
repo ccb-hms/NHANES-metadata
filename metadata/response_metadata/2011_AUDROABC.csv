@@ -1,0 +1,10 @@
+"AUDROABC.Code.or.Value","AUDROABC.Value.Description","AUDROABC.Count","AUDROABC.Cumulative","AUDROABC.Skip.to.Item"
+"1","Possible Perforated Eardrum",5,5,NA
+"2","Perforated Eardrum",0,5,NA
+"3","Possible Infection",5,10,NA
+"4","TM Scarring or Deformity",2,12,NA
+"5","Possible Ear Canal Abrasion",5,17,NA
+"6","Growth or Foreign Body in Ear Canal",9,26,NA
+"7","Deformity of Auricle",2,28,NA
+"9","Could not Visualize Eardrum",1,29,NA
+".","Missing",4471,4500,NA

@@ -1,0 +1,11 @@
+"AUQ340.Code.or.Value","AUQ340.Value.Description","AUQ340.Count","AUQ340.Cumulative","AUQ340.Skip.to.Item"
+"1","Less than 3 months",84,84,NA
+"2","3 to 11 months",184,268,NA
+"3","1 to 2 years",251,519,NA
+"4","3 to 4 years",190,709,NA
+"5","5 to 9 years",262,971,NA
+"6","10 to 14 years",180,1151,NA
+"7","15 or more years",382,1533,NA
+"77","Refused",0,1533,NA
+"99","Don't know",3,1536,NA
+".","Missing",7828,9364,NA

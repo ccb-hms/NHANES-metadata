@@ -1,0 +1,4 @@
+"URDUBALC.Code.or.Value","URDUBALC.Value.Description","URDUBALC.Count","URDUBALC.Cumulative","URDUBALC.Skip.to.Item"
+"0","At or above the detection limit",2252,2252,NA
+"1","Below lower detection limit",20,2272,NA
+".","Missing",77,2349,NA

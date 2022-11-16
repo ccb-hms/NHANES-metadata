@@ -1,0 +1,9 @@
+"DIQ360.Code.or.Value","DIQ360.Value.Description","DIQ360.Count","DIQ360.Cumulative","DIQ360.Skip.to.Item"
+"1","Less than 1 month",81,81,NA
+"2","1-12 months",362,443,NA
+"3","13-24 months",106,549,NA
+"4","Greater than 2 years",115,664,NA
+"5","Never",62,726,NA
+"7","Refused",0,726,NA
+"9","Don't know",6,732,NA
+".","Missing",9038,9770,NA

@@ -1,0 +1,4 @@
+"LBDBR8LC.Code.or.Value","LBDBR8LC.Value.Description","LBDBR8LC.Count","LBDBR8LC.Cumulative","LBDBR8LC.Skip.to.Item"
+"0","At or above the detection limit",192,192,NA
+"1","Below lower detection limit",72,264,NA
+".","Missing",0,264,NA

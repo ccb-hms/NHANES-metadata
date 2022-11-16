@@ -1,0 +1,4 @@
+"URD3TBLC.Code.or.Value","URD3TBLC.Value.Description","URD3TBLC.Count","URD3TBLC.Cumulative","URD3TBLC.Skip.to.Item"
+"0","At or above the detection limit",806,806,NA
+"1","Below lower detection limit",1719,2525,NA
+".","Missing",87,2612,NA

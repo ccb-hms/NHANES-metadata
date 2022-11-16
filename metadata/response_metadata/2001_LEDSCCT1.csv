@@ -1,0 +1,16 @@
+"LEDSCCT1.Code.or.Value","LEDSCCT1.Value.Description","LEDSCCT1.Count","LEDSCCT1.Cumulative","LEDSCCT1.Skip.to.Item"
+"0","None",2743,2743,NA
+"2","SP refusal",70,2813,NA
+"3","No time",16,2829,NA
+"4","Physical limitation",105,2934,NA
+"5","Communication problem",53,2987,NA
+"7","SP ill/emergency",16,3003,NA
+"43","Weight limitation on equipment",3,3006,NA
+"56","Came late/left early",143,3149,NA
+"72","Error (technician/software/supply)",11,3160,NA
+"84","SP with child",15,3175,NA
+"101","Bandage, stocking, or other obstruction",1,3176,NA
+"102","Feet extremely calloused",5,3181,NA
+"103","As per doctor's request",1,3182,NA
+"999","Other, specify",2,3184,NA
+".","Missing",0,3184,NA

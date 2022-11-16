@@ -1,0 +1,8 @@
+"WHQ500.Code.or.Value","WHQ500.Value.Description","WHQ500.Count","WHQ500.Cumulative","WHQ500.Skip.to.Item"
+"1","lose weight,",517,517,""
+"2","gain weight,",169,686,"WHQ520"
+"3","stay the same weight, or",397,1083,"WHQ520"
+"4","not trying to do anything about your weight?",312,1395,"WHQ520"
+"7","Refused",0,1395,"WHQ520"
+"9","Don't know",0,1395,"WHQ520"
+".","Missing",65,1460,""

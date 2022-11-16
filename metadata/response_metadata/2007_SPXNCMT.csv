@@ -1,0 +1,13 @@
+"SPXNCMT.Code.or.Value","SPXNCMT.Value.Description","SPXNCMT.Count","SPXNCMT.Cumulative","SPXNCMT.Skip.to.Item"
+"2","SP refusal",80,80,NA
+"3","No time",32,112,NA
+"4","Physical limitation",67,179,NA
+"5","Communication problem",64,243,NA
+"6","Equipment failure",9,252,NA
+"7","SP ill/emergency",26,278,NA
+"14","Interrupted",4,282,NA
+"27","Proxy no information",11,293,NA
+"56","Came late/left early",526,819,NA
+"84","SP with child",43,862,NA
+"99","Other",71,933,NA
+".","Missing",6810,7743,NA

@@ -1,0 +1,8 @@
+"DXXAGST.Code.or.Value","DXXAGST.Value.Description","DXXAGST.Count","DXXAGST.Cumulative","DXXAGST.Skip.to.Item"
+"1","Whole body scan completed; android/gynoid region is valid",5085,5085,NA
+"2","Whole body scan completed, but android or gynoid region is invalid",30,5115,NA
+"3","Whole body not scanned, pregnancy",70,5185,NA
+"4","Whole body not scanned, weight > 450 lbs",0,5185,NA
+"5","Whole body not scanned, height > 6'5”",4,5189,NA
+"6","Whole body not scanned, other reason",591,5780,NA
+".","Missing",0,5780,NA

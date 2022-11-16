@@ -1,0 +1,7 @@
+"FSD132.Code.or.Value","FSD132.Value.Description","FSD132.Count","FSD132.Cumulative","FSD132.Skip.to.Item"
+"1","Almost every month,",16,16,NA
+"2","Some months but not every month, or",50,66,NA
+"3","Only 1 or 2 months?",30,96,NA
+"7","Refused",0,96,NA
+"9","Don't know",0,96,NA
+".","Missing",10252,10348,NA

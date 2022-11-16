@@ -1,0 +1,10 @@
+"PEASCCT1.Code.or.Value","PEASCCT1.Value.Description","PEASCCT1.Count","PEASCCT1.Cumulative","PEASCCT1.Skip.to.Item"
+"2","SP refusal",23,23,NA
+"3","No time",10,33,NA
+"4","Physical limitation",3,36,NA
+"5","Communication problem",3,39,NA
+"7","SP ill/emergency",8,47,NA
+"56","Came late/left early",333,380,NA
+"84","SP with child",6,386,NA
+"99","Other, specify",19,405,NA
+".","Missing",9357,9762,NA

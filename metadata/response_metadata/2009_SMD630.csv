@@ -1,0 +1,7 @@
+"SMD630.Code.or.Value","SMD630.Value.Description","SMD630.Count","SMD630.Cumulative","SMD630.Skip.to.Item"
+"7 to 19","Range of Values",288,288,""
+"6","6 years or less",7,295,""
+"55","Never smoked a whole cigarette",107,402,"SMAQUEX2"
+"77","Refused",0,402,"SMAQUEX2"
+"99","Don't know",0,402,"SMAQUEX2"
+".","Missing",7126,7528,""

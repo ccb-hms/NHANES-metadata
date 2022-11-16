@@ -1,0 +1,7 @@
+"OPDSME.Code.or.Value","OPDSME.Value.Description","OPDSME.Count","OPDSME.Cumulative","OPDSME.Skip.to.Item"
+"0","No",2348,2348,NA
+"1","Questionable",3,2351,NA
+"2","Yes, but not CSME",5,2356,NA
+"3","Yes CSME",15,2371,NA
+"7","Other",0,2371,NA
+".","Missing",563,2934,NA

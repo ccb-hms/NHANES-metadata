@@ -1,0 +1,8 @@
+"MSDEXCLU.Code.or.Value","MSDEXCLU.Value.Description","MSDEXCLU.Count","MSDEXCLU.Cumulative","MSDEXCLU.Skip.to.Item"
+"1","Chest/abdomen surgery past three weeks",10,10,NA
+"2","Myocardial infarction (or""heart attack"") in the past six weeks",3,13,NA
+"3","Told by dr had aneurysm in the brain or had a stroke",99,112,NA
+"4","Have severe neck or back pain today",88,200,NA
+"5","Difficult in bending or straightening right knee",25,225,NA
+"6","Had right knee or right hip replacement",32,257,NA
+".","Missing",1899,2156,NA

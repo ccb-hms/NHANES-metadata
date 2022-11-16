@@ -1,0 +1,8 @@
+"AUQ010.Code.or.Value","AUQ010.Value.Description","AUQ010.Count","AUQ010.Cumulative","AUQ010.Skip.to.Item"
+"1","Yes, right ear",3,3,NA
+"2","Yes, left ear",4,7,NA
+"3","Yes, both ears",4,11,NA
+"4","No",1128,1139,NA
+"7","Refused",1,1140,NA
+"9","Don't know",10,1150,NA
+".","Missing",60,1210,NA

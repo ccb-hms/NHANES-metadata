@@ -1,0 +1,9 @@
+"ACD040.Code.or.Value","ACD040.Value.Description","ACD040.Count","ACD040.Cumulative","ACD040.Skip.to.Item"
+"1","Only Spanish,",802,802,NA
+"2","More Spanish than English,",219,1021,NA
+"3","Both equally,",383,1404,NA
+"4","More English than Spanish, or",310,1714,NA
+"5","Only English?",537,2251,NA
+"7","Refused",0,2251,NA
+"9","Don't know",3,2254,NA
+".","Missing",5644,7898,NA

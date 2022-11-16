@@ -1,0 +1,7 @@
+"PSQ020.Code.or.Value","PSQ020.Value.Description","PSQ020.Count","PSQ020.Cumulative","PSQ020.Skip.to.Item"
+"1","Yes",49,49,""
+"2","No",20,69,"PSQ040"
+"3","Heard of PSA, but do not know what the test is for",0,69,""
+"7","Refused",0,69,"PSQ040"
+"9","Don't know",0,69,"PSQ040"
+".","Missing",52,121,""

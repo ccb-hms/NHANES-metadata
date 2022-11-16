@@ -1,0 +1,10 @@
+"DBQ197.Code.or.Value","DBQ197.Value.Description","DBQ197.Count","DBQ197.Cumulative","DBQ197.Skip.to.Item"
+"0","Never",1148,1148,"DBD225"
+"1","Rarely-less than once a week",1094,2242,""
+"2","Sometimes-once a week or more, but less than once a 
+      day, or",2338,4580,""
+"3","Often-once a day or more?",5509,10089,""
+"4","Varied",16,10105,""
+"7","Refused",1,10106,"DBD225"
+"9","Don't know",3,10109,"DBD225"
+".","Missing",428,10537,""

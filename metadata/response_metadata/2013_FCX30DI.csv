@@ -1,0 +1,10 @@
+"FCX30DI.Code.or.Value","FCX30DI.Value.Description","FCX30DI.Count","FCX30DI.Cumulative","FCX30DI.Skip.to.Item"
+"0","Normal",224,224,NA
+"1","Very mild",656,880,NA
+"2","Mild",843,1723,NA
+"3","Moderate",483,2206,NA
+"4","Severe",14,2220,NA
+"5","Questionable",88,2308,NA
+"8","Non-fluoride opacities",5,2313,NA
+"9","Cannot be assessed",338,2651,NA
+".","Missing",52,2703,NA

@@ -1,0 +1,8 @@
+"MPQ110.Code.or.Value","MPQ110.Value.Description","MPQ110.Count","MPQ110.Cumulative","MPQ110.Skip.to.Item"
+"1","Less than a month,",351,351,NA
+"2","At least 1 month but less than 3 months,",148,499,NA
+"3","At least 3 months but less than 1 year, or",156,655,NA
+"4","Greater than 1 year?",621,1276,NA
+"7","Refused",0,1276,NA
+"9","Don't know",3,1279,NA
+".","Missing",4132,5411,NA

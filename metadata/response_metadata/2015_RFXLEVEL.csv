@@ -1,0 +1,8 @@
+"RFXLEVEL.Code.or.Value","RFXLEVEL.Value.Description","RFXLEVEL.Count","RFXLEVEL.Cumulative","RFXLEVEL.Skip.to.Item"
+"1","85 dB and 1 kHz",8500,8500,NA
+"5","95 dB and 1 kHz",8523,17023,NA
+"9","105 dB and 1 kHz",8524,25547,NA
+"10","85 dB and 2 kHz",8516,34063,NA
+"14","95 dB and 2 kHz",8510,42573,NA
+"18","105 dB and 2 kHz",8503,51076,NA
+".","Missing",0,51076,NA

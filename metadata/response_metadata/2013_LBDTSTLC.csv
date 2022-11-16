@@ -1,0 +1,4 @@
+"LBDTSTLC.Code.or.Value","LBDTSTLC.Value.Description","LBDTSTLC.Count","LBDTSTLC.Cumulative","LBDTSTLC.Skip.to.Item"
+"0","At or above the detection limit",7550,7550,NA
+"1","Below lower detection limit",9,7559,NA
+".","Missing",732,8291,NA

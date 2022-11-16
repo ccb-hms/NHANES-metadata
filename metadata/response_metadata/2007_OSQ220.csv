@@ -1,0 +1,6 @@
+"OSQ220.Code.or.Value","OSQ220.Value.Description","OSQ220.Count","OSQ220.Cumulative","OSQ220.Skip.to.Item"
+"1","Under 50 years old, or",2,2,NA
+"2","50 years old or older?",3,5,NA
+"7","Refused",0,5,NA
+"9","Don't know",0,5,NA
+".","Missing",5930,5935,NA

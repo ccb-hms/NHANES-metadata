@@ -1,0 +1,6 @@
+"RHQ320.Code.or.Value","RHQ320.Value.Description","RHQ320.Count","RHQ320.Cumulative","RHQ320.Skip.to.Item"
+"1","Same time",218,218,""
+"2","Different times",21,239,"RHQ340"
+"7","Refused",0,239,"RHQ345"
+"9","Don't know",0,239,"RHQ345"
+".","Missing",3278,3517,""

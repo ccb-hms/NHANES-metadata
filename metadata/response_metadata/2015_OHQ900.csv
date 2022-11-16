@@ -1,0 +1,9 @@
+"OHQ900.Code.or.Value","OHQ900.Value.Description","OHQ900.Count","OHQ900.Cumulative","OHQ900.Skip.to.Item"
+"1","Doctor/physician",42,42,NA
+"2","Nurse/nurse practitioner",4,46,NA
+"3","Dentist (include oral surgeons)",527,573,NA
+"4","Dental Hygienist",101,674,NA
+"5","Other",6,680,NA
+"7","Refused",0,680,NA
+"9","Don't know",3,683,NA
+".","Missing",8892,9575,NA

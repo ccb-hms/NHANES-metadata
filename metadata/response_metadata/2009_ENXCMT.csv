@@ -1,0 +1,13 @@
+"ENXCMT.Code.or.Value","ENXCMT.Value.Description","ENXCMT.Count","ENXCMT.Cumulative","ENXCMT.Skip.to.Item"
+"1","Safety exclusion",6,6,NA
+"2","SP refusal",65,71,NA
+"3","No time",8,79,NA
+"4","Physical limitation",21,100,NA
+"5","Communication problem",38,138,NA
+"6","Equipment failure",21,159,NA
+"7","SP ill/emergency",12,171,NA
+"14","Interrupted",1,172,NA
+"56","Came late/left early",259,431,NA
+"84","SP with child",24,455,NA
+"99","Other",10,465,NA
+".","Missing",7730,8195,NA

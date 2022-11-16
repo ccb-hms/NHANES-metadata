@@ -1,0 +1,23 @@
+"PFQ063C.Code.or.Value","PFQ063C.Value.Description","PFQ063C.Count","PFQ063C.Cumulative","PFQ063C.Skip.to.Item"
+"10","Arthritis/rheumatism",24,24,NA
+"11","Back or neck problem",16,40,NA
+"12","Birth defect",4,44,NA
+"13","Cancer",11,55,NA
+"14","Depression/anxiety/emotional problem",75,130,NA
+"15","Other developmental problem (such as cerebral palsy)",2,132,NA
+"16","Diabetes",73,205,NA
+"17","Fractures, bone/joint injury",79,284,NA
+"18","Hearing problem",37,321,NA
+"19","Heart problem",58,379,NA
+"20","Hypertension/high blood pressure",121,500,NA
+"21","Lung/breathing problem",39,539,NA
+"22","Mental retardation",4,543,NA
+"23","Other injury",13,556,NA
+"24","Senility",1,557,NA
+"25","Stroke problem",15,572,NA
+"26","Vision/problem seeing",42,614,NA
+"27","Weight problem",45,659,NA
+"28","Other impairment/problem",81,740,NA
+"77","Refused",0,740,NA
+"99","Don't know",0,740,NA
+".","Missing",8276,9016,NA

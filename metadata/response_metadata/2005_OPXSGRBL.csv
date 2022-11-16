@@ -1,0 +1,9 @@
+"OPXSGRBL.Code.or.Value","OPXSGRBL.Value.Description","OPXSGRBL.Count","OPXSGRBL.Cumulative","OPXSGRBL.Skip.to.Item"
+"0","Gradable",2271,2271,NA
+"1","Disc ungradable",6,2277,NA
+"2","Part macula",105,2382,NA
+"3","Macula ungradable",68,2450,NA
+"4","Part disc & macula",7,2457,NA
+"5","Disc & macula ungradable",10,2467,NA
+"6","Ungradable",17,2484,NA
+".","Missing",450,2934,NA

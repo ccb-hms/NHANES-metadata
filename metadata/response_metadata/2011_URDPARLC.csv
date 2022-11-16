@@ -1,0 +1,4 @@
+"URDPARLC.Code.or.Value","URDPARLC.Value.Description","URDPARLC.Count","URDPARLC.Cumulative","URDPARLC.Skip.to.Item"
+"0","At or above the detection limit",2251,2251,NA
+"1","Below lower detection limit",99,2350,NA
+".","Missing",155,2505,NA

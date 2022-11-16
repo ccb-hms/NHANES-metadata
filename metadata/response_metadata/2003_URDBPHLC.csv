@@ -1,0 +1,4 @@
+"URDBPHLC.Code.or.Value","URDBPHLC.Value.Description","URDBPHLC.Count","URDBPHLC.Cumulative","URDBPHLC.Skip.to.Item"
+"0","At or above the detection limit",2353,2353,NA
+"1","Below lower detection limit",164,2517,NA
+".","Missing",95,2612,NA

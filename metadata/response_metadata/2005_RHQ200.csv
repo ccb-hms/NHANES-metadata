@@ -1,0 +1,6 @@
+"RHQ200.Code.or.Value","RHQ200.Value.Description","RHQ200.Count","RHQ200.Cumulative","RHQ200.Skip.to.Item"
+"1","Yes",50,50,"RHD230"
+"2","No",166,216,""
+"7","Refused",0,216,""
+"9","Don't know",0,216,""
+".","Missing",3381,3597,""

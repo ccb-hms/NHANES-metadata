@@ -1,0 +1,6 @@
+"OPDSRL4.Code.or.Value","OPDSRL4.Value.Description","OPDSRL4.Count","OPDSRL4.Cumulative","OPDSRL4.Skip.to.Item"
+"1","No retinopathy",2205,2205,NA
+"2","Mild NPR",150,2355,NA
+"3","Moderate/severe NPR",42,2397,NA
+"4","PR (Proliferative)",9,2406,NA
+".","Missing",528,2934,NA

@@ -1,0 +1,8 @@
+"BIAEXSTS.Code.or.Value","BIAEXSTS.Value.Description","BIAEXSTS.Count","BIAEXSTS.Cumulative","BIAEXSTS.Skip.to.Item"
+"1","Examination completed",4269,4269,NA
+"2","Examination incomplete",57,4326,NA
+"3","Not examined, pregnancy",305,4631,NA
+"4","Not examined, weight > 300 lbs",44,4675,NA
+"5","Not examined, jewelry or other objects not removed or metal in body",179,4854,NA
+"6","Not examined, other reason",457,5311,NA
+".","Missing",0,5311,NA

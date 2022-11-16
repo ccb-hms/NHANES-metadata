@@ -1,0 +1,7 @@
+"SMD650.Code.or.Value","SMD650.Value.Description","SMD650.Count","SMD650.Cumulative","SMD650.Skip.to.Item"
+"2 to 80","Range of Values",1090,1090,NA
+"1","1 cigarette or less",126,1216,NA
+"95","95 cigarettes or more",1,1217,NA
+"777","Refused",0,1217,NA
+"999","Don't know",6,1223,NA
+".","Missing",5567,6790,NA

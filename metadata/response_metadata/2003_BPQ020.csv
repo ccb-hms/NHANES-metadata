@@ -1,0 +1,6 @@
+"BPQ020.Code.or.Value","BPQ020.Value.Description","BPQ020.Count","BPQ020.Cumulative","BPQ020.Skip.to.Item"
+"1","Yes",1801,1801,""
+"2","No",4319,6120,"BPQ055"
+"7","Refused",0,6120,"BPQ055"
+"9","Don't know",18,6138,"BPQ055"
+".","Missing",75,6213,""

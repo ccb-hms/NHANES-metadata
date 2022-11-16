@@ -1,0 +1,7 @@
+"MCQ190.Code.or.Value","MCQ190.Value.Description","MCQ190.Count","MCQ190.Cumulative","MCQ190.Skip.to.Item"
+"1","Rheumatoid arthritis",367,367,"MCQ160B"
+"2","Osteoarthritis",322,689,"MCQ160B"
+"3","Other",32,721,"MCQ160B"
+"7","Refused",1,722,"MCQ160B"
+"9","Don't know",517,1239,"MCQ160B"
+".","Missing",8254,9493,""

@@ -1,0 +1,9 @@
+"OCQ265.Code.or.Value","OCQ265.Value.Description","OCQ265.Count","OCQ265.Cumulative","OCQ265.Skip.to.Item"
+"1","A regular daytime schedule",2297,2297,NA
+"2","A regular evening shift",253,2550,NA
+"3","A regular night shift",145,2695,NA
+"4","A rotating shift",330,3025,NA
+"5","Another schedule",330,3355,NA
+"7","Refused",1,3356,NA
+"9","Don't know",1,3357,NA
+".","Missing",2782,6139,NA

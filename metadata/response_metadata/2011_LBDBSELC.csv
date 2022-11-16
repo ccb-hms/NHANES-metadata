@@ -1,0 +1,4 @@
+"LBDBSELC.Code.or.Value","LBDBSELC.Value.Description","LBDBSELC.Count","LBDBSELC.Cumulative","LBDBSELC.Skip.to.Item"
+"0","At or above the detection limit",7920,7920,NA
+"1","Below lower detection limit",0,7920,NA
+".","Missing",1036,8956,NA

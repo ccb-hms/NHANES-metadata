@@ -1,0 +1,5 @@
+"OHXRCAR.Code.or.Value","OHXRCAR.Value.Description","OHXRCAR.Count","OHXRCAR.Cumulative","OHXRCAR.Skip.to.Item"
+"1","Root caries detected",411,411,NA
+"2","No root caries detected",3241,3652,NA
+"9","Cannot be assessed",1,3653,NA
+".","Missing",4934,8587,NA

@@ -1,0 +1,5 @@
+"DXXTBSM.Code.or.Value","DXXTBSM.Value.Description","DXXTBSM.Count","DXXTBSM.Cumulative","DXXTBSM.Skip.to.Item"
+"0","Not missing",3657,3657,NA
+"1","Missing, less than two valid vertebra",86,3743,NA
+"2","Missing, no BMI",24,3767,NA
+".","Missing",3953,7720,NA

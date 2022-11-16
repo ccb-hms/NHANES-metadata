@@ -1,0 +1,6 @@
+"MCQ180L.Code.or.Value","MCQ180L.Value.Description","MCQ180L.Count","MCQ180L.Cumulative","MCQ180L.Skip.to.Item"
+"3 to 80","Range of Values",168,168,""
+"85","85 years or older",0,168,"MCQ160M"
+"77777","Refused",0,168,"MCQ160M"
+"99999","Don't know",2,170,"MCQ160M"
+".","Missing",9475,9645,""

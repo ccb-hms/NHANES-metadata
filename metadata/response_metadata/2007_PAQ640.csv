@@ -1,0 +1,5 @@
+"PAQ640.Code.or.Value","PAQ640.Value.Description","PAQ640.Count","PAQ640.Cumulative","PAQ640.Skip.to.Item"
+"1 to 7","Range of Values",1990,1990,""
+"77","Refused",0,1990,"PAQ650"
+"99","Don't know",1,1991,"PAQ650"
+".","Missing",7368,9359,""

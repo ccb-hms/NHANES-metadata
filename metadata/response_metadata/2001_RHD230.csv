@@ -1,0 +1,5 @@
+"RHD230.Code.or.Value","RHD230.Value.Description","RHD230.Count","RHD230.Cumulative","RHD230.Skip.to.Item"
+"0 to 13","Range of Values",1234,1234,NA
+"77","Refused",0,1234,NA
+"99","Don't know",2,1236,NA
+".","Missing",2629,3865,NA

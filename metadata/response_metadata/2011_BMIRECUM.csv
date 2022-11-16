@@ -1,0 +1,5 @@
+"BMIRECUM.Code.or.Value","BMIRECUM.Value.Description","BMIRECUM.Count","BMIRECUM.Cumulative","BMIRECUM.Skip.to.Item"
+"1","Could not obtain",31,31,NA
+"2","Exceeds capacity",0,31,NA
+"3","Not straight",0,31,NA
+".","Missing",9307,9338,NA

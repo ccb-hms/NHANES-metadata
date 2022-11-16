@@ -1,0 +1,4 @@
+"LBDEPAHL.Code.or.Value","LBDEPAHL.Value.Description","LBDEPAHL.Count","LBDEPAHL.Cumulative","LBDEPAHL.Skip.to.Item"
+"0","At or above the detection limit",123,123,NA
+"1","Below lower detection limit",2110,2233,NA
+".","Missing",199,2432,NA

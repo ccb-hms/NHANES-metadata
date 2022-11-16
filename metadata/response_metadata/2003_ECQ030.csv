@@ -1,0 +1,6 @@
+"ECQ030.Code.or.Value","ECQ030.Value.Description","ECQ030.Count","ECQ030.Cumulative","ECQ030.Skip.to.Item"
+"1","Yes",240,240,""
+"2","No",384,624,"ECQ060"
+"7","Refused",0,624,"ECQ060"
+"9","Don't know",12,636,"ECQ060"
+".","Missing",3273,3909,""

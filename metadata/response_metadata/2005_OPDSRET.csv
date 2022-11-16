@@ -1,0 +1,19 @@
+"OPDSRET.Code.or.Value","OPDSRET.Value.Description","OPDSRET.Count","OPDSRET.Cumulative","OPDSRET.Skip.to.Item"
+"10","No retinopathy",2124,2124,NA
+"12","Non-diabetic retinal disease specific retinopathy",22,2146,NA
+"13","Questionable retinopathy",59,2205,NA
+"14","HE, SE, IRMA, VL but no MAS",8,2213,NA
+"15","HEM only, no MAS",30,2243,NA
+"20","MAS only",77,2320,NA
+"31","Early NPR",35,2355,NA
+"41","Moderate NPR",40,2395,NA
+"51","Severe NPR",2,2397,NA
+"60","Fibrous prolif. only",2,2399,NA
+"61","No retinopathy but PRP laser",1,2400,NA
+"62","MAS only +  PRP laser",0,2400,NA
+"63","Early NPR + PRP laser",0,2400,NA
+"64","Moderate/severe NPR + PRP laser",0,2400,NA
+"65","PR < HRC",5,2405,NA
+"70","PR >= HRC",1,2406,NA
+"80","Total VH",0,2406,NA
+".","Missing",528,2934,NA

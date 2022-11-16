@@ -1,0 +1,4 @@
+"LBD114LC.Code.or.Value","LBD114LC.Value.Description","LBD114LC.Count","LBD114LC.Cumulative","LBD114LC.Skip.to.Item"
+"0","At or above the detection limit",200,200,NA
+"1","Below lower detection limit",99,299,NA
+".","Missing",2,301,NA

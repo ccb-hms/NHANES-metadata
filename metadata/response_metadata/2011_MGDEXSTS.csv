@@ -1,0 +1,5 @@
+"MGDEXSTS.Code.or.Value","MGDEXSTS.Value.Description","MGDEXSTS.Count","MGDEXSTS.Cumulative","MGDEXSTS.Skip.to.Item"
+"1","Completed test on both hands",7064,7064,NA
+"2","Completed test on only one hand",113,7177,NA
+"3","Did not perform test",644,7821,NA
+".","Missing",0,7821,NA

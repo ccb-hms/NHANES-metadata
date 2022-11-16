@@ -1,0 +1,10 @@
+"HCQ060.Code.or.Value","HCQ060.Value.Description","HCQ060.Count","HCQ060.Cumulative","HCQ060.Skip.to.Item"
+"1","You donated blood?",3,3,NA
+"2","You had other blood tests done for a routine physical that showed you might have liver disease?",12,15,NA
+"3","You were sick with symptoms like fatigue, nausea, stomach pain, yellowing of the eyes or skin (known as jaundice)?",2,17,NA
+"4","You were exposed to blood while on the job?",0,17,NA
+"5","You or your doctor thought you were at risk of having hepatitis C?",1,18,NA
+"6","You had another reason?",6,24,NA
+"7","Refused",0,24,NA
+"9","Don't know",1,25,NA
+".","Missing",62,87,NA

@@ -1,0 +1,12 @@
+"CVDEXCMT.Code.or.Value","CVDEXCMT.Value.Description","CVDEXCMT.Count","CVDEXCMT.Cumulative","CVDEXCMT.Skip.to.Item"
+"0","None",1914,1914,NA
+"1","Met exclusion criteria",799,2713,NA
+"2","Pregnant more than 12 weeks",247,2960,NA
+"3","Refusal",68,3028,NA
+"4","No time",238,3266,NA
+"5","Technical problem",698,3964,NA
+"6","Met priority 1 stopping criteria",27,3991,NA
+"7","Met priority 2 stopping criteria",532,4523,NA
+"8","Not able to calculate VO2max",17,4540,NA
+"90","Other",62,4602,NA
+".","Missing",0,4602,NA

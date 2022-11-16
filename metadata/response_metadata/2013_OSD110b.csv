@@ -1,0 +1,6 @@
+"OSD110b.Code.or.Value","OSD110b.Value.Description","OSD110b.Count","OSD110b.Cumulative","OSD110b.Skip.to.Item"
+"20 to 66","Range of Values",68,68,NA
+"80","80 or older",2,70,NA
+"777","Refused",0,70,NA
+"999","Don't know",1,71,NA
+".","Missing",3744,3815,NA

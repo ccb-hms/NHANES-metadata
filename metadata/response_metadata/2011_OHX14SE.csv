@@ -1,0 +1,9 @@
+"OHX14SE.Code.or.Value","OHX14SE.Value.Description","OHX14SE.Count","OHX14SE.Cumulative","OHX14SE.Skip.to.Item"
+"Dental Sealants:  #14","Value was recorded",99,99,NA
+"0","Sealant not present",1686,1785,NA
+"1","Occlusal sealant on permanent tooth",507,2292,NA
+"2","Facial sealant on permanent tooth",0,2292,NA
+"3","Lingual sealant on permanent tooth",3,2295,NA
+"4","Occlusal sealant on primary tooth",0,2295,NA
+"9","Cannot be assessed",723,3018,NA
+"< blank >","Missing",5938,8956,NA

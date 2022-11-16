@@ -1,0 +1,10 @@
+"PAQ679.Code.or.Value","PAQ679.Value.Description","PAQ679.Count","PAQ679.Cumulative","PAQ679.Skip.to.Item"
+"1","less than 10 minutes,",10,10,NA
+"2","10-15 minutes,",25,35,NA
+"3","16-30 minutes,",141,176,NA
+"4","31-45 minutes,",44,220,NA
+"5","46-60 minutes, or",313,533,NA
+"6","More than 60 minutes",138,671,NA
+"7","Refused",0,671,NA
+"9","Don't know",1,672,NA
+".","Missing",8812,9484,NA

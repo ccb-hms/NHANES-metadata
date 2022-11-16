@@ -1,0 +1,4 @@
+"URDAPELC.Code.or.Value","URDAPELC.Value.Description","URDAPELC.Count","URDAPELC.Cumulative","URDAPELC.Skip.to.Item"
+"0","At or above the detection limit",37,37,NA
+"1","Below lower detection limit",2509,2546,NA
+".","Missing",210,2756,NA

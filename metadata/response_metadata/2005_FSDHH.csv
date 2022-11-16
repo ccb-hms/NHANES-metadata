@@ -1,0 +1,6 @@
+"FSDHH.Code.or.Value","FSDHH.Value.Description","FSDHH.Count","FSDHH.Cumulative","FSDHH.Skip.to.Item"
+"1","HH full food security: 0",7185,7185,NA
+"2","HH marginal food security: 1-2",1041,8226,NA
+"3","HH low food security: 3-5 / 3-7 (HH with child)",1338,9564,NA
+"4","HH very low food security: 6-10 / 8-18 (HH with child)",603,10167,NA
+".","Missing",181,10348,NA

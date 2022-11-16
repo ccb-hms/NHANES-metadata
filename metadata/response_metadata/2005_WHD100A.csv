@@ -1,0 +1,5 @@
+"WHD100A.Code.or.Value","WHD100A.Value.Description","WHD100A.Count","WHD100A.Cumulative","WHD100A.Skip.to.Item"
+"10","Ate less food (amount)",271,271,NA
+"77","Refused",0,271,NA
+"99","Don't know",0,271,NA
+".","Missing",5868,6139,NA

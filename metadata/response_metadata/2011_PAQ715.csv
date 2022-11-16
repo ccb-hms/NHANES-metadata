@@ -1,0 +1,12 @@
+"PAQ715.Code.or.Value","PAQ715.Value.Description","PAQ715.Count","PAQ715.Cumulative","PAQ715.Skip.to.Item"
+"0","Less than 1 hour,",2354,2354,NA
+"1","1 hour,",1646,4000,NA
+"2","2 hours,",1129,5129,NA
+"3","3 hours,",562,5691,NA
+"4","4 hours,",289,5980,NA
+"5","5 hours or more, or",508,6488,NA
+"8","{You do/SP does} not use a computer  outside of work or 
+      school",2586,9074,NA
+"77","REFUSED",1,9075,NA
+"99","DON'T KNOW",3,9078,NA
+".","Missing",29,9107,NA

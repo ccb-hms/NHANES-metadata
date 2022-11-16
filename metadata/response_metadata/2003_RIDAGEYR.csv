@@ -1,0 +1,4 @@
+"RIDAGEYR.Code.or.Value","RIDAGEYR.Value.Description","RIDAGEYR.Count","RIDAGEYR.Cumulative","RIDAGEYR.Skip.to.Item"
+"0 to 84","Range of Values",9899,9899,NA
+"85",">= 85 years of age",223,10122,NA
+".","Missing",0,10122,NA

@@ -1,0 +1,8 @@
+"DXARLTV.Code.or.Value","DXARLTV.Value.Description","DXARLTV.Count","DXARLTV.Cumulative","DXARLTV.Skip.to.Item"
+"0","Valid data",4646,4646,NA
+"1","Removable or non-removable objects",45,4691,NA
+"4","Arm/leg overlap",30,4721,NA
+"5","Body parts out of scan region",22,4743,NA
+"6","Positioning problem",3,4746,NA
+"7","Other",3,4749,NA
+".","Missing",943,5692,NA

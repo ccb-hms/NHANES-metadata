@@ -1,0 +1,6 @@
+"RHQ310.Code.or.Value","RHQ310.Value.Description","RHQ310.Count","RHQ310.Cumulative","RHQ310.Skip.to.Item"
+"1","Both",239,239,""
+"2","One",100,339,"RHQ330"
+"7","Refused",0,339,"RHQ345"
+"9","Don't know",4,343,"RHQ345"
+".","Missing",3174,3517,""

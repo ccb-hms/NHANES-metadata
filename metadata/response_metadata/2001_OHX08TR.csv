@@ -1,0 +1,10 @@
+"OHX08TR.Code.or.Value","OHX08TR.Value.Description","OHX08TR.Count","OHX08TR.Cumulative","OHX08TR.Skip.to.Item"
+"0","No evidence of traumatic injury",3790,3790,NA
+"1","Unrestored enamel fracture present that does not involve the dentine",194,3984,NA
+"2","Unrestored enamel fracture which involves the dentine",36,4020,NA
+"3","Untreated damage (indicative of pulpal involvement)",5,4025,NA
+"4","Fracture restored, either with full crown or less extensive restoration",94,4119,NA
+"5","Lingual restoration as a sign of endontic therapy, and a positive history of root",18,4137,NA
+"6","Tooth is missing due to trauma",4,4141,NA
+"9","Cannot be assessed",205,4346,NA
+".","Missing",5252,9598,NA

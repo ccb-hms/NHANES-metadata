@@ -1,0 +1,6 @@
+"FSDAD.Code.or.Value","FSDAD.Value.Description","FSDAD.Count","FSDAD.Cumulative","FSDAD.Skip.to.Item"
+"1","AD full food security: 0",7307,7307,NA
+"2","AD marginal food security: 1-2",1182,8489,NA
+"3","AD low food security: 3-5",1206,9695,NA
+"4","AD very low food security: 6-10",523,10218,NA
+".","Missing",130,10348,NA

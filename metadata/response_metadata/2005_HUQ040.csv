@@ -1,0 +1,9 @@
+"HUQ040.Code.or.Value","HUQ040.Value.Description","HUQ040.Count","HUQ040.Cumulative","HUQ040.Skip.to.Item"
+"1","Clinic or health center",2309,2309,NA
+"2","Doctor's office or HMO",6304,8613,NA
+"3","Hospital emergency room",188,8801,NA
+"4","Hospital outpatient department",170,8971,NA
+"5","Some other place",99,9070,NA
+"7","Refused",1,9071,NA
+"9","Don't know",2,9073,NA
+".","Missing",1275,10348,NA

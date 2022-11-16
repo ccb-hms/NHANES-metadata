@@ -1,0 +1,8 @@
+"DPQ010.Code.or.Value","DPQ010.Value.Description","DPQ010.Count","DPQ010.Cumulative","DPQ010.Skip.to.Item"
+"0","Not at all",4099,4099,NA
+"1","Several days",990,5089,NA
+"2","More than half the days",257,5346,NA
+"3","Nearly every day",221,5567,NA
+"7","Refused",1,5568,NA
+"9","Don't know",11,5579,NA
+".","Missing",781,6360,NA

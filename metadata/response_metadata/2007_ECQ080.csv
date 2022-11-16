@@ -1,0 +1,6 @@
+"ECQ080.Code.or.Value","ECQ080.Value.Description","ECQ080.Count","ECQ080.Cumulative","ECQ080.Skip.to.Item"
+"1","More than 5-1/2 lbs. (2500 g), or",33,33,""
+"2","Less than 5-1/2 lbs. (2500 g)?",10,43,"ECQ095"
+"7","Refused",0,43,"ECQ095"
+"9","Don't know",17,60,"ECQ095"
+".","Missing",3543,3603,""

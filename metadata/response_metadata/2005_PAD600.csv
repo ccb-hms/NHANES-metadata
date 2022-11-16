@@ -1,0 +1,11 @@
+"PAD600.Code.or.Value","PAD600.Value.Description","PAD600.Count","PAD600.Cumulative","PAD600.Skip.to.Item"
+"0","Less than 1 hour",2699,2699,NA
+"1","1 hour",1437,4136,NA
+"2","2 hours",791,4927,NA
+"3","3 hours",304,5231,NA
+"4","4 hours",175,5406,NA
+"5","5 hours",236,5642,NA
+"6","None",3698,9340,NA
+"77","Refused",1,9341,NA
+"99","Don't know",6,9347,NA
+".","Missing",77,9424,NA

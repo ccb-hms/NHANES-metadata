@@ -1,0 +1,4 @@
+"SSFHPSL.Code.or.Value","SSFHPSL.Value.Description","SSFHPSL.Count","SSFHPSL.Cumulative","SSFHPSL.Skip.to.Item"
+"0","At or above the detection limit",1,1,NA
+"1","Below lower detection limit",2327,2328,NA
+".","Missing",0,2328,NA

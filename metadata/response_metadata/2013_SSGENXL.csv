@@ -1,0 +1,4 @@
+"SSGENXL.Code.or.Value","SSGENXL.Value.Description","SSGENXL.Count","SSGENXL.Cumulative","SSGENXL.Skip.to.Item"
+"0","At or above the detection limit",18,18,NA
+"1","Below lower detection limit",2310,2328,NA
+".","Missing",0,2328,NA

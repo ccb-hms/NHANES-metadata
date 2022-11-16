@@ -1,0 +1,5 @@
+"LBDVDMLC.Code.or.Value","LBDVDMLC.Value.Description","LBDVDMLC.Count","LBDVDMLC.Cumulative","LBDVDMLC.Skip.to.Item"
+"0","detectable result",4,4,NA
+"1","below detectable limit",2708,2712,NA
+"2","detectable result and exceeds the calibrated range of assay",0,2712,NA
+".","Missing",703,3415,NA

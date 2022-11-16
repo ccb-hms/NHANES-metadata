@@ -1,0 +1,6 @@
+"LEAARMC.Code.or.Value","LEAARMC.Value.Description","LEAARMC.Count","LEAARMC.Cumulative","LEAARMC.Skip.to.Item"
+"1","Lesion, bandage",0,0,NA
+"2","Rash",1,1,NA
+"3","Amputation",0,1,NA
+"4","Other",18,19,NA
+".","Missing",3165,3184,NA

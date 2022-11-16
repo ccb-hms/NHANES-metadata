@@ -1,0 +1,7 @@
+"RHD190.Code.or.Value","RHD190.Value.Description","RHD190.Count","RHD190.Cumulative","RHD190.Skip.to.Item"
+"15 to 44","Range of Values",2033,2033,NA
+"14","14 years or under",1,2034,NA
+"45","45 years or older",7,2041,NA
+"777","Refused",0,2041,NA
+"999","Don't know",13,2054,NA
+".","Missing",1564,3618,NA

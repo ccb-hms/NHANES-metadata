@@ -1,0 +1,12 @@
+"AUAEXCMT.Code.or.Value","AUAEXCMT.Value.Description","AUAEXCMT.Count","AUAEXCMT.Cumulative","AUAEXCMT.Skip.to.Item"
+"2","SP refusal",20,20,NA
+"3","No time",5,25,NA
+"4","Physical limitation",25,50,NA
+"5","Communication problem",12,62,NA
+"6","Equipment failure",8,70,NA
+"7","Sp ill/emergency",3,73,NA
+"56","Came late/left early",65,138,NA
+"66","Data acquisition problems",4,142,NA
+"72","Error (technician/software/supply)",4,146,NA
+"99","Other, specify",82,228,NA
+".","Missing",1818,2046,NA

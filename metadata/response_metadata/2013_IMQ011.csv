@@ -1,0 +1,7 @@
+"IMQ011.Code.or.Value","IMQ011.Value.Description","IMQ011.Count","IMQ011.Cumulative","IMQ011.Skip.to.Item"
+"1","Yes, at least 2 doses",4238,4238,NA
+"2","Less than 2 doses",194,4432,NA
+"3","No doses",3943,8375,NA
+"7","Refused",6,8381,NA
+"9","Don't know",1126,9507,NA
+".","Missing",668,10175,NA

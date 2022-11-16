@@ -1,0 +1,5 @@
+"AUAEXSTS.Code.or.Value","AUAEXSTS.Value.Description","AUAEXSTS.Count","AUAEXSTS.Cumulative","AUAEXSTS.Skip.to.Item"
+"1","Complete",1101,1101,NA
+"2","Partial",49,1150,NA
+"3","Not done",60,1210,NA
+".","Missing",0,1210,NA

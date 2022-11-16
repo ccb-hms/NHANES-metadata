@@ -1,0 +1,6 @@
+"CIQD038.Code.or.Value","CIQD038.Value.Description","CIQD038.Count","CIQD038.Cumulative","CIQD038.Skip.to.Item"
+"1","Respondent Gives Reason",41,41,""
+"5","No Particular Reason",27,68,"CIQD041"
+"7","Refuse",0,68,"CIQD041"
+"9","Don't know",0,68,"CIQD041"
+".","Missing",860,928,""

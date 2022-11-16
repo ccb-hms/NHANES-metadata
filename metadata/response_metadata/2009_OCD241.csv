@@ -1,0 +1,27 @@
+"OCD241.Code.or.Value","OCD241.Value.Description","OCD241.Count","OCD241.Cumulative","OCD241.Skip.to.Item"
+"1","Management Occupations",337,337,NA
+"2","Business, Financial Operations Occupations",103,440,NA
+"3","Computer, Mathematical Occupations",61,501,NA
+"4","Architecture, Engineering Occupations",43,544,NA
+"5","Life, Physical, Social Science Occupations",41,585,NA
+"6","Community, Social Services Occupations",64,649,NA
+"7","Legal Occupations",26,675,NA
+"8","Education, Training, Library Occupations",174,849,NA
+"9","Arts, Design, Entertainment, Sports, Media Occupations",66,915,NA
+"10","Healthcare Practitioner, Technical Occupations",146,1061,NA
+"11","Healthcare Support Occupations",109,1170,NA
+"12","Protective Service Occupations",70,1240,NA
+"13","Food Preparation, Serving Occupations",264,1504,NA
+"14","Building & Grounds Cleaning, Maintenance Occupations",271,1775,NA
+"15","Personal Care, Service Occupations",122,1897,NA
+"16","Sales & Related Occupations",350,2247,NA
+"17","Office, Administrative Support Occupations",379,2626,NA
+"18","Farming, Fishing, Forestry Occupations",38,2664,NA
+"19","Construction, Extraction Occupations",210,2874,NA
+"20","Installation, Maintenance, Repair Occupations",95,2969,NA
+"21","Production Occupations",276,3245,NA
+"22","Transportation, Material Moving Occupations",252,3497,NA
+"23","Armed Forces",0,3497,NA
+"98","Text present but uncodable",6,3503,NA
+"99","Blank but applicable",0,3503,NA
+".","Missing",3386,6889,NA

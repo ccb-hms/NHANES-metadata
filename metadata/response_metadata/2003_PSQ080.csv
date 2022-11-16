@@ -1,0 +1,6 @@
+"PSQ080.Code.or.Value","PSQ080.Value.Description","PSQ080.Count","PSQ080.Cumulative","PSQ080.Skip.to.Item"
+"1","I specifically requested the test",7,7,""
+"2","Health care provider",34,41,"PSQ100A"
+"7","Refused",0,41,"PSQ110"
+"9","Don't know",1,42,"PSQ110"
+".","Missing",79,121,""

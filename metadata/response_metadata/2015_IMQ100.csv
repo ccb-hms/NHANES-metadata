@@ -1,0 +1,7 @@
+"IMQ100.Code.or.Value","IMQ100.Value.Description","IMQ100.Count","IMQ100.Cumulative","IMQ100.Skip.to.Item"
+"1","1 Dose",215,215,NA
+"2","2 Doses",192,407,NA
+"3","3 Doses",470,877,NA
+"7","Refused",0,877,NA
+"9","Don't know",89,966,NA
+".","Missing",9005,9971,NA

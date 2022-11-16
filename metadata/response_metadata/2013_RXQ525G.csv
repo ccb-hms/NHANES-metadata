@@ -1,0 +1,7 @@
+"RXQ525G.Code.or.Value","RXQ525G.Value.Description","RXQ525G.Count","RXQ525G.Cumulative","RXQ525G.Skip.to.Item"
+"1","One every day",969,969,"RXD530"
+"2","One every other day",67,1036,"RXD530"
+"3","Another schedule",96,1132,""
+"7","Refused",0,1132,"RXD530"
+"9","Don't know",1,1133,"RXD530"
+".","Missing",2682,3815,""

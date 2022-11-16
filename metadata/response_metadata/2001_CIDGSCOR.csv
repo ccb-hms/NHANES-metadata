@@ -1,0 +1,4 @@
+"CIDGSCOR.Code.or.Value","CIDGSCOR.Value.Description","CIDGSCOR.Count","CIDGSCOR.Cumulative","CIDGSCOR.Skip.to.Item"
+"1","Positive Diagnosis",19,19,NA
+"5","Negative Diagnosis",794,813,NA
+".","Missing",115,928,NA

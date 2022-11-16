@@ -1,0 +1,6 @@
+"ECQ090.Code.or.Value","ECQ090.Value.Description","ECQ090.Count","ECQ090.Cumulative","ECQ090.Skip.to.Item"
+"1","More than 9 lbs. (4100 g), or",3,3,NA
+"2","Less than 9 lbs. (4100 g)?",79,82,NA
+"7","Refused",0,82,NA
+"9","Don't know",7,89,NA
+".","Missing",4316,4405,NA

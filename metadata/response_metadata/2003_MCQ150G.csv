@@ -1,0 +1,6 @@
+"MCQ150G.Code.or.Value","MCQ150G.Value.Description","MCQ150G.Count","MCQ150G.Cumulative","MCQ150G.Skip.to.Item"
+"1","Enter number",3103,3103,""
+"2","Did not go to school",233,3336,"MCQ160A"
+"7","Refused",0,3336,"MCQ160A"
+"9","Don't know",1,3337,"MCQ160A"
+".","Missing",6308,9645,""

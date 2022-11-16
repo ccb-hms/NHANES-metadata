@@ -1,0 +1,4 @@
+"RIDSTATR.Code.or.Value","RIDSTATR.Value.Description","RIDSTATR.Count","RIDSTATR.Cumulative","RIDSTATR.Skip.to.Item"
+"1","Interviewed only",427,427,NA
+"2","Both interviewed and MEC examined",9544,9971,NA
+".","Missing",0,9971,NA

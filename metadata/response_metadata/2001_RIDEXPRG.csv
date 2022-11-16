@@ -1,0 +1,5 @@
+"RIDEXPRG.Code.or.Value","RIDEXPRG.Value.Description","RIDEXPRG.Count","RIDEXPRG.Cumulative","RIDEXPRG.Skip.to.Item"
+"1","Yes, positive lab pregnancy test or self-reported pregnant at exam",365,365,NA
+"2","SP not pregnant at exam",2687,3052,NA
+"3","Cannot ascertain if SP is pregnant at exam",495,3547,NA
+".","Missing",7492,11039,NA

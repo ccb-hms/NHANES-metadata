@@ -1,0 +1,8 @@
+"SMD460.Code.or.Value","SMD460.Value.Description","SMD460.Count","SMD460.Cumulative","SMD460.Skip.to.Item"
+"0","No one in houseold is a smoker",7601,7601,"End of Section"
+"1","1 household member is a smoker",1403,9004,""
+"2","2 household members are smokers",849,9853,""
+"3","3 or more household members are smokers",200,10053,""
+"777","Refused",5,10058,"End of Section"
+"999","Don't know",1,10059,"End of Section"
+".","Missing",116,10175,""

@@ -1,0 +1,6 @@
+"CIQD011.Code.or.Value","CIQD011.Value.Description","CIQD011.Count","CIQD011.Cumulative","CIQD011.Skip.to.Item"
+"1","Yes",15,15,""
+"2","No",0,15,"CIQD014"
+"7","Refuse",0,15,"CIQD014"
+"9","Don't know",0,15,"CIQD014"
+".","Missing",763,778,""

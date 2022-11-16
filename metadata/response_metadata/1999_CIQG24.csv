@@ -1,0 +1,8 @@
+"CIQG24.Code.or.Value","CIQG24.Value.Description","CIQG24.Count","CIQG24.Cumulative","CIQG24.Skip.to.Item"
+"1","Very upset",16,16,NA
+"2","Somewhat Upset",36,52,NA
+"3","Not very upset",14,66,NA
+"4","Not at all upset",25,91,NA
+"7","Refused",0,91,NA
+"9","Don't know",0,91,NA
+".","Missing",687,778,NA

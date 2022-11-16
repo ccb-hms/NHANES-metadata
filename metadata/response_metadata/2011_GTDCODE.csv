@@ -1,0 +1,14 @@
+"GTDCODE.Code.or.Value","GTDCODE.Value.Description","GTDCODE.Count","GTDCODE.Cumulative","GTDCODE.Skip.to.Item"
+"0","OGTT complete",2287,2287,NA
+"20","Hemophiliac",0,2287,NA
+"21","Cancer chemotherapy within 4 weeks",0,2287,NA
+"22","Diabetic on medications",290,2577,NA
+"23","Refused venipuncture",2,2579,NA
+"24","Ill/faint during test",10,2589,NA
+"25","Venipuncture unsuccessful",17,2606,NA
+"26","Currently pregnant",0,2606,NA
+"27","Refused glucose challenge",42,2648,NA
+"28","Fasting less than 9 hours",3,2651,NA
+"29","Came late/left early",10,2661,NA
+"30","Other",154,2815,NA
+".","Missing",0,2815,NA

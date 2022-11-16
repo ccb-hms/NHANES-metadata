@@ -1,0 +1,8 @@
+"DXALABV.Code.or.Value","DXALABV.Value.Description","DXALABV.Count","DXALABV.Cumulative","DXALABV.Skip.to.Item"
+"0","Valid data",5347,5347,NA
+"1","Removable or non-removable objects",59,5406,NA
+"4","Arm/leg overlap",17,5423,NA
+"5","Body parts out of scan region",16,5439,NA
+"6","Positioning problem",7,5446,NA
+"7","Other",0,5446,NA
+".","Missing",587,6033,NA

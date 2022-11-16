@@ -1,0 +1,7 @@
+"WHQ030E.Code.or.Value","WHQ030E.Value.Description","WHQ030E.Count","WHQ030E.Cumulative","WHQ030E.Skip.to.Item"
+"1","Overweight",392,392,NA
+"2","Underweight",228,620,NA
+"3","About the right weight",2421,3041,NA
+"7","Refused",0,3041,NA
+"9","Don't know",1,3042,NA
+".","Missing",669,3711,NA

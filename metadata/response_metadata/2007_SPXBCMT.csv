@@ -1,0 +1,9 @@
+"SPXBCMT.Code.or.Value","SPXBCMT.Value.Description","SPXBCMT.Count","SPXBCMT.Cumulative","SPXBCMT.Skip.to.Item"
+"2","SP refusal",75,75,NA
+"3","No time",6,81,NA
+"4","Physical limitation",3,84,NA
+"5","Communication problem",3,87,NA
+"14","Interrupted",1,88,NA
+"84","SP with child",1,89,NA
+"99","Other",98,187,NA
+".","Missing",7556,7743,NA

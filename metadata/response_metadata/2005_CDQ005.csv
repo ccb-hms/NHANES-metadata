@@ -1,0 +1,6 @@
+"CDQ005.Code.or.Value","CDQ005.Value.Description","CDQ005.Count","CDQ005.Cumulative","CDQ005.Skip.to.Item"
+"1","RELIEVED",200,200,""
+"2","NOT RELIEVED",18,218,"CDQ008"
+"7","Refused",0,218,"CDQ008"
+"9","Don't know",3,221,"CDQ008"
+".","Missing",2835,3056,""

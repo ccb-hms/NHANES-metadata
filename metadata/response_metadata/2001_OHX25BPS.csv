@@ -1,0 +1,5 @@
+"OHX25BPS.Code.or.Value","OHX25BPS.Value.Description","OHX25BPS.Count","OHX25BPS.Cumulative","OHX25BPS.Skip.to.Item"
+"1","Bleeding is detected following the probing",387,387,NA
+"2","No evidence of bleeding following the probing",2253,2640,NA
+"9","Cannot be assessed",170,2810,NA
+".","Missing",4320,7130,NA

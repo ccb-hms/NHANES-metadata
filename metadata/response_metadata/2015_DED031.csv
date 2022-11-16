@@ -1,0 +1,10 @@
+"DED031.Code.or.Value","DED031.Value.Description","DED031.Count","DED031.Cumulative","DED031.Skip.to.Item"
+"1","Get a severe sunburn with blisters",70,70,NA
+"2","A severe sunburn for a few days with peeling",294,364,NA
+"3","Mildly burned with some tanning",875,1239,NA
+"4","Turning darker without a sunburn",1014,2253,NA
+"5","Nothing would happen in half an hour",1515,3768,NA
+"6","Other",41,3809,NA
+"77","Refused",0,3809,NA
+"99","Don't know",9,3818,NA
+".","Missing",0,3818,NA

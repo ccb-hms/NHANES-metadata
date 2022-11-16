@@ -1,0 +1,4 @@
+"LBDHCBLC.Code.or.Value","LBDHCBLC.Value.Description","LBDHCBLC.Count","LBDHCBLC.Cumulative","LBDHCBLC.Skip.to.Item"
+"0","At or above the detection limit",301,301,NA
+"1","Below lower detection limit",0,301,NA
+".","Missing",0,301,NA

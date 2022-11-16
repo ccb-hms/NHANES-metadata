@@ -1,0 +1,8 @@
+"CFASTAT.Code.or.Value","CFASTAT.Value.Description","CFASTAT.Count","CFASTAT.Cumulative","CFASTAT.Skip.to.Item"
+"1","3 tests",1416,1416,""
+"2","2 tests",56,1472,""
+"3","1 test",38,1510,""
+"4","Ineligible, proxy",30,1540,"End of Section"
+"5","Ineligible, other language",9,1549,"End of Section"
+"6","No test done",138,1687,"End of Section"
+".","Missing",0,1687,""

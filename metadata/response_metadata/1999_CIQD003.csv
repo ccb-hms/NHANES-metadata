@@ -1,0 +1,8 @@
+"CIQD003.Code.or.Value","CIQD003.Value.Description","CIQD003.Count","CIQD003.Cumulative","CIQD003.Skip.to.Item"
+"1","All Day Long",20,20,""
+"2","Most of the Day",37,57,""
+"3","About Half",23,80,""
+"4","Less than Half",8,88,"CIQD008"
+"7","Refuse",0,88,"CIQD008"
+"9","Don't know",0,88,"CIQD008"
+".","Missing",690,778,""

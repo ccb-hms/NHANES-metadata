@@ -1,0 +1,6 @@
+"LBDVVBLC.Code.or.Value","LBDVVBLC.Value.Description","LBDVVBLC.Count","LBDVVBLC.Cumulative","LBDVVBLC.Skip.to.Item"
+"0","At or above detection limit",0,0,NA
+"1","Below lower detection limit",2993,2993,NA
+"2","Detectable result and exceeds the calibrated range of 
+      assay",0,2993,NA
+".","Missing",273,3266,NA

@@ -1,0 +1,12 @@
+"PEASCCT1.Code.or.Value","PEASCCT1.Value.Description","PEASCCT1.Count","PEASCCT1.Cumulative","PEASCCT1.Skip.to.Item"
+"0","None",10006,10006,NA
+"1","Safety exclusion",4,10010,NA
+"2","SP refusal",75,10085,NA
+"3","No time",11,10096,NA
+"4","Physical limitation",25,10121,NA
+"5","Communication problem",2,10123,NA
+"6","Equipment failure",1,10124,NA
+"7","SP ill/emergency",18,10142,NA
+"56","Came late/left early",187,10329,NA
+"99","Other, specify",148,10477,NA
+".","Missing",0,10477,NA

@@ -1,0 +1,5 @@
+"DCDSTAT.Code.or.Value","DCDSTAT.Value.Description","DCDSTAT.Count","DCDSTAT.Cumulative","DCDSTAT.Skip.to.Item"
+"1","Floor Only",322,322,NA
+"2","Window Only",1,323,NA
+"3","Floor and Window",934,1257,NA
+".","Missing",73,1330,NA

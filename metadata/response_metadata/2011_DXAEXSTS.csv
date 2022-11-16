@@ -1,0 +1,8 @@
+"DXAEXSTS.Code.or.Value","DXAEXSTS.Value.Description","DXAEXSTS.Count","DXAEXSTS.Cumulative","DXAEXSTS.Skip.to.Item"
+"1","Whole body scan completed",4749,4749,NA
+"2","Whole body scan completed, but  invalid",3,4752,NA
+"3","Whole body not scanned, pregnancy",57,4809,NA
+"4","Whole body not scanned, weight > 450 lbs",1,4810,NA
+"5","Whole body not scanned,  height > 6'5",9,4819,NA
+"6","Whole body not scanned, other reason",873,5692,NA
+".","Missing",0,5692,NA

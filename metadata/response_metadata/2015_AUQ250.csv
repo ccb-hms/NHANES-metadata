@@ -1,0 +1,9 @@
+"AUQ250.Code.or.Value","AUQ250.Value.Description","AUQ250.Count","AUQ250.Cumulative","AUQ250.Skip.to.Item"
+"1","Less than three months",102,102,NA
+"2","Three months to a year",105,207,NA
+"3","1 to 4 years",158,365,NA
+"4","5 to 9 years",117,482,NA
+"5","Ten or more years",195,677,NA
+"7","Refused",0,677,NA
+"9","Don't know",6,683,NA
+".","Missing",8892,9575,NA
