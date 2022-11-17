@@ -1,0 +1,17 @@
+"DR1MNRSP.Code.or.Value","DR1MNRSP.Value.Description","DR1MNRSP.Count","DR1MNRSP.Cumulative","DR1MNRSP.Skip.to.Item"
+"1","SP",6350,6350,NA
+"2","Mother of SP",1802,8152,NA
+"3","Father of SP",222,8374,NA
+"4","Wife of SP",10,8384,NA
+"5","Husband of SP",1,8385,NA
+"6","Daughter of SP",20,8405,NA
+"7","Son of SP",7,8412,NA
+"8","Grandparent of SP",62,8474,NA
+"9","Friend, Partner, Non Relative",0,8474,NA
+"10","Translator, not a HH member",1,8475,NA
+"11","Child care provider, Caretaker",11,8486,NA
+"12","Other Relative",27,8513,NA
+"14","Other specify",0,8513,NA
+"77","Refused",0,8513,NA
+"99","Don't know",0,8513,NA
+".","Missing",825,9338,NA

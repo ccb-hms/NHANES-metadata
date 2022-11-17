@@ -1,0 +1,4 @@
+"URDPHELC.Code.or.Value","URDPHELC.Value.Description","URDPHELC.Count","URDPHELC.Cumulative","URDPHELC.Skip.to.Item"
+"0","At or above the detection limit",1480,1480,NA
+"1","Below lower detection limit",1467,2947,NA
+".","Missing",332,3279,NA

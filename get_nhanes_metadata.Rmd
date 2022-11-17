@@ -51,7 +51,7 @@ write.csv(all_tables, paste(output_folder, "nhanes_tables.csv", sep=""), row.nam
 Get metadata about all variables in the given collection of NHANES tables.
 ```{r}
 get_all_variables <- function(tables) {
-  details_folder = paste(output_folder, "variable_metadata/", sep="")
+  details_folder = paste(output_folder, "variable_codebooks/", sep="")
   dir.create(file.path(".", details_folder), showWarnings=FALSE, recursive=TRUE)
   all_variables <- data.frame(matrix(ncol = 5, nrow = 0))
   colnames(all_variables) <-c("Variable Name", "SAS Label", "English Text", "Target", "Table")
@@ -60,10 +60,8 @@ get_all_variables <- function(tables) {
   for (nhanes_table in 1:nrow(tables)) {
     table_name <- tables[nhanes_table, "Data.File.Name"]
     data_group <- tables[nhanes_table, "Data.Group"]
-    survey_year <- tables[nhanes_table, "Data.Year"]
     table_variables <- get_variables_in_table(table_name=table_name, 
                                               nhanes_data_group=data_group,
-                                              year=survey_year,
                                               response_details_folder=details_folder)
     write.table(table_variables, file=variables_metadata_table, sep=",", 
                 append=TRUE, col.names=FALSE, row.names=FALSE)
@@ -73,7 +71,7 @@ get_all_variables <- function(tables) {
 
 Get metadata about the variables in the given NHANES table (specified by the table name) and data group.
 ```{r}
-get_variables_in_table <- function(table_name, nhanes_data_group, year, response_details_folder) {
+get_variables_in_table <- function(table_name, nhanes_data_group, response_details_folder) {
   all_variables <- data.frame(matrix(ncol = 5, nrow = 0))
   colnames(all_variables) <-c("Variable Name", "SAS Label", "English Text", "Target", "Table")
   # Get all variables in this table
@@ -85,7 +83,7 @@ get_variables_in_table <- function(table_name, nhanes_data_group, year, response
     for (variable in 1:nrow(table_variables)) {
       variable_name <- table_variables[variable, 'Variable.Name']
       tryCatch({
-        variable_details <- nhanesCodebook(nh_table = table_name, variable_name)
+        variable_details <- nhanesCodebook(nh_table=table_name, variable_name)
         name <- clean(variable_details['Variable Name:'])
         label <- clean(variable_details['SAS Label:'])
         text <- clean(variable_details['English Text:'])
@@ -93,7 +91,7 @@ get_variables_in_table <- function(table_name, nhanes_data_group, year, response
         variable_details_vector <- c(name, label, text, target, table_name)
         all_variables[nrow(all_variables) + 1, ] <- variable_details_vector
         response_options <- variable_details[length(variable_details)]
-        out_file <- paste(response_details_folder, year, "_", name, ".csv", sep="")
+        out_file <- paste(response_details_folder, table_name, "_", name, ".csv", sep="")
         write.csv(response_options, file=out_file, row.names=FALSE)
       }, error=function(e) {
         cat("ERROR: ", conditionMessage(e), "\n")

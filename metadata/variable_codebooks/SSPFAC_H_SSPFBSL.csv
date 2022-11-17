@@ -1,0 +1,4 @@
+"SSPFBSL.Code.or.Value","SSPFBSL.Value.Description","SSPFBSL.Count","SSPFBSL.Cumulative","SSPFBSL.Skip.to.Item"
+"0","At or above the detection limit",21,21,NA
+"1","Below lower detection limit",504,525,NA
+".","Missing",0,525,NA

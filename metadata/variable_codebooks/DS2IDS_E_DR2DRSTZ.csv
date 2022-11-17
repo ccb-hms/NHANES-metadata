@@ -1,0 +1,6 @@
+"DR2DRSTZ.Code.or.Value","DR2DRSTZ.Value.Description","DR2DRSTZ.Count","DR2DRSTZ.Cumulative","DR2DRSTZ.Skip.to.Item"
+"1","Reliable and met the minimum criteria",5633,5633,NA
+"2","Not reliable or not met the minimum criteria",0,5633,NA
+"4","Reported consuming breast-milk",15,5648,NA
+"5","Not done",0,5648,NA
+".","Missing",0,5648,NA

@@ -1,0 +1,4 @@
+"SSPFUAL.Code.or.Value","SSPFUAL.Value.Description","SSPFUAL.Count","SSPFUAL.Cumulative","SSPFUAL.Skip.to.Item"
+"0","At or above the detection limit",171,171,NA
+"1","Below lower detection limit",354,525,NA
+".","Missing",0,525,NA

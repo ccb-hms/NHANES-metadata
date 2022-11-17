@@ -1,0 +1,4 @@
+"URDPMALC.Code.or.Value","URDPMALC.Value.Description","URDPMALC.Count","URDPMALC.Cumulative","URDPMALC.Skip.to.Item"
+"0","At or above the detection limit",969,969,NA
+"1","Below lower detection limit",1592,2561,NA
+".","Missing",194,2755,NA

@@ -1,0 +1,5 @@
+"URDPYRLC.Code.or.Value","URDPYRLC.Value.Description","URDPYRLC.Count","URDPYRLC.Cumulative","URDPYRLC.Skip.to.Item"
+"0","At or above detection limit",12,12,NA
+"1","Below lower detection limit",2571,2583,NA
+"2","Detectable result and exceeds the calibrated range of assay",0,2583,NA
+".","Missing",172,2755,NA

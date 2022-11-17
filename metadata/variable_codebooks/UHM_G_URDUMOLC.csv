@@ -1,0 +1,4 @@
+"URDUMOLC.Code.or.Value","URDUMOLC.Value.Description","URDUMOLC.Count","URDUMOLC.Cumulative","URDUMOLC.Skip.to.Item"
+"0","At or above the detection limit",2504,2504,NA
+"1","Below lower detection limit",0,2504,NA
+".","Missing",90,2594,NA

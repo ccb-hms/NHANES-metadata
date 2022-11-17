@@ -1,0 +1,5 @@
+"LBDI5ALC.Code.or.Value","LBDI5ALC.Value.Description","LBDI5ALC.Count","LBDI5ALC.Cumulative","LBDI5ALC.Skip.to.Item"
+"0","At or above detection limit",1783,1783,NA
+"1","Below lower detection limit",15,1798,NA
+"2","Detectable result and exceeds the calibrated range of assay",0,1798,NA
+".","Missing",526,2324,NA

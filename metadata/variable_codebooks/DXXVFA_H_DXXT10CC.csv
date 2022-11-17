@@ -1,0 +1,8 @@
+"DXXT10CC.Code.or.Value","DXXT10CC.Value.Description","DXXT10CC.Count","DXXT10CC.Cumulative","DXXT10CC.Skip.to.Item"
+"0","Valid data",3301,3301,NA
+"1","Removable or non-removable objects",0,3301,NA
+"3","Excessive x-ray noise due to morbid obesity",11,3312,NA
+"4","Insufficient scan area",0,3312,NA
+"5","Movement",0,3312,NA
+"6","Other (degenerative diseases, spinal fusion, fractures)",18,3330,NA
+".","Missing",378,3708,NA

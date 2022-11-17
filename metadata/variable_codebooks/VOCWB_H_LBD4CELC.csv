@@ -1,0 +1,5 @@
+"LBD4CELC.Code.or.Value","LBD4CELC.Value.Description","LBD4CELC.Count","LBD4CELC.Cumulative","LBD4CELC.Skip.to.Item"
+"0","At or above detection limit",0,0,NA
+"1","Below lower detection limit",3148,3148,NA
+"2","Detectable result and exceeds the calibrated range of assay",0,3148,NA
+".","Missing",341,3489,NA

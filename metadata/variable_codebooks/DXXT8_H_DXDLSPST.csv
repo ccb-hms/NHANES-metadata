@@ -1,0 +1,7 @@
+"DXDLSPST.Code.or.Value","DXDLSPST.Value.Description","DXDLSPST.Count","DXDLSPST.Cumulative","DXDLSPST.Skip.to.Item"
+"1","IVA Lateral Spine scan completed, all vertebra are valid",2875,2875,NA
+"2","IVA Lateral Spine scan completed, but one or more vertebrae are invalid",455,3330,NA
+"3","IVA Lateral Spine not scanned, pregnancy",3,3333,NA
+"4","IVA Lateral Spine not scanned, weight > 450 lbs",1,3334,NA
+"5","IVA Lateral Spine not scanned, other reason",374,3708,NA
+".","Missing",0,3708,NA
