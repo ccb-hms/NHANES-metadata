@@ -1,9 +1,0 @@
-"DXXFMBCC.Code.or.Value","DXXFMBCC.Value.Description","DXXFMBCC.Count","DXXFMBCC.Cumulative","DXXFMBCC.Skip.to.Item"
-"0","Valid data",6963,6963,NA
-"1","Jewelry or other objects not removed",0,6963,NA
-"2","Non-removable objects such as implants",3,6966,NA
-"3","Excessive x-ray noise due to obesity",0,6966,NA
-"4","Body parts out of scan region",0,6966,NA
-"5","Positioning problem",4,6970,NA
-"6","Other (includes panniculus, participant motion, unknown artifact)",217,7187,NA
-".","Missing",998,8185,NA

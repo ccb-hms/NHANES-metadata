@@ -1,6 +1,0 @@
-"SPXBQEFF.Code.or.Value","SPXBQEFF.Value.Description","SPXBQEFF.Count","SPXBQEFF.Cumulative","SPXBQEFF.Skip.to.Item"
-"A","All 6 spirometry quality curve attributes are acceptable",444,444,NA
-"B","The curves had a large time to peak flow or a non-repeatable peak flow",3,447,NA
-"C","The curves had either < 6 seconds of exhalation or no plateau",10,457,NA
-"D","The curves had either a cough or large extrapolated volume",0,457,NA
-"< blank >","Missing",7038,7495,NA

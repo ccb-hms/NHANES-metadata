@@ -1,8 +1,0 @@
-"HCQ100.Code.or.Value","HCQ100.Value.Description","HCQ100.Count","HCQ100.Cumulative","HCQ100.Skip.to.Item"
-"1","(You have/He/She has) hepatitis C and need(s) regular medical follow-up.",12,12,""
-"2","You/He/She) tested positive for hepatitis C, but (do/does) not need to do anything or worry about it.",12,24,"HCQ160"
-"3","(You/He/she) really (don't/doesn't) have hepatitis C because a follow-up test showed that the positive test result was in error.",0,24,"End of Section"
-"4","Other",2,26,""
-"7","Refused",0,26,""
-"9","Don't know",1,27,""
-".","Missing",51,78,""

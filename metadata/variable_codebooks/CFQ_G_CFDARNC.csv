@@ -1,8 +1,0 @@
-"CFDARNC.Code.or.Value","CFDARNC.Value.Description","CFDARNC.Count","CFDARNC.Cumulative","CFDARNC.Skip.to.Item"
-"1","Did not consent to audio record",13,13,"CFDDPP"
-"2","Communication problem",2,15,"CFDDPP"
-"3","Physical limitation",3,18,"CFDDPP"
-"5","Refused",8,26,"CFDDPP"
-"6","Equipment failure",28,54,"CFDDPP"
-"7","Other",0,54,"CFDDPP"
-".","Missing",1633,1687,""

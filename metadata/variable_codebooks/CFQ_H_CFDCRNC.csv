@@ -1,9 +1,0 @@
-"CFDCRNC.Code.or.Value","CFDCRNC.Value.Description","CFDCRNC.Count","CFDCRNC.Cumulative","CFDCRNC.Skip.to.Item"
-"1","Did not consent to audio record",0,0,NA
-"2","Communication problem",4,4,NA
-"3","Physical limitation",1,5,NA
-"4","Quit or gave up",8,13,NA
-"5","Refused",0,13,NA
-"6","Equipment failure",1,14,NA
-"7","Other",0,14,NA
-".","Missing",1771,1785,NA

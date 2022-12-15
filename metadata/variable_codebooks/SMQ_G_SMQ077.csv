@@ -1,8 +1,0 @@
-"SMQ077.Code.or.Value","SMQ077.Value.Description","SMQ077.Count","SMQ077.Cumulative","SMQ077.Skip.to.Item"
-"1","Within 5 minutes",283,283,NA
-"2","From 6 to 30 minutes",291,574,NA
-"3","From more than 30 minutes to one hour",181,755,NA
-"4","More than one hour",244,999,NA
-"7","Refused",3,1002,NA
-"9","Don't know",5,1007,NA
-".","Missing",5783,6790,NA

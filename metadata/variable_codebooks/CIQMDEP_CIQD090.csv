@@ -1,9 +1,0 @@
-"CIQD090.Code.or.Value","CIQD090.Value.Description","CIQD090.Count","CIQD090.Cumulative","CIQD090.Skip.to.Item"
-"1","Spouse",0,0,NA
-"2","Child",1,1,NA
-"3","Parent/Sibling",5,6,NA
-"4","Other Relative",3,9,NA
-"5","Nonrelative",2,11,NA
-"7","Refuse",0,11,NA
-"9","Don't know",0,11,NA
-".","Missing",767,778,NA

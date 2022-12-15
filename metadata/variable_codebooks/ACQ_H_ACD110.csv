@@ -1,9 +1,0 @@
-"ACD110.Code.or.Value","ACD110.Value.Description","ACD110.Count","ACD110.Cumulative","ACD110.Skip.to.Item"
-"1","Only Non-English language",370,370,NA
-"2","More Non-English than English",91,461,NA
-"3","Both equally",93,554,NA
-"4","More English than Non-English",119,673,NA
-"5","Only English",334,1007,NA
-"7","Refused",0,1007,NA
-"9","Don't know",0,1007,NA
-".","Missing",8223,9230,NA

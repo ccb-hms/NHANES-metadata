@@ -1,8 +1,0 @@
-"PAQ766.Code.or.Value","PAQ766.Value.Description","PAQ766.Count","PAQ766.Cumulative","PAQ766.Skip.to.Item"
-"1","Less than 10 minutes",13,13,NA
-"2","10-15 minutes",281,294,NA
-"3","16-30 minutes",801,1095,NA
-"4","More than 30 minutes",275,1370,NA
-"7","Refused",0,1370,NA
-"9","Don't know",51,1421,NA
-".","Missing",7834,9255,NA

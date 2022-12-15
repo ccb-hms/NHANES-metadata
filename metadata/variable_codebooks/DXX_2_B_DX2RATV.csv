@@ -1,9 +1,0 @@
-"DX2RATV.Code.or.Value","DX2RATV.Value.Description","DX2RATV.Count","DX2RATV.Cumulative","DX2RATV.Skip.to.Item"
-"0","Valid data",464,464,NA
-"1","Jewelry or other objects not removed",3,467,NA
-"2","Non-removable objects",3,470,NA
-"4","Arm/leg overlap",1,471,NA
-"5","Body parts out of scan region",8,479,NA
-"6","Positioning problem",0,479,NA
-"7","Other",0,479,NA
-".","Missing",6,485,NA

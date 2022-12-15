@@ -1,7 +1,0 @@
-"DXATRST.Code.or.Value","DXATRST.Value.Description","DXATRST.Count","DXATRST.Cumulative","DXATRST.Skip.to.Item"
-"1","Trunk scan completed, trunk scan is valid",5590,5590,NA
-"2","Trunk scan completed, but trunk scan is invalid",129,5719,NA
-"3","Not scanned, pregnancy",371,6090,NA
-"4","Not scanned, weight > 300 lbs",85,6175,NA
-"5","Not scanned, other reason",718,6893,NA
-".","Missing",0,6893,NA

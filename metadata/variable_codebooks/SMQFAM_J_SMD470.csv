@@ -1,8 +1,0 @@
-"SMD470.Code.or.Value","SMD470.Value.Description","SMD470.Count","SMD470.Cumulative","SMD470.Skip.to.Item"
-"0","No one smokes inside the house",1717,1717,"End of Section"
-"1","1 household member smokes inside the house",588,2305,""
-"2","2 household members smoke inside the house",314,2619,""
-"3","3 or more household members smoke inside the house",68,2687,""
-"777","Refused",0,2687,""
-"999","Don't know",0,2687,""
-".","Missing",6567,9254,""

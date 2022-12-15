@@ -1,7 +1,0 @@
-"CIDPPRB.Code.or.Value","CIDPPRB.Value.Description","CIDPPRB.Count","CIDPPRB.Cumulative","CIDPPRB.Skip.to.Item"
-"1","No Problem",0,0,NA
-"2","Not clinically significant",27,27,NA
-"3","Medication, Drugs, or Alcohol",0,27,NA
-"4","Physical cause",3,30,NA
-"5","Psychiatric Symptom",41,71,NA
-".","Missing",857,928,NA

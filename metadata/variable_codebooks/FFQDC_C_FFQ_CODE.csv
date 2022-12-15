@@ -1,6 +1,0 @@
-"FFQ_CODE.Code.or.Value","FFQ_CODE.Value.Description","FFQ_CODE.Count","FFQ_CODE.Cumulative","FFQ_CODE.Skip.to.Item"
-"0","Daily food frequency based on actual questionnaire response",1072814,1072814,NA
-"1","Daily food frequency was imputed due to missing code",17636,1090450,NA
-"2","Daily food frequency was imputed due to scanning error",4796,1095246,NA
-"3","Daily food frequency was imputed due to coding error",0,1095246,NA
-"< blank >","Missing",0,1095246,NA

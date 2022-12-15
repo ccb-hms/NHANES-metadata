@@ -1,8 +1,0 @@
-"RHQ020.Code.or.Value","RHQ020.Value.Description","RHQ020.Count","RHQ020.Cumulative","RHQ020.Skip.to.Item"
-"1","Younger than 10,",1,1,NA
-"2","10 to 12,",15,16,NA
-"3","13 to 15, or",11,27,NA
-"4","16 or older?",5,32,NA
-"7","Refused",0,32,NA
-"9","Don't know",12,44,NA
-".","Missing",3553,3597,NA

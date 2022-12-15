@@ -1,9 +1,0 @@
-"AUAREQC.Code.or.Value","AUAREQC.Value.Description","AUAREQC.Count","AUAREQC.Cumulative","AUAREQC.Skip.to.Item"
-"1","Good - tympanogram is smooth and symmetrical",1700,1700,NA
-"2","Adequate - tympanogram is 'noisy' but adequate for interpretation",413,2113,NA
-"3","Poor - tympanogram cannot be interpreted",24,2137,NA
-"7","SP Refused Tympanometry",3,2140,NA
-"8","There was no tymp",57,2197,NA
-"9","Equivocal - tympanogram cannot be evaluated without further information",20,2217,NA
-"888","CNO - technician could not obtain the tympanogram",0,2217,NA
-".","Missing",151,2368,NA

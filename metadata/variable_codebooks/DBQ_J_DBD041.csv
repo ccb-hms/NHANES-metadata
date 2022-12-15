@@ -1,7 +1,0 @@
-"DBD041.Code.or.Value","DBD041.Value.Description","DBD041.Count","DBD041.Cumulative","DBD041.Skip.to.Item"
-"1 to 365","Range of Values",1260,1260,""
-"0","Never",259,1519,"DBD055"
-"666666","More than 365 days (1-year) old",8,1527,""
-"777777","Refused",0,1527,""
-"999999","Don't know",12,1539,""
-".","Missing",7715,9254,""

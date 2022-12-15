@@ -1,7 +1,0 @@
-"INDFMMPC.Code.or.Value","INDFMMPC.Value.Description","INDFMMPC.Count","INDFMMPC.Cumulative","INDFMMPC.Skip.to.Item"
-"1","Monthly poverty level index <= 1.30",3924,3924,NA
-"2","1.30 < Monthly poverty level index <= 1.85",1413,5337,NA
-"3","Monthly poverty level index > 1.85",4235,9572,NA
-"7","Refused",67,9639,NA
-"9","Don't Know",99,9738,NA
-".","Missing",411,10149,NA

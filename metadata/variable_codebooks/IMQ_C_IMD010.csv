@@ -1,7 +1,0 @@
-"IMD010.Code.or.Value","IMD010.Value.Description","IMD010.Count","IMD010.Cumulative","IMD010.Skip.to.Item"
-"1","Yes, at least 2 doses",1520,1520,NA
-"2","Less than 2 doses",320,1840,NA
-"3","No doses",6678,8518,NA
-"7","Refused",1,8519,NA
-"9","Don't know",785,9304,NA
-".","Missing",818,10122,NA

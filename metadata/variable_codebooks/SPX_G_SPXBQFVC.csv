@@ -1,7 +1,0 @@
-"SPXBQFVC.Code.or.Value","SPXBQFVC.Value.Description","SPXBQFVC.Count","SPXBQFVC.Cumulative","SPXBQFVC.Skip.to.Item"
-"A","Exceeds ATS data collection standards",321,321,NA
-"B","Meets ATS data collection standards",107,428,NA
-"C","Potentially usable value, but does not meet all ATS standards",28,456,NA
-"D","Questionable result, use with caution",1,457,NA
-"F","Results not valid",0,457,NA
-"< blank >","Missing",7038,7495,NA

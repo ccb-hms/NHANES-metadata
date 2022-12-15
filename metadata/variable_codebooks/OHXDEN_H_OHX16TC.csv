@@ -1,8 +1,0 @@
-"OHX16TC.Code.or.Value","OHX16TC.Value.Description","OHX16TC.Count","OHX16TC.Cumulative","OHX16TC.Skip.to.Item"
-"1","Primary tooth (deciduous) present",0,0,NA
-"2","Permanent tooth present",1321,1321,NA
-"3","Dental implant",0,1321,NA
-"4","Tooth not present",7596,8917,NA
-"5","Permanent dental root fragment present",51,8968,NA
-"9","Could not assess",0,8968,NA
-".","Missing",454,9422,NA

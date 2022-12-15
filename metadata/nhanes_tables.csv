@@ -1,4 +1,4 @@
-"Data.File.Name","Data.File.Description","Data.Group","Data.Year"
+"Table","Table Name","Data Group","Year"
 "DEMO","Demographic Variables & Sample Weights","DEMOGRAPHICS",1999
 "DRXIFF","Dietary Interview - Individual Foods","DIETARY",1999
 "DRXTOT","Dietary Interview - Total Nutrient Intakes","DIETARY",1999
@@ -1214,6 +1214,8 @@
 "OPD_I","Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine","LABORATORY",2015
 "VID_I","Vitamin D","LABORATORY",2015
 "SSKL_I","Klotho - Serum (Surplus)","LABORATORY",2015
+"UFLDE_I","Fluoride - Urine","LABORATORY",2015
+"SSGLYP_I","Glyphosate (GLYP) - Urine (Surplus)","LABORATORY",2015
 "PFQ_I","Physical Functioning","QUESTIONNAIRE",2015
 "CDQ_I","Cardiovascular Health","QUESTIONNAIRE",2015
 "MCQ_I","Medical Conditions","QUESTIONNAIRE",2015

@@ -1,5 +1,0 @@
-"URDMEALC.Code.or.Value","URDMEALC.Value.Description","URDMEALC.Count","URDMEALC.Cumulative","URDMEALC.Skip.to.Item"
-"0","At or above detection limit",18,18,NA
-"1","Below lower detection limit",2491,2509,NA
-"2","Detectable result and exceeds the calibrated range of assay",0,2509,NA
-".","Missing",246,2755,NA

@@ -1,9 +1,0 @@
-"DEALLRSN.Code.or.Value","DEALLRSN.Value.Description","DEALLRSN.Count","DEALLRSN.Cumulative","DEALLRSN.Skip.to.Item"
-"1","Safety exclusion",0,0,NA
-"2","SP refusal",4,4,NA
-"3","No time",0,4,NA
-"4","Physical limitation",3,7,NA
-"5","Communication problem",0,7,NA
-"6","Equipment failure",0,7,NA
-"7","SP ill/emergency",0,7,NA
-".","Missing",2985,2992,NA

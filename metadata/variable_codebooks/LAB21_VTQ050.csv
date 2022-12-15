@@ -1,9 +1,0 @@
-"VTQ050.Code.or.Value","VTQ050.Value.Description","VTQ050.Count","VTQ050.Cumulative","VTQ050.Skip.to.Item"
-"1","Rural or country road",85,85,NA
-"2","Dead-end residential street",138,223,NA
-"3","Through residential street",336,559,NA
-"4","Commercial street",70,629,NA
-"5","Major highway",20,649,NA
-"7","Refused",0,649,NA
-"9","Don't know",1,650,NA
-".","Missing",201,851,NA

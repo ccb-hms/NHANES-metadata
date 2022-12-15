@@ -1,7 +1,0 @@
-"SMQ040.Code.or.Value","SMQ040.Value.Description","SMQ040.Count","SMQ040.Cumulative","SMQ040.Skip.to.Item"
-"1","Every day,",951,951,"SMD070"
-"2","Some days, or",220,1171,"SMD080"
-"3","Not at all?",1424,2595,""
-"7","Refused",0,2595,"SMQ120"
-"9","Don't know",1,2596,"SMQ120"
-".","Missing",2815,5411,""

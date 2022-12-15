@@ -1,7 +1,0 @@
-"DXAFMRST.Code.or.Value","DXAFMRST.Value.Description","DXAFMRST.Count","DXAFMRST.Cumulative","DXAFMRST.Skip.to.Item"
-"1","Femur scan completed, all data are valid",6517,6517,NA
-"2","Femur scan completed, all data are invalid",238,6755,NA
-"3","Femur not scanned, pregnant",57,6812,NA
-"4","Femur not scanned, weight > 300 lbs",98,6910,NA
-"5","Femur not scanned, other reason",824,7734,NA
-".","Missing",0,7734,NA

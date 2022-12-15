@@ -1,7 +1,0 @@
-"RHD180.Code.or.Value","RHD180.Value.Description","RHD180.Count","RHD180.Cumulative","RHD180.Skip.to.Item"
-"15 to 39","Range of Values",1383,1383,""
-"14","14 years or under",13,1396,""
-"45","45 years or older",0,1396,""
-"777","Refused",0,1396,"RHD190"
-"999","Don't know",6,1402,"RHD190"
-".","Missing",1896,3298,""

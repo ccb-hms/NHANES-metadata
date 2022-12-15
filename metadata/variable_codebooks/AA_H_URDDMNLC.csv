@@ -1,5 +1,0 @@
-"URDDMNLC.Code.or.Value","URDDMNLC.Value.Description","URDDMNLC.Count","URDDMNLC.Cumulative","URDDMNLC.Skip.to.Item"
-"0","At or above detection limit",1525,1525,NA
-"1","Below lower detection limit",850,2375,NA
-"2","Detectable result and exceeds the calibrated range of assay",0,2375,NA
-".","Missing",380,2755,NA

@@ -1,5 +1,0 @@
-"URDMORLC.Code.or.Value","URDMORLC.Value.Description","URDMORLC.Count","URDMORLC.Cumulative","URDMORLC.Skip.to.Item"
-"0","At or above detection limit",123,123,NA
-"1","Below lower detection limit",2261,2384,NA
-"2","Detectable result and exceeds the calibrated range of assay",0,2384,NA
-".","Missing",371,2755,NA

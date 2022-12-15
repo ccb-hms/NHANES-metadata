@@ -1,7 +1,0 @@
-"DRDDRSTS.Code.or.Value","DRDDRSTS.Value.Description","DRDDRSTS.Count","DRDDRSTS.Cumulative","DRDDRSTS.Skip.to.Item"
-"1","Reliable and meet minimum criteria",125226,125226,NA
-"2","Reliable but not meet minimum criteria",1104,126330,NA
-"3","Not reliable",0,126330,NA
-"4","Breast-fed infant or child",1510,127840,NA
-"5","Not done",0,127840,NA
-".","Missing",0,127840,NA

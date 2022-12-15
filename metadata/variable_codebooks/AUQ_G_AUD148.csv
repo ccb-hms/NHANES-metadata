@@ -1,7 +1,0 @@
-"AUD148.Code.or.Value","AUD148.Value.Description","AUD148.Count","AUD148.Cumulative","AUD148.Skip.to.Item"
-"1","Hearing aid",61,61,""
-"2","Cochlear implant",2,63,""
-"3","Both hearing aid and cochlear implant",0,63,""
-"7","Refused",0,63,"AUQ154"
-"9","Don't know",0,63,"AUQ154"
-".","Missing",9301,9364,""

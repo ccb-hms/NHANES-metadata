@@ -1,9 +1,0 @@
-"DX2RLBV.Code.or.Value","DX2RLBV.Value.Description","DX2RLBV.Count","DX2RLBV.Cumulative","DX2RLBV.Skip.to.Item"
-"0","Valid data",466,466,NA
-"1","Jewelry or other objects not removed",1,467,NA
-"2","Non-removable objects",8,475,NA
-"4","Arm/leg overlap",0,475,NA
-"5","Body parts out of scan region",4,479,NA
-"6","Positioning problem",0,479,NA
-"7","Other",0,479,NA
-".","Missing",6,485,NA

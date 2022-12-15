@@ -1,9 +1,0 @@
-"DXXL1BCC.Code.or.Value","DXXL1BCC.Value.Description","DXXL1BCC.Count","DXXL1BCC.Cumulative","DXXL1BCC.Skip.to.Item"
-"0","Valid data",6627,6627,NA
-"1","Objects not removed",2,6629,NA
-"2","Non-removable objects such as implants",15,6644,NA
-"3","Excessive x-ray noise due to morbid obesity",0,6644,NA
-"4","Insufficient scan area",21,6665,NA
-"5","Movement",3,6668,NA
-"6","Other (degenerative diseases, spinal fusion, fractures)",533,7201,NA
-".","Missing",984,8185,NA

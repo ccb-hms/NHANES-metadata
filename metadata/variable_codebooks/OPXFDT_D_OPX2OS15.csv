@@ -1,8 +1,0 @@
-"OPX2OS15.Code.or.Value","OPX2OS15.Value.Description","OPX2OS15.Count","OPX2OS15.Cumulative","OPX2OS15.Skip.to.Item"
-"0","None",20,20,NA
-"6","p >= 5% 1st presentation",2070,2090,NA
-"7","p >= 5% 2nd presentation",180,2270,NA
-"8","p < 5%",100,2370,NA
-"9","p < 2%",45,2415,NA
-"10","p < 1%",84,2499,NA
-".","Missing",435,2934,NA

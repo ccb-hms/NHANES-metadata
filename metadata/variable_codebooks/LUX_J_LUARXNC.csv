@@ -1,5 +1,0 @@
-"LUARXNC.Code.or.Value","LUARXNC.Value.Description","LUARXNC.Count","LUARXNC.Cumulative","LUARXNC.Skip.to.Item"
-"1","Fasting < 3hrs",257,257,"LUAPNME"
-"2","Unable to obtain 10 valid measures",129,386,"LUAPNME"
-"3","IQR/M >30%",107,493,"LUAPNME"
-".","Missing",5908,6401,""

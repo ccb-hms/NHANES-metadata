@@ -1,9 +1,0 @@
-"DXATRBV.Code.or.Value","DXATRBV.Value.Description","DXATRBV.Count","DXATRBV.Cumulative","DXATRBV.Skip.to.Item"
-"0","Valid data",4946,4946,NA
-"1","Removable or non-removable objects",162,5108,NA
-"3","Excessive x-ray noise due to morbid obesity",0,5108,NA
-"4","Arm/leg overlap",2,5110,NA
-"5","Body parts out of scan region",0,5110,NA
-"6","Positioning problem",1,5111,NA
-"7","Other",1,5112,NA
-".","Missing",668,5780,NA

@@ -1,5 +1,0 @@
-"LBDV4ELC.Code.or.Value","LBDV4ELC.Value.Description","LBDV4ELC.Count","LBDV4ELC.Cumulative","LBDV4ELC.Skip.to.Item"
-"0","At or above detection limit",3,3,NA
-"1","Below lower detection limit",2678,2681,NA
-"2","Detectable result and exceeds the calibrated range of assay",0,2681,NA
-".","Missing",613,3294,NA

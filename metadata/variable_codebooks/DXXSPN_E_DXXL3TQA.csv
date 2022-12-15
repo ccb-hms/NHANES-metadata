@@ -1,9 +1,0 @@
-"DXXL3TQA.Code.or.Value","DXXL3TQA.Value.Description","DXXL3TQA.Count","DXXL3TQA.Cumulative","DXXL3TQA.Skip.to.Item"
-"0","Valid data",4500,4500,NA
-"1","Objects not removed",0,4500,NA
-"2","Non-removable objects such as implants",11,4511,NA
-"3","Excessive x-ray noise due to morbid obesity",3,4514,NA
-"4","Insufficient scan area",2,4516,NA
-"5","Movement",0,4516,NA
-"6","Other",388,4904,NA
-".","Missing",2830,7734,NA

@@ -1,7 +1,0 @@
-"ENXSTAT.Code.or.Value","ENXSTAT.Value.Description","ENXSTAT.Count","ENXSTAT.Cumulative","ENXSTAT.Skip.to.Item"
-"1","Two reproducible FENO measurements",6188,6188,""
-"2","One or more FENO measurement; not reproducible",182,6370,""
-"3","Attempted exam; no FENO measurements",391,6761,""
-"4","Medical exclusion; no FENO measurements",196,6957,""
-"5","Exam not done; no FENO measurements",786,7743,"ENXCMT"
-".","Missing",0,7743,""

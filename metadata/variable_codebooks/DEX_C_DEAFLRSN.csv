@@ -1,9 +1,0 @@
-"DEAFLRSN.Code.or.Value","DEAFLRSN.Value.Description","DEAFLRSN.Count","DEAFLRSN.Cumulative","DEAFLRSN.Skip.to.Item"
-"1","Safety exclusion",0,0,NA
-"2","SP refusal",4,4,NA
-"3","No time",0,4,NA
-"4","Physical limitation",2,6,NA
-"5","Communication problem",0,6,NA
-"6","Equipment failure",0,6,NA
-"7","SP ill/emergency",1,7,NA
-".","Missing",2985,2992,NA
