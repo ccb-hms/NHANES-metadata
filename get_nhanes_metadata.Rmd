@@ -1,8 +1,7 @@
 ---
 title: "NHANES Metadata"
 output:
-  html_document:
-    df_print: paged
+  html_notebook
 ---
 
 Load the *nhanesA* library (v0.7.2 from GitHub).
@@ -127,7 +126,8 @@ dir.create(file.path(".", output_folder), showWarnings=FALSE, recursive=TRUE)
 
 # Get the metadata about all NHANES tables. Write to a CSV file.
 all_tables <- get_tables_metadata()
-write.csv(all_tables, paste(output_folder, "nhanes_tables.csv", sep=""), row.names=FALSE)
+write.table(all_tables, file=paste(output_folder, "nhanes_tables.csv", sep=""), 
+            row.names=FALSE, sep=",")
 
 # Get metadata about all variables in all NHANES tables collected above. Write to a CSV file.
 get_variables_metadata(all_tables)
