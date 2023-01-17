@@ -1,0 +1,43 @@
+Ever been told you have (.*)
+Ever been told you had (.*)
+Close blood relative have (.*)
+Doctor told you have (.*)
+Doctor ever told you have (.*)
+Age when first had (.*)
+Age when told you had (.*)
+Age when (.*) first diagnosed
+Age first told had (.*)
+(.*) in past year
+Have (.*) now
+Still have (.*)
+Had (.*) in past year
+Ever had (.*)
+Reason (.*) occurred(.*)
+Age started (.*)
+Used last five days - (.*)
+When did SP (.*)
+Total # (.*)
+HH Ref Person (.*)
+(.*) eaten during past 30 days 
+(.*) eaten in past 30 days 
+Num times (.*) eaten in past 30 days
+Had (.*) in last 30 minutes\?
+Excluded per (.*)
+Amount of (time) spend (in) (.*)
+Had (.*) Last 24 Hours(.*)\?
+Estimated (.*)
+Had (.*)\?
+Have (.*)\?
+Blood (.*) Comment Code
+(.*) comment code
+(.*) Comment Code
+Handcard: (.*)\?
+Doctor said (.*)
+When (SED) did you (.*)\?
+When (SED) were you (.*)\?
+Did you (.*)\?
+How often (.*)
+How long since (.*)
+Used (.*)
+Age when (.*)
+(.*)\?
