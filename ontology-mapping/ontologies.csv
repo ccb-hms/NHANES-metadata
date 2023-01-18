@@ -1,9 +1,11 @@
 acronym,name,version,date,url,comments
-EFO,Experimental Factor Ontology,3.46.0,9/15/22,https://github.com/EBISPOT/efo/releases/download/v3.46.0/efo.owl,
-HPO,Human Phenotype Ontology,6/11/22,6/11/22,http://purl.obolibrary.org/obo/hp/releases/2022-06-11/hp.owl,
-MONDO,Monarch Disease Ontology,8/1/22,8/1/22,http://purl.obolibrary.org/obo/mondo/releases/2022-08-01/mondo.owl,
-NCIT,NCI Thesaurus,22.07d,8/19/22,http://purl.obolibrary.org/obo/ncit/releases/2022-08-19/ncit.owl,
-UBERON,Uber-anatomy ontology,8/19/22,8/19/22,http://purl.obolibrary.org/obo/uberon/releases/2022-08-19/uberon.owl,
+EFO,Experimental Factor Ontology,3.46.0,09/15/22,https://github.com/EBISPOT/efo/releases/download/v3.46.0/efo.owl,
+HPO,Human Phenotype Ontology,06/11/22,06/11/22,http://purl.obolibrary.org/obo/hp/releases/2022-06-11/hp.owl,
+MONDO,Monarch Disease Ontology,08/1/22,08/01/22,http://purl.obolibrary.org/obo/mondo/releases/2022-08-01/mondo.owl,
+NCIT,NCI Thesaurus,22.07d,08/19/22,http://purl.obolibrary.org/obo/ncit/releases/2022-08-19/ncit.owl,
+UBERON,Uber-anatomy ontology,08/19/22,08/19/22,http://purl.obolibrary.org/obo/uberon/releases/2022-08-19/uberon.owl,
 UO,Units of Measurement ontology,10/03/20,10/03/20,http://purl.obolibrary.org/obo/uo.owl,non-versioned IRI
-SNOMED,SNOMED CT,01/31/14,01/31/14,file:///Users/rsgoncalves/Documents/Ontologies/snomedct_owl.owl,
+SNOMED,SNOMED CT,01/31/14,01/31/14,file:///Users/rsgoncalves/Documents/Ontologies/snomedct_owl.owl,local file
 CHEBI,Chemical Entities of Biological Interest Ontology,217,01/01/23,https://data.bioontology.org/ontologies/CHEBI/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb&download_format=rdf,slow download (~10 minutes)
+ECTO,"Environmental conditions, treatments and exposures ontology",12/12/22,12/12/22,http://purl.obolibrary.org/obo/ecto/releases/2022-12-12/ecto.owl,
+FOODON,Food Ontology,0.5.1,11/17/21,https://raw.githubusercontent.com/FoodOntology/foodon/v0.5.1/foodon.owl,

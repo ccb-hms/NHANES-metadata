@@ -1,4 +1,4 @@
-text2term==1.1.1
+text2term==1.2.1
 pandas~=1.4.1
 Owlready2~=0.36
-ontoutils~=0.2.1
+ontoutils~=0.2.2

@@ -52,12 +52,6 @@ def map_to_uo():
 
 
 def map_to_ecto():
-    """
-    2 errors come up upon loading ECTO (http://purl.obolibrary.org/obo/ecto/releases/2022-12-12/ecto.owl):
-    - Cannot read literal of datatype xml:string
-        obo.CDNO_0000003, CHEBI_16646, CDNO_0000004, CHEBI_17996, ...
-    - _pickle.PicklingError: Can't pickle obo.IAO_0000078: attribute lookup IAO_0000078 on owlready2.entity failed
-    """
     return map_to_ontology("ECTO", base_iris=("http://purl.obolibrary.org/obo/ECTO",))
 
 
@@ -71,8 +65,7 @@ def map_to_chebi():
 
 
 def map_to_foodon():
-    # TODO implement
-    pass
+    return map_to_ontology("FOODON", base_iris=("http://purl.obolibrary.org/obo/FOODON",))
 
 
 def get_output_file_name(ontology_name):
@@ -96,19 +89,21 @@ def get_best_mappings(mappings_df):
     return best_mappings
 
 
+# TODO map to all ontologives given in the .csv file
 def map_variables_to_ontologies():
-    efo_mappings = map_to_efo()
-    hpo_mappings = map_to_hpo()
-    mondo_mappings = map_to_mondo()
-    ncit_mappings = map_to_nci_thesaurus()
-    snomed_mappings = map_to_snomed()
-    uberon_mappings = map_to_uberon()
-    uo_mappings = map_to_uo()
+    efo_mappings = map_to_efo()  # Map to Experimental Factor Ontology (EFO)
+    hpo_mappings = map_to_hpo()  # Map to Human Phenotype Ontology (HPO)
+    mondo_mappings = map_to_mondo()  # Map to Monarch Disease Ontology (MONDO)
+    ncit_mappings = map_to_nci_thesaurus()  # Map to NCI Thesaurus (NCIT)
+    snomed_mappings = map_to_snomed()  # Map to SNOMED CT
+    uberon_mappings = map_to_uberon()  # map to Uber Anatomy ontology (UBERON) to determine anatomical location
+    uo_mappings = map_to_uo()  # map to Units of Measurement ontology (UO) to determine unit of measurement
     chebi_mappings = map_to_chebi()
-    # ecto_mappings = map_to_ecto()
+    ecto_mappings = map_to_ecto()
+    foodon_mappings = map_to_foodon()
 
     all_mappings = pd.concat([efo_mappings, hpo_mappings, mondo_mappings, ncit_mappings, snomed_mappings,
-                              uberon_mappings, uo_mappings, chebi_mappings], axis=0)
+                              uberon_mappings, uo_mappings, chebi_mappings, ecto_mappings, foodon_mappings], axis=0)
     all_mappings = all_mappings.drop_duplicates()
     all_mappings.to_csv(get_output_file_name("ALL"), index=False)
     best_mappings = get_best_mappings(all_mappings)
