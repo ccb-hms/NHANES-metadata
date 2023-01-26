@@ -1,16 +1,22 @@
 Ever been told you have (.*)
 Ever been told you had (.*)
+Ever told had (.*)
+Ever treated for (.*)
+(.*) treated by (.*) doctor
 Close blood relative have (.*)
 Doctor told you have (.*)
 Doctor ever told you have (.*)
 Age when first had (.*)
 Age when told you had (.*)
 Age when (.*) first diagnosed
+Age when (.*) started \([A-Za-z]+\)
 Age first told had (.*)
 (.*) in past year
 Have (.*) now
 Still have (.*)
 Had (.*) in past year
+Had (.*) for [A-z 0-9]+
+Had (.*) [A-z 0-9]+ in a row
 Ever had (.*)
 Reason (.*) occurred(.*)
 Age started (.*)
@@ -31,6 +37,7 @@ Have (.*)\?
 Blood (.*) Comment Code
 (.*) comment code
 (.*) Comment Code
+(.*) [Cc]omment
 Handcard: (.*)\?
 Doctor said (.*)
 When (SED) did you (.*)\?
@@ -40,4 +47,11 @@ How often (.*)
 How long since (.*)
 Used (.*)
 Age when (.*)
+Specific Symptom: (.*)
+Gate: When last had (.*)
+Location [A-Za-z]+: (.*)
+(.*): temporal pattern
+(.*): how long to develop
+(.*) exam status
+(.*) @ [A-z 0-9]+
 (.*)\?
