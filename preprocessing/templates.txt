@@ -1,6 +1,7 @@
 Ever been told you have (.*)
 Ever been told you had (.*)
-Ever told had (.*)
+Ever told[ you]* had[ any]* (.*)
+Parents ever told had (.*)
 Ever treated for (.*)
 (.*) treated by (.*) doctor
 Close blood relative have (.*)
@@ -13,10 +14,12 @@ Age when (.*) started \([A-Za-z]+\)
 Age first told had (.*)
 (.*) in past year
 Have (.*) now
+Do you still have [a]?(.*)
 Still have (.*)
 Had (.*) in past year
+Had service for (.*)
 Had (.*) for [A-z 0-9]+
-Had (.*) [A-z 0-9]+ in a row
+Had (.*) [0-9] [A-z]+ in a row
 Ever had (.*)
 Reason (.*) occurred(.*)
 Age started (.*)
@@ -35,6 +38,7 @@ Estimated (.*)
 Had (.*)\?
 Have (.*)\?
 Blood (.*) Comment Code
+[Cc]omment [Cc]ode for [an]*(.*)
 (.*) comment code
 (.*) Comment Code
 (.*) [Cc]omment
