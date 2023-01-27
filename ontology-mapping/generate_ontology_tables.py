@@ -11,9 +11,9 @@ def generate_tables(output_folder=OUTPUT_FOLDER):
     os.makedirs(output_folder, exist_ok=True)
     ontology_set = pd.read_csv("resources/ontologies.csv")
     for index, row in ontology_set.iterrows():
-        Onto2Table.generate_ontology_table(ontology_file=row.url,
-                                           output_file=output_folder + row.acronym + ".csv",
-                                           use_reasoning=False)
+        Onto2Table.generate_table_from_file(ontology_file=row.url,
+                                            output_file=output_folder + row.acronym + ".csv",
+                                            use_reasoning=False)
 
 
 if __name__ == '__main__':
