@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import text2term
 
 def main():
@@ -11,7 +12,8 @@ def main():
 
 	bl_df = pd.read_csv("table_blacklist.csv")
 	for index, row in bl_df.iterrows():
-		df.loc[df['Table'] == row['tables'], "Processed Text"] = "-"
+		df["Processed Text"] = np.where((df["Variable"] == row["names"]) & (df["Table"] == row["tables"]), \
+										"-", df["Processed Text"])
 
 	df.to_csv("nhanes_variables_processed.csv", index=False)
 
