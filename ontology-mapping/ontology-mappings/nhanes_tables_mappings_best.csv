@@ -1,0 +1,1334 @@
+Source Term Id,Source Term,Mapped Term Label,Mapped Term IRI,Mapping Score,Ontology
+DEMO,Demographic Variables & Sample Weights,Demographics Table,http://purl.obolibrary.org/obo/NCIT_C168897,0.5773145285870463,NCIT
+DEMO_B,Demographic Variables & Sample Weights,Demographics Table,http://purl.obolibrary.org/obo/NCIT_C168897,0.5773145285870463,NCIT
+DEMO_C,Demographic Variables & Sample Weights,Demographics Table,http://purl.obolibrary.org/obo/NCIT_C168897,0.5773145285870463,NCIT
+DEMO_D,Demographic Variables & Sample Weights,Demographics Table,http://purl.obolibrary.org/obo/NCIT_C168897,0.5773145285870463,NCIT
+DEMO_E,Demographic Variables & Sample Weights,Demographics Table,http://purl.obolibrary.org/obo/NCIT_C168897,0.5773145285870463,NCIT
+DEMO_F,Demographic Variables & Sample Weights,Demographics Table,http://purl.obolibrary.org/obo/NCIT_C168897,0.5773145285870463,NCIT
+DEMO_G,Demographic Variables & Sample Weights,Demographics Table,http://purl.obolibrary.org/obo/NCIT_C168897,0.5773145285870463,NCIT
+DRXIFF,Dietary Interview - Individual Foods,Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.5768478240025825,NCIT
+DRXIFF_B,Dietary Interview - Individual Foods,Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.5768478240025825,NCIT
+DRXTOT,Dietary Interview - Total Nutrient Intakes,Dietary Intake,http://purl.obolibrary.org/obo/NCIT_C169077,0.5512947625230561,NCIT
+DRXTOT_B,Dietary Interview - Total Nutrient Intakes,Dietary Intake,http://purl.obolibrary.org/obo/NCIT_C169077,0.5512947625230561,NCIT
+DSQFILE1,"Dietary Supplement Use 30-Day - File 1, Supplement Counts",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.7560423499990332,FOODON
+DSQ1_B,"Dietary Supplement Use 30-Day - File 1, Supplement Counts",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.7560423499990332,FOODON
+DSQ1_C,"Dietary Supplement Use 30-Day - File 1, Supplement Counts",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.7560423499990332,FOODON
+DSQ1_D,"Dietary Supplement Use 30-Day - File 1, Supplement Counts",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.7560423499990332,FOODON
+DSQFILE2,"Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements",plant used for dietary supplements,http://purl.obolibrary.org/obo/FOODON_03414168,0.6624988978515272,FOODON
+DSQ2_B,"Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements",plant used for dietary supplements,http://purl.obolibrary.org/obo/FOODON_03414168,0.6624988978515272,FOODON
+DSQ2_C,"Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements",plant used for dietary supplements,http://purl.obolibrary.org/obo/FOODON_03414168,0.6624988978515272,FOODON
+DSQ2_D,"Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements",plant used for dietary supplements,http://purl.obolibrary.org/obo/FOODON_03414168,0.6624988978515272,FOODON
+BPX,Blood Pressure,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.9852886807726987,NCIT
+BPX_B,Blood Pressure,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.9852886807726987,NCIT
+BPX_C,Blood Pressure,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.9852886807726987,NCIT
+BPX_D,Blood Pressure,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.9852886807726987,NCIT
+BPX_E,Blood Pressure,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.9852886807726987,NCIT
+BPX_F,Blood Pressure,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.9852886807726987,NCIT
+BPX_G,Blood Pressure,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.9852886807726987,NCIT
+BPX_H,Blood Pressure,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.9852886807726987,NCIT
+BPX_I,Blood Pressure,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.9852886807726987,NCIT
+BPX_J,Blood Pressure,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.9852886807726987,NCIT
+BMX,Body Measures,body weights and measures,http://www.ebi.ac.uk/efo/EFO_0004324,0.9242664145340951,EFO
+BMX_B,Body Measures,body weights and measures,http://www.ebi.ac.uk/efo/EFO_0004324,0.9242664145340951,EFO
+BMX_C,Body Measures,body weights and measures,http://www.ebi.ac.uk/efo/EFO_0004324,0.9242664145340951,EFO
+BMX_D,Body Measures,body weights and measures,http://www.ebi.ac.uk/efo/EFO_0004324,0.9242664145340951,EFO
+BMX_E,Body Measures,body weights and measures,http://www.ebi.ac.uk/efo/EFO_0004324,0.9242664145340951,EFO
+BMX_F,Body Measures,body weights and measures,http://www.ebi.ac.uk/efo/EFO_0004324,0.9242664145340951,EFO
+BMX_G,Body Measures,body weights and measures,http://www.ebi.ac.uk/efo/EFO_0004324,0.9242664145340951,EFO
+BMX_H,Body Measures,body weights and measures,http://www.ebi.ac.uk/efo/EFO_0004324,0.9242664145340951,EFO
+BMX_I,Body Measures,body weights and measures,http://www.ebi.ac.uk/efo/EFO_0004324,0.9242664145340951,EFO
+BMX_J,Body Measures,body weights and measures,http://www.ebi.ac.uk/efo/EFO_0004324,0.9242664145340951,EFO
+CVX,Cardiovascular Fitness,Cardiovascular,http://purl.obolibrary.org/obo/NCIT_C25292,0.7679615337483704,NCIT
+CVX_B,Cardiovascular Fitness,Cardiovascular,http://purl.obolibrary.org/obo/NCIT_C25292,0.7679615337483704,NCIT
+CVX_C,Cardiovascular Fitness,Cardiovascular,http://purl.obolibrary.org/obo/NCIT_C25292,0.7679615337483704,NCIT
+AUX1,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUQ,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUX_B,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUQ_B,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUX_C,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUQ_C,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUX_D,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUQ_D,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUX_E,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUQ_E,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUX_F,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUQ_F,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUX_G,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUQ_G,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUX_I,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUQ_I,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUX_J,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUQ_J,Audiometry,Audioscan audiometry (procedure),http://snomed.info/id/252583006,0.8485694696051104,SNOMED
+AUXTYM,Audiometry - Tympanometry,Tympanometry,http://purl.obolibrary.org/obo/NCIT_C88505,0.8769499408818606,NCIT
+AUXTYM_B,Audiometry - Tympanometry,Tympanometry,http://purl.obolibrary.org/obo/NCIT_C88505,0.8769499408818606,NCIT
+AUXTYM_C,Audiometry - Tympanometry,Tympanometry,http://purl.obolibrary.org/obo/NCIT_C88505,0.8769499408818606,NCIT
+AUXTYM_D,Audiometry - Tympanometry,Tympanometry,http://purl.obolibrary.org/obo/NCIT_C88505,0.8769499408818606,NCIT
+AUXTYM_E,Audiometry - Tympanometry,Tympanometry,http://purl.obolibrary.org/obo/NCIT_C88505,0.8769499408818606,NCIT
+AUXTYM_F,Audiometry - Tympanometry,Tympanometry,http://purl.obolibrary.org/obo/NCIT_C88505,0.8769499408818606,NCIT
+AUXTYM_G,Audiometry - Tympanometry,Tympanometry,http://purl.obolibrary.org/obo/NCIT_C88505,0.8769499408818606,NCIT
+AUXTYM_I,Audiometry - Tympanometry,Tympanometry,http://purl.obolibrary.org/obo/NCIT_C88505,0.8769499408818606,NCIT
+AUXTYM_J,Audiometry - Tympanometry,Tympanometry,http://purl.obolibrary.org/obo/NCIT_C88505,0.8769499408818606,NCIT
+BIX,Bioelectrical Impedance Analysis,Bioelectric Impedance Analysis,http://purl.obolibrary.org/obo/NCIT_C43545,0.9605015508415109,NCIT
+BIX_B,Bioelectrical Impedance Analysis,Bioelectric Impedance Analysis,http://purl.obolibrary.org/obo/NCIT_C43545,0.9605015508415109,NCIT
+BIX_C,Bioelectrical Impedance Analysis,Bioelectric Impedance Analysis,http://purl.obolibrary.org/obo/NCIT_C43545,0.9605015508415109,NCIT
+BAX,Balance,Balance,http://purl.obolibrary.org/obo/NCIT_C73497,0.9918123431409983,NCIT
+BAQ,Balance,Balance,http://purl.obolibrary.org/obo/NCIT_C73497,0.9918123431409983,NCIT
+BAX_B,Balance,Balance,http://purl.obolibrary.org/obo/NCIT_C73497,0.9918123431409983,NCIT
+BAQ_B,Balance,Balance,http://purl.obolibrary.org/obo/NCIT_C73497,0.9918123431409983,NCIT
+BAX_C,Balance,Balance,http://purl.obolibrary.org/obo/NCIT_C73497,0.9918123431409983,NCIT
+BAQ_C,Balance,Balance,http://purl.obolibrary.org/obo/NCIT_C73497,0.9918123431409983,NCIT
+LEXABPI,Lower Extremity Disease - Ankle Brachial Blood Pressure Index,ankle brachial index,http://www.ebi.ac.uk/efo/EFO_0003912,0.7026933352245222,EFO
+LEXAB_B,Lower Extremity Disease - Ankle Brachial Blood Pressure Index,ankle brachial index,http://www.ebi.ac.uk/efo/EFO_0003912,0.7026933352245222,EFO
+LEXAB_C,Lower Extremity Disease - Ankle Brachial Blood Pressure Index,ankle brachial index,http://www.ebi.ac.uk/efo/EFO_0003912,0.7026933352245222,EFO
+LEXPN,Lower Extremity Disease - Peripheral Neuropathy,Disease related peripheral neuropathy (disorder),http://snomed.info/id/11060002,0.6978060270982293,SNOMED
+LEXPN_B,Lower Extremity Disease - Peripheral Neuropathy,Disease related peripheral neuropathy (disorder),http://snomed.info/id/11060002,0.6978060270982293,SNOMED
+LEXPN_C,Lower Extremity Disease - Peripheral Neuropathy,Disease related peripheral neuropathy (disorder),http://snomed.info/id/11060002,0.6978060270982293,SNOMED
+MSX,Muscle Strength,Isometric Muscle Strength,http://purl.obolibrary.org/obo/NCIT_C138967,0.8023127000791652,NCIT
+MSX_B,Muscle Strength,Isometric Muscle Strength,http://purl.obolibrary.org/obo/NCIT_C138967,0.8023127000791652,NCIT
+OHXDENT,Oral Health - Dentition,Dentition,http://purl.obolibrary.org/obo/NCIT_C13072,0.7002076501057918,NCIT
+OHXDEN_B,Oral Health - Dentition,Dentition,http://purl.obolibrary.org/obo/NCIT_C13072,0.7002076501057918,NCIT
+OHXDEN_C,Oral Health - Dentition,Dentition,http://purl.obolibrary.org/obo/NCIT_C13072,0.7002076501057918,NCIT
+OHXDEN_F,Oral Health - Dentition,Dentition,http://purl.obolibrary.org/obo/NCIT_C13072,0.7002076501057918,NCIT
+OHXDEN_G,Oral Health - Dentition,Dentition,http://purl.obolibrary.org/obo/NCIT_C13072,0.7002076501057918,NCIT
+OHXDEN_H,Oral Health - Dentition,Dentition,http://purl.obolibrary.org/obo/NCIT_C13072,0.7002076501057918,NCIT
+OHXDEN_I,Oral Health - Dentition,Dentition,http://purl.obolibrary.org/obo/NCIT_C13072,0.7002076501057918,NCIT
+OHXDEN_J,Oral Health - Dentition,Dentition,http://purl.obolibrary.org/obo/NCIT_C13072,0.7002076501057918,NCIT
+OHXPERIO,Oral Health - Periodontal,periodontal measurement,http://www.ebi.ac.uk/efo/EFO_0007780,0.7139572216997995,EFO
+OHXPER_F,Oral Health - Periodontal,periodontal measurement,http://www.ebi.ac.uk/efo/EFO_0007780,0.7139572216997995,EFO
+OHXPER_G,Oral Health - Periodontal,periodontal measurement,http://www.ebi.ac.uk/efo/EFO_0007780,0.7139572216997995,EFO
+OHXPER_H,Oral Health - Periodontal,periodontal measurement,http://www.ebi.ac.uk/efo/EFO_0007780,0.7139572216997995,EFO
+OHXREF,Oral Health - Recommendation of Care,Recommendation,http://purl.obolibrary.org/obo/NCIT_C25197,0.724579063986012,NCIT
+OHXREF_B,Oral Health - Recommendation of Care,Recommendation,http://purl.obolibrary.org/obo/NCIT_C25197,0.724579063986012,NCIT
+OHXREF_C,Oral Health - Recommendation of Care,Recommendation,http://purl.obolibrary.org/obo/NCIT_C25197,0.724579063986012,NCIT
+OHXREF_F,Oral Health - Recommendation of Care,Recommendation,http://purl.obolibrary.org/obo/NCIT_C25197,0.724579063986012,NCIT
+OHXREF_G,Oral Health - Recommendation of Care,Recommendation,http://purl.obolibrary.org/obo/NCIT_C25197,0.724579063986012,NCIT
+OHXREF_H,Oral Health - Recommendation of Care,Recommendation,http://purl.obolibrary.org/obo/NCIT_C25197,0.724579063986012,NCIT
+OHXREF_I,Oral Health - Recommendation of Care,Recommendation,http://purl.obolibrary.org/obo/NCIT_C25197,0.724579063986012,NCIT
+OHXREF_J,Oral Health - Recommendation of Care,Recommendation,http://purl.obolibrary.org/obo/NCIT_C25197,0.724579063986012,NCIT
+SEQ,Shared Exclusion Questions,Exclusion,http://purl.obolibrary.org/obo/NCIT_C82931,0.6508684450094603,NCIT
+TB,Tuberculosis,Tuberculosis,http://purl.obolibrary.org/obo/NCIT_C3423,0.9830149104069722,NCIT
+TBQ,Tuberculosis,Tuberculosis,http://purl.obolibrary.org/obo/NCIT_C3423,0.9830149104069722,NCIT
+TBX_G,Tuberculosis,Tuberculosis,http://purl.obolibrary.org/obo/NCIT_C3423,0.9830149104069722,NCIT
+TBQ_G,Tuberculosis,Tuberculosis,http://purl.obolibrary.org/obo/NCIT_C3423,0.9830149104069722,NCIT
+VIX,Vision,Low Vision,http://purl.obolibrary.org/obo/NCIT_C97175,0.7653196159927447,NCIT
+VIQ,Vision,Low Vision,http://purl.obolibrary.org/obo/NCIT_C97175,0.7653196159927447,NCIT
+VIX_B,Vision,Low Vision,http://purl.obolibrary.org/obo/NCIT_C97175,0.7653196159927447,NCIT
+VIQ_B,Vision,Low Vision,http://purl.obolibrary.org/obo/NCIT_C97175,0.7653196159927447,NCIT
+VIX_C,Vision,Low Vision,http://purl.obolibrary.org/obo/NCIT_C97175,0.7653196159927447,NCIT
+VIQ_C,Vision,Low Vision,http://purl.obolibrary.org/obo/NCIT_C97175,0.7653196159927447,NCIT
+VIX_D,Vision,Low Vision,http://purl.obolibrary.org/obo/NCIT_C97175,0.7653196159927447,NCIT
+VIQ_D,Vision,Low Vision,http://purl.obolibrary.org/obo/NCIT_C97175,0.7653196159927447,NCIT
+VIX_E,Vision,Low Vision,http://purl.obolibrary.org/obo/NCIT_C97175,0.7653196159927447,NCIT
+VIQ_E,Vision,Low Vision,http://purl.obolibrary.org/obo/NCIT_C97175,0.7653196159927447,NCIT
+AUXAR,Audiometry - Acoustic Reflex,Acoustic reflectometry (procedure),http://snomed.info/id/278320003,0.7182186886358923,SNOMED
+AUXAR_B,Audiometry - Acoustic Reflex,Acoustic reflectometry (procedure),http://snomed.info/id/278320003,0.7182186886358923,SNOMED
+AUXAR_C,Audiometry - Acoustic Reflex,Acoustic reflectometry (procedure),http://snomed.info/id/278320003,0.7182186886358923,SNOMED
+AUXAR_D,Audiometry - Acoustic Reflex,Acoustic reflectometry (procedure),http://snomed.info/id/278320003,0.7182186886358923,SNOMED
+AUXAR_E,Audiometry - Acoustic Reflex,Acoustic reflectometry (procedure),http://snomed.info/id/278320003,0.7182186886358923,SNOMED
+AUXAR_F,Audiometry - Acoustic Reflex,Acoustic reflectometry (procedure),http://snomed.info/id/278320003,0.7182186886358923,SNOMED
+AUXAR_G,Audiometry - Acoustic Reflex,Acoustic reflectometry (procedure),http://snomed.info/id/278320003,0.7182186886358923,SNOMED
+AUXAR_I,Audiometry - Acoustic Reflex,Acoustic reflectometry (procedure),http://snomed.info/id/278320003,0.7182186886358923,SNOMED
+AUXAR_J,Audiometry - Acoustic Reflex,Acoustic reflectometry (procedure),http://snomed.info/id/278320003,0.7182186886358923,SNOMED
+SSCHL_A,Sex Steroid Hormone - Men (Surplus),Sex Steroid Hormone,http://purl.obolibrary.org/obo/NCIT_C123796,0.8386808464234095,NCIT
+SSCHL_B,Sex Steroid Hormone - Men (Surplus),Sex Steroid Hormone,http://purl.obolibrary.org/obo/NCIT_C123796,0.8386808464234095,NCIT
+SSCHL_C,Sex Steroid Hormone - Men (Surplus),Sex Steroid Hormone,http://purl.obolibrary.org/obo/NCIT_C123796,0.8386808464234095,NCIT
+L02HBS,Hepatitis B Surface Antibody,Hepatitis B Virus Surface Antibody,http://purl.obolibrary.org/obo/NCIT_C62796,0.8993223444301243,NCIT
+L02HBS_B,Hepatitis B Surface Antibody,Hepatitis B Virus Surface Antibody,http://purl.obolibrary.org/obo/NCIT_C62796,0.8993223444301243,NCIT
+L02HBS_C,Hepatitis B Surface Antibody,Hepatitis B Virus Surface Antibody,http://purl.obolibrary.org/obo/NCIT_C62796,0.8993223444301243,NCIT
+HEPB_S_D,Hepatitis B Surface Antibody,Hepatitis B Virus Surface Antibody,http://purl.obolibrary.org/obo/NCIT_C62796,0.8993223444301243,NCIT
+HEPB_S_E,Hepatitis B Surface Antibody,Hepatitis B Virus Surface Antibody,http://purl.obolibrary.org/obo/NCIT_C62796,0.8993223444301243,NCIT
+HEPB_S_F,Hepatitis B Surface Antibody,Hepatitis B Virus Surface Antibody,http://purl.obolibrary.org/obo/NCIT_C62796,0.8993223444301243,NCIT
+HEPB_S_G,Hepatitis B Surface Antibody,Hepatitis B Virus Surface Antibody,http://purl.obolibrary.org/obo/NCIT_C62796,0.8993223444301243,NCIT
+L02HPA_a,Hepatitis A Antibody,Hepatitis C Antibody,http://purl.obolibrary.org/obo/NCIT_C116400,0.8777269387821749,NCIT
+L02HPA_B,Hepatitis A Antibody,Hepatitis C Antibody,http://purl.obolibrary.org/obo/NCIT_C116400,0.8777269387821749,NCIT
+L02HPA_C,Hepatitis A Antibody,Hepatitis C Antibody,http://purl.obolibrary.org/obo/NCIT_C116400,0.8777269387821749,NCIT
+HEPA_D,Hepatitis A Antibody,Hepatitis C Antibody,http://purl.obolibrary.org/obo/NCIT_C116400,0.8777269387821749,NCIT
+HEPA_E,Hepatitis A Antibody,Hepatitis C Antibody,http://purl.obolibrary.org/obo/NCIT_C116400,0.8777269387821749,NCIT
+HEPA_F,Hepatitis A Antibody,Hepatitis C Antibody,http://purl.obolibrary.org/obo/NCIT_C116400,0.8777269387821749,NCIT
+HEPA_G,Hepatitis A Antibody,Hepatitis C Antibody,http://purl.obolibrary.org/obo/NCIT_C116400,0.8777269387821749,NCIT
+PH,Fasting Questionnaire,Questionnaire,http://purl.obolibrary.org/obo/NCIT_C17048,0.8290089095325343,NCIT
+PH_B,Fasting Questionnaire,Questionnaire,http://purl.obolibrary.org/obo/NCIT_C17048,0.8290089095325343,NCIT
+PH_C,Fasting Questionnaire,Questionnaire,http://purl.obolibrary.org/obo/NCIT_C17048,0.8290089095325343,NCIT
+FASTQX_D,Fasting Questionnaire,Questionnaire,http://purl.obolibrary.org/obo/NCIT_C17048,0.8290089095325343,NCIT
+FASTQX_E,Fasting Questionnaire,Questionnaire,http://purl.obolibrary.org/obo/NCIT_C17048,0.8290089095325343,NCIT
+FASTQX_F,Fasting Questionnaire,Questionnaire,http://purl.obolibrary.org/obo/NCIT_C17048,0.8290089095325343,NCIT
+FASTQX_G,Fasting Questionnaire,Questionnaire,http://purl.obolibrary.org/obo/NCIT_C17048,0.8290089095325343,NCIT
+FASTQX_H,Fasting Questionnaire,Questionnaire,http://purl.obolibrary.org/obo/NCIT_C17048,0.8290089095325343,NCIT
+FASTQX_I,Fasting Questionnaire,Questionnaire,http://purl.obolibrary.org/obo/NCIT_C17048,0.8290089095325343,NCIT
+FASTQX_J,Fasting Questionnaire,Questionnaire,http://purl.obolibrary.org/obo/NCIT_C17048,0.8290089095325343,NCIT
+PHPYPA,"Phthalates, Phytoestrogens & PAHs - Urine PHPYPA Urinary Phthalates",Phthalate,http://purl.obolibrary.org/obo/NCIT_C152072,0.638826952280441,NCIT
+UC,Pregnancy Test - Urine,Pregnancy Test,http://purl.obolibrary.org/obo/NCIT_C92949,0.928500242110254,NCIT
+UC_B,Pregnancy Test - Urine,Pregnancy Test,http://purl.obolibrary.org/obo/NCIT_C92949,0.928500242110254,NCIT
+UC_C,Pregnancy Test - Urine,Pregnancy Test,http://purl.obolibrary.org/obo/NCIT_C92949,0.928500242110254,NCIT
+UCPREG_D,Pregnancy Test - Urine,Pregnancy Test,http://purl.obolibrary.org/obo/NCIT_C92949,0.928500242110254,NCIT
+UCPREG_E,Pregnancy Test - Urine,Pregnancy Test,http://purl.obolibrary.org/obo/NCIT_C92949,0.928500242110254,NCIT
+UCPREG_F,Pregnancy Test - Urine,Pregnancy Test,http://purl.obolibrary.org/obo/NCIT_C92949,0.928500242110254,NCIT
+UCPREG_G,Pregnancy Test - Urine,Pregnancy Test,http://purl.obolibrary.org/obo/NCIT_C92949,0.928500242110254,NCIT
+UCPREG_H,Pregnancy Test - Urine,Pregnancy Test,http://purl.obolibrary.org/obo/NCIT_C92949,0.928500242110254,NCIT
+UCPREG_I,Pregnancy Test - Urine,Pregnancy Test,http://purl.obolibrary.org/obo/NCIT_C92949,0.928500242110254,NCIT
+LAB03,"HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells",T lymphocyte positive for CD4 antigen (cell),http://snomed.info/id/115412003,0.5838407418284921,SNOMED
+L03_B,"HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells",T lymphocyte positive for CD4 antigen (cell),http://snomed.info/id/115412003,0.5838407418284921,SNOMED
+L03_C,"HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells",T lymphocyte positive for CD4 antigen (cell),http://snomed.info/id/115412003,0.5838407418284921,SNOMED
+HIV_D,"HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells",T lymphocyte positive for CD4 antigen (cell),http://snomed.info/id/115412003,0.5838407418284921,SNOMED
+LAB04,Volatile Organic Compounds - Blood & Water,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.7608276234007867,ECTO
+L04VOC_B,Volatile Organic Compounds - Blood & Water,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.7608276234007867,ECTO
+LAB05,Chlamydia & Gonorrhea - Urine,Gonorrhea,http://purl.obolibrary.org/obo/NCIT_C92950,0.7164376055907035,NCIT
+L05_B,Chlamydia & Gonorrhea - Urine,Gonorrhea,http://purl.obolibrary.org/obo/NCIT_C92950,0.7164376055907035,NCIT
+L05_C,Chlamydia & Gonorrhea - Urine,Gonorrhea,http://purl.obolibrary.org/obo/NCIT_C92950,0.7164376055907035,NCIT
+CHLMDA_D,Chlamydia & Gonorrhea - Urine,Gonorrhea,http://purl.obolibrary.org/obo/NCIT_C92950,0.7164376055907035,NCIT
+CHLMDA_E,Chlamydia & Gonorrhea - Urine,Gonorrhea,http://purl.obolibrary.org/obo/NCIT_C92950,0.7164376055907035,NCIT
+LAB06,"Cadmium, Lead, Mercury, Cotinine & Nutritional Biochemistries",Nutritional Biochemistry,http://purl.obolibrary.org/obo/NCIT_C15827,0.6236132839523985,NCIT
+L06_B,"Cadmium, Lead, Mercury, Cotinine & Nutritional Biochemistries",Nutritional Biochemistry,http://purl.obolibrary.org/obo/NCIT_C15827,0.6236132839523985,NCIT
+LAB06HM,Metals - Urine,Urine,http://purl.obolibrary.org/obo/NCIT_C13283,0.5503405764529624,NCIT
+L06HM_B,Metals - Urine,Urine,http://purl.obolibrary.org/obo/NCIT_C13283,0.5503405764529624,NCIT
+L06HM_C,Metals - Urine,Urine,http://purl.obolibrary.org/obo/NCIT_C13283,0.5503405764529624,NCIT
+UHM_D,Metals - Urine,Urine,http://purl.obolibrary.org/obo/NCIT_C13283,0.5503405764529624,NCIT
+UHM_E,Metals - Urine,Urine,http://purl.obolibrary.org/obo/NCIT_C13283,0.5503405764529624,NCIT
+UHM_F,Metals - Urine,Urine,http://purl.obolibrary.org/obo/NCIT_C13283,0.5503405764529624,NCIT
+UHM_G,Metals - Urine,Urine,http://purl.obolibrary.org/obo/NCIT_C13283,0.5503405764529624,NCIT
+UM_H,Metals - Urine,Urine,http://purl.obolibrary.org/obo/NCIT_C13283,0.5503405764529624,NCIT
+UM_I,Metals - Urine,Urine,http://purl.obolibrary.org/obo/NCIT_C13283,0.5503405764529624,NCIT
+UM_J,Metals - Urine,Urine,http://purl.obolibrary.org/obo/NCIT_C13283,0.5503405764529624,NCIT
+LAB07,Latex,Latex (substance),http://snomed.info/id/111088007,0.7161725327099485,SNOMED
+LAB10,Glycohemoglobin,Hemoglobin,http://purl.obolibrary.org/obo/NCIT_C16676,0.7582146091356324,NCIT
+L10_B,Glycohemoglobin,Hemoglobin,http://purl.obolibrary.org/obo/NCIT_C16676,0.7582146091356324,NCIT
+L10_C,Glycohemoglobin,Hemoglobin,http://purl.obolibrary.org/obo/NCIT_C16676,0.7582146091356324,NCIT
+GHB_D,Glycohemoglobin,Hemoglobin,http://purl.obolibrary.org/obo/NCIT_C16676,0.7582146091356324,NCIT
+GHB_E,Glycohemoglobin,Hemoglobin,http://purl.obolibrary.org/obo/NCIT_C16676,0.7582146091356324,NCIT
+GHB_F,Glycohemoglobin,Hemoglobin,http://purl.obolibrary.org/obo/NCIT_C16676,0.7582146091356324,NCIT
+GHB_G,Glycohemoglobin,Hemoglobin,http://purl.obolibrary.org/obo/NCIT_C16676,0.7582146091356324,NCIT
+GHB_H,Glycohemoglobin,Hemoglobin,http://purl.obolibrary.org/obo/NCIT_C16676,0.7582146091356324,NCIT
+GHB_I,Glycohemoglobin,Hemoglobin,http://purl.obolibrary.org/obo/NCIT_C16676,0.7582146091356324,NCIT
+GHB_J,Glycohemoglobin,Hemoglobin,http://purl.obolibrary.org/obo/NCIT_C16676,0.7582146091356324,NCIT
+LAB10AM,"Plasma Fasting Glucose, Serum C-peptide & Insulin",fasting blood glucose measurement,http://www.ebi.ac.uk/efo/EFO_0004465,0.7023511838006858,EFO
+L10AM_B,"Plasma Fasting Glucose, Serum C-peptide & Insulin",fasting blood glucose measurement,http://www.ebi.ac.uk/efo/EFO_0004465,0.7023511838006858,EFO
+L10AM_C,"Plasma Fasting Glucose, Serum C-peptide & Insulin",fasting blood glucose measurement,http://www.ebi.ac.uk/efo/EFO_0004465,0.7023511838006858,EFO
+LAB11,C-Reactive Protein (CRP),C reactive protein (substance),http://snomed.info/id/61425002,0.7424830396081401,SNOMED
+CRP_D,C-Reactive Protein (CRP),C reactive protein (substance),http://snomed.info/id/61425002,0.7424830396081401,SNOMED
+CRP_E,C-Reactive Protein (CRP),C reactive protein (substance),http://snomed.info/id/61425002,0.7424830396081401,SNOMED
+CRP_F,C-Reactive Protein (CRP),C reactive protein (substance),http://snomed.info/id/61425002,0.7424830396081401,SNOMED
+Lab13,Cholesterol - Total & HDL,HDL Cholesterol to Total Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C147362,0.8837557591998907,NCIT
+l13_b,Cholesterol - Total & HDL,HDL Cholesterol to Total Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C147362,0.8837557591998907,NCIT
+l13_c,Cholesterol - Total & HDL,HDL Cholesterol to Total Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C147362,0.8837557591998907,NCIT
+LAB13AM,Cholesterol - LDL & Triglycerides,Triglycerides to HDL Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C121183,0.7142267594682167,NCIT
+L13AM_B,Cholesterol - LDL & Triglycerides,Triglycerides to HDL Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C121183,0.7142267594682167,NCIT
+L13AM_C,Cholesterol - LDL & Triglycerides,Triglycerides to HDL Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C121183,0.7142267594682167,NCIT
+TRIGLY_E,Cholesterol - LDL & Triglycerides,Triglycerides to HDL Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C121183,0.7142267594682167,NCIT
+TRIGLY_F,Cholesterol - LDL & Triglycerides,Triglycerides to HDL Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C121183,0.7142267594682167,NCIT
+TRIGLY_G,Cholesterol - LDL & Triglycerides,Triglycerides to HDL Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C121183,0.7142267594682167,NCIT
+TRIGLY_H,Cholesterol - LDL & Triglycerides,Triglycerides to HDL Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C121183,0.7142267594682167,NCIT
+LAB16,Albumin & Creatinine - Urine,urinary albumin to creatinine ratio,http://www.ebi.ac.uk/efo/EFO_0007778,0.8425326918194066,EFO
+L16_B,Albumin & Creatinine - Urine,urinary albumin to creatinine ratio,http://www.ebi.ac.uk/efo/EFO_0007778,0.8425326918194066,EFO
+L16_C,Albumin & Creatinine - Urine,urinary albumin to creatinine ratio,http://www.ebi.ac.uk/efo/EFO_0007778,0.8425326918194066,EFO
+ALB_CR_D,Albumin & Creatinine - Urine,urinary albumin to creatinine ratio,http://www.ebi.ac.uk/efo/EFO_0007778,0.8425326918194066,EFO
+ALB_CR_E,Albumin & Creatinine - Urine,urinary albumin to creatinine ratio,http://www.ebi.ac.uk/efo/EFO_0007778,0.8425326918194066,EFO
+ALB_CR_F,Albumin & Creatinine - Urine,urinary albumin to creatinine ratio,http://www.ebi.ac.uk/efo/EFO_0007778,0.8425326918194066,EFO
+ALB_CR_G,Albumin & Creatinine - Urine,urinary albumin to creatinine ratio,http://www.ebi.ac.uk/efo/EFO_0007778,0.8425326918194066,EFO
+ALB_CR_H,Albumin & Creatinine - Urine,urinary albumin to creatinine ratio,http://www.ebi.ac.uk/efo/EFO_0007778,0.8425326918194066,EFO
+ALB_CR_I,Albumin & Creatinine - Urine,urinary albumin to creatinine ratio,http://www.ebi.ac.uk/efo/EFO_0007778,0.8425326918194066,EFO
+ALB_CR_J,Albumin & Creatinine - Urine,urinary albumin to creatinine ratio,http://www.ebi.ac.uk/efo/EFO_0007778,0.8425326918194066,EFO
+LAB17,Cryptosporidum & Toxoplasma,Cryptosporidium,http://purl.obolibrary.org/obo/NCIT_C77214,0.6768925590991182,NCIT
+LAB18,Standard Biochemistry Profile & Hormones,Biochemistry,http://purl.obolibrary.org/obo/NCIT_C16337,0.5730264047664614,NCIT
+LAB18T4,Thyroid - Stimulating Hormone & Thyroxine (TSH & T4),exposure to Thyroid stimulating hormone,http://purl.obolibrary.org/obo/ECTO_9000471,0.8010895848782607,ECTO
+L40T4_B,Thyroid - Stimulating Hormone & Thyroxine (TSH & T4),exposure to Thyroid stimulating hormone,http://purl.obolibrary.org/obo/ECTO_9000471,0.8010895848782607,ECTO
+LAB19,"Measles, Rubella, & Varicella",chickenpox,http://www.ebi.ac.uk/efo/EFO_0007204,0.7366201578172681,EFO
+L19_B,"Measles, Rubella, & Varicella",chickenpox,http://www.ebi.ac.uk/efo/EFO_0007204,0.7366201578172681,EFO
+L19_C,"Measles, Rubella, & Varicella",chickenpox,http://www.ebi.ac.uk/efo/EFO_0007204,0.7366201578172681,EFO
+LAB20,Lead - Dust,Lead,http://purl.obolibrary.org/obo/NCIT_C25552,0.7100562226539792,NCIT
+L20_B,Lead - Dust,Lead,http://purl.obolibrary.org/obo/NCIT_C25552,0.7100562226539792,NCIT
+L20_C,Lead - Dust,Lead,http://purl.obolibrary.org/obo/NCIT_C25552,0.7100562226539792,NCIT
+LAB21,Volatile Organic Compounds (VOC) - Personal Exposure Badge,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.6121176116011853,ECTO
+LAB25,Complete Blood Count with 5-part Differential - Whole Blood,Complete blood count without differential (procedure),http://snomed.info/id/43789009,0.7808719895551023,SNOMED
+L25_B,Complete Blood Count with 5-part Differential - Whole Blood,Complete blood count without differential (procedure),http://snomed.info/id/43789009,0.7808719895551023,SNOMED
+L25_C,Complete Blood Count with 5-part Differential - Whole Blood,Complete blood count without differential (procedure),http://snomed.info/id/43789009,0.7808719895551023,SNOMED
+CBC_E,Complete Blood Count with 5-part Differential - Whole Blood,Complete blood count without differential (procedure),http://snomed.info/id/43789009,0.7808719895551023,SNOMED
+CBC_F,Complete Blood Count with 5-part Differential - Whole Blood,Complete blood count without differential (procedure),http://snomed.info/id/43789009,0.7808719895551023,SNOMED
+CBC_G,Complete Blood Count with 5-part Differential - Whole Blood,Complete blood count without differential (procedure),http://snomed.info/id/43789009,0.7808719895551023,SNOMED
+CBC_H,Complete Blood Count with 5-part Differential - Whole Blood,Complete blood count without differential (procedure),http://snomed.info/id/43789009,0.7808719895551023,SNOMED
+LAB22,Mercury - Hair,Hair,http://purl.obolibrary.org/obo/NCIT_C32705,0.7636585200194439,NCIT
+SSFOL_A,Folic Acid - Unmetabolized (Surplus),Folic Acid Metabolic Process,http://purl.obolibrary.org/obo/NCIT_C19956,0.5875241725992696,NCIT
+lab09,Herpes Simplex Virus Type-1 & Type-2,Human herpes simplex virus type 2 (organism),http://snomed.info/id/13687007,0.7822946907277943,SNOMED
+l09_b,Herpes Simplex Virus Type-1 & Type-2,Human herpes simplex virus type 2 (organism),http://snomed.info/id/13687007,0.7822946907277943,SNOMED
+l09_c,Herpes Simplex Virus Type-1 & Type-2,Human herpes simplex virus type 2 (organism),http://snomed.info/id/13687007,0.7822946907277943,SNOMED
+HSV_D,Herpes Simplex Virus Type-1 & Type-2,Human herpes simplex virus type 2 (organism),http://snomed.info/id/13687007,0.7822946907277943,SNOMED
+HSV_E,Herpes Simplex Virus Type-1 & Type-2,Human herpes simplex virus type 2 (organism),http://snomed.info/id/13687007,0.7822946907277943,SNOMED
+HSV_F,Herpes Simplex Virus Type-1 & Type-2,Human herpes simplex virus type 2 (organism),http://snomed.info/id/13687007,0.7822946907277943,SNOMED
+HSV_G,Herpes Simplex Virus Type-1 & Type-2,Human herpes simplex virus type 2 (organism),http://snomed.info/id/13687007,0.7822946907277943,SNOMED
+HSV_H,Herpes Simplex Virus Type-1 & Type-2,Human herpes simplex virus type 2 (organism),http://snomed.info/id/13687007,0.7822946907277943,SNOMED
+HSV_I,Herpes Simplex Virus Type-1 & Type-2,Human herpes simplex virus type 2 (organism),http://snomed.info/id/13687007,0.7822946907277943,SNOMED
+Lab02,Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody,Hepatitis C Antibody,http://purl.obolibrary.org/obo/NCIT_C116400,0.8164258449657645,NCIT
+L02_B,Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody,Hepatitis C Antibody,http://purl.obolibrary.org/obo/NCIT_C116400,0.8164258449657645,NCIT
+L02_C,Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody,Hepatitis C Antibody,http://purl.obolibrary.org/obo/NCIT_C116400,0.8164258449657645,NCIT
+SSCYST_A,Cystatin C - Serum (Surplus),Serum Cystatin C Assay,http://purl.obolibrary.org/obo/NCIT_C88224,0.6926427473810337,NCIT
+SSHSV1_A,Herpes Simplex Virus Type-1 (Surplus),Human herpes simplex virus type 1 (organism),http://snomed.info/id/15302007,0.7845420003990391,SNOMED
+SSHSV1_B,Herpes Simplex Virus Type-1 (Surplus),Human herpes simplex virus type 1 (organism),http://snomed.info/id/15302007,0.7845420003990391,SNOMED
+SSMUMP_A,Mumps Antibody - Serum (Surplus),Mumps virus infectious disease,http://www.ebi.ac.uk/efo/EFO_0007383,0.6540879191274365,EFO
+SSMUMP_B,Mumps Antibody - Serum (Surplus),Mumps virus infectious disease,http://www.ebi.ac.uk/efo/EFO_0007383,0.6540879191274365,EFO
+SSMUMP_C,Mumps Antibody - Serum (Surplus),Mumps virus infectious disease,http://www.ebi.ac.uk/efo/EFO_0007383,0.6540879191274365,EFO
+SSPFC_A,Perfluoroaokyl Chemicals - Serum (Surplus),Perfluorochemical (product),http://snomed.info/id/346620005,0.5535527266040857,SNOMED
+SSTFR_A,Transferrin Receptor - Pregnant Women (Surplus),Transferrin Receptor,http://purl.obolibrary.org/obo/NCIT_C17079,0.7122223818473354,NCIT
+SSTFR_B,Transferrin Receptor - Pregnant Women (Surplus),Transferrin Receptor,http://purl.obolibrary.org/obo/NCIT_C17079,0.7122223818473354,NCIT
+SSVARI_A,Varicella-Zoster Virus Antibody (Surplus),Varicella Zoster Virus,http://purl.obolibrary.org/obo/NCIT_C71091,0.8425352870605243,NCIT
+SSVARI_B,Varicella-Zoster Virus Antibody (Surplus),Varicella Zoster Virus,http://purl.obolibrary.org/obo/NCIT_C71091,0.8425352870605243,NCIT
+SSVARI_C,Varicella-Zoster Virus Antibody (Surplus),Varicella Zoster Virus,http://purl.obolibrary.org/obo/NCIT_C71091,0.8425352870605243,NCIT
+LAB26PP,"Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)",Pesticide,http://purl.obolibrary.org/obo/NCIT_C737,0.6828382211633737,NCIT
+l26PP_B,"Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)",Pesticide,http://purl.obolibrary.org/obo/NCIT_C737,0.6828382211633737,NCIT
+L26UPP_C,"Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)",Pesticide,http://purl.obolibrary.org/obo/NCIT_C737,0.6828382211633737,NCIT
+UPP_D,"Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)",Pesticide,http://purl.obolibrary.org/obo/NCIT_C737,0.6828382211633737,NCIT
+UPP_E,"Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)",Pesticide,http://purl.obolibrary.org/obo/NCIT_C737,0.6828382211633737,NCIT
+SSOL_A,Monoclonal gammopathy of undetermined significance (MGUS) (Surplus),Monoclonal Gammopathy of Undetermined Significance,http://purl.obolibrary.org/obo/NCIT_C3996,0.9092582886963048,NCIT
+SSOL_B,Monoclonal gammopathy of undetermined significance (MGUS) (Surplus),Monoclonal Gammopathy of Undetermined Significance,http://purl.obolibrary.org/obo/NCIT_C3996,0.9092582886963048,NCIT
+SSOL_C,Monoclonal gammopathy of undetermined significance (MGUS) (Surplus),Monoclonal Gammopathy of Undetermined Significance,http://purl.obolibrary.org/obo/NCIT_C3996,0.9092582886963048,NCIT
+SSAFB_A,Aflatoxin B1-lysine - Serum (Surplus),Aflatoxin B1,http://purl.obolibrary.org/obo/NCIT_C1315,0.7310083947607741,NCIT
+TELO_A,Telomere Mean and Standard Deviation (Surplus),Standard Deviation,http://purl.obolibrary.org/obo/NCIT_C53322,0.71344010795465,NCIT
+TELO_B,Telomere Mean and Standard Deviation (Surplus),Standard Deviation,http://purl.obolibrary.org/obo/NCIT_C53322,0.71344010795465,NCIT
+TFA_A,Trans Fatty Acids,Trans Fatty Acid,http://purl.obolibrary.org/obo/NCIT_C68440,0.8995094808901034,NCIT
+TFA_F,Trans Fatty Acids,Trans Fatty Acid,http://purl.obolibrary.org/obo/NCIT_C68440,0.8995094808901034,NCIT
+SSAMH_A,Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus),Inhibin hormone (substance),http://snomed.info/id/63326008,0.5413622195766241,SNOMED
+SSAMH_B,Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus),Inhibin hormone (substance),http://snomed.info/id/63326008,0.5413622195766241,SNOMED
+SSAMH_C,Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus),Inhibin hormone (substance),http://snomed.info/id/63326008,0.5413622195766241,SNOMED
+SSNORO_A,Norovirus antibody - Serum,Norovirus,http://purl.obolibrary.org/obo/NCIT_C112362,0.7440134341302138,NCIT
+SSNORO_C,Norovirus antibody - Serum,Norovirus,http://purl.obolibrary.org/obo/NCIT_C112362,0.7440134341302138,NCIT
+SSCMV_A,Cytomegalovirus Antibodies - Serum (Surplus),Cytomegalovirus Antibody,http://purl.obolibrary.org/obo/NCIT_C118487,0.7976607547978538,NCIT
+SSCMV_B,Cytomegalovirus Antibodies - Serum (Surplus),Cytomegalovirus Antibody,http://purl.obolibrary.org/obo/NCIT_C118487,0.7976607547978538,NCIT
+SSCMV_C,Cytomegalovirus Antibodies - Serum (Surplus),Cytomegalovirus Antibody,http://purl.obolibrary.org/obo/NCIT_C118487,0.7976607547978538,NCIT
+RXQ_RX,Prescription Medications,Prescription of premedication (procedure),http://snomed.info/id/424252005,0.8377279126649375,SNOMED
+RXQ_RX_B,Prescription Medications,Prescription of premedication (procedure),http://snomed.info/id/424252005,0.8377279126649375,SNOMED
+RXQ_RX_C,Prescription Medications,Prescription of premedication (procedure),http://snomed.info/id/424252005,0.8377279126649375,SNOMED
+RXQ_RX_D,Prescription Medications,Prescription of premedication (procedure),http://snomed.info/id/424252005,0.8377279126649375,SNOMED
+RXQ_RX_E,Prescription Medications,Prescription of premedication (procedure),http://snomed.info/id/424252005,0.8377279126649375,SNOMED
+RXQ_RX_F,Prescription Medications,Prescription of premedication (procedure),http://snomed.info/id/424252005,0.8377279126649375,SNOMED
+RXQ_RX_G,Prescription Medications,Prescription of premedication (procedure),http://snomed.info/id/424252005,0.8377279126649375,SNOMED
+RXQ_RX_H,Prescription Medications,Prescription of premedication (procedure),http://snomed.info/id/424252005,0.8377279126649375,SNOMED
+RXQ_RX_I,Prescription Medications,Prescription of premedication (procedure),http://snomed.info/id/424252005,0.8377279126649375,SNOMED
+RXQ_RX_J,Prescription Medications,Prescription of premedication (procedure),http://snomed.info/id/424252005,0.8377279126649375,SNOMED
+CIQGAD,Mental Health - Generalized Anxiety Disorder,Generalized Anxiety Disorder,http://purl.obolibrary.org/obo/NCIT_C92622,0.8972818993517584,NCIT
+CIQGAD_B,Mental Health - Generalized Anxiety Disorder,Generalized Anxiety Disorder,http://purl.obolibrary.org/obo/NCIT_C92622,0.8972818993517584,NCIT
+CIQGAD_C,Mental Health - Generalized Anxiety Disorder,Generalized Anxiety Disorder,http://purl.obolibrary.org/obo/NCIT_C92622,0.8972818993517584,NCIT
+CIQMDEP,Mental Health - Depression,unipolar depression,http://www.ebi.ac.uk/efo/EFO_0003761,0.7719129481114307,EFO
+CIQDEP_B,Mental Health - Depression,unipolar depression,http://www.ebi.ac.uk/efo/EFO_0003761,0.7719129481114307,EFO
+CIQDEP_C,Mental Health - Depression,unipolar depression,http://www.ebi.ac.uk/efo/EFO_0003761,0.7719129481114307,EFO
+CIQPANIC,Mental Health - Panic Disorder,Panic Disorder,http://purl.obolibrary.org/obo/NCIT_C34890,0.807664936924079,NCIT
+CIQPAN_B,Mental Health - Panic Disorder,Panic Disorder,http://purl.obolibrary.org/obo/NCIT_C34890,0.807664936924079,NCIT
+CIQPAN_C,Mental Health - Panic Disorder,Panic Disorder,http://purl.obolibrary.org/obo/NCIT_C34890,0.807664936924079,NCIT
+ACQ,Acculturation,Acculturation,http://purl.obolibrary.org/obo/NCIT_C93211,0.98793547557459,NCIT
+ACQ_B,Acculturation,Acculturation,http://purl.obolibrary.org/obo/NCIT_C93211,0.98793547557459,NCIT
+ACQ_C,Acculturation,Acculturation,http://purl.obolibrary.org/obo/NCIT_C93211,0.98793547557459,NCIT
+ACQ_D,Acculturation,Acculturation,http://purl.obolibrary.org/obo/NCIT_C93211,0.98793547557459,NCIT
+ACQ_E,Acculturation,Acculturation,http://purl.obolibrary.org/obo/NCIT_C93211,0.98793547557459,NCIT
+ACQ_F,Acculturation,Acculturation,http://purl.obolibrary.org/obo/NCIT_C93211,0.98793547557459,NCIT
+ACQ_G,Acculturation,Acculturation,http://purl.obolibrary.org/obo/NCIT_C93211,0.98793547557459,NCIT
+ACQ_H,Acculturation,Acculturation,http://purl.obolibrary.org/obo/NCIT_C93211,0.98793547557459,NCIT
+ACQ_I,Acculturation,Acculturation,http://purl.obolibrary.org/obo/NCIT_C93211,0.98793547557459,NCIT
+ACQ_J,Acculturation,Acculturation,http://purl.obolibrary.org/obo/NCIT_C93211,0.98793547557459,NCIT
+ALQ,Alcohol Use,Alcohol,http://purl.obolibrary.org/obo/NCIT_C2190,0.900723636157026,NCIT
+ALQ_B,Alcohol Use,Alcohol,http://purl.obolibrary.org/obo/NCIT_C2190,0.900723636157026,NCIT
+ALQ_C,Alcohol Use,Alcohol,http://purl.obolibrary.org/obo/NCIT_C2190,0.900723636157026,NCIT
+ALQ_D,Alcohol Use,Alcohol,http://purl.obolibrary.org/obo/NCIT_C2190,0.900723636157026,NCIT
+ALQ_E,Alcohol Use,Alcohol,http://purl.obolibrary.org/obo/NCIT_C2190,0.900723636157026,NCIT
+ALQ_F,Alcohol Use,Alcohol,http://purl.obolibrary.org/obo/NCIT_C2190,0.900723636157026,NCIT
+ALQ_G,Alcohol Use,Alcohol,http://purl.obolibrary.org/obo/NCIT_C2190,0.900723636157026,NCIT
+ALQ_H,Alcohol Use,Alcohol,http://purl.obolibrary.org/obo/NCIT_C2190,0.900723636157026,NCIT
+ALQ_I,Alcohol Use,Alcohol,http://purl.obolibrary.org/obo/NCIT_C2190,0.900723636157026,NCIT
+ALQ_J,Alcohol Use,Alcohol,http://purl.obolibrary.org/obo/NCIT_C2190,0.900723636157026,NCIT
+BPQ,Blood Pressure & Cholesterol,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.7261437287226229,NCIT
+BPQ_B,Blood Pressure & Cholesterol,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.7261437287226229,NCIT
+BPQ_C,Blood Pressure & Cholesterol,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.7261437287226229,NCIT
+BPQ_D,Blood Pressure & Cholesterol,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.7261437287226229,NCIT
+BPQ_E,Blood Pressure & Cholesterol,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.7261437287226229,NCIT
+BPQ_F,Blood Pressure & Cholesterol,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.7261437287226229,NCIT
+BPQ_G,Blood Pressure & Cholesterol,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.7261437287226229,NCIT
+BPQ_H,Blood Pressure & Cholesterol,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.7261437287226229,NCIT
+BPQ_I,Blood Pressure & Cholesterol,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.7261437287226229,NCIT
+BPQ_J,Blood Pressure & Cholesterol,Blood Pressure,http://purl.obolibrary.org/obo/NCIT_C54706,0.7261437287226229,NCIT
+CDQ,Cardiovascular Health,Cardiovascular,http://purl.obolibrary.org/obo/NCIT_C25292,0.9001083792581216,NCIT
+CDQ_B,Cardiovascular Health,Cardiovascular,http://purl.obolibrary.org/obo/NCIT_C25292,0.9001083792581216,NCIT
+CDQ_C,Cardiovascular Health,Cardiovascular,http://purl.obolibrary.org/obo/NCIT_C25292,0.9001083792581216,NCIT
+CDQ_D,Cardiovascular Health,Cardiovascular,http://purl.obolibrary.org/obo/NCIT_C25292,0.9001083792581216,NCIT
+CDQ_E,Cardiovascular Health,Cardiovascular,http://purl.obolibrary.org/obo/NCIT_C25292,0.9001083792581216,NCIT
+CDQ_F,Cardiovascular Health,Cardiovascular,http://purl.obolibrary.org/obo/NCIT_C25292,0.9001083792581216,NCIT
+CDQ_G,Cardiovascular Health,Cardiovascular,http://purl.obolibrary.org/obo/NCIT_C25292,0.9001083792581216,NCIT
+CDQ_H,Cardiovascular Health,Cardiovascular,http://purl.obolibrary.org/obo/NCIT_C25292,0.9001083792581216,NCIT
+CDQ_I,Cardiovascular Health,Cardiovascular,http://purl.obolibrary.org/obo/NCIT_C25292,0.9001083792581216,NCIT
+CDQ_J,Cardiovascular Health,Cardiovascular,http://purl.obolibrary.org/obo/NCIT_C25292,0.9001083792581216,NCIT
+CFQ,Cognitive Functioning,cognition,http://www.ebi.ac.uk/efo/EFO_0003925,0.9029963346692069,EFO
+CFQ_B,Cognitive Functioning,cognition,http://www.ebi.ac.uk/efo/EFO_0003925,0.9029963346692069,EFO
+CFQ_G,Cognitive Functioning,cognition,http://www.ebi.ac.uk/efo/EFO_0003925,0.9029963346692069,EFO
+CFQ_H,Cognitive Functioning,cognition,http://www.ebi.ac.uk/efo/EFO_0003925,0.9029963346692069,EFO
+HSQ,Current Health Status,Current Medical Status,http://purl.obolibrary.org/obo/NCIT_C115767,0.7436777864964392,NCIT
+HSQ_B,Current Health Status,Current Medical Status,http://purl.obolibrary.org/obo/NCIT_C115767,0.7436777864964392,NCIT
+HSQ_C,Current Health Status,Current Medical Status,http://purl.obolibrary.org/obo/NCIT_C115767,0.7436777864964392,NCIT
+HSQ_D,Current Health Status,Current Medical Status,http://purl.obolibrary.org/obo/NCIT_C115767,0.7436777864964392,NCIT
+HSQ_E,Current Health Status,Current Medical Status,http://purl.obolibrary.org/obo/NCIT_C115767,0.7436777864964392,NCIT
+HSQ_F,Current Health Status,Current Medical Status,http://purl.obolibrary.org/obo/NCIT_C115767,0.7436777864964392,NCIT
+HSQ_G,Current Health Status,Current Medical Status,http://purl.obolibrary.org/obo/NCIT_C115767,0.7436777864964392,NCIT
+HSQ_H,Current Health Status,Current Medical Status,http://purl.obolibrary.org/obo/NCIT_C115767,0.7436777864964392,NCIT
+HSQ_I,Current Health Status,Current Medical Status,http://purl.obolibrary.org/obo/NCIT_C115767,0.7436777864964392,NCIT
+HSQ_J,Current Health Status,Current Medical Status,http://purl.obolibrary.org/obo/NCIT_C115767,0.7436777864964392,NCIT
+DEQ,Dermatology,Dermatology,http://purl.obolibrary.org/obo/NCIT_C16500,0.9956232542981505,NCIT
+DEQ_B,Dermatology,Dermatology,http://purl.obolibrary.org/obo/NCIT_C16500,0.9956232542981505,NCIT
+DEX_C,Dermatology,Dermatology,http://purl.obolibrary.org/obo/NCIT_C16500,0.9956232542981505,NCIT
+DEQ_C,Dermatology,Dermatology,http://purl.obolibrary.org/obo/NCIT_C16500,0.9956232542981505,NCIT
+DEQ_D,Dermatology,Dermatology,http://purl.obolibrary.org/obo/NCIT_C16500,0.9956232542981505,NCIT
+DEQ_F,Dermatology,Dermatology,http://purl.obolibrary.org/obo/NCIT_C16500,0.9956232542981505,NCIT
+DEQ_G,Dermatology,Dermatology,http://purl.obolibrary.org/obo/NCIT_C16500,0.9956232542981505,NCIT
+DEQ_H,Dermatology,Dermatology,http://purl.obolibrary.org/obo/NCIT_C16500,0.9956232542981505,NCIT
+DEQ_I,Dermatology,Dermatology,http://purl.obolibrary.org/obo/NCIT_C16500,0.9956232542981505,NCIT
+DEQ_J,Dermatology,Dermatology,http://purl.obolibrary.org/obo/NCIT_C16500,0.9956232542981505,NCIT
+DIQ,Diabetes,diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0000400,0.9914455200362109,EFO
+DIQ_B,Diabetes,diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0000400,0.9914455200362109,EFO
+DIQ_C,Diabetes,diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0000400,0.9914455200362109,EFO
+DIQ_D,Diabetes,diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0000400,0.9914455200362109,EFO
+DIQ_E,Diabetes,diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0000400,0.9914455200362109,EFO
+DIQ_F,Diabetes,diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0000400,0.9914455200362109,EFO
+DIQ_G,Diabetes,diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0000400,0.9914455200362109,EFO
+DIQ_H,Diabetes,diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0000400,0.9914455200362109,EFO
+DIQ_I,Diabetes,diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0000400,0.9914455200362109,EFO
+DIQ_J,Diabetes,diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0000400,0.9914455200362109,EFO
+DBQ,Diet Behavior & Nutrition,Diet and Nutrition,http://purl.obolibrary.org/obo/NCIT_C16011,0.6806088693179523,NCIT
+DBQ_B,Diet Behavior & Nutrition,Diet and Nutrition,http://purl.obolibrary.org/obo/NCIT_C16011,0.6806088693179523,NCIT
+DBQ_C,Diet Behavior & Nutrition,Diet and Nutrition,http://purl.obolibrary.org/obo/NCIT_C16011,0.6806088693179523,NCIT
+DBQ_D,Diet Behavior & Nutrition,Diet and Nutrition,http://purl.obolibrary.org/obo/NCIT_C16011,0.6806088693179523,NCIT
+DBQ_E,Diet Behavior & Nutrition,Diet and Nutrition,http://purl.obolibrary.org/obo/NCIT_C16011,0.6806088693179523,NCIT
+DBQ_F,Diet Behavior & Nutrition,Diet and Nutrition,http://purl.obolibrary.org/obo/NCIT_C16011,0.6806088693179523,NCIT
+DBQ_G,Diet Behavior & Nutrition,Diet and Nutrition,http://purl.obolibrary.org/obo/NCIT_C16011,0.6806088693179523,NCIT
+DBQ_H,Diet Behavior & Nutrition,Diet and Nutrition,http://purl.obolibrary.org/obo/NCIT_C16011,0.6806088693179523,NCIT
+DBQ_I,Diet Behavior & Nutrition,Diet and Nutrition,http://purl.obolibrary.org/obo/NCIT_C16011,0.6806088693179523,NCIT
+DBQ_J,Diet Behavior & Nutrition,Diet and Nutrition,http://purl.obolibrary.org/obo/NCIT_C16011,0.6806088693179523,NCIT
+DUQ,Drug Use,drug dependence,http://www.ebi.ac.uk/efo/EFO_0003890,0.9367452788603701,EFO
+DUQ_B,Drug Use,drug dependence,http://www.ebi.ac.uk/efo/EFO_0003890,0.9367452788603701,EFO
+DUQ_C,Drug Use,drug dependence,http://www.ebi.ac.uk/efo/EFO_0003890,0.9367452788603701,EFO
+DUQ_D,Drug Use,drug dependence,http://www.ebi.ac.uk/efo/EFO_0003890,0.9367452788603701,EFO
+DUQ_E,Drug Use,drug dependence,http://www.ebi.ac.uk/efo/EFO_0003890,0.9367452788603701,EFO
+DUQ_F,Drug Use,drug dependence,http://www.ebi.ac.uk/efo/EFO_0003890,0.9367452788603701,EFO
+DUQ_G,Drug Use,drug dependence,http://www.ebi.ac.uk/efo/EFO_0003890,0.9367452788603701,EFO
+DUQ_H,Drug Use,drug dependence,http://www.ebi.ac.uk/efo/EFO_0003890,0.9367452788603701,EFO
+DUQ_I,Drug Use,drug dependence,http://www.ebi.ac.uk/efo/EFO_0003890,0.9367452788603701,EFO
+DUQ_J,Drug Use,drug dependence,http://www.ebi.ac.uk/efo/EFO_0003890,0.9367452788603701,EFO
+ECQ,Early Childhood,Early Childhood,http://purl.obolibrary.org/obo/NCIT_C89346,0.9888118903687415,NCIT
+ECQ_B,Early Childhood,Early Childhood,http://purl.obolibrary.org/obo/NCIT_C89346,0.9888118903687415,NCIT
+ECQ_C,Early Childhood,Early Childhood,http://purl.obolibrary.org/obo/NCIT_C89346,0.9888118903687415,NCIT
+ECQ_D,Early Childhood,Early Childhood,http://purl.obolibrary.org/obo/NCIT_C89346,0.9888118903687415,NCIT
+ECQ_E,Early Childhood,Early Childhood,http://purl.obolibrary.org/obo/NCIT_C89346,0.9888118903687415,NCIT
+ECQ_F,Early Childhood,Early Childhood,http://purl.obolibrary.org/obo/NCIT_C89346,0.9888118903687415,NCIT
+ECQ_G,Early Childhood,Early Childhood,http://purl.obolibrary.org/obo/NCIT_C89346,0.9888118903687415,NCIT
+ECQ_H,Early Childhood,Early Childhood,http://purl.obolibrary.org/obo/NCIT_C89346,0.9888118903687415,NCIT
+ECQ_I,Early Childhood,Early Childhood,http://purl.obolibrary.org/obo/NCIT_C89346,0.9888118903687415,NCIT
+ECQ_J,Early Childhood,Early Childhood,http://purl.obolibrary.org/obo/NCIT_C89346,0.9888118903687415,NCIT
+FSQ,Food Security,Food Insecurity,http://purl.obolibrary.org/obo/NCIT_C171542,0.8591054395233161,NCIT
+FSQ_B,Food Security,Food Insecurity,http://purl.obolibrary.org/obo/NCIT_C171542,0.8591054395233161,NCIT
+FSQ_C,Food Security,Food Insecurity,http://purl.obolibrary.org/obo/NCIT_C171542,0.8591054395233161,NCIT
+FSQ_D,Food Security,Food Insecurity,http://purl.obolibrary.org/obo/NCIT_C171542,0.8591054395233161,NCIT
+FSQ_E,Food Security,Food Insecurity,http://purl.obolibrary.org/obo/NCIT_C171542,0.8591054395233161,NCIT
+FSQ_F,Food Security,Food Insecurity,http://purl.obolibrary.org/obo/NCIT_C171542,0.8591054395233161,NCIT
+FSQ_G,Food Security,Food Insecurity,http://purl.obolibrary.org/obo/NCIT_C171542,0.8591054395233161,NCIT
+FSQ_H,Food Security,Food Insecurity,http://purl.obolibrary.org/obo/NCIT_C171542,0.8591054395233161,NCIT
+FSQ_I,Food Security,Food Insecurity,http://purl.obolibrary.org/obo/NCIT_C171542,0.8591054395233161,NCIT
+FSQ_J,Food Security,Food Insecurity,http://purl.obolibrary.org/obo/NCIT_C171542,0.8591054395233161,NCIT
+HIQ,Health Insurance,Health Insurance,http://purl.obolibrary.org/obo/NCIT_C157356,0.9789353966475428,NCIT
+HIQ_B,Health Insurance,Health Insurance,http://purl.obolibrary.org/obo/NCIT_C157356,0.9789353966475428,NCIT
+HIQ_C,Health Insurance,Health Insurance,http://purl.obolibrary.org/obo/NCIT_C157356,0.9789353966475428,NCIT
+HIQ_D,Health Insurance,Health Insurance,http://purl.obolibrary.org/obo/NCIT_C157356,0.9789353966475428,NCIT
+HIQ_E,Health Insurance,Health Insurance,http://purl.obolibrary.org/obo/NCIT_C157356,0.9789353966475428,NCIT
+HIQ_F,Health Insurance,Health Insurance,http://purl.obolibrary.org/obo/NCIT_C157356,0.9789353966475428,NCIT
+HIQ_G,Health Insurance,Health Insurance,http://purl.obolibrary.org/obo/NCIT_C157356,0.9789353966475428,NCIT
+HIQ_H,Health Insurance,Health Insurance,http://purl.obolibrary.org/obo/NCIT_C157356,0.9789353966475428,NCIT
+HIQ_I,Health Insurance,Health Insurance,http://purl.obolibrary.org/obo/NCIT_C157356,0.9789353966475428,NCIT
+HIQ_J,Health Insurance,Health Insurance,http://purl.obolibrary.org/obo/NCIT_C157356,0.9789353966475428,NCIT
+HUQ,Hospital Utilization & Access to Care,Access to Care,http://purl.obolibrary.org/obo/NCIT_C15244,0.7183020120242891,NCIT
+HUQ_B,Hospital Utilization & Access to Care,Access to Care,http://purl.obolibrary.org/obo/NCIT_C15244,0.7183020120242891,NCIT
+HUQ_C,Hospital Utilization & Access to Care,Access to Care,http://purl.obolibrary.org/obo/NCIT_C15244,0.7183020120242891,NCIT
+HUQ_D,Hospital Utilization & Access to Care,Access to Care,http://purl.obolibrary.org/obo/NCIT_C15244,0.7183020120242891,NCIT
+HUQ_E,Hospital Utilization & Access to Care,Access to Care,http://purl.obolibrary.org/obo/NCIT_C15244,0.7183020120242891,NCIT
+HUQ_F,Hospital Utilization & Access to Care,Access to Care,http://purl.obolibrary.org/obo/NCIT_C15244,0.7183020120242891,NCIT
+HUQ_G,Hospital Utilization & Access to Care,Access to Care,http://purl.obolibrary.org/obo/NCIT_C15244,0.7183020120242891,NCIT
+HUQ_H,Hospital Utilization & Access to Care,Access to Care,http://purl.obolibrary.org/obo/NCIT_C15244,0.7183020120242891,NCIT
+HUQ_I,Hospital Utilization & Access to Care,Access to Care,http://purl.obolibrary.org/obo/NCIT_C15244,0.7183020120242891,NCIT
+HUQ_J,Hospital Utilization & Access to Care,Access to Care,http://purl.obolibrary.org/obo/NCIT_C15244,0.7183020120242891,NCIT
+HOQ,Housing Characteristics,Characteristic,http://purl.obolibrary.org/obo/NCIT_C25447,0.7555917600424131,NCIT
+HOQ_B,Housing Characteristics,Characteristic,http://purl.obolibrary.org/obo/NCIT_C25447,0.7555917600424131,NCIT
+HOQ_C,Housing Characteristics,Characteristic,http://purl.obolibrary.org/obo/NCIT_C25447,0.7555917600424131,NCIT
+HOQ_D,Housing Characteristics,Characteristic,http://purl.obolibrary.org/obo/NCIT_C25447,0.7555917600424131,NCIT
+HOQ_E,Housing Characteristics,Characteristic,http://purl.obolibrary.org/obo/NCIT_C25447,0.7555917600424131,NCIT
+HOQ_F,Housing Characteristics,Characteristic,http://purl.obolibrary.org/obo/NCIT_C25447,0.7555917600424131,NCIT
+HOQ_G,Housing Characteristics,Characteristic,http://purl.obolibrary.org/obo/NCIT_C25447,0.7555917600424131,NCIT
+HOQ_H,Housing Characteristics,Characteristic,http://purl.obolibrary.org/obo/NCIT_C25447,0.7555917600424131,NCIT
+HOQ_I,Housing Characteristics,Characteristic,http://purl.obolibrary.org/obo/NCIT_C25447,0.7555917600424131,NCIT
+HOQ_J,Housing Characteristics,Characteristic,http://purl.obolibrary.org/obo/NCIT_C25447,0.7555917600424131,NCIT
+IMQ,Immunization,Immunization,http://purl.obolibrary.org/obo/NCIT_C15258,0.992496699738382,NCIT
+IMQ_B,Immunization,Immunization,http://purl.obolibrary.org/obo/NCIT_C15258,0.992496699738382,NCIT
+IMQ_C,Immunization,Immunization,http://purl.obolibrary.org/obo/NCIT_C15258,0.992496699738382,NCIT
+IMQ_D,Immunization,Immunization,http://purl.obolibrary.org/obo/NCIT_C15258,0.992496699738382,NCIT
+IMQ_E,Immunization,Immunization,http://purl.obolibrary.org/obo/NCIT_C15258,0.992496699738382,NCIT
+IMQ_F,Immunization,Immunization,http://purl.obolibrary.org/obo/NCIT_C15258,0.992496699738382,NCIT
+IMQ_G,Immunization,Immunization,http://purl.obolibrary.org/obo/NCIT_C15258,0.992496699738382,NCIT
+IMQ_H,Immunization,Immunization,http://purl.obolibrary.org/obo/NCIT_C15258,0.992496699738382,NCIT
+IMQ_I,Immunization,Immunization,http://purl.obolibrary.org/obo/NCIT_C15258,0.992496699738382,NCIT
+IMQ_J,Immunization,Immunization,http://purl.obolibrary.org/obo/NCIT_C15258,0.992496699738382,NCIT
+KIQ,Kidney Conditions,Kidney,http://purl.obolibrary.org/obo/NCIT_C12415,0.7613421080048193,NCIT
+MCQ,Medical Conditions,Medical Condition,http://purl.obolibrary.org/obo/NCIT_C156809,0.916564328667385,NCIT
+MCQ_B,Medical Conditions,Medical Condition,http://purl.obolibrary.org/obo/NCIT_C156809,0.916564328667385,NCIT
+MCQ_C,Medical Conditions,Medical Condition,http://purl.obolibrary.org/obo/NCIT_C156809,0.916564328667385,NCIT
+MCQ_D,Medical Conditions,Medical Condition,http://purl.obolibrary.org/obo/NCIT_C156809,0.916564328667385,NCIT
+MCQ_E,Medical Conditions,Medical Condition,http://purl.obolibrary.org/obo/NCIT_C156809,0.916564328667385,NCIT
+MCQ_F,Medical Conditions,Medical Condition,http://purl.obolibrary.org/obo/NCIT_C156809,0.916564328667385,NCIT
+MCQ_G,Medical Conditions,Medical Condition,http://purl.obolibrary.org/obo/NCIT_C156809,0.916564328667385,NCIT
+MCQ_H,Medical Conditions,Medical Condition,http://purl.obolibrary.org/obo/NCIT_C156809,0.916564328667385,NCIT
+MCQ_I,Medical Conditions,Medical Condition,http://purl.obolibrary.org/obo/NCIT_C156809,0.916564328667385,NCIT
+MCQ_J,Medical Conditions,Medical Condition,http://purl.obolibrary.org/obo/NCIT_C156809,0.916564328667385,NCIT
+MPQ,Miscellaneous Pain,Miscellaneous,http://purl.obolibrary.org/obo/NCIT_C69023,0.8864305170517777,NCIT
+MPQ_B,Miscellaneous Pain,Miscellaneous,http://purl.obolibrary.org/obo/NCIT_C69023,0.8864305170517777,NCIT
+MPQ_C,Miscellaneous Pain,Miscellaneous,http://purl.obolibrary.org/obo/NCIT_C69023,0.8864305170517777,NCIT
+OCQ,Occupation,Occupation,http://purl.obolibrary.org/obo/NCIT_C25193,0.9921349449059205,NCIT
+OCQ_B,Occupation,Occupation,http://purl.obolibrary.org/obo/NCIT_C25193,0.9921349449059205,NCIT
+OCQ_C,Occupation,Occupation,http://purl.obolibrary.org/obo/NCIT_C25193,0.9921349449059205,NCIT
+OCQ_D,Occupation,Occupation,http://purl.obolibrary.org/obo/NCIT_C25193,0.9921349449059205,NCIT
+OCQ_E,Occupation,Occupation,http://purl.obolibrary.org/obo/NCIT_C25193,0.9921349449059205,NCIT
+OCQ_F,Occupation,Occupation,http://purl.obolibrary.org/obo/NCIT_C25193,0.9921349449059205,NCIT
+OCQ_G,Occupation,Occupation,http://purl.obolibrary.org/obo/NCIT_C25193,0.9921349449059205,NCIT
+OCQ_H,Occupation,Occupation,http://purl.obolibrary.org/obo/NCIT_C25193,0.9921349449059205,NCIT
+OCQ_I,Occupation,Occupation,http://purl.obolibrary.org/obo/NCIT_C25193,0.9921349449059205,NCIT
+OCQ_J,Occupation,Occupation,http://purl.obolibrary.org/obo/NCIT_C25193,0.9921349449059205,NCIT
+OHQ,Oral Health,Health,http://purl.obolibrary.org/obo/NCIT_C25178,0.7538202774838462,NCIT
+OHQ_B,Oral Health,Health,http://purl.obolibrary.org/obo/NCIT_C25178,0.7538202774838462,NCIT
+OHQ_C,Oral Health,Health,http://purl.obolibrary.org/obo/NCIT_C25178,0.7538202774838462,NCIT
+OHX_D,Oral Health,Health,http://purl.obolibrary.org/obo/NCIT_C25178,0.7538202774838462,NCIT
+OHQ_D,Oral Health,Health,http://purl.obolibrary.org/obo/NCIT_C25178,0.7538202774838462,NCIT
+OHX_E,Oral Health,Health,http://purl.obolibrary.org/obo/NCIT_C25178,0.7538202774838462,NCIT
+OHQ_E,Oral Health,Health,http://purl.obolibrary.org/obo/NCIT_C25178,0.7538202774838462,NCIT
+OHQ_F,Oral Health,Health,http://purl.obolibrary.org/obo/NCIT_C25178,0.7538202774838462,NCIT
+OHQ_G,Oral Health,Health,http://purl.obolibrary.org/obo/NCIT_C25178,0.7538202774838462,NCIT
+OHQ_H,Oral Health,Health,http://purl.obolibrary.org/obo/NCIT_C25178,0.7538202774838462,NCIT
+OHQ_I,Oral Health,Health,http://purl.obolibrary.org/obo/NCIT_C25178,0.7538202774838462,NCIT
+OHQ_J,Oral Health,Health,http://purl.obolibrary.org/obo/NCIT_C25178,0.7538202774838462,NCIT
+OSQ,Osteoporosis,Osteoporosis,http://purl.obolibrary.org/obo/NCIT_C3298,0.9921841318421918,NCIT
+OSQ_B,Osteoporosis,Osteoporosis,http://purl.obolibrary.org/obo/NCIT_C3298,0.9921841318421918,NCIT
+OSQ_C,Osteoporosis,Osteoporosis,http://purl.obolibrary.org/obo/NCIT_C3298,0.9921841318421918,NCIT
+OSQ_D,Osteoporosis,Osteoporosis,http://purl.obolibrary.org/obo/NCIT_C3298,0.9921841318421918,NCIT
+OSQ_E,Osteoporosis,Osteoporosis,http://purl.obolibrary.org/obo/NCIT_C3298,0.9921841318421918,NCIT
+OSQ_F,Osteoporosis,Osteoporosis,http://purl.obolibrary.org/obo/NCIT_C3298,0.9921841318421918,NCIT
+OSQ_H,Osteoporosis,Osteoporosis,http://purl.obolibrary.org/obo/NCIT_C3298,0.9921841318421918,NCIT
+OSQ_J,Osteoporosis,Osteoporosis,http://purl.obolibrary.org/obo/NCIT_C3298,0.9921841318421918,NCIT
+RXQ_ANA,Analgesic Pain Relievers,exposure to analgesic,http://purl.obolibrary.org/obo/ECTO_9001722,0.6035219091869867,ECTO
+RXQANA_B,Analgesic Pain Relievers,exposure to analgesic,http://purl.obolibrary.org/obo/ECTO_9001722,0.6035219091869867,ECTO
+RXQANA_C,Analgesic Pain Relievers,exposure to analgesic,http://purl.obolibrary.org/obo/ECTO_9001722,0.6035219091869867,ECTO
+PUQ,Pesticide Use,Pesticide,http://purl.obolibrary.org/obo/NCIT_C737,0.8691143007347422,NCIT
+PUQ_B,Pesticide Use,Pesticide,http://purl.obolibrary.org/obo/NCIT_C737,0.8691143007347422,NCIT
+PUQ_C,Pesticide Use,Pesticide,http://purl.obolibrary.org/obo/NCIT_C737,0.8691143007347422,NCIT
+PUQMEC_D,Pesticide Use,Pesticide,http://purl.obolibrary.org/obo/NCIT_C737,0.8691143007347422,NCIT
+PUQMEC_E,Pesticide Use,Pesticide,http://purl.obolibrary.org/obo/NCIT_C737,0.8691143007347422,NCIT
+PUQMEC_F,Pesticide Use,Pesticide,http://purl.obolibrary.org/obo/NCIT_C737,0.8691143007347422,NCIT
+PUQMEC_G,Pesticide Use,Pesticide,http://purl.obolibrary.org/obo/NCIT_C737,0.8691143007347422,NCIT
+PUQMEC_H,Pesticide Use,Pesticide,http://purl.obolibrary.org/obo/NCIT_C737,0.8691143007347422,NCIT
+PUQMEC_I,Pesticide Use,Pesticide,http://purl.obolibrary.org/obo/NCIT_C737,0.8691143007347422,NCIT
+PUQMEC_J,Pesticide Use,Pesticide,http://purl.obolibrary.org/obo/NCIT_C737,0.8691143007347422,NCIT
+PAQ,Physical Activity,Physical Activity,http://purl.obolibrary.org/obo/NCIT_C17708,0.9924988489423394,NCIT
+PAQ_B,Physical Activity,Physical Activity,http://purl.obolibrary.org/obo/NCIT_C17708,0.9924988489423394,NCIT
+PAQ_C,Physical Activity,Physical Activity,http://purl.obolibrary.org/obo/NCIT_C17708,0.9924988489423394,NCIT
+PAQ_D,Physical Activity,Physical Activity,http://purl.obolibrary.org/obo/NCIT_C17708,0.9924988489423394,NCIT
+PAQ_E,Physical Activity,Physical Activity,http://purl.obolibrary.org/obo/NCIT_C17708,0.9924988489423394,NCIT
+PAQ_F,Physical Activity,Physical Activity,http://purl.obolibrary.org/obo/NCIT_C17708,0.9924988489423394,NCIT
+PAQ_G,Physical Activity,Physical Activity,http://purl.obolibrary.org/obo/NCIT_C17708,0.9924988489423394,NCIT
+PAQ_H,Physical Activity,Physical Activity,http://purl.obolibrary.org/obo/NCIT_C17708,0.9924988489423394,NCIT
+PAQ_I,Physical Activity,Physical Activity,http://purl.obolibrary.org/obo/NCIT_C17708,0.9924988489423394,NCIT
+PAQ_J,Physical Activity,Physical Activity,http://purl.obolibrary.org/obo/NCIT_C17708,0.9924988489423394,NCIT
+PAQIAF,Physical Activity - Individual Activities,physical activity,http://www.ebi.ac.uk/efo/EFO_0003940,0.811806317032815,EFO
+PAQIAF_B,Physical Activity - Individual Activities,physical activity,http://www.ebi.ac.uk/efo/EFO_0003940,0.811806317032815,EFO
+PAQIAF_C,Physical Activity - Individual Activities,physical activity,http://www.ebi.ac.uk/efo/EFO_0003940,0.811806317032815,EFO
+PAQIAF_D,Physical Activity - Individual Activities,physical activity,http://www.ebi.ac.uk/efo/EFO_0003940,0.811806317032815,EFO
+PFQ,Physical Functioning,Physical Function,http://purl.obolibrary.org/obo/NCIT_C150046,0.8780858969585332,NCIT
+PFQ_B,Physical Functioning,Physical Function,http://purl.obolibrary.org/obo/NCIT_C150046,0.8780858969585332,NCIT
+PFQ_C,Physical Functioning,Physical Function,http://purl.obolibrary.org/obo/NCIT_C150046,0.8780858969585332,NCIT
+PFQ_D,Physical Functioning,Physical Function,http://purl.obolibrary.org/obo/NCIT_C150046,0.8780858969585332,NCIT
+PFQ_E,Physical Functioning,Physical Function,http://purl.obolibrary.org/obo/NCIT_C150046,0.8780858969585332,NCIT
+PFQ_F,Physical Functioning,Physical Function,http://purl.obolibrary.org/obo/NCIT_C150046,0.8780858969585332,NCIT
+PFQ_G,Physical Functioning,Physical Function,http://purl.obolibrary.org/obo/NCIT_C150046,0.8780858969585332,NCIT
+PFQ_H,Physical Functioning,Physical Function,http://purl.obolibrary.org/obo/NCIT_C150046,0.8780858969585332,NCIT
+PFQ_I,Physical Functioning,Physical Function,http://purl.obolibrary.org/obo/NCIT_C150046,0.8780858969585332,NCIT
+PFQ_J,Physical Functioning,Physical Function,http://purl.obolibrary.org/obo/NCIT_C150046,0.8780858969585332,NCIT
+RHQ,Reproductive Health,reproductive system disease,http://www.ebi.ac.uk/efo/EFO_0000512,0.7963861457684934,EFO
+RHQ_B,Reproductive Health,reproductive system disease,http://www.ebi.ac.uk/efo/EFO_0000512,0.7963861457684934,EFO
+RHQ_C,Reproductive Health,reproductive system disease,http://www.ebi.ac.uk/efo/EFO_0000512,0.7963861457684934,EFO
+RHQ_D,Reproductive Health,reproductive system disease,http://www.ebi.ac.uk/efo/EFO_0000512,0.7963861457684934,EFO
+RHQ_E,Reproductive Health,reproductive system disease,http://www.ebi.ac.uk/efo/EFO_0000512,0.7963861457684934,EFO
+RHQ_F,Reproductive Health,reproductive system disease,http://www.ebi.ac.uk/efo/EFO_0000512,0.7963861457684934,EFO
+RHQ_G,Reproductive Health,reproductive system disease,http://www.ebi.ac.uk/efo/EFO_0000512,0.7963861457684934,EFO
+RHQ_H,Reproductive Health,reproductive system disease,http://www.ebi.ac.uk/efo/EFO_0000512,0.7963861457684934,EFO
+RHQ_I,Reproductive Health,reproductive system disease,http://www.ebi.ac.uk/efo/EFO_0000512,0.7963861457684934,EFO
+RHQ_J,Reproductive Health,reproductive system disease,http://www.ebi.ac.uk/efo/EFO_0000512,0.7963861457684934,EFO
+RDQ,Respiratory Health,Respiratory,http://purl.obolibrary.org/obo/NCIT_C25656,0.8786482184240542,NCIT
+RDQ_B,Respiratory Health,Respiratory,http://purl.obolibrary.org/obo/NCIT_C25656,0.8786482184240542,NCIT
+RDQ_C,Respiratory Health,Respiratory,http://purl.obolibrary.org/obo/NCIT_C25656,0.8786482184240542,NCIT
+RDQ_D,Respiratory Health,Respiratory,http://purl.obolibrary.org/obo/NCIT_C25656,0.8786482184240542,NCIT
+RDQ_E,Respiratory Health,Respiratory,http://purl.obolibrary.org/obo/NCIT_C25656,0.8786482184240542,NCIT
+RDQ_F,Respiratory Health,Respiratory,http://purl.obolibrary.org/obo/NCIT_C25656,0.8786482184240542,NCIT
+RDQ_G,Respiratory Health,Respiratory,http://purl.obolibrary.org/obo/NCIT_C25656,0.8786482184240542,NCIT
+SXQ,Sexual Behavior,sexual behavior,http://www.ebi.ac.uk/efo/EFO_0010141,0.9903470941542705,EFO
+SXQ_B,Sexual Behavior,sexual behavior,http://www.ebi.ac.uk/efo/EFO_0010141,0.9903470941542705,EFO
+SXQ_C,Sexual Behavior,sexual behavior,http://www.ebi.ac.uk/efo/EFO_0010141,0.9903470941542705,EFO
+SXQ_D,Sexual Behavior,sexual behavior,http://www.ebi.ac.uk/efo/EFO_0010141,0.9903470941542705,EFO
+SXQ_E,Sexual Behavior,sexual behavior,http://www.ebi.ac.uk/efo/EFO_0010141,0.9903470941542705,EFO
+SXQ_F,Sexual Behavior,sexual behavior,http://www.ebi.ac.uk/efo/EFO_0010141,0.9903470941542705,EFO
+SXQ_G,Sexual Behavior,sexual behavior,http://www.ebi.ac.uk/efo/EFO_0010141,0.9903470941542705,EFO
+SXQ_H,Sexual Behavior,sexual behavior,http://www.ebi.ac.uk/efo/EFO_0010141,0.9903470941542705,EFO
+SXQ_I,Sexual Behavior,sexual behavior,http://www.ebi.ac.uk/efo/EFO_0010141,0.9903470941542705,EFO
+SMQMEC,Smoking - Adult Recent Tobacco Use & Youth Cigarette/Tobacco Use,Tobacco Use,http://purl.obolibrary.org/obo/NCIT_C18059,0.7163727193444364,NCIT
+SMQMEC_B,Smoking - Adult Recent Tobacco Use & Youth Cigarette/Tobacco Use,Tobacco Use,http://purl.obolibrary.org/obo/NCIT_C18059,0.7163727193444364,NCIT
+SMQMEC_C,Smoking - Adult Recent Tobacco Use & Youth Cigarette/Tobacco Use,Tobacco Use,http://purl.obolibrary.org/obo/NCIT_C18059,0.7163727193444364,NCIT
+SMQ,Smoking - Cigarette/Tobacco Use - Adult,Cigarette smoking tobacco (substance),http://snomed.info/id/66562002,0.7941712573429104,SNOMED
+SMQ_B,Smoking - Cigarette/Tobacco Use - Adult,Cigarette smoking tobacco (substance),http://snomed.info/id/66562002,0.7941712573429104,SNOMED
+SMQ_C,Smoking - Cigarette/Tobacco Use - Adult,Cigarette smoking tobacco (substance),http://snomed.info/id/66562002,0.7941712573429104,SNOMED
+SSQ,Social Support,Social,http://purl.obolibrary.org/obo/NCIT_C62650,0.7291372808128711,NCIT
+SSQ_B,Social Support,Social,http://purl.obolibrary.org/obo/NCIT_C62650,0.7291372808128711,NCIT
+SSQ_C,Social Support,Social,http://purl.obolibrary.org/obo/NCIT_C62650,0.7291372808128711,NCIT
+SSQ_D,Social Support,Social,http://purl.obolibrary.org/obo/NCIT_C62650,0.7291372808128711,NCIT
+SSQ_E,Social Support,Social,http://purl.obolibrary.org/obo/NCIT_C62650,0.7291372808128711,NCIT
+WHQ,Weight History,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.9918763817570886,NCIT
+WHQ_B,Weight History,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.9918763817570886,NCIT
+WHQ_C,Weight History,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.9918763817570886,NCIT
+WHQ_D,Weight History,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.9918763817570886,NCIT
+WHQ_E,Weight History,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.9918763817570886,NCIT
+WHQ_F,Weight History,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.9918763817570886,NCIT
+WHQ_G,Weight History,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.9918763817570886,NCIT
+WHQ_H,Weight History,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.9918763817570886,NCIT
+WHQ_I,Weight History,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.9918763817570886,NCIT
+WHQ_J,Weight History,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.9918763817570886,NCIT
+SMQFAM,Smoking - Household Smokers,No smokers in the household (situation),http://snomed.info/id/394964001,0.7402726936517955,SNOMED
+SMQFAM_B,Smoking - Household Smokers,No smokers in the household (situation),http://snomed.info/id/394964001,0.7402726936517955,SNOMED
+SMQFAM_C,Smoking - Household Smokers,No smokers in the household (situation),http://snomed.info/id/394964001,0.7402726936517955,SNOMED
+SMQFAM_D,Smoking - Household Smokers,No smokers in the household (situation),http://snomed.info/id/394964001,0.7402726936517955,SNOMED
+SMQFAM_E,Smoking - Household Smokers,No smokers in the household (situation),http://snomed.info/id/394964001,0.7402726936517955,SNOMED
+SMQFAM_F,Smoking - Household Smokers,No smokers in the household (situation),http://snomed.info/id/394964001,0.7402726936517955,SNOMED
+SMQFAM_G,Smoking - Household Smokers,No smokers in the household (situation),http://snomed.info/id/394964001,0.7402726936517955,SNOMED
+SMQFAM_H,Smoking - Household Smokers,No smokers in the household (situation),http://snomed.info/id/394964001,0.7402726936517955,SNOMED
+SMQFAM_I,Smoking - Household Smokers,No smokers in the household (situation),http://snomed.info/id/394964001,0.7402726936517955,SNOMED
+SMQFAM_J,Smoking - Household Smokers,No smokers in the household (situation),http://snomed.info/id/394964001,0.7402726936517955,SNOMED
+DXX_2_B,"Dual-Energy X-ray Absorptiometry - Whole Body, Second Exam",Dual energy X-ray photon absorptiometry scan of whole body (procedure),http://snomed.info/id/440496005,0.6594869914409889,SNOMED
+OHXPRL_B,Oral Health - Periodontal/Lower,periodontal measurement,http://www.ebi.ac.uk/efo/EFO_0007780,0.6117059149327868,EFO
+OHXPRL_C,Oral Health - Periodontal/Lower,periodontal measurement,http://www.ebi.ac.uk/efo/EFO_0007780,0.6117059149327868,EFO
+OHXPRU_B,Oral Health - Periodontal/Upper,periodontal measurement,http://www.ebi.ac.uk/efo/EFO_0007780,0.6385048498239261,EFO
+OHXPRU_C,Oral Health - Periodontal/Upper,periodontal measurement,http://www.ebi.ac.uk/efo/EFO_0007780,0.6385048498239261,EFO
+l11p_2_b,"Prostate-specific Antigen (PSA), Second Exam",prostate specific antigen measurement,http://www.ebi.ac.uk/efo/EFO_0004624,0.6930181829726002,EFO
+L11_2_b,"C-Reactive Protein & Others, Second Exam",C reactive protein (substance),http://snomed.info/id/61425002,0.5552860392412223,SNOMED
+l13_2_b,"Cholesterol - Total, HDL, LDL  & Triglycerides, Second Exam",Triglycerides to HDL Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C121183,0.6849394651879107,NCIT
+L19_2_B,"Measles, Rubella, & Varicella, Second Exam",chickenpox,http://www.ebi.ac.uk/efo/EFO_0007204,0.6574567335665201,EFO
+L16_2_B,"Creatinine & Albumin - Urine, Second Exam",urinary albumin to creatinine ratio,http://www.ebi.ac.uk/efo/EFO_0007778,0.6899033897430029,EFO
+l25_2_b,"Complete Blood Count with 5-part Differential - Whole Blood, Second Exam",Complete blood count without differential (procedure),http://snomed.info/id/43789009,0.7155946601754609,SNOMED
+l39_2_b,Erythrocyte Protoporphyrin,Free erythrocyte protoporphyrin (substance),http://snomed.info/id/102757009,0.8483148998814646,SNOMED
+L39_B,Erythrocyte Protoporphyrin,Free erythrocyte protoporphyrin (substance),http://snomed.info/id/102757009,0.8483148998814646,SNOMED
+EPP_D,Erythrocyte Protoporphyrin,Free erythrocyte protoporphyrin (substance),http://snomed.info/id/102757009,0.8483148998814646,SNOMED
+VIT_2_B,"Vitamin A, Vitamin E, & Carotenoids, Second Exam",Vitamin,http://purl.obolibrary.org/obo/NCIT_C944,0.6873124888466237,NCIT
+l34_b,Bacterial vaginosis (BV) & Trichomonas vaginalis,Trichomonas vaginalis,http://purl.obolibrary.org/obo/NCIT_C125967,0.7971914363755805,NCIT
+l34_c,Bacterial vaginosis (BV) & Trichomonas vaginalis,Trichomonas vaginalis,http://purl.obolibrary.org/obo/NCIT_C125967,0.7971914363755805,NCIT
+SSCYST_B,Cystatin C (Surplus),cystatin C measurement,http://www.ebi.ac.uk/efo/EFO_0004617,0.7060558828398513,EFO
+SSNO3P_B,"Perchlorate, Nitrate & Thiocyanate - Urine (Surplus)",exposure to thiocyanate,http://purl.obolibrary.org/obo/ECTO_9000532,0.6244328894804277,ECTO
+PHPYPA_B,"Phthalates, Phytoestrogens & PAHs - Urine",Phytoestrogen,http://purl.obolibrary.org/obo/NCIT_C1194,0.6717086532405883,NCIT
+L06VIT_B,"Vitamin A, Vitamin E & Carotenoids",Vitamin,http://purl.obolibrary.org/obo/NCIT_C944,0.7709781693051916,NCIT
+L45VIT_C,"Vitamin A, Vitamin E & Carotenoids",Vitamin,http://purl.obolibrary.org/obo/NCIT_C944,0.7709781693051916,NCIT
+VITAEC_D,"Vitamin A, Vitamin E & Carotenoids",Vitamin,http://purl.obolibrary.org/obo/NCIT_C944,0.7709781693051916,NCIT
+VITAEC_J,"Vitamin A, Vitamin E & Carotenoids",Vitamin,http://purl.obolibrary.org/obo/NCIT_C944,0.7709781693051916,NCIT
+L06VID_B,Vitamin D,D Vitamin,http://purl.obolibrary.org/obo/NCIT_C941,0.9863073676877138,NCIT
+VID_B,Vitamin D,D Vitamin,http://purl.obolibrary.org/obo/NCIT_C941,0.9863073676877138,NCIT
+L06VID_C,Vitamin D,D Vitamin,http://purl.obolibrary.org/obo/NCIT_C941,0.9863073676877138,NCIT
+VID_C,Vitamin D,D Vitamin,http://purl.obolibrary.org/obo/NCIT_C941,0.9863073676877138,NCIT
+VID_D,Vitamin D,D Vitamin,http://purl.obolibrary.org/obo/NCIT_C941,0.9863073676877138,NCIT
+VID_E,Vitamin D,D Vitamin,http://purl.obolibrary.org/obo/NCIT_C941,0.9863073676877138,NCIT
+VID_F,Vitamin D,D Vitamin,http://purl.obolibrary.org/obo/NCIT_C941,0.9863073676877138,NCIT
+VID_G,Vitamin D,D Vitamin,http://purl.obolibrary.org/obo/NCIT_C941,0.9863073676877138,NCIT
+VID_H,Vitamin D,D Vitamin,http://purl.obolibrary.org/obo/NCIT_C941,0.9863073676877138,NCIT
+VID_I,Vitamin D,D Vitamin,http://purl.obolibrary.org/obo/NCIT_C941,0.9863073676877138,NCIT
+VID_J,Vitamin D,D Vitamin,http://purl.obolibrary.org/obo/NCIT_C941,0.9863073676877138,NCIT
+L06UIO_B,Iodine - Urine,Iodine,http://purl.obolibrary.org/obo/NCIT_C594,0.888925682262637,NCIT
+L06UIO_C,Iodine - Urine,Iodine,http://purl.obolibrary.org/obo/NCIT_C594,0.888925682262637,NCIT
+UIO_D,Iodine - Urine,Iodine,http://purl.obolibrary.org/obo/NCIT_C594,0.888925682262637,NCIT
+UIO_E,Iodine - Urine,Iodine,http://purl.obolibrary.org/obo/NCIT_C594,0.888925682262637,NCIT
+UIO_F,Iodine - Urine,Iodine,http://purl.obolibrary.org/obo/NCIT_C594,0.888925682262637,NCIT
+UIO_G,Iodine - Urine,Iodine,http://purl.obolibrary.org/obo/NCIT_C594,0.888925682262637,NCIT
+UIO_H,Iodine - Urine,Iodine,http://purl.obolibrary.org/obo/NCIT_C594,0.888925682262637,NCIT
+UIO_I,Iodine - Urine,Iodine,http://purl.obolibrary.org/obo/NCIT_C594,0.888925682262637,NCIT
+UIO_J,Iodine - Urine,Iodine,http://purl.obolibrary.org/obo/NCIT_C594,0.888925682262637,NCIT
+L11_B,"C-Reactive protein (CRP), Fibrinogen, Bone Alkaline Phosphatase & Urinary N-telopeptides",Alkaline Phosphatase,http://purl.obolibrary.org/obo/NCIT_C16276,0.5269686651777936,NCIT
+L11PSA_B,Prostate specific antigen (PSA),prostate specific antigen measurement,http://www.ebi.ac.uk/efo/EFO_0004624,0.8164199029488014,EFO
+L17_B,"Toxoplasma (IgG), Toxoplasma (IgM),Toxoplasma (Dye),Toxoplasma Differential Agglutination, & Toxoplasma (Avidity)",Toxoplasma,http://purl.obolibrary.org/obo/NCIT_C75538,0.9048407316413773,NCIT
+L35_B,Methicillin - Resistant Staphylococcus aureus (MRSA),Methicillin Resistant Staphylococcus Aureus,http://purl.obolibrary.org/obo/NCIT_C123515,0.9217546202068999,NCIT
+L35_C,Methicillin - Resistant Staphylococcus aureus (MRSA),Methicillin Resistant Staphylococcus Aureus,http://purl.obolibrary.org/obo/NCIT_C123515,0.9217546202068999,NCIT
+L36_B,"Syphilis-IgG, Syphilis Rapid Plasma Reagin (RPR) & Treponema pallidum Particle Agglutination (TP-PA)",syphilis,http://www.ebi.ac.uk/efo/EFO_0007504,0.5810878108258374,EFO
+L36_C,"Syphilis-IgG, Syphilis Rapid Plasma Reagin (RPR) & Treponema pallidum Particle Agglutination (TP-PA)",syphilis,http://www.ebi.ac.uk/efo/EFO_0007504,0.5810878108258374,EFO
+L40_B,Standard Biochemistry Profile,Biochemistry,http://purl.obolibrary.org/obo/NCIT_C16337,0.6525432843242072,NCIT
+L40_C,Standard Biochemistry Profile,Biochemistry,http://purl.obolibrary.org/obo/NCIT_C16337,0.6525432843242072,NCIT
+BIOPRO_D,Standard Biochemistry Profile,Biochemistry,http://purl.obolibrary.org/obo/NCIT_C16337,0.6525432843242072,NCIT
+BIOPRO_E,Standard Biochemistry Profile,Biochemistry,http://purl.obolibrary.org/obo/NCIT_C16337,0.6525432843242072,NCIT
+BIOPRO_F,Standard Biochemistry Profile,Biochemistry,http://purl.obolibrary.org/obo/NCIT_C16337,0.6525432843242072,NCIT
+BIOPRO_G,Standard Biochemistry Profile,Biochemistry,http://purl.obolibrary.org/obo/NCIT_C16337,0.6525432843242072,NCIT
+BIOPRO_H,Standard Biochemistry Profile,Biochemistry,http://purl.obolibrary.org/obo/NCIT_C16337,0.6525432843242072,NCIT
+BIOPRO_I,Standard Biochemistry Profile,Biochemistry,http://purl.obolibrary.org/obo/NCIT_C16337,0.6525432843242072,NCIT
+BIOPRO_J,Standard Biochemistry Profile,Biochemistry,http://purl.obolibrary.org/obo/NCIT_C16337,0.6525432843242072,NCIT
+L40FE_B,"Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation",Saturation of iron binding capacity (procedure),http://snomed.info/id/315188003,0.7547016663642355,SNOMED
+L40FE_C,"Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation",Saturation of iron binding capacity (procedure),http://snomed.info/id/315188003,0.7547016663642355,SNOMED
+FETIB_D,"Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation",Saturation of iron binding capacity (procedure),http://snomed.info/id/315188003,0.7547016663642355,SNOMED
+VID_2_B,"Vitamin D, Second Exam",D Vitamin,http://purl.obolibrary.org/obo/NCIT_C941,0.6328651032874629,NCIT
+L40_2_B,"Standard Biochemistry Profile, Follicle Stimulating Hormone & Luteinizing Hormone, Second Exam",follicle stimulating hormone,http://www.ebi.ac.uk/efo/EFO_0003234,0.6902379012527464,EFO
+SSBFR_B,Brominated Flame Retardants (BFRs) - Pooled Samples (Surplus),exposure to brominated flame retardant,http://purl.obolibrary.org/obo/ECTO_9002162,0.7154170217786967,ECTO
+SSPCB_B,Non-dioxin-like Polychlorinated Biphenyls - Pooled Samples (Surplus Sera),polychlorinated biphenyls measurement,http://www.ebi.ac.uk/efo/EFO_0007042,0.6404953753855274,EFO
+SSPST_B,Pesticides - Organochlorine Metabolites - Serum - Pooled Samples (Surplus),exposure to organochlorine pesticide,http://purl.obolibrary.org/obo/ECTO_9001535,0.5961661086820417,ECTO
+SSCA_B,Cancer antigen CA125 and CA15.3 - Serum (Surplus),Serum CA125 Measurement,http://purl.obolibrary.org/obo/NCIT_C141277,0.5635922809689281,NCIT
+SSHE4_B,Human epididymal secretory protein E4 (HE4) - Serum (Surplus),Human Epididymis Protein 4 Measurement,http://purl.obolibrary.org/obo/NCIT_C163452,0.5303540506527565,NCIT
+SSCGA_B,"Cancer antigen CA125, CA15.3 and HE4 IgG antibodies - Serum (Surplus)",cancer antigen 125 measurement,http://www.ebi.ac.uk/efo/EFO_0010603,0.5083837330441875,EFO
+HCQ_B,Hepatitis C Follow Up,follow-up,http://www.ebi.ac.uk/efo/EFO_0009642,0.7512066892277675,EFO
+HCQ_C,Hepatitis C Follow Up,follow-up,http://www.ebi.ac.uk/efo/EFO_0009642,0.7512066892277675,EFO
+HCQ_D,Hepatitis C Follow Up,follow-up,http://www.ebi.ac.uk/efo/EFO_0009642,0.7512066892277675,EFO
+HCQ_E,Hepatitis C Follow Up,follow-up,http://www.ebi.ac.uk/efo/EFO_0009642,0.7512066892277675,EFO
+HCQ_F,Hepatitis C Follow Up,follow-up,http://www.ebi.ac.uk/efo/EFO_0009642,0.7512066892277675,EFO
+HCQ_G,Hepatitis C Follow Up,follow-up,http://www.ebi.ac.uk/efo/EFO_0009642,0.7512066892277675,EFO
+KIQ_P_B,Prostate Conditions,Condition,http://purl.obolibrary.org/obo/NCIT_C25457,0.596644807007041,NCIT
+KIQ_P_C,Prostate Conditions,Condition,http://purl.obolibrary.org/obo/NCIT_C25457,0.596644807007041,NCIT
+KIQ_P_D,Prostate Conditions,Condition,http://purl.obolibrary.org/obo/NCIT_C25457,0.596644807007041,NCIT
+KIQ_P_E,Prostate Conditions,Condition,http://purl.obolibrary.org/obo/NCIT_C25457,0.596644807007041,NCIT
+KIQ_U_B,Kidney Conditions - Urology,Kidney,http://purl.obolibrary.org/obo/NCIT_C12415,0.6436156405999093,NCIT
+KIQ_U_C,Kidney Conditions - Urology,Kidney,http://purl.obolibrary.org/obo/NCIT_C12415,0.6436156405999093,NCIT
+KIQ_U_D,Kidney Conditions - Urology,Kidney,http://purl.obolibrary.org/obo/NCIT_C12415,0.6436156405999093,NCIT
+KIQ_U_E,Kidney Conditions - Urology,Kidney,http://purl.obolibrary.org/obo/NCIT_C12415,0.6436156405999093,NCIT
+KIQ_U_F,Kidney Conditions - Urology,Kidney,http://purl.obolibrary.org/obo/NCIT_C12415,0.6436156405999093,NCIT
+KIQ_U_G,Kidney Conditions - Urology,Kidney,http://purl.obolibrary.org/obo/NCIT_C12415,0.6436156405999093,NCIT
+KIQ_U_H,Kidney Conditions - Urology,Kidney,http://purl.obolibrary.org/obo/NCIT_C12415,0.6436156405999093,NCIT
+KIQ_U_I,Kidney Conditions - Urology,Kidney,http://purl.obolibrary.org/obo/NCIT_C12415,0.6436156405999093,NCIT
+KIQ_U_J,Kidney Conditions - Urology,Kidney,http://purl.obolibrary.org/obo/NCIT_C12415,0.6436156405999093,NCIT
+FFQRAW_C,Food Frequency Questionnaire - Raw Questionnaire Responses,Food Frequency Questionnaire,http://purl.obolibrary.org/obo/NCIT_C94817,0.8512084517903149,NCIT
+FFQRAW_D,Food Frequency Questionnaire - Raw Questionnaire Responses,Food Frequency Questionnaire,http://purl.obolibrary.org/obo/NCIT_C94817,0.8512084517903149,NCIT
+FFQDC_C,Food Frequency Questionnaire - Output from DietCalc Software,Food Frequency Questionnaire,http://purl.obolibrary.org/obo/NCIT_C94817,0.6727285460515183,NCIT
+FFQDC_D,Food Frequency Questionnaire - Output from DietCalc Software,Food Frequency Questionnaire,http://purl.obolibrary.org/obo/NCIT_C94817,0.6727285460515183,NCIT
+DR2TOT_C,"Dietary Interview - Total Nutrient Intakes, Second Day",Dietary Intake,http://purl.obolibrary.org/obo/NCIT_C169077,0.5017996819033108,NCIT
+DR2TOT_D,"Dietary Interview - Total Nutrient Intakes, Second Day",Dietary Intake,http://purl.obolibrary.org/obo/NCIT_C169077,0.5017996819033108,NCIT
+DR2TOT_E,"Dietary Interview - Total Nutrient Intakes, Second Day",Dietary Intake,http://purl.obolibrary.org/obo/NCIT_C169077,0.5017996819033108,NCIT
+DR2TOT_F,"Dietary Interview - Total Nutrient Intakes, Second Day",Dietary Intake,http://purl.obolibrary.org/obo/NCIT_C169077,0.5017996819033108,NCIT
+DR2TOT_G,"Dietary Interview - Total Nutrient Intakes, Second Day",Dietary Intake,http://purl.obolibrary.org/obo/NCIT_C169077,0.5017996819033108,NCIT
+DR2TOT_H,"Dietary Interview - Total Nutrient Intakes, Second Day",Dietary Intake,http://purl.obolibrary.org/obo/NCIT_C169077,0.5017996819033108,NCIT
+DR2TOT_I,"Dietary Interview - Total Nutrient Intakes, Second Day",Dietary Intake,http://purl.obolibrary.org/obo/NCIT_C169077,0.5017996819033108,NCIT
+DR2TOT_J,"Dietary Interview - Total Nutrient Intakes, Second Day",Dietary Intake,http://purl.obolibrary.org/obo/NCIT_C169077,0.5017996819033108,NCIT
+DR2IFF_C,"Dietary Interview - Individual Foods, Second Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.5117920077636078,NCIT
+DR2IFF_D,"Dietary Interview - Individual Foods, Second Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.5117920077636078,NCIT
+DR2IFF_E,"Dietary Interview - Individual Foods, Second Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.5117920077636078,NCIT
+DR2IFF_F,"Dietary Interview - Individual Foods, Second Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.5117920077636078,NCIT
+DR2IFF_G,"Dietary Interview - Individual Foods, Second Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.5117920077636078,NCIT
+DR2IFF_H,"Dietary Interview - Individual Foods, Second Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.5117920077636078,NCIT
+DR2IFF_I,"Dietary Interview - Individual Foods, Second Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.5117920077636078,NCIT
+DR2IFF_J,"Dietary Interview - Individual Foods, Second Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.5117920077636078,NCIT
+DR1IFF_C,"Dietary Interview - Individual Foods, First Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.507554494439024,NCIT
+DR1IFF_D,"Dietary Interview - Individual Foods, First Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.507554494439024,NCIT
+DR1IFF_E,"Dietary Interview - Individual Foods, First Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.507554494439024,NCIT
+DR1IFF_F,"Dietary Interview - Individual Foods, First Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.507554494439024,NCIT
+DR1IFF_G,"Dietary Interview - Individual Foods, First Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.507554494439024,NCIT
+DR1IFF_H,"Dietary Interview - Individual Foods, First Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.507554494439024,NCIT
+DR1IFF_I,"Dietary Interview - Individual Foods, First Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.507554494439024,NCIT
+DR1IFF_J,"Dietary Interview - Individual Foods, First Day",Interview,http://purl.obolibrary.org/obo/NCIT_C16751,0.507554494439024,NCIT
+OHXADD_C,Oral Health - Addendum,Addendum,http://purl.obolibrary.org/obo/NCIT_C41216,0.8298238022517029,NCIT
+PAXRAW_C,Physical Activity Monitor,Activity Monitor,http://purl.obolibrary.org/obo/NCIT_C156897,0.821774180053604,NCIT
+PAXRAW_D,Physical Activity Monitor,Activity Monitor,http://purl.obolibrary.org/obo/NCIT_C156897,0.821774180053604,NCIT
+DXXAG_C,Dual Energy X-ray Absorptiometry - Android/Gynoid,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.5356960375404608,SNOMED
+DXXAG_D,Dual Energy X-ray Absorptiometry - Android/Gynoid,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.5356960375404608,SNOMED
+L24PP_C,Pesticides - Environmental - Urine,Environmental,http://purl.obolibrary.org/obo/NCIT_C149494,0.7659249730044454,NCIT
+PP_D,Pesticides - Environmental - Urine,Environmental,http://purl.obolibrary.org/obo/NCIT_C149494,0.7659249730044454,NCIT
+PP_E,Pesticides - Environmental - Urine,Environmental,http://purl.obolibrary.org/obo/NCIT_C149494,0.7659249730044454,NCIT
+PP_F,Pesticides - Environmental - Urine,Environmental,http://purl.obolibrary.org/obo/NCIT_C149494,0.7659249730044454,NCIT
+PP_G,Pesticides - Environmental - Urine,Environmental,http://purl.obolibrary.org/obo/NCIT_C149494,0.7659249730044454,NCIT
+L06PHY_C,Phytoestrogens - Urine,Phytoestrogen,http://purl.obolibrary.org/obo/NCIT_C1194,0.8595239242290432,NCIT
+PHYTO_D,Phytoestrogens - Urine,Phytoestrogen,http://purl.obolibrary.org/obo/NCIT_C1194,0.8595239242290432,NCIT
+PHYTO_E,Phytoestrogens - Urine,Phytoestrogen,http://purl.obolibrary.org/obo/NCIT_C1194,0.8595239242290432,NCIT
+PHYTO_F,Phytoestrogens - Urine,Phytoestrogen,http://purl.obolibrary.org/obo/NCIT_C1194,0.8595239242290432,NCIT
+L06VIT_C,Vitamin C,Vitamin C,http://purl.obolibrary.org/obo/NCIT_C68507,0.9876873862409769,NCIT
+VIC_D,Vitamin C,Vitamin C,http://purl.obolibrary.org/obo/NCIT_C68507,0.9876873862409769,NCIT
+VIC_J,Vitamin C,Vitamin C,http://purl.obolibrary.org/obo/NCIT_C68507,0.9876873862409769,NCIT
+SSMEL_C,Melamine - Urine (Surplus),Melamine (substance),http://snomed.info/id/432247008,0.6082626243912352,SNOMED
+L04PER_C,Perchlorate - Urine,exposure to perchlorate,http://purl.obolibrary.org/obo/ECTO_9000931,0.8772035088274697,ECTO
+L04VOC_C,"Volatile Organic Compounds - Blood, Water, & Related Questionnaire Items",exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.5503096251702658,ECTO
+L06AGE_C,Acrylamide & Glycidamide,Acrylamide,http://purl.obolibrary.org/obo/NCIT_C44329,0.774068131334016,NCIT
+AMDGYD_D,Acrylamide & Glycidamide,Acrylamide,http://purl.obolibrary.org/obo/NCIT_C44329,0.774068131334016,NCIT
+AMDGYD_H,Acrylamide & Glycidamide,Acrylamide,http://purl.obolibrary.org/obo/NCIT_C44329,0.774068131334016,NCIT
+AMDGYD_I,Acrylamide & Glycidamide,Acrylamide,http://purl.obolibrary.org/obo/NCIT_C44329,0.774068131334016,NCIT
+L06BMT_C,"Cadmium, Lead, & Total Mercury - Blood",blood cadmium measurement,http://www.ebi.ac.uk/efo/EFO_0007576,0.6370893413519663,EFO
+PbCd_D,"Cadmium, Lead, & Total Mercury - Blood",blood cadmium measurement,http://www.ebi.ac.uk/efo/EFO_0007576,0.6370893413519663,EFO
+PbCd_E,"Cadmium, Lead, & Total Mercury - Blood",blood cadmium measurement,http://www.ebi.ac.uk/efo/EFO_0007576,0.6370893413519663,EFO
+PbCd_F,"Cadmium, Lead, & Total Mercury - Blood",blood cadmium measurement,http://www.ebi.ac.uk/efo/EFO_0007576,0.6370893413519663,EFO
+L06MH_C,Methylmalonic acid & Homocysteine,Methylmalonic acid measurement,http://www.ebi.ac.uk/efo/EFO_0021651,0.6736101035099257,EFO
+L06NB_C,"Folate - RBC & Serum, and Vitamin B12",Serum vitamin B12 low (finding),http://snomed.info/id/165645009,0.6725334376645697,SNOMED
+L06COT_C,Cotinine - Serum,Cotinine,http://purl.obolibrary.org/obo/NCIT_C70941,0.8087651937156205,NCIT
+COT_D,Cotinine - Serum,Cotinine,http://purl.obolibrary.org/obo/NCIT_C70941,0.8087651937156205,NCIT
+L06TFR_C,Ferritin & Transferrin Receptor,Transferrin Receptor,http://purl.obolibrary.org/obo/NCIT_C17079,0.9100421687388556,NCIT
+L06UAS_C,Arsenics - Total & Speciated - Urine,exposure to arsenic,http://purl.obolibrary.org/obo/ECTO_9000032,0.53619095321801,ECTO
+UAS_D,Arsenics - Total & Speciated - Urine,exposure to arsenic,http://purl.obolibrary.org/obo/ECTO_9000032,0.53619095321801,ECTO
+UAS_E,Arsenics - Total & Speciated - Urine,exposure to arsenic,http://purl.obolibrary.org/obo/ECTO_9000032,0.53619095321801,ECTO
+UAS_F,Arsenics - Total & Speciated - Urine,exposure to arsenic,http://purl.obolibrary.org/obo/ECTO_9000032,0.53619095321801,ECTO
+UAS_G,Arsenics - Total & Speciated - Urine,exposure to arsenic,http://purl.obolibrary.org/obo/ECTO_9000032,0.53619095321801,ECTO
+L06UHG_C,Mercury: Inorganic - Urine,Inorganic mercury poisoning (disorder),http://snomed.info/id/47980004,0.6928268956112569,SNOMED
+UHG_D,Mercury: Inorganic - Urine,Inorganic mercury poisoning (disorder),http://snomed.info/id/47980004,0.6928268956112569,SNOMED
+UHG_E,Mercury: Inorganic - Urine,Inorganic mercury poisoning (disorder),http://snomed.info/id/47980004,0.6928268956112569,SNOMED
+UHG_F,Mercury: Inorganic - Urine,Inorganic mercury poisoning (disorder),http://snomed.info/id/47980004,0.6928268956112569,SNOMED
+UHG_G,Mercury: Inorganic - Urine,Inorganic mercury poisoning (disorder),http://snomed.info/id/47980004,0.6928268956112569,SNOMED
+UHG_H,Mercury: Inorganic - Urine,Inorganic mercury poisoning (disorder),http://snomed.info/id/47980004,0.6928268956112569,SNOMED
+UHG_I,Mercury: Inorganic - Urine,Inorganic mercury poisoning (disorder),http://snomed.info/id/47980004,0.6928268956112569,SNOMED
+UHG_J,Mercury: Inorganic - Urine,Inorganic mercury poisoning (disorder),http://snomed.info/id/47980004,0.6928268956112569,SNOMED
+L11_C,"C-Reactive Protein (CRP), Bone Alkaline Phosphatase (BAP) & Parathyroid Hormone (PTH)",Alkaline Phosphatase,http://purl.obolibrary.org/obo/NCIT_C16276,0.5512524040679622,NCIT
+L11PSA_C,Prostate Specific Antigen (PSA),prostate specific antigen measurement,http://www.ebi.ac.uk/efo/EFO_0004624,0.8164199029488014,EFO
+PSA_D,Prostate Specific Antigen (PSA),prostate specific antigen measurement,http://www.ebi.ac.uk/efo/EFO_0004624,0.8164199029488014,EFO
+PSA_E,Prostate Specific Antigen (PSA),prostate specific antigen measurement,http://www.ebi.ac.uk/efo/EFO_0004624,0.8164199029488014,EFO
+PSA_F,Prostate Specific Antigen (PSA),prostate specific antigen measurement,http://www.ebi.ac.uk/efo/EFO_0004624,0.8164199029488014,EFO
+L17_C,Toxoplasma (IgG) & Toxoplasma (IgM),Toxoplasma,http://purl.obolibrary.org/obo/NCIT_C75538,0.8888003559064727,NCIT
+L24EPH_C,Environmental Phenols,Environmental,http://purl.obolibrary.org/obo/NCIT_C149494,0.7601311110534622,NCIT
+EPH_E,Environmental Phenols,Environmental,http://purl.obolibrary.org/obo/NCIT_C149494,0.7601311110534622,NCIT
+EPH_F,Environmental Phenols,Environmental,http://purl.obolibrary.org/obo/NCIT_C149494,0.7601311110534622,NCIT
+L24PFC_C,Polyfluoroalkyl Chemicals,exposure to polyfluoroalkyl substance,http://purl.obolibrary.org/obo/ECTO_9002159,0.6145979551895302,ECTO
+PFC_D,Polyfluoroalkyl Chemicals,exposure to polyfluoroalkyl substance,http://purl.obolibrary.org/obo/ECTO_9002159,0.6145979551895302,ECTO
+PFC_E,Polyfluoroalkyl Chemicals,exposure to polyfluoroalkyl substance,http://purl.obolibrary.org/obo/ECTO_9002159,0.6145979551895302,ECTO
+PFC_F,Polyfluoroalkyl Chemicals,exposure to polyfluoroalkyl substance,http://purl.obolibrary.org/obo/ECTO_9002159,0.6145979551895302,ECTO
+PFC_G,Polyfluoroalkyl Chemicals,exposure to polyfluoroalkyl substance,http://purl.obolibrary.org/obo/ECTO_9002159,0.6145979551895302,ECTO
+L24PH_C,Phthalates - Urine,Phthalate,http://purl.obolibrary.org/obo/NCIT_C152072,0.837202551828328,NCIT
+PHTHTE_D,Phthalates - Urine,Phthalate,http://purl.obolibrary.org/obo/NCIT_C152072,0.837202551828328,NCIT
+PHTHTE_E,Phthalates - Urine,Phthalate,http://purl.obolibrary.org/obo/NCIT_C152072,0.837202551828328,NCIT
+PHTHTE_F,Phthalates - Urine,Phthalate,http://purl.obolibrary.org/obo/NCIT_C152072,0.837202551828328,NCIT
+L26OPD_C,Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine,Organophosphate insecticide (substance),http://snomed.info/id/119417004,0.7114511584809857,SNOMED
+OPD_D,Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine,Organophosphate insecticide (substance),http://snomed.info/id/119417004,0.7114511584809857,SNOMED
+OPD_E,Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine,Organophosphate insecticide (substance),http://snomed.info/id/119417004,0.7114511584809857,SNOMED
+L28NPB_C,Non-dioxin-like Polychlorinated Biphenyls,polychlorinated biphenyls measurement,http://www.ebi.ac.uk/efo/EFO_0007042,0.7470452252976105,EFO
+L28OCP_C,Pesticides - Organochlorine Metabolites - Serum (Surplus),exposure to organochlorine pesticide,http://purl.obolibrary.org/obo/ECTO_9001535,0.6873582646922538,ECTO
+L28PBE_C,Brominated Flame Retardants (BFRs),exposure to brominated flame retardant,http://purl.obolibrary.org/obo/ECTO_9002162,0.8463447314804069,ECTO
+L31PAH_C,Polyaromatic Hydrocarbons (PAHs) - Urine,Polyaromatic hydrocarbon (substance),http://snomed.info/id/281620006,0.7687153038485479,SNOMED
+PAH_D,Polyaromatic Hydrocarbons (PAHs) - Urine,Polyaromatic hydrocarbon (substance),http://snomed.info/id/281620006,0.7687153038485479,SNOMED
+PAH_E,Polyaromatic Hydrocarbons (PAHs) - Urine,Polyaromatic hydrocarbon (substance),http://snomed.info/id/281620006,0.7687153038485479,SNOMED
+PAH_G,Polyaromatic Hydrocarbons (PAHs) - Urine,Polyaromatic hydrocarbon (substance),http://snomed.info/id/281620006,0.7687153038485479,SNOMED
+L39EPP_C,Erythrocyte Protoporphyrin & Selenium,Free erythrocyte protoporphyrin (substance),http://snomed.info/id/102757009,0.7452151537544225,SNOMED
+L43_C,Vitamin B6,Vitamin B6,http://purl.obolibrary.org/obo/NCIT_C1334,0.9894226418268317,NCIT
+VIT_B6_D,Vitamin B6,Vitamin B6,http://purl.obolibrary.org/obo/NCIT_C1334,0.9894226418268317,NCIT
+VIT_B6_E,Vitamin B6,Vitamin B6,http://purl.obolibrary.org/obo/NCIT_C1334,0.9894226418268317,NCIT
+VIT_B6_F,Vitamin B6,Vitamin B6,http://purl.obolibrary.org/obo/NCIT_C1334,0.9894226418268317,NCIT
+L52SER_C,"Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum: 4-plex CLIA",Human Papillomavirus Antibody,http://purl.obolibrary.org/obo/NCIT_C126416,0.6514040205019866,NCIT
+SSQFEV_C,Coxiella Burnetii (Q Fever) Antibodies - Serum (Surplus),Q fever,http://www.ebi.ac.uk/efo/EFO_0005224,0.8310004873427612,EFO
+L37SWA_C,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Prototype Line Blot Assay,Human Papillomavirus DNA,http://purl.obolibrary.org/obo/NCIT_C129664,0.5041866159781099,NCIT
+L37SWR_C,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Linear Array,Human Papillomavirus DNA,http://purl.obolibrary.org/obo/NCIT_C129664,0.6287085224181048,NCIT
+HPVSWR_I,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Linear Array,Human Papillomavirus DNA,http://purl.obolibrary.org/obo/NCIT_C129664,0.6287085224181048,NCIT
+SSFA_C,Fatty Acids - Plasma (Surplus),exposure to fatty acid,http://purl.obolibrary.org/obo/ECTO_9000308,0.6422995971649217,ECTO
+SSEBV_C,Epstein-Barr Virus (VCA IgG) - Serum (Surplus),Epstein-Barr virus infection,http://www.ebi.ac.uk/efo/EFO_0000769,0.6632104444517338,EFO
+SSEBV_D,Epstein-Barr Virus (VCA IgG) - Serum (Surplus),Epstein-Barr virus infection,http://www.ebi.ac.uk/efo/EFO_0000769,0.6632104444517338,EFO
+SSEBV_E,Epstein-Barr Virus (VCA IgG) - Serum (Surplus),Epstein-Barr virus infection,http://www.ebi.ac.uk/efo/EFO_0000769,0.6632104444517338,EFO
+SSEBV_F,Epstein-Barr Virus (VCA IgG) - Serum (Surplus),Epstein-Barr virus infection,http://www.ebi.ac.uk/efo/EFO_0000769,0.6632104444517338,EFO
+SSHCVR_C,Hepatitis C RNA (HCV-RNA) & HCV Genotype (Surplus),HCV Genotype Finding,http://purl.obolibrary.org/obo/NCIT_C157506,0.6398177358351494,NCIT
+PSQ_C,Prostate Specific Antigen Follow-up,prostate specific antigen measurement,http://www.ebi.ac.uk/efo/EFO_0004624,0.7607156970351503,EFO
+PSQ_D,Prostate Specific Antigen Follow-up,prostate specific antigen measurement,http://www.ebi.ac.uk/efo/EFO_0004624,0.7607156970351503,EFO
+DXXFEM_D,Dual Energy X-ray Absorptiometry - Femur,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.6441082490809235,SNOMED
+DXXFEM_E,Dual Energy X-ray Absorptiometry - Femur,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.6441082490809235,SNOMED
+DXXFEM_F,Dual Energy X-ray Absorptiometry - Femur,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.6441082490809235,SNOMED
+OPXFDT_D,Ophthalmology - Frequency Doubling Technology,Ophthalmology,http://purl.obolibrary.org/obo/NCIT_C16939,0.6087096857696205,NCIT
+OPXFDT_E,Ophthalmology - Frequency Doubling Technology,Ophthalmology,http://purl.obolibrary.org/obo/NCIT_C16939,0.6087096857696205,NCIT
+OPXRET_D,Ophthalmology - Retinal Imaging,Ophthalmology,http://purl.obolibrary.org/obo/NCIT_C16939,0.7063446575463057,NCIT
+OPXRET_E,Ophthalmology - Retinal Imaging,Ophthalmology,http://purl.obolibrary.org/obo/NCIT_C16939,0.7063446575463057,NCIT
+DXXSPN_D,Dual Energy X-ray Absorptiometry - Spine,Dual energy X-ray photon absorptiometry scan of lumbar spine (procedure),http://snomed.info/id/428377003,0.694648874243945,SNOMED
+DXXSPN_E,Dual Energy X-ray Absorptiometry - Spine,Dual energy X-ray photon absorptiometry scan of lumbar spine (procedure),http://snomed.info/id/428377003,0.694648874243945,SNOMED
+DXXSPN_F,Dual Energy X-ray Absorptiometry - Spine,Dual energy X-ray photon absorptiometry scan of lumbar spine (procedure),http://snomed.info/id/428377003,0.694648874243945,SNOMED
+VOC_D,Volatile Organic Compounds - Water & Related Questionnaire Items,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.5672332976368942,ECTO
+VOC_E,Volatile Organic Compounds - Water & Related Questionnaire Items,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.5672332976368942,ECTO
+TCHOL_D,Cholesterol - Total,total cholesterol measurement,http://www.ebi.ac.uk/efo/EFO_0004574,0.8790624454495449,EFO
+TCHOL_E,Cholesterol - Total,total cholesterol measurement,http://www.ebi.ac.uk/efo/EFO_0004574,0.8790624454495449,EFO
+TCHOL_F,Cholesterol - Total,total cholesterol measurement,http://www.ebi.ac.uk/efo/EFO_0004574,0.8790624454495449,EFO
+TCHOL_G,Cholesterol - Total,total cholesterol measurement,http://www.ebi.ac.uk/efo/EFO_0004574,0.8790624454495449,EFO
+TCHOL_H,Cholesterol - Total,total cholesterol measurement,http://www.ebi.ac.uk/efo/EFO_0004574,0.8790624454495449,EFO
+TCHOL_I,Cholesterol - Total,total cholesterol measurement,http://www.ebi.ac.uk/efo/EFO_0004574,0.8790624454495449,EFO
+TCHOL_J,Cholesterol - Total,total cholesterol measurement,http://www.ebi.ac.uk/efo/EFO_0004574,0.8790624454495449,EFO
+HDL_D,Cholesterol - HDL,LDL Cholesterol to HDL Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C121182,0.8470110561262958,NCIT
+HDL_E,Cholesterol - HDL,LDL Cholesterol to HDL Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C121182,0.8470110561262958,NCIT
+HDL_F,Cholesterol - HDL,LDL Cholesterol to HDL Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C121182,0.8470110561262958,NCIT
+HDL_G,Cholesterol - HDL,LDL Cholesterol to HDL Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C121182,0.8470110561262958,NCIT
+HDL_H,Cholesterol - HDL,LDL Cholesterol to HDL Cholesterol Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C121182,0.8470110561262958,NCIT
+PERNT_D,"Perchlorate, Nitrate & Thiocyanate - Urine",exposure to thiocyanate,http://purl.obolibrary.org/obo/ECTO_9000532,0.650519923341792,ECTO
+PERNT_E,"Perchlorate, Nitrate & Thiocyanate - Urine",exposure to thiocyanate,http://purl.obolibrary.org/obo/ECTO_9000532,0.650519923341792,ECTO
+PERNT_F,"Perchlorate, Nitrate & Thiocyanate - Urine",exposure to thiocyanate,http://purl.obolibrary.org/obo/ECTO_9000532,0.650519923341792,ECTO
+PERNT_G,"Perchlorate, Nitrate & Thiocyanate - Urine",exposure to thiocyanate,http://purl.obolibrary.org/obo/ECTO_9000532,0.650519923341792,ECTO
+PERNT_H,"Perchlorate, Nitrate & Thiocyanate - Urine",exposure to thiocyanate,http://purl.obolibrary.org/obo/ECTO_9000532,0.650519923341792,ECTO
+PERNT_I,"Perchlorate, Nitrate & Thiocyanate - Urine",exposure to thiocyanate,http://purl.obolibrary.org/obo/ECTO_9000532,0.650519923341792,ECTO
+PERNT_J,"Perchlorate, Nitrate & Thiocyanate - Urine",exposure to thiocyanate,http://purl.obolibrary.org/obo/ECTO_9000532,0.650519923341792,ECTO
+AL_IGE_D,Allergen Specific IgE(s) & Total IgE - Serum,IgE,http://purl.obolibrary.org/obo/NCIT_C567,0.611436487757542,NCIT
+CBC_D,Complete Blood Count with 5-Part Differential - Whole Blood,Complete blood count without differential (procedure),http://snomed.info/id/43789009,0.7808719895551023,SNOMED
+CBC_I,Complete Blood Count with 5-Part Differential - Whole Blood,Complete blood count without differential (procedure),http://snomed.info/id/43789009,0.7808719895551023,SNOMED
+EPH_D,Environmental Phenols & Parabens,Environmental,http://purl.obolibrary.org/obo/NCIT_C149494,0.6216650619814936,NCIT
+EPH_G,Environmental Phenols & Parabens,Environmental,http://purl.obolibrary.org/obo/NCIT_C149494,0.6216650619814936,NCIT
+FERTIN_D,Ferritin,Ferritin,http://purl.obolibrary.org/obo/NCIT_C16577,0.9949357849315391,NCIT
+FERTIN_E,Ferritin,Ferritin,http://purl.obolibrary.org/obo/NCIT_C16577,0.9949357849315391,NCIT
+FERTIN_F,Ferritin,Ferritin,http://purl.obolibrary.org/obo/NCIT_C16577,0.9949357849315391,NCIT
+FERTIN_I,Ferritin,Ferritin,http://purl.obolibrary.org/obo/NCIT_C16577,0.9949357849315391,NCIT
+FERTIN_J,Ferritin,Ferritin,http://purl.obolibrary.org/obo/NCIT_C16577,0.9949357849315391,NCIT
+FOLATE_D,Folate - RBC & Serum,red blood cell folate measurement,http://www.ebi.ac.uk/efo/EFO_0009703,0.8550512305411724,EFO
+FOLATE_E,Folate - RBC & Serum,red blood cell folate measurement,http://www.ebi.ac.uk/efo/EFO_0009703,0.8550512305411724,EFO
+FOLATE_F,Folate - RBC & Serum,red blood cell folate measurement,http://www.ebi.ac.uk/efo/EFO_0009703,0.8550512305411724,EFO
+HEPBD_D,"Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody",Antibody to hepatitis B surface antigen (substance),http://snomed.info/id/82645009,0.8324254863068515,SNOMED
+HEPBD_E,"Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody",Antibody to hepatitis B surface antigen (substance),http://snomed.info/id/82645009,0.8324254863068515,SNOMED
+HEPBD_F,"Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody",Antibody to hepatitis B surface antigen (substance),http://snomed.info/id/82645009,0.8324254863068515,SNOMED
+HEPBD_G,"Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody",Antibody to hepatitis B surface antigen (substance),http://snomed.info/id/82645009,0.8324254863068515,SNOMED
+HEPC_D,"Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype",Hepatitis C Antibody,http://purl.obolibrary.org/obo/NCIT_C116400,0.5174247052773322,NCIT
+HEPC_E,"Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype",Hepatitis C Antibody,http://purl.obolibrary.org/obo/NCIT_C116400,0.5174247052773322,NCIT
+HEPC_F,"Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype",Hepatitis C Antibody,http://purl.obolibrary.org/obo/NCIT_C116400,0.5174247052773322,NCIT
+HEPC_G,"Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype",Hepatitis C Antibody,http://purl.obolibrary.org/obo/NCIT_C116400,0.5174247052773322,NCIT
+HCY_D,Homocysteine,Homocysteine,http://purl.obolibrary.org/obo/NCIT_C105949,0.9916768560299714,NCIT
+PTH_D,Parathyroid Hormone,Parathyroid Hormone,http://purl.obolibrary.org/obo/NCIT_C41027,0.9929681904963331,NCIT
+WPIN_D,"Perchlorate, Nitrate & Iodide - Tap Water",exposure to perchlorate,http://purl.obolibrary.org/obo/ECTO_9000931,0.5815592254391199,ECTO
+GLU_D,Plasma Fasting Glucose & Insulin,fasting blood glucose measurement,http://www.ebi.ac.uk/efo/EFO_0004465,0.8483945484076272,EFO
+GLU_E,Plasma Fasting Glucose & Insulin,fasting blood glucose measurement,http://www.ebi.ac.uk/efo/EFO_0004465,0.8483945484076272,EFO
+GLU_F,Plasma Fasting Glucose & Insulin,fasting blood glucose measurement,http://www.ebi.ac.uk/efo/EFO_0004465,0.8483945484076272,EFO
+GLU_G,Plasma Fasting Glucose & Insulin,fasting blood glucose measurement,http://www.ebi.ac.uk/efo/EFO_0004465,0.8483945484076272,EFO
+IHg_D,Mercury: Inorganic - Blood,blood mercury measurement,http://www.ebi.ac.uk/efo/EFO_0007580,0.661592200040763,EFO
+IHg_E,Mercury: Inorganic - Blood,blood mercury measurement,http://www.ebi.ac.uk/efo/EFO_0007580,0.661592200040763,EFO
+IHg_F,Mercury: Inorganic - Blood,blood mercury measurement,http://www.ebi.ac.uk/efo/EFO_0007580,0.661592200040763,EFO
+TFR_D,Transferrin Receptor,Transferrin Receptor,http://purl.obolibrary.org/obo/NCIT_C17079,0.9889113037385073,NCIT
+TFR_E,Transferrin Receptor,Transferrin Receptor,http://purl.obolibrary.org/obo/NCIT_C17079,0.9889113037385073,NCIT
+TFR_F,Transferrin Receptor,Transferrin Receptor,http://purl.obolibrary.org/obo/NCIT_C17079,0.9889113037385073,NCIT
+TFR_I,Transferrin Receptor,Transferrin Receptor,http://purl.obolibrary.org/obo/NCIT_C17079,0.9889113037385073,NCIT
+TFR_J,Transferrin Receptor,Transferrin Receptor,http://purl.obolibrary.org/obo/NCIT_C17079,0.9889113037385073,NCIT
+TRIGLY_D,"Cholesterol - LDL, Triglyceride & Apoliprotein (ApoB)",low density lipoprotein triglyceride measurement,http://www.ebi.ac.uk/efo/EFO_0009946,0.5077237920954836,EFO
+OGTT_D,Oral Glucose Tolerance Test,Glucose Tolerance Test,http://purl.obolibrary.org/obo/NCIT_C45946,0.9342092165778237,NCIT
+OGTT_E,Oral Glucose Tolerance Test,Glucose Tolerance Test,http://purl.obolibrary.org/obo/NCIT_C45946,0.9342092165778237,NCIT
+OGTT_F,Oral Glucose Tolerance Test,Glucose Tolerance Test,http://purl.obolibrary.org/obo/NCIT_C45946,0.9342092165778237,NCIT
+OGTT_G,Oral Glucose Tolerance Test,Glucose Tolerance Test,http://purl.obolibrary.org/obo/NCIT_C45946,0.9342092165778237,NCIT
+OGTT_H,Oral Glucose Tolerance Test,Glucose Tolerance Test,http://purl.obolibrary.org/obo/NCIT_C45946,0.9342092165778237,NCIT
+OGTT_I,Oral Glucose Tolerance Test,Glucose Tolerance Test,http://purl.obolibrary.org/obo/NCIT_C45946,0.9342092165778237,NCIT
+B12_D,Vitamin B12,vitamin B12 measurement,http://www.ebi.ac.uk/efo/EFO_0004620,0.8843780778629153,EFO
+VITB12_G,Vitamin B12,vitamin B12 measurement,http://www.ebi.ac.uk/efo/EFO_0004620,0.8843780778629153,EFO
+VITB12_H,Vitamin B12,vitamin B12 measurement,http://www.ebi.ac.uk/efo/EFO_0004620,0.8843780778629153,EFO
+VOCWB_D,Volatile Organic Compounds - Blood & Related Questionnaire Items,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.5828622694596858,ECTO
+VOCWB_E,Volatile Organic Compounds - Blood & Related Questionnaire Items,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.5828622694596858,ECTO
+CARB_D,Pesticides - Carbamates & Organophosphorus Metabolites - Urine,Organophosphate pesticides screen (procedure),http://snomed.info/id/117607007,0.5225873787147424,SNOMED
+CARB_E,Pesticides - Carbamates & Organophosphorus Metabolites - Urine,Organophosphate pesticides screen (procedure),http://snomed.info/id/117607007,0.5225873787147424,SNOMED
+ALDUST_D,Allergens - Household Dust,House dust allergen (substance),http://snomed.info/id/406466009,0.6978955445884449,SNOMED
+DOXPOL_D,"Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs)  - Pooled Samples",exposure to polychlorinated dibenzofuran,http://purl.obolibrary.org/obo/ECTO_9001539,0.7070636520361727,ECTO
+BFRPOL_D,Brominated Flame Retardants (BFRs) - Pooled Samples,exposure to brominated flame retardant,http://purl.obolibrary.org/obo/ECTO_9002162,0.7464422702860251,ECTO
+BFRPOL_E,Brominated Flame Retardants (BFRs) - Pooled Samples,exposure to brominated flame retardant,http://purl.obolibrary.org/obo/ECTO_9002162,0.7464422702860251,ECTO
+BFRPOL_F,Brominated Flame Retardants (BFRs) - Pooled Samples,exposure to brominated flame retardant,http://purl.obolibrary.org/obo/ECTO_9002162,0.7464422702860251,ECTO
+BFRPOL_G,Brominated Flame Retardants (BFRs) - Pooled Samples,exposure to brominated flame retardant,http://purl.obolibrary.org/obo/ECTO_9002162,0.7464422702860251,ECTO
+BFRPOL_H,Brominated Flame Retardants (BFRs) - Pooled Samples,exposure to brominated flame retardant,http://purl.obolibrary.org/obo/ECTO_9002162,0.7464422702860251,ECTO
+BFRPOL_I,Brominated Flame Retardants (BFRs) - Pooled Samples,exposure to brominated flame retardant,http://purl.obolibrary.org/obo/ECTO_9002162,0.7464422702860251,ECTO
+PCBPOL_D,Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples,polychlorinated biphenyls measurement,http://www.ebi.ac.uk/efo/EFO_0007042,0.7738753138876011,EFO
+PCBPOL_E,Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples,polychlorinated biphenyls measurement,http://www.ebi.ac.uk/efo/EFO_0007042,0.7738753138876011,EFO
+PCBPOL_F,Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples,polychlorinated biphenyls measurement,http://www.ebi.ac.uk/efo/EFO_0007042,0.7738753138876011,EFO
+PCBPOL_G,Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples,polychlorinated biphenyls measurement,http://www.ebi.ac.uk/efo/EFO_0007042,0.7738753138876011,EFO
+PCBPOL_I,Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples,polychlorinated biphenyls measurement,http://www.ebi.ac.uk/efo/EFO_0007042,0.7738753138876011,EFO
+PSTPOL_D,Pesticides - Organochlorine Pesticides - Pooled Samples,exposure to organochlorine pesticide,http://purl.obolibrary.org/obo/ECTO_9001535,0.7467744443537679,ECTO
+PSTPOL_E,Pesticides - Organochlorine Pesticides - Pooled Samples,exposure to organochlorine pesticide,http://purl.obolibrary.org/obo/ECTO_9001535,0.7467744443537679,ECTO
+PSTPOL_F,Pesticides - Organochlorine Pesticides - Pooled Samples,exposure to organochlorine pesticide,http://purl.obolibrary.org/obo/ECTO_9001535,0.7467744443537679,ECTO
+PSTPOL_G,Pesticides - Organochlorine Pesticides - Pooled Samples,exposure to organochlorine pesticide,http://purl.obolibrary.org/obo/ECTO_9001535,0.7467744443537679,ECTO
+PSTPOL_I,Pesticides - Organochlorine Pesticides - Pooled Samples,exposure to organochlorine pesticide,http://purl.obolibrary.org/obo/ECTO_9001535,0.7467744443537679,ECTO
+SSUVOC_D,Volatile Organic Compound (VOC) Metabolites - Urine (Surplus),exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.7364532989793501,ECTO
+SSSAL_D,Salmonella & Campylobacter Antibodies (Surplus),Campylobacter,http://purl.obolibrary.org/obo/NCIT_C76211,0.637386710377804,NCIT
+HPVSER_D,"Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody – Serum: 4-plex CLIA",Human Papillomavirus Antibody,http://purl.obolibrary.org/obo/NCIT_C126416,0.6514040205019866,NCIT
+HPVSER_E,"Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody – Serum: 4-plex CLIA",Human Papillomavirus Antibody,http://purl.obolibrary.org/obo/NCIT_C126416,0.6514040205019866,NCIT
+HPVSWR_D,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array,Human Papillomavirus DNA,http://purl.obolibrary.org/obo/NCIT_C129664,0.5314562110868727,NCIT
+HPVSWR_E,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array,Human Papillomavirus DNA,http://purl.obolibrary.org/obo/NCIT_C129664,0.5314562110868727,NCIT
+HPVSWR_F,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array,Human Papillomavirus DNA,http://purl.obolibrary.org/obo/NCIT_C129664,0.5314562110868727,NCIT
+HPVSWR_G,Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array,Human Papillomavirus DNA,http://purl.obolibrary.org/obo/NCIT_C129664,0.5314562110868727,NCIT
+AGQ_D,Allergy,Cat Allergy,http://purl.obolibrary.org/obo/NCIT_C172310,0.8267104277762803,NCIT
+BHQ_D,Bowel Health,intestinal cancer,http://www.ebi.ac.uk/efo/EFO_0007330,0.6924263756765764,EFO
+BHQ_E,Bowel Health,intestinal cancer,http://www.ebi.ac.uk/efo/EFO_0007330,0.6924263756765764,EFO
+BHQ_F,Bowel Health,intestinal cancer,http://www.ebi.ac.uk/efo/EFO_0007330,0.6924263756765764,EFO
+DPQ_D,Mental Health - Depression Screener,Depression screening (procedure),http://snomed.info/id/171207006,0.691599121091423,SNOMED
+DPQ_E,Mental Health - Depression Screener,Depression screening (procedure),http://snomed.info/id/171207006,0.691599121091423,SNOMED
+DPQ_F,Mental Health - Depression Screener,Depression screening (procedure),http://snomed.info/id/171207006,0.691599121091423,SNOMED
+DPQ_G,Mental Health - Depression Screener,Depression screening (procedure),http://snomed.info/id/171207006,0.691599121091423,SNOMED
+DPQ_H,Mental Health - Depression Screener,Depression screening (procedure),http://snomed.info/id/171207006,0.691599121091423,SNOMED
+DPQ_I,Mental Health - Depression Screener,Depression screening (procedure),http://snomed.info/id/171207006,0.691599121091423,SNOMED
+DPQ_J,Mental Health - Depression Screener,Depression screening (procedure),http://snomed.info/id/171207006,0.691599121091423,SNOMED
+SLQ_D,Sleep Disorders,Sleep Disorder,http://www.ebi.ac.uk/efo/EFO_0008568,0.9729289688534662,EFO
+SLQ_E,Sleep Disorders,Sleep Disorder,http://www.ebi.ac.uk/efo/EFO_0008568,0.9729289688534662,EFO
+SLQ_F,Sleep Disorders,Sleep Disorder,http://www.ebi.ac.uk/efo/EFO_0008568,0.9729289688534662,EFO
+SLQ_G,Sleep Disorders,Sleep Disorder,http://www.ebi.ac.uk/efo/EFO_0008568,0.9729289688534662,EFO
+SLQ_H,Sleep Disorders,Sleep Disorder,http://www.ebi.ac.uk/efo/EFO_0008568,0.9729289688534662,EFO
+SLQ_I,Sleep Disorders,Sleep Disorder,http://www.ebi.ac.uk/efo/EFO_0008568,0.9729289688534662,EFO
+SLQ_J,Sleep Disorders,Sleep Disorder,http://www.ebi.ac.uk/efo/EFO_0008568,0.9729289688534662,EFO
+SMQ_D,Smoking - Cigarette Use,nicotine dependence,http://www.ebi.ac.uk/efo/EFO_0003768,0.947774173174873,EFO
+SMQ_E,Smoking - Cigarette Use,nicotine dependence,http://www.ebi.ac.uk/efo/EFO_0003768,0.947774173174873,EFO
+SMQ_F,Smoking - Cigarette Use,nicotine dependence,http://www.ebi.ac.uk/efo/EFO_0003768,0.947774173174873,EFO
+SMQ_G,Smoking - Cigarette Use,nicotine dependence,http://www.ebi.ac.uk/efo/EFO_0003768,0.947774173174873,EFO
+SMQ_H,Smoking - Cigarette Use,nicotine dependence,http://www.ebi.ac.uk/efo/EFO_0003768,0.947774173174873,EFO
+SMQ_I,Smoking - Cigarette Use,nicotine dependence,http://www.ebi.ac.uk/efo/EFO_0003768,0.947774173174873,EFO
+SMQ_J,Smoking - Cigarette Use,nicotine dependence,http://www.ebi.ac.uk/efo/EFO_0003768,0.947774173174873,EFO
+SMQRTU_D,Smoking - Recent Tobacco Use,nicotine dependence,http://www.ebi.ac.uk/efo/EFO_0003768,0.8115103511015094,EFO
+SMQRTU_E,Smoking - Recent Tobacco Use,nicotine dependence,http://www.ebi.ac.uk/efo/EFO_0003768,0.8115103511015094,EFO
+SMQRTU_F,Smoking - Recent Tobacco Use,nicotine dependence,http://www.ebi.ac.uk/efo/EFO_0003768,0.8115103511015094,EFO
+SMQRTU_G,Smoking - Recent Tobacco Use,nicotine dependence,http://www.ebi.ac.uk/efo/EFO_0003768,0.8115103511015094,EFO
+SMQRTU_H,Smoking - Recent Tobacco Use,nicotine dependence,http://www.ebi.ac.uk/efo/EFO_0003768,0.8115103511015094,EFO
+SMQRTU_I,Smoking - Recent Tobacco Use,nicotine dependence,http://www.ebi.ac.uk/efo/EFO_0003768,0.8115103511015094,EFO
+SMQRTU_J,Smoking - Recent Tobacco Use,nicotine dependence,http://www.ebi.ac.uk/efo/EFO_0003768,0.8115103511015094,EFO
+WHQMEC_D,Weight History - Youth,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.8148715184550026,NCIT
+WHQMEC_E,Weight History - Youth,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.8148715184550026,NCIT
+WHQMEC_F,Weight History - Youth,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.8148715184550026,NCIT
+WHQMEC_G,Weight History - Youth,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.8148715184550026,NCIT
+WHQMEC_H,Weight History - Youth,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.8148715184550026,NCIT
+WHQMEC_I,Weight History - Youth,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.8148715184550026,NCIT
+WHQMEC_J,Weight History - Youth,Weight History,http://purl.obolibrary.org/obo/NCIT_C153307,0.8148715184550026,NCIT
+DS1IDS_E,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.7893254917151944,FOODON
+DS1IDS_F,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.7893254917151944,FOODON
+DS1IDS_G,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.7893254917151944,FOODON
+DS1IDS_H,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.7893254917151944,FOODON
+DS1IDS_I,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.7893254917151944,FOODON
+DS1IDS_J,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.7893254917151944,FOODON
+DS2IDS_E,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.792444189440636,FOODON
+DS2IDS_F,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.792444189440636,FOODON
+DS2IDS_G,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.792444189440636,FOODON
+DS2IDS_H,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.792444189440636,FOODON
+DS2IDS_I,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.792444189440636,FOODON
+DS2IDS_J,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.792444189440636,FOODON
+DSQIDS_E,Dietary Supplement Use 30 Day - Individual Dietary Supplements,dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8490336424777422,FOODON
+DSQIDS_F,Dietary Supplement Use 30 Day - Individual Dietary Supplements,dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8490336424777422,FOODON
+DSQIDS_G,Dietary Supplement Use 30 Day - Individual Dietary Supplements,dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8490336424777422,FOODON
+DSQTOT_E,Dietary Supplement Use 30-Day - Total Dietary Supplements,dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8850506139269548,FOODON
+DSQTOT_F,Dietary Supplement Use 30-Day - Total Dietary Supplements,dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8850506139269548,FOODON
+DSQTOT_G,Dietary Supplement Use 30-Day - Total Dietary Supplements,dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8850506139269548,FOODON
+DSQTOT_H,Dietary Supplement Use 30-Day - Total Dietary Supplements,dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8850506139269548,FOODON
+DSQTOT_I,Dietary Supplement Use 30-Day - Total Dietary Supplements,dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8850506139269548,FOODON
+DSQTOT_J,Dietary Supplement Use 30-Day - Total Dietary Supplements,dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8850506139269548,FOODON
+DS1TOT_E,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8180146636914203,FOODON
+DS1TOT_F,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8180146636914203,FOODON
+DS1TOT_G,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8180146636914203,FOODON
+DS1TOT_H,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8180146636914203,FOODON
+DS1TOT_I,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8180146636914203,FOODON
+DS1TOT_J,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8180146636914203,FOODON
+DS2TOT_E,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8214874572783067,FOODON
+DS2TOT_F,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8214874572783067,FOODON
+DS2TOT_G,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8214874572783067,FOODON
+DS2TOT_H,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8214874572783067,FOODON
+DS2TOT_I,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8214874572783067,FOODON
+DS2TOT_J,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day",dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8214874572783067,FOODON
+ENX_E,Exhaled Nitric Oxide,nitric oxide exhalation measurement,http://www.ebi.ac.uk/efo/EFO_0005536,0.8802048256482516,EFO
+ENX_F,Exhaled Nitric Oxide,nitric oxide exhalation measurement,http://www.ebi.ac.uk/efo/EFO_0005536,0.8802048256482516,EFO
+ENX_G,Exhaled Nitric Oxide,nitric oxide exhalation measurement,http://www.ebi.ac.uk/efo/EFO_0005536,0.8802048256482516,EFO
+SPX_E,Spirometry - Pre and Post-Bronchodilator,Bronchodilator,http://purl.obolibrary.org/obo/NCIT_C319,0.7563289128776688,NCIT
+SPX_F,Spirometry - Pre and Post-Bronchodilator,Bronchodilator,http://purl.obolibrary.org/obo/NCIT_C319,0.7563289128776688,NCIT
+SPX_G,Spirometry - Pre and Post-Bronchodilator,Bronchodilator,http://purl.obolibrary.org/obo/NCIT_C319,0.7563289128776688,NCIT
+SPXRAW_E,Spirometry - Raw Curve Data,Raw Data,http://purl.obolibrary.org/obo/NCIT_C142663,0.6310677462215974,NCIT
+SPXRAW_F,Spirometry - Raw Curve Data,Raw Data,http://purl.obolibrary.org/obo/NCIT_C142663,0.6310677462215974,NCIT
+SPXRAW_G,Spirometry - Raw Curve Data,Raw Data,http://purl.obolibrary.org/obo/NCIT_C142663,0.6310677462215974,NCIT
+THYROD_E,Thyroid Profile,thyroid neoplasm,http://www.ebi.ac.uk/efo/EFO_0003841,0.7662496448698635,EFO
+THYROD_F,Thyroid Profile,thyroid neoplasm,http://www.ebi.ac.uk/efo/EFO_0003841,0.7662496448698635,EFO
+THYROD_G,Thyroid Profile,thyroid neoplasm,http://www.ebi.ac.uk/efo/EFO_0003841,0.7662496448698635,EFO
+HIV_E,HIV Antibody Test,HIV Antibody,http://purl.obolibrary.org/obo/NCIT_C16688,0.8721942657482578,NCIT
+HIV_F,HIV Antibody Test,HIV Antibody,http://purl.obolibrary.org/obo/NCIT_C16688,0.8721942657482578,NCIT
+HIV_G,HIV Antibody Test,HIV Antibody,http://purl.obolibrary.org/obo/NCIT_C16688,0.8721942657482578,NCIT
+HIV_H,HIV Antibody Test,HIV Antibody,http://purl.obolibrary.org/obo/NCIT_C16688,0.8721942657482578,NCIT
+HIV_I,HIV Antibody Test,HIV Antibody,http://purl.obolibrary.org/obo/NCIT_C16688,0.8721942657482578,NCIT
+HIV_J,HIV Antibody Test,HIV Antibody,http://purl.obolibrary.org/obo/NCIT_C16688,0.8721942657482578,NCIT
+COTNAL_E,Cotinine - Serum & Total NNAL - Urine,Cotinine,http://purl.obolibrary.org/obo/NCIT_C70941,0.6199954533990004,NCIT
+COTNAL_F,Cotinine - Serum & Total NNAL - Urine,Cotinine,http://purl.obolibrary.org/obo/NCIT_C70941,0.6199954533990004,NCIT
+COTNAL_G,Cotinine - Serum & Total NNAL - Urine,Cotinine,http://purl.obolibrary.org/obo/NCIT_C70941,0.6199954533990004,NCIT
+ApoB_E,Apolipoprotein B,Apolipoprotein A,http://purl.obolibrary.org/obo/NCIT_C105952,0.9267500882163192,NCIT
+ApoB_F,Apolipoprotein B,Apolipoprotein A,http://purl.obolibrary.org/obo/NCIT_C105952,0.9267500882163192,NCIT
+ApoB_G,Apolipoprotein B,Apolipoprotein A,http://purl.obolibrary.org/obo/NCIT_C105952,0.9267500882163192,NCIT
+ApoB_H,Apolipoprotein B,Apolipoprotein A,http://purl.obolibrary.org/obo/NCIT_C105952,0.9267500882163192,NCIT
+APOB_I,Apolipoprotein B,Apolipoprotein A,http://purl.obolibrary.org/obo/NCIT_C105952,0.9267500882163192,NCIT
+SSUSG_E,Urine Specific Gravity Measurement (Surplus),urine specific gravity measurement,http://www.ebi.ac.uk/efo/EFO_0010135,0.8942984801008522,EFO
+FOLFMS_E,Folate Forms - Individual - Serum,Serum folate normal (finding),http://snomed.info/id/165649003,0.5853283897174175,SNOMED
+UPHOPM_E,"Pyrethroids, Herbicides, & OP Metabolites - Urine",Pyrethroid pesticides (product),http://snomed.info/id/350241005,0.5318627735893662,SNOMED
+UPHOPM_F,"Pyrethroids, Herbicides, & OP Metabolites - Urine",Pyrethroid pesticides (product),http://snomed.info/id/350241005,0.5318627735893662,SNOMED
+DOXPOL_E,"Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs) - Pooled Samples",exposure to polychlorinated dibenzofuran,http://purl.obolibrary.org/obo/ECTO_9001539,0.7070636520361727,ECTO
+DOXPOL_F,"Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs) - Pooled Samples",exposure to polychlorinated dibenzofuran,http://purl.obolibrary.org/obo/ECTO_9001539,0.7070636520361727,ECTO
+DEET_E,DEET and Metabolites,Metabolite,http://purl.obolibrary.org/obo/NCIT_C61154,0.6677852924822364,NCIT
+DEET_F,DEET and Metabolites,Metabolite,http://purl.obolibrary.org/obo/NCIT_C61154,0.6677852924822364,NCIT
+DEET_G,DEET and Metabolites,Metabolite,http://purl.obolibrary.org/obo/NCIT_C61154,0.6677852924822364,NCIT
+DEET_H,DEET and Metabolites,Metabolite,http://purl.obolibrary.org/obo/NCIT_C61154,0.6677852924822364,NCIT
+UAM_E,Atrazine and Metabolites,exposure to atrazine,http://purl.obolibrary.org/obo/ECTO_9000521,0.7906649216951135,ECTO
+VOCMWB_E,Volatile Organic Compounds - Trihalomethanes/MTBE/Nitromethane - Blood,Nitromethane,http://purl.obolibrary.org/obo/NCIT_C44412,0.6216332415617766,NCIT
+SSKL_E,Klotho - Serum (Surplus),Klotho,http://purl.obolibrary.org/obo/NCIT_C98116,0.7399405698434447,NCIT
+SSKL_F,Klotho - Serum (Surplus),Klotho,http://purl.obolibrary.org/obo/NCIT_C98116,0.7399405698434447,NCIT
+SSKL_G,Klotho - Serum (Surplus),Klotho,http://purl.obolibrary.org/obo/NCIT_C98116,0.7399405698434447,NCIT
+SSKL_H,Klotho - Serum (Surplus),Klotho,http://purl.obolibrary.org/obo/NCIT_C98116,0.7399405698434447,NCIT
+SSKL_I,Klotho - Serum (Surplus),Klotho,http://purl.obolibrary.org/obo/NCIT_C98116,0.7399405698434447,NCIT
+CBQ_E,Consumer Behavior,Behavior,http://purl.obolibrary.org/obo/NCIT_C16326,0.7049750765286334,NCIT
+CBQ_F,Consumer Behavior,Behavior,http://purl.obolibrary.org/obo/NCIT_C16326,0.7049750765286334,NCIT
+CBQ_G,Consumer Behavior,Behavior,http://purl.obolibrary.org/obo/NCIT_C16326,0.7049750765286334,NCIT
+CBQ_H,Consumer Behavior,Behavior,http://purl.obolibrary.org/obo/NCIT_C16326,0.7049750765286334,NCIT
+CBQ_I,Consumer Behavior,Behavior,http://purl.obolibrary.org/obo/NCIT_C16326,0.7049750765286334,NCIT
+CBQ_J,Consumer Behavior,Behavior,http://purl.obolibrary.org/obo/NCIT_C16326,0.7049750765286334,NCIT
+INQ_E,Income,Income,http://purl.obolibrary.org/obo/NCIT_C41150,0.9932590484946412,NCIT
+INQ_F,Income,Income,http://purl.obolibrary.org/obo/NCIT_C41150,0.9932590484946412,NCIT
+INQ_G,Income,Income,http://purl.obolibrary.org/obo/NCIT_C41150,0.9932590484946412,NCIT
+INQ_H,Income,Income,http://purl.obolibrary.org/obo/NCIT_C41150,0.9932590484946412,NCIT
+INQ_I,Income,Income,http://purl.obolibrary.org/obo/NCIT_C41150,0.9932590484946412,NCIT
+INQ_J,Income,Income,http://purl.obolibrary.org/obo/NCIT_C41150,0.9932590484946412,NCIT
+AQQ_E,Air Quality,Quality,http://purl.obolibrary.org/obo/NCIT_C25283,0.7410615631244512,NCIT
+AQQ_F,Air Quality,Quality,http://purl.obolibrary.org/obo/NCIT_C25283,0.7410615631244512,NCIT
+DTQ_F,Dietary Screener Questionnaire,Dietary Screener Questionnaire,http://purl.obolibrary.org/obo/NCIT_C188186,0.9797300487654013,NCIT
+ARX_F,Arthritis Body Measures,Arthritis,http://purl.obolibrary.org/obo/NCIT_C2883,0.7255891429306368,NCIT
+FLXCLN_F,Fluorosis - Clinical,dental fluorosis,http://www.ebi.ac.uk/efo/EFO_1000892,0.7286471725943948,EFO
+FLXCLN_G,Fluorosis - Clinical,dental fluorosis,http://www.ebi.ac.uk/efo/EFO_1000892,0.7286471725943948,EFO
+FLXCLN_H,Fluorosis - Clinical,dental fluorosis,http://www.ebi.ac.uk/efo/EFO_1000892,0.7286471725943948,EFO
+FLXCLN_I,Fluorosis - Clinical,dental fluorosis,http://www.ebi.ac.uk/efo/EFO_1000892,0.7286471725943948,EFO
+MMRV_F,"Measles, Mumps, Rubella & Varicella",Measles + mumps + rubella + varicella vaccine (product),http://snomed.info/id/419550004,0.7831930945919345,SNOMED
+TGEMA_F,Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA),Tissue Transglutaminase IgA Antibody Measurement,http://purl.obolibrary.org/obo/NCIT_C147441,0.6148929118974711,NCIT
+TGEMA_G,Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA),Tissue Transglutaminase IgA Antibody Measurement,http://purl.obolibrary.org/obo/NCIT_C147441,0.6148929118974711,NCIT
+TGEMA_H,Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA),Tissue Transglutaminase IgA Antibody Measurement,http://purl.obolibrary.org/obo/NCIT_C147441,0.6148929118974711,NCIT
+ORHPV_F,Human Papillomavirus (HPV) - Oral Rinse,Human Papillomavirus,http://purl.obolibrary.org/obo/NCIT_C14226,0.7884291538014799,NCIT
+ORHPV_G,Human Papillomavirus (HPV) - Oral Rinse,Human Papillomavirus,http://purl.obolibrary.org/obo/NCIT_C14226,0.7884291538014799,NCIT
+ORHPV_H,Human Papillomavirus (HPV) - Oral Rinse,Human Papillomavirus,http://purl.obolibrary.org/obo/NCIT_C14226,0.7884291538014799,NCIT
+ORHPV_I,Human Papillomavirus (HPV) - Oral Rinse,Human Papillomavirus,http://purl.obolibrary.org/obo/NCIT_C14226,0.7884291538014799,NCIT
+CHLMDA_F,Chlamydia - Urine,Chlamydia,http://purl.obolibrary.org/obo/NCIT_C76271,0.9120655724706094,NCIT
+CHLMDA_G,Chlamydia - Urine,Chlamydia,http://purl.obolibrary.org/obo/NCIT_C76271,0.9120655724706094,NCIT
+CHLMDA_H,Chlamydia - Urine,Chlamydia,http://purl.obolibrary.org/obo/NCIT_C76271,0.9120655724706094,NCIT
+CHLMDA_I,Chlamydia - Urine,Chlamydia,http://purl.obolibrary.org/obo/NCIT_C76271,0.9120655724706094,NCIT
+UCFLOW_F,Urine Flow Rate,Flow Rate,http://purl.obolibrary.org/obo/NCIT_C82554,0.9019296313039592,NCIT
+UCFLOW_G,Urine Flow Rate,Flow Rate,http://purl.obolibrary.org/obo/NCIT_C82554,0.9019296313039592,NCIT
+UCFLOW_H,Urine Flow Rate,Flow Rate,http://purl.obolibrary.org/obo/NCIT_C82554,0.9019296313039592,NCIT
+UCFLOW_I,Urine Flow Rate,Flow Rate,http://purl.obolibrary.org/obo/NCIT_C82554,0.9019296313039592,NCIT
+UCFLOW_J,Urine Flow Rate,Flow Rate,http://purl.obolibrary.org/obo/NCIT_C82554,0.9019296313039592,NCIT
+UCOSMO_F,Osmolality - Urine,Osmolality,http://purl.obolibrary.org/obo/NCIT_C89824,0.9272757480885835,NCIT
+UCOSMO_G,Osmolality - Urine,Osmolality,http://purl.obolibrary.org/obo/NCIT_C89824,0.9272757480885835,NCIT
+HEPE_F,Hepatitis E : IgG & IgM Antibodies,Hepatitis E Virus IgM Antibody Measurement,http://purl.obolibrary.org/obo/NCIT_C96665,0.6584166661765899,NCIT
+HEPE_G,Hepatitis E : IgG & IgM Antibodies,Hepatitis E Virus IgM Antibody Measurement,http://purl.obolibrary.org/obo/NCIT_C96665,0.6584166661765899,NCIT
+SSHPV_F,Human Papillomavirus (HPV) Viral Load - Oral Rinse - Oral High-Risk HPV Infections (Surplus),exposure to Human Papillomavirus Infection,http://purl.obolibrary.org/obo/ECTO_2000053,0.5612209501848238,ECTO
+CAFE_F,Caffeine & Caffeine Metabolites - Urine,Caffeine,http://purl.obolibrary.org/obo/NCIT_C328,0.9020246647937896,NCIT
+CAFE_G,Caffeine & Caffeine Metabolites - Urine,Caffeine,http://purl.obolibrary.org/obo/NCIT_C328,0.9020246647937896,NCIT
+CAFE_H,Caffeine & Caffeine Metabolites - Urine,Caffeine,http://purl.obolibrary.org/obo/NCIT_C328,0.9020246647937896,NCIT
+SSTOXO_F,Toxoplasma Gondii Antibody - Serum (Surplus),Toxoplasma gondii antibody (substance),http://snomed.info/id/120654009,0.8034447407337101,SNOMED
+HPVSER_F,"Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum",Human Papillomavirus Antibody,http://purl.obolibrary.org/obo/NCIT_C126416,0.7350631202175584,NCIT
+SSPOLI_F,"Poliovirus Serotypes 1, 2, & 3 Antibodies - Serum (Surplus)",Poliovirus,http://purl.obolibrary.org/obo/NCIT_C14259,0.5297922287733852,NCIT
+PAH_F,Polyaromatic Hydrocarbons -Urine,Polyaromatic hydrocarbon (substance),http://snomed.info/id/281620006,0.8426215463372134,SNOMED
+VOC_F,Volatile Organic Compounds (VOCs) - Water,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.7612410569633136,ECTO
+VOCMWB_F,Volatile Organic Compounds (VOCs) - Trihalomethanes/MTBE/Nitromethane - Blood,Nitromethane,http://purl.obolibrary.org/obo/NCIT_C44412,0.591875044937163,NCIT
+VOCMWB_G,Volatile Organic Compounds (VOCs) - Trihalomethanes/MTBE/Nitromethane - Blood,Nitromethane,http://purl.obolibrary.org/obo/NCIT_C44412,0.591875044937163,NCIT
+VOCWB_F,Volatile Organic Compounds (VOCs) - Blood,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.7828675742701624,ECTO
+VOCWB_G,Volatile Organic Compounds (VOCs) - Blood,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.7828675742701624,ECTO
+POOLTF_F,Pooled-Sample Technical Support File,Pooled Sample,http://purl.obolibrary.org/obo/NCIT_C165587,0.5886680164305412,NCIT
+POOLTF_G,Pooled-Sample Technical Support File,Pooled Sample,http://purl.obolibrary.org/obo/NCIT_C165587,0.5886680164305412,NCIT
+POOLTF_H,Pooled-Sample Technical Support File,Pooled Sample,http://purl.obolibrary.org/obo/NCIT_C165587,0.5886680164305412,NCIT
+POOLTF_I,Pooled-Sample Technical Support File,Pooled Sample,http://purl.obolibrary.org/obo/NCIT_C165587,0.5886680164305412,NCIT
+ARQ_F,Arthritis,Arthritis,http://purl.obolibrary.org/obo/NCIT_C2883,0.9968633619914743,NCIT
+ALQY_F,Alcohol Use (Ages 18-19),Alcohol agent (substance),http://snomed.info/id/419572002,0.5666673675234254,SNOMED
+MGX_G,Muscle Strength - Grip Test,Grip Strength,http://purl.obolibrary.org/obo/NCIT_C139210,0.765422271260711,NCIT
+MGX_H,Muscle Strength - Grip Test,Grip Strength,http://purl.obolibrary.org/obo/NCIT_C139210,0.765422271260711,NCIT
+DXX_G,Dual-Energy X-ray Absorptiometry - Whole Body,Dual energy X-ray photon absorptiometry scan of whole body (procedure),http://snomed.info/id/440496005,0.7658848227189676,SNOMED
+DXX_H,Dual-Energy X-ray Absorptiometry - Whole Body,Dual energy X-ray photon absorptiometry scan of whole body (procedure),http://snomed.info/id/440496005,0.7658848227189676,SNOMED
+DXX_I,Dual-Energy X-ray Absorptiometry - Whole Body,Dual energy X-ray photon absorptiometry scan of whole body (procedure),http://snomed.info/id/440496005,0.7658848227189676,SNOMED
+DXX_J,Dual-Energy X-ray Absorptiometry - Whole Body,Dual energy X-ray photon absorptiometry scan of whole body (procedure),http://snomed.info/id/440496005,0.7658848227189676,SNOMED
+PAXDAY_G,Physical Activity Monitor - Day,Activity Monitor,http://purl.obolibrary.org/obo/NCIT_C156897,0.7847678892655124,NCIT
+PAXDAY_H,Physical Activity Monitor - Day,Activity Monitor,http://purl.obolibrary.org/obo/NCIT_C156897,0.7847678892655124,NCIT
+PAXHD_G,Physical Activity Monitor - Header,Activity Monitor,http://purl.obolibrary.org/obo/NCIT_C156897,0.7107651128745596,NCIT
+PAXHD_H,Physical Activity Monitor - Header,Activity Monitor,http://purl.obolibrary.org/obo/NCIT_C156897,0.7107651128745596,NCIT
+PAXHR_G,Physical Activity Monitor - Hour,Activity Monitor,http://purl.obolibrary.org/obo/NCIT_C156897,0.7516253120702299,NCIT
+PAXHR_H,Physical Activity Monitor - Hour,Activity Monitor,http://purl.obolibrary.org/obo/NCIT_C156897,0.7516253120702299,NCIT
+PAXMIN_G,Physical Activity Monitor - Minute,Activity Monitor,http://purl.obolibrary.org/obo/NCIT_C156897,0.6879825654066347,NCIT
+PAXMIN_H,Physical Activity Monitor - Minute,Activity Monitor,http://purl.obolibrary.org/obo/NCIT_C156897,0.6879825654066347,NCIT
+PbCd_G,"Cadmium, Lead, Total Mercury, Selenium, & Manganese - Blood",Selenium,http://purl.obolibrary.org/obo/NCIT_C825,0.5155196971603553,NCIT
+IHgEM_G,"Mercury: Inorganic, Ethyl and Methyl - Blood",Methyl Ethyl Ketone,http://purl.obolibrary.org/obo/NCIT_C77477,0.6573033979299582,NCIT
+IHGEM_H,"Mercury: Inorganic, Ethyl and Methyl - Blood",Methyl Ethyl Ketone,http://purl.obolibrary.org/obo/NCIT_C77477,0.6573033979299582,NCIT
+IHGEM_I,"Mercury: Inorganic, Ethyl and Methyl - Blood",Methyl Ethyl Ketone,http://purl.obolibrary.org/obo/NCIT_C77477,0.6573033979299582,NCIT
+IHGEM_J,"Mercury: Inorganic, Ethyl and Methyl - Blood",Methyl Ethyl Ketone,http://purl.obolibrary.org/obo/NCIT_C77477,0.6573033979299582,NCIT
+TB_G,Tuberculosis - Quantiferon_In_Gold,Tuberculosis,http://purl.obolibrary.org/obo/NCIT_C3423,0.6416752975552377,NCIT
+PHTHTE_G,Phthalates & Plasticizers Metabolites - Urine,Plasticizer,http://purl.obolibrary.org/obo/NCIT_C55826,0.5712993657756713,NCIT
+CUSEZN_G,"Copper, Selenium & Zinc - Serum",Selenium,http://purl.obolibrary.org/obo/NCIT_C825,0.6378828975106687,NCIT
+CUSEZN_H,"Copper, Selenium & Zinc - Serum",Selenium,http://purl.obolibrary.org/obo/NCIT_C825,0.6378828975106687,NCIT
+CUSEZN_I,"Copper, Selenium & Zinc - Serum",Selenium,http://purl.obolibrary.org/obo/NCIT_C825,0.6378828975106687,NCIT
+FOLATE_G,Folate - RBC,red blood cell folate measurement,http://www.ebi.ac.uk/efo/EFO_0009703,0.9935140041908733,EFO
+FOLATE_H,Folate - RBC,red blood cell folate measurement,http://www.ebi.ac.uk/efo/EFO_0009703,0.9935140041908733,EFO
+FOLATE_I,Folate - RBC,red blood cell folate measurement,http://www.ebi.ac.uk/efo/EFO_0009703,0.9935140041908733,EFO
+FOLATE_J,Folate - RBC,red blood cell folate measurement,http://www.ebi.ac.uk/efo/EFO_0009703,0.9935140041908733,EFO
+MMA_G,Methylmalonic Acid,Methylmalonic acid measurement,http://www.ebi.ac.uk/efo/EFO_0021651,0.8944292824701086,EFO
+MMA_H,Methylmalonic Acid,Methylmalonic acid measurement,http://www.ebi.ac.uk/efo/EFO_0021651,0.8944292824701086,EFO
+CMV_G,Cytomegalovirus IgG & IgM Antibodies - Serum,Cytomegalovirus IgM Antibody Measurement,http://purl.obolibrary.org/obo/NCIT_C96597,0.7565869734972173,NCIT
+CMV_J,Cytomegalovirus IgG & IgM Antibodies - Serum,Cytomegalovirus IgM Antibody Measurement,http://purl.obolibrary.org/obo/NCIT_C96597,0.7565869734972173,NCIT
+UHMS_G,Metals - Urine - Special Sample,Special,http://purl.obolibrary.org/obo/NCIT_C25684,0.599399254151021,NCIT
+UMS_H,Metals - Urine - Special Sample,Special,http://purl.obolibrary.org/obo/NCIT_C25684,0.599399254151021,NCIT
+UMS_I,Metals - Urine - Special Sample,Special,http://purl.obolibrary.org/obo/NCIT_C25684,0.599399254151021,NCIT
+UASS_G,Arsenics - Total & Speciated - Urine - Special Sample,Special,http://purl.obolibrary.org/obo/NCIT_C25684,0.6842053222827938,NCIT
+TST_G,Total Testosterone,Testosterone,http://purl.obolibrary.org/obo/NCIT_C2299,0.8933943480695272,NCIT
+PERNTS_G,"Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample",exposure to thiocyanate,http://purl.obolibrary.org/obo/ECTO_9000532,0.587266592959945,ECTO
+PERNTS_H,"Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample",exposure to thiocyanate,http://purl.obolibrary.org/obo/ECTO_9000532,0.587266592959945,ECTO
+PERNTS_I,"Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample",exposure to thiocyanate,http://purl.obolibrary.org/obo/ECTO_9000532,0.587266592959945,ECTO
+UVOC_G,Volatile Organic Compound (VOC) Metabolites - Urine,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.7781652541951004,ECTO
+UVOC_H,Volatile Organic Compound (VOC) Metabolites - Urine,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.7781652541951004,ECTO
+UVOC_I,Volatile Organic Compound (VOC) Metabolites - Urine,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.7781652541951004,ECTO
+UVOC_J,Volatile Organic Compound (VOC) Metabolites - Urine,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.7781652541951004,ECTO
+UVOCS_G,Volatile Organic Compound (VOC) Metabolites - Urine - Special Sample,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.6984355957918896,ECTO
+UVOCS_H,Volatile Organic Compound (VOC) Metabolites - Urine - Special Sample,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.6984355957918896,ECTO
+UVOCS_I,Volatile Organic Compound (VOC) Metabolites - Urine - Special Sample,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.6984355957918896,ECTO
+PAHS_G,Polyaromatic Hydrocarbons (PAHs)- Urine - Special Sample,Polyaromatic hydrocarbon (substance),http://snomed.info/id/281620006,0.682169612438107,SNOMED
+SSTOXO_G,Toxoplasma gondii Antibody - Serum (Surplus),Toxoplasma gondii antibody (substance),http://snomed.info/id/120654009,0.8034447407337101,SNOMED
+SSTOXO_H,Toxoplasma gondii Antibody - Serum (Surplus),Toxoplasma gondii antibody (substance),http://snomed.info/id/120654009,0.8034447407337101,SNOMED
+SSTOCA_G,Antibody to Toxocara spp. (Surplus),Toxocara antibody (substance),http://snomed.info/id/259868005,0.6753351751645104,SNOMED
+SSTOCA_H,Antibody to Toxocara spp. (Surplus),Toxocara antibody (substance),http://snomed.info/id/259868005,0.6753351751645104,SNOMED
+FOLFMS_G,Folate Forms - Total & Individual - Serum,Serum folate normal (finding),http://snomed.info/id/165649003,0.5597046728026429,SNOMED
+FOLFMS_H,Folate Forms - Total & Individual - Serum,Serum folate normal (finding),http://snomed.info/id/165649003,0.5597046728026429,SNOMED
+FOLFMS_I,Folate Forms - Total & Individual - Serum,Serum folate normal (finding),http://snomed.info/id/165649003,0.5597046728026429,SNOMED
+FOLFMS_J,Folate Forms - Total & Individual - Serum,Serum folate normal (finding),http://snomed.info/id/165649003,0.5597046728026429,SNOMED
+FAS_G,Fatty Acids - Serum,Fatty Acid,http://purl.obolibrary.org/obo/NCIT_C492,0.7763590017849513,NCIT
+SSANA2_G,Autoantibodies - Immunofluorescence Analyses (Surplus),Indirect Immunofluorescence,http://purl.obolibrary.org/obo/NCIT_C176332,0.5896132798279073,NCIT
+SSFR_G,Flame Retardants - Urine  (Surplus),exposure to flame retardant,http://purl.obolibrary.org/obo/ECTO_9002131,0.7746720409958329,ECTO
+UPHOPM_G,"Pyrethroids, Herbicides, & Organophosphorus Metabolites - Urine",Organophosphate herbicide (substance),http://snomed.info/id/425830001,0.5386513405872149,SNOMED
+UPHOPM_H,"Pyrethroids, Herbicides, & Organophosphorus Metabolites - Urine",Organophosphate herbicide (substance),http://snomed.info/id/425830001,0.5386513405872149,SNOMED
+OPD_G,Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine,Organophosphate insecticide (substance),http://snomed.info/id/119417004,0.7152688213285713,SNOMED
+OPD_I,Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine,Organophosphate insecticide (substance),http://snomed.info/id/119417004,0.7152688213285713,SNOMED
+OPD_J,Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine,Organophosphate insecticide (substance),http://snomed.info/id/119417004,0.7152688213285713,SNOMED
+SSDFS_G,Autoantibodies - Anti-DFS70 Autoantibody Analyses (Surplus),Autoantibody,http://purl.obolibrary.org/obo/NCIT_C48966,0.7627019261316225,NCIT
+RXQASA_G,Preventive Aspirin Use,Preventive,http://purl.obolibrary.org/obo/NCIT_C28005,0.7095437943332008,NCIT
+RXQASA_H,Preventive Aspirin Use,Preventive,http://purl.obolibrary.org/obo/NCIT_C28005,0.7095437943332008,NCIT
+RXQASA_I,Preventive Aspirin Use,Preventive,http://purl.obolibrary.org/obo/NCIT_C28005,0.7095437943332008,NCIT
+RXQASA_J,Preventive Aspirin Use,Preventive,http://purl.obolibrary.org/obo/NCIT_C28005,0.7095437943332008,NCIT
+CKQ_G,Creatine Kinase,Creatine Kinase,http://purl.obolibrary.org/obo/NCIT_C113245,0.9932376924920981,NCIT
+CKQ_H,Creatine Kinase,Creatine Kinase,http://purl.obolibrary.org/obo/NCIT_C113245,0.9932376924920981,NCIT
+CSQ_G,Taste & Smell,Alterations in Smell or Taste,http://purl.obolibrary.org/obo/NCIT_C5038,0.6733199244535891,NCIT
+CSX_H,Taste & Smell,Alterations in Smell or Taste,http://purl.obolibrary.org/obo/NCIT_C5038,0.6733199244535891,NCIT
+CSQ_H,Taste & Smell,Alterations in Smell or Taste,http://purl.obolibrary.org/obo/NCIT_C5038,0.6733199244535891,NCIT
+DEMO_H,Demographic Variables and Sample Weights,Demographics Table,http://purl.obolibrary.org/obo/NCIT_C168897,0.5773145285870463,NCIT
+DEMO_I,Demographic Variables and Sample Weights,Demographics Table,http://purl.obolibrary.org/obo/NCIT_C168897,0.5773145285870463,NCIT
+DEMO_J,Demographic Variables and Sample Weights,Demographics Table,http://purl.obolibrary.org/obo/NCIT_C168897,0.5773145285870463,NCIT
+DSQIDS_H,Dietary Supplement Use 30-Day - Individual Dietary Supplements,dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8490336424777422,FOODON
+DSQIDS_I,Dietary Supplement Use 30-Day - Individual Dietary Supplements,dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8490336424777422,FOODON
+DSQIDS_J,Dietary Supplement Use 30-Day - Individual Dietary Supplements,dietary supplement,http://purl.obolibrary.org/obo/FOODON_03401298,0.8490336424777422,FOODON
+DXXSPN_H,Dual-Energy X-ray Absorptiometry - Spine,Dual energy X-ray photon absorptiometry scan of lumbar spine (procedure),http://snomed.info/id/428377003,0.694648874243945,SNOMED
+DXXSPN_J,Dual-Energy X-ray Absorptiometry - Spine,Dual energy X-ray photon absorptiometry scan of lumbar spine (procedure),http://snomed.info/id/428377003,0.694648874243945,SNOMED
+DXXFEM_H,Dual-Energy X-ray Absorptiometry - Femur,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.6441082490809235,SNOMED
+DXXFEM_J,Dual-Energy X-ray Absorptiometry - Femur,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.6441082490809235,SNOMED
+DXXVFA_H,Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment,spinal fracture,http://www.ebi.ac.uk/efo/EFO_0003902,0.6152379756725386,EFO
+DXXFRX_H,Dual-Energy X-ray Absorptiometry - FRAX Score,Forearm dual energy X-ray photon absorptiometry scan Z score (finding),http://snomed.info/id/391057001,0.6175538593905717,SNOMED
+DXXAAC_H,Dual-Energy X-ray Absorptiometry - Abdominal Aortic Calcification,abdominal aortic calcification measurement,http://www.ebi.ac.uk/efo/EFO_0010272,0.752272414643894,EFO
+DXXT4_H,Dual-Energy X-ray Absorptiometry - T4 Vertebrae Morphology,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.5450008886317285,SNOMED
+DXXT5_H,Dual-Energy X-ray Absorptiometry - T5 Vertebrae Morphology,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.5401671430014868,SNOMED
+DXXT6_H,Dual-Energy X-ray Absorptiometry - T6 Vertebrae Morphology,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.5401671430014868,SNOMED
+DXXT7_H,Dual-Energy X-ray Absorptiometry - T7 Vertebrae Morphology,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.5401671430014868,SNOMED
+DXXT8_H,Dual-Energy X-ray Absorptiometry - T8 Vertebrae Morphology,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.5401671430014868,SNOMED
+DXXT9_H,Dual-Energy X-ray Absorptiometry - T9 Vertebrae Morphology,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.5401671430014868,SNOMED
+DXXT10_H,Dual-Energy X-ray Absorptiometry - T10 Vertebrae Morphology,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.5293046953554924,SNOMED
+DXXT11_H,Dual-Energy X-ray Absorptiometry - T11 Vertebrae Morphology,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.5336283134624871,SNOMED
+DXXT12_H,Dual-Energy X-ray Absorptiometry - T12 Vertebrae Morphology,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.5332457537426218,SNOMED
+DXXL1_H,Dual-Energy X-ray Absorptiometry - L1 Vertebrae Morphology,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.5401671430014868,SNOMED
+DXXL2_H,Dual-Energy X-ray Absorptiometry - L2 Vertebrae Morphology,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.5401671430014868,SNOMED
+DXXL3_H,Dual-Energy X-ray Absorptiometry - L3 Vertebrae Morphology,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.5401671430014868,SNOMED
+DXXL4_H,Dual-Energy X-ray Absorptiometry - L4 Vertebrae Morphology,Dual energy X-ray photon absorptiometry (procedure),http://snomed.info/id/241686001,0.5401671430014868,SNOMED
+HEPA_H,Hepatitis A,hepatitis A virus infection,http://www.ebi.ac.uk/efo/EFO_0007305,0.9883626225128963,EFO
+HEPA_I,Hepatitis A,hepatitis A virus infection,http://www.ebi.ac.uk/efo/EFO_0007305,0.9883626225128963,EFO
+HEPA_J,Hepatitis A,hepatitis A virus infection,http://www.ebi.ac.uk/efo/EFO_0007305,0.9883626225128963,EFO
+HEPB_S_H,Hepatitis B: Surface Antibody,Hepatitis B Virus Surface Antibody,http://purl.obolibrary.org/obo/NCIT_C62796,0.8993223444301243,NCIT
+HEPB_S_I,Hepatitis B: Surface Antibody,Hepatitis B Virus Surface Antibody,http://purl.obolibrary.org/obo/NCIT_C62796,0.8993223444301243,NCIT
+HEPB_S_J,Hepatitis B: Surface Antibody,Hepatitis B Virus Surface Antibody,http://purl.obolibrary.org/obo/NCIT_C62796,0.8993223444301243,NCIT
+HEPBD_H,"Hepatitis B: core antibody, surface antigen, and Hepatitis D antibody",Antibody to hepatitis B surface antigen (substance),http://snomed.info/id/82645009,0.8324254863068515,SNOMED
+PFAS_H,Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC),exposure to polyfluoroalkyl substance,http://purl.obolibrary.org/obo/ECTO_9002159,0.765811285587575,ECTO
+TST_H,Sex Steroid Hormone - Serum,Sex Steroid Hormone,http://purl.obolibrary.org/obo/NCIT_C123796,0.9158977205320942,NCIT
+TST_I,Sex Steroid Hormone - Serum,Sex Steroid Hormone,http://purl.obolibrary.org/obo/NCIT_C123796,0.9158977205320942,NCIT
+GLU_H,Plasma Fasting Glucose,fasting blood glucose measurement,http://www.ebi.ac.uk/efo/EFO_0004465,0.9796365501228761,EFO
+GLU_I,Plasma Fasting Glucose,fasting blood glucose measurement,http://www.ebi.ac.uk/efo/EFO_0004465,0.9796365501228761,EFO
+GLU_J,Plasma Fasting Glucose,fasting blood glucose measurement,http://www.ebi.ac.uk/efo/EFO_0004465,0.9796365501228761,EFO
+FLDEP_H,Fluoride - Plasma,exposure to fluoride,http://purl.obolibrary.org/obo/ECTO_9000423,0.7256169772981014,ECTO
+FLDEP_I,Fluoride - Plasma,exposure to fluoride,http://purl.obolibrary.org/obo/ECTO_9000423,0.7256169772981014,ECTO
+FLDEW_H,Fluoride - Water,exposure to fluoride,http://purl.obolibrary.org/obo/ECTO_9000423,0.764711757114971,ECTO
+FLDEW_I,Fluoride - Water,exposure to fluoride,http://purl.obolibrary.org/obo/ECTO_9000423,0.764711757114971,ECTO
+HEPC_H,Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype,hepatitis C virus infection,http://www.ebi.ac.uk/efo/EFO_0003047,0.6742960118483996,EFO
+HEPC_I,Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype,hepatitis C virus infection,http://www.ebi.ac.uk/efo/EFO_0003047,0.6742960118483996,EFO
+HEPE_H,Hepatitis E: IgG & IgM Antibodies,Hepatitis E Virus IgM Antibody Measurement,http://purl.obolibrary.org/obo/NCIT_C96665,0.6584166661765899,NCIT
+HEPE_I,Hepatitis E: IgG & IgM Antibodies,Hepatitis E Virus IgM Antibody Measurement,http://purl.obolibrary.org/obo/NCIT_C96665,0.6584166661765899,NCIT
+HEPE_J,Hepatitis E: IgG & IgM Antibodies,Hepatitis E Virus IgM Antibody Measurement,http://purl.obolibrary.org/obo/NCIT_C96665,0.6584166661765899,NCIT
+PBCD_H,"Lead, Cadmium, Total Mercury, Selenium, and Manganese - Blood",Selenium,http://purl.obolibrary.org/obo/NCIT_C825,0.5155196971603553,NCIT
+TRICH_H,Trichomonas - Urine,Trichomonas,http://purl.obolibrary.org/obo/NCIT_C89825,0.9361399932558206,NCIT
+TRICH_I,Trichomonas - Urine,Trichomonas,http://purl.obolibrary.org/obo/NCIT_C89825,0.9361399932558206,NCIT
+UASS_H,Arsenics - Speciated - Urine - Special Sample,Special,http://purl.obolibrary.org/obo/NCIT_C25684,0.6956658050734834,NCIT
+UTAS_H,Arsenic - Total - Urine,Arsenic,http://purl.obolibrary.org/obo/NCIT_C28131,0.7811551710927045,NCIT
+UTAS_I,Arsenic - Total - Urine,Arsenic,http://purl.obolibrary.org/obo/NCIT_C28131,0.7811551710927045,NCIT
+UTAS_J,Arsenic - Total - Urine,Arsenic,http://purl.obolibrary.org/obo/NCIT_C28131,0.7811551710927045,NCIT
+UAS_H,Arsenics - Speciated - Urine,Arsenic,http://purl.obolibrary.org/obo/NCIT_C28131,0.5717982441722861,NCIT
+UAS_J,Arsenics - Speciated - Urine,Arsenic,http://purl.obolibrary.org/obo/NCIT_C28131,0.5717982441722861,NCIT
+UTASS_H,Arsenic - Total - Urine - Special Sample,Arsenic,http://purl.obolibrary.org/obo/NCIT_C28131,0.5784246372560785,NCIT
+UTASS_I,Arsenic - Total - Urine - Special Sample,Arsenic,http://purl.obolibrary.org/obo/NCIT_C28131,0.5784246372560785,NCIT
+INS_H,Insulin,Insulin,http://purl.obolibrary.org/obo/NCIT_C2271,0.9835795040522946,NCIT
+INS_I,Insulin,Insulin,http://purl.obolibrary.org/obo/NCIT_C2271,0.9835795040522946,NCIT
+INS_J,Insulin,Insulin,http://purl.obolibrary.org/obo/NCIT_C2271,0.9835795040522946,NCIT
+HPVP_H,Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array,Human Papillomavirus DNA,http://purl.obolibrary.org/obo/NCIT_C129664,0.56750411174277,NCIT
+HPVSWR_H,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array,Human Papillomavirus DNA,http://purl.obolibrary.org/obo/NCIT_C129664,0.5212914497857233,NCIT
+SSPFAS_H,Perfluoroalkyl and Polyfluoroalkyl Substances - Linear and Branched PFOS and PFOA Isomers (Surplus),exposure to perfluoroalkyl substance,http://purl.obolibrary.org/obo/ECTO_9002160,0.6355637383348749,ECTO
+EPHPP_H,Personal Care and Consumer Product Chemicals and Metabolites,Personal Care Product,http://purl.obolibrary.org/obo/NCIT_C126889,0.6866635662228391,NCIT
+EPHPP_I,Personal Care and Consumer Product Chemicals and Metabolites,Personal Care Product,http://purl.obolibrary.org/obo/NCIT_C126889,0.6866635662228391,NCIT
+COT_H,Cotinine and Hydroxycotinine - Serum,Cotinine,http://purl.obolibrary.org/obo/NCIT_C70941,0.7850162089304001,NCIT
+COT_I,Cotinine and Hydroxycotinine - Serum,Cotinine,http://purl.obolibrary.org/obo/NCIT_C70941,0.7850162089304001,NCIT
+COT_J,Cotinine and Hydroxycotinine - Serum,Cotinine,http://purl.obolibrary.org/obo/NCIT_C70941,0.7850162089304001,NCIT
+PHTHTE_H,Phthalates and Plasticizers Metabolites - Urine,Plasticizer,http://purl.obolibrary.org/obo/NCIT_C55826,0.5712993657756713,NCIT
+PHTHTE_I,Phthalates and Plasticizers Metabolites - Urine,Plasticizer,http://purl.obolibrary.org/obo/NCIT_C55826,0.5712993657756713,NCIT
+PHTHTE_J,Phthalates and Plasticizers Metabolites - Urine,Plasticizer,http://purl.obolibrary.org/obo/NCIT_C55826,0.5712993657756713,NCIT
+VOCWB_H,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.5948981397603748,ECTO
+VOCWB_I,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.5948981397603748,ECTO
+VOCWB_J,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.5948981397603748,ECTO
+PAH_H,Polycyclic Aromatic Hydrocarbons (PAH) - Urine,Polycyclic Aromatic Hydrocarbons,http://purl.obolibrary.org/obo/NCIT_C761,0.9123999915285851,NCIT
+PAH_I,Polycyclic Aromatic Hydrocarbons (PAH) - Urine,Polycyclic Aromatic Hydrocarbons,http://purl.obolibrary.org/obo/NCIT_C761,0.9123999915285851,NCIT
+SSPHTE_H,Phthalates and Plasticizers Metabolites - Urine (Surplus),Plasticizer,http://purl.obolibrary.org/obo/NCIT_C55826,0.5384775599439686,NCIT
+VOCWBS_H,Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.554925514335148,ECTO
+PAHS_H,Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample,Polycyclic Aromatic Hydrocarbons,http://purl.obolibrary.org/obo/NCIT_C761,0.8253124192247839,NCIT
+PAHS_I,Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample,Polycyclic Aromatic Hydrocarbons,http://purl.obolibrary.org/obo/NCIT_C761,0.8253124192247839,NCIT
+SSFLRT_H,Flame Retardant Metabolites - Urine (Surplus),exposure to flame retardant,http://purl.obolibrary.org/obo/ECTO_9002131,0.7211884181501136,ECTO
+SSPFAC_H,Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age,exposure to perfluoroalkyl substance,http://purl.obolibrary.org/obo/ECTO_9002160,0.6788451372417303,ECTO
+HCAA_H,Heterocyclic Aromatic Amines - Urine,Heterocyclic Amines,http://purl.obolibrary.org/obo/NCIT_C1926,0.8424481596863833,NCIT
+HCAAS_H,Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample,Heterocyclic Amines,http://purl.obolibrary.org/obo/NCIT_C1926,0.6657057048305758,NCIT
+SSHEPC_H,Hepatitis C: Confirmed Antibody (INNO-LIA),Hepatitis C Antibody,http://purl.obolibrary.org/obo/NCIT_C116400,0.7154848031084349,NCIT
+PCBPOL_H,Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples,polychlorinated biphenyls measurement,http://www.ebi.ac.uk/efo/EFO_0007042,0.7664863212915304,EFO
+PSTPOL_H,Pesticides - Organochlorine Pesticides - Serum - Pooled Samples,exposure to organochlorine pesticide,http://purl.obolibrary.org/obo/ECTO_9001535,0.7240690342924175,ECTO
+ALD_H,Aldehydes - Serum,Aldehyde,http://purl.obolibrary.org/obo/NCIT_C94714,0.8324170228191622,NCIT
+ALDS_H,Aldehydes - Serum - Special Sample,Aldehyde,http://purl.obolibrary.org/obo/NCIT_C94714,0.6650536643405689,NCIT
+VNA_H,Volatile N-Nitrosamine Compounds (VNAs) - Urine,Nitrosamine,http://purl.obolibrary.org/obo/NCIT_C698,0.5539073204307458,NCIT
+VNAS_H,Volatile N-Nitrosamine Compounds (VNAs) - Urine - Special Sample,Nitrosamine,http://purl.obolibrary.org/obo/NCIT_C698,0.5343739614593912,NCIT
+SSPFSU_H,Perfluoroalkyl and Polyfluoroalkyl Substances,exposure to perfluoroalkyl substance,http://purl.obolibrary.org/obo/ECTO_9002160,0.8338704204280325,ECTO
+PFAS_J,Perfluoroalkyl and Polyfluoroalkyl Substances,exposure to perfluoroalkyl substance,http://purl.obolibrary.org/obo/ECTO_9002160,0.8338704204280325,ECTO
+UCOTS_H,"Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine - Special Sample",Cotinine,http://purl.obolibrary.org/obo/NCIT_C70941,0.7187002795757269,NCIT
+UCOTS_I,"Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine - Special Sample",Cotinine,http://purl.obolibrary.org/obo/NCIT_C70941,0.7187002795757269,NCIT
+UCOT_H,"Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine",Cotinine,http://purl.obolibrary.org/obo/NCIT_C70941,0.7583352998497287,NCIT
+UCOT_I,"Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine",Cotinine,http://purl.obolibrary.org/obo/NCIT_C70941,0.7583352998497287,NCIT
+UCOT_J,"Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine",Cotinine,http://purl.obolibrary.org/obo/NCIT_C70941,0.7583352998497287,NCIT
+TSNA_H,Tobacco-specific Nitrosamines (TSNAs) - Urine,Nitrosamine,http://purl.obolibrary.org/obo/NCIT_C698,0.5171947160611546,NCIT
+ETHOX_H,Ethylene Oxide,Ethylene Oxide,http://purl.obolibrary.org/obo/NCIT_C29821,0.9957019864160904,NCIT
+ETHOX_I,Ethylene Oxide,Ethylene Oxide,http://purl.obolibrary.org/obo/NCIT_C29821,0.9957019864160904,NCIT
+AMDGDS_H,Acrylamide & Glycidamide - Special Sample,Acrylamide,http://purl.obolibrary.org/obo/NCIT_C44329,0.6908460169783582,NCIT
+ETHOXS_H,Ethylene Oxide - Special Sample,Ethylene Oxide,http://purl.obolibrary.org/obo/NCIT_C29821,0.7980958326949492,NCIT
+AA_H,Aromatic Amines - Urine,Aromatic Amines,http://purl.obolibrary.org/obo/NCIT_C1815,0.9298275299642439,NCIT
+AAS_H,Aromatic Amines - Urine - Special Sample,Aromatic Amines,http://purl.obolibrary.org/obo/NCIT_C1815,0.7301181152721296,NCIT
+FORMAS_H,Formaldehyde - Special Sample,exposure to formaldehyde,http://purl.obolibrary.org/obo/ECTO_0000439,0.7991378058416784,ECTO
+FORMAL_H,Formaldehyde,exposure to formaldehyde,http://purl.obolibrary.org/obo/ECTO_0000439,0.9825784978700969,ECTO
+FORMAL_I,Formaldehyde,exposure to formaldehyde,http://purl.obolibrary.org/obo/ECTO_0000439,0.9825784978700969,ECTO
+SSCT_H,Chlamydia Pgp3 (plasmid gene product 3) ELISA (enzyme linked immunosorbent assay) and multiplex bead array (MBA) results,Chlamydia antigen by enzyme-linked immunosorbent assay (procedure),http://snomed.info/id/310862001,0.5503691841037912,SNOMED
+SSCT_I,Chlamydia Pgp3 (plasmid gene product 3) ELISA (enzyme linked immunosorbent assay) and multiplex bead array (MBA) results,Chlamydia antigen by enzyme-linked immunosorbent assay (procedure),http://snomed.info/id/310862001,0.5503691841037912,SNOMED
+SSSNFL_H,Serum Neurofilament Light Chain - Serum,neurofilament light chain measurement,http://www.ebi.ac.uk/efo/EFO_0009178,0.7645382935496717,EFO
+SSGLYP_H,Glyphosate (GLYP) - Urine,Glyphosate,http://purl.obolibrary.org/obo/NCIT_C163664,0.8867295772990371,NCIT
+DLQ_H,Disability,Disability,http://purl.obolibrary.org/obo/NCIT_C21007,0.9871598313035603,NCIT
+DLQ_I,Disability,Disability,http://purl.obolibrary.org/obo/NCIT_C21007,0.9871598313035603,NCIT
+DLQ_J,Disability,Disability,http://purl.obolibrary.org/obo/NCIT_C21007,0.9871598313035603,NCIT
+HEQ_H,Hepatitis,Hepatitis,http://purl.obolibrary.org/obo/NCIT_C3095,0.99375279905493,NCIT
+HEQ_I,Hepatitis,Hepatitis,http://purl.obolibrary.org/obo/NCIT_C3095,0.99375279905493,NCIT
+HEQ_J,Hepatitis,Hepatitis,http://purl.obolibrary.org/obo/NCIT_C3095,0.99375279905493,NCIT
+SMQSHS_H,Smoking - Secondhand Smoke Exposure,Secondhand Smoke Exposure Answer,http://purl.obolibrary.org/obo/NCIT_C178395,0.8239143287929356,NCIT
+SMQSHS_I,Smoking - Secondhand Smoke Exposure,Secondhand Smoke Exposure Answer,http://purl.obolibrary.org/obo/NCIT_C178395,0.8239143287929356,NCIT
+SMQSHS_J,Smoking - Secondhand Smoke Exposure,Secondhand Smoke Exposure Answer,http://purl.obolibrary.org/obo/NCIT_C178395,0.8239143287929356,NCIT
+HEPBD_I,"Hepatitis B: Core antibody, Surface antigen, and Hepatitis D antibody",Antibody to hepatitis B surface antigen (substance),http://snomed.info/id/82645009,0.8324254863068515,SNOMED
+HEPBD_J,"Hepatitis B: Core antibody, Surface antigen, and Hepatitis D antibody",Antibody to hepatitis B surface antigen (substance),http://snomed.info/id/82645009,0.8324254863068515,SNOMED
+HDL_I,Cholesterol - High-Density Lipoprotein (HDL),high density lipoprotein cholesterol measurement,http://www.ebi.ac.uk/efo/EFO_0004612,0.8835146990531256,EFO
+HSCRP_I,High-Sensitivity C-Reactive Protein (hs-CRP),High Sensitivity C-Reactive Protein Measurement,http://purl.obolibrary.org/obo/NCIT_C157114,0.6987591586073334,NCIT
+CRCO_I,Chromium & Cobalt,Nickel cobalt chromium (substance),http://snomed.info/id/261249004,0.7413847962219626,SNOMED
+CRCO_J,Chromium & Cobalt,Nickel cobalt chromium (substance),http://snomed.info/id/261249004,0.7413847962219626,SNOMED
+UASS_I,Speciated Arsenics - Urine - Special Sample,Special,http://purl.obolibrary.org/obo/NCIT_C25684,0.6956658050734834,NCIT
+PBCD_I,"Lead, Cadmium, Total Mercury, Selenium & Manganese - Blood",Selenium,http://purl.obolibrary.org/obo/NCIT_C825,0.5155196971603553,NCIT
+SSMHHT_I,"Mono-2-ethyl-5-hydroxyhexyl terephthalate, mono-2-ethyl-5-carboxypentyl terephthalate, and monooxoisononyl phthalate - Urine (Su",Diethyl Phthalate,http://purl.obolibrary.org/obo/NCIT_C76749,0.5609987393568101,NCIT
+UAS_I,Speciated Arsenics - Urine,Arsenic,http://purl.obolibrary.org/obo/NCIT_C28131,0.5717982441722861,NCIT
+VOCWBS_I,Volatile Organic Compounds and Trihalomethanes/MTBE – Blood – Special Sample,exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.5537053883507971,ECTO
+PFAS_I,Perfluoroalkyl and Polyfluoroalkyl,Perfluoroalkylpolyether (substance),http://snomed.info/id/410854008,0.6774221584305259,SNOMED
+TRIGLY_I,Cholesterol - Low - Density Lipoprotein (LDL) & Triglycerides,low density lipoprotein triglyceride measurement,http://www.ebi.ac.uk/efo/EFO_0009946,0.7946141805995497,EFO
+UADM_I,Aromatic Diamines - Urine,Aromatic Amines,http://purl.obolibrary.org/obo/NCIT_C1815,0.7605466997935445,NCIT
+HPVSWC_I,Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas High-Risk,Human Papillomavirus DNA,http://purl.obolibrary.org/obo/NCIT_C129664,0.5817649029940768,NCIT
+SSNEON_I,Neonicotinoids - Urine - Surplus,exposure to neonicotinoid insectide,http://purl.obolibrary.org/obo/ECTO_9001676,0.64432090236617,ECTO
+SSDEET_I,DEET Metabolites - Urine - Surplus,Metabolite,http://purl.obolibrary.org/obo/NCIT_C61154,0.5509386297083643,NCIT
+DEET_I,DEET Metabolite - Urine,Metabolite,http://purl.obolibrary.org/obo/NCIT_C61154,0.6810283693721417,NCIT
+HPVP_I,Human Papillomavirus (HPV) DNA - Penile Swabs: Roche Linear Array,Human Papillomavirus DNA,http://purl.obolibrary.org/obo/NCIT_C129664,0.6222221581806047,NCIT
+SSPT_I,Pertussis and tetanus – Serum (Surplus),whooping cough,http://www.ebi.ac.uk/efo/EFO_0000650,0.6285641182895558,EFO
+SSFR_I,Flame Retardants - Urine (Surplus),exposure to flame retardant,http://purl.obolibrary.org/obo/ECTO_9002131,0.7746720409958329,ECTO
+UFLDE_I,Fluoride - Urine,exposure to fluoride,http://purl.obolibrary.org/obo/ECTO_9000423,0.8775163661481113,ECTO
+SSGLYP_I,Glyphosate (GLYP) - Urine (Surplus),exposure to glyphosate,http://purl.obolibrary.org/obo/ECTO_9002138,0.8324071843737316,ECTO
+VTQ_I,Volatile Toxicant,Toxic,http://purl.obolibrary.org/obo/NCIT_C28004,0.5631018594945024,NCIT
+VTQ_J,Volatile Toxicant,Toxic,http://purl.obolibrary.org/obo/NCIT_C28004,0.5631018594945024,NCIT
+LUX_J,Liver Ultrasound Transient Elastography,Ultrasound elastography of liver (procedure),http://snomed.info/id/441491005,0.8454157913585794,SNOMED
+BPXO_J,Blood Pressure - Oscillometric Measurements,Oscillometric Blood Pressure Monitor,http://purl.obolibrary.org/obo/NCIT_C69319,0.7679870493933624,NCIT
+UCPREG_J,Urine Pregnancy Test,Pregnancy Test,http://purl.obolibrary.org/obo/NCIT_C92949,0.928500242110254,NCIT
+CBC_J,Complete Blood Count with 5-Part Differential,Complete blood count without differential (procedure),http://snomed.info/id/43789009,0.8110308694283759,SNOMED
+HSCRP_J,High-Sensitivity C-Reactive Protein,High Sensitivity C-Reactive Protein Measurement,http://purl.obolibrary.org/obo/NCIT_C157114,0.7867655109103799,NCIT
+HDL_J,Cholesterol - High - Density Lipoprotein (HDL),high density lipoprotein cholesterol measurement,http://www.ebi.ac.uk/efo/EFO_0004612,0.8835146990531256,EFO
+FETIB_J,Iron Status - Serum,Status,http://purl.obolibrary.org/obo/NCIT_C25688,0.6553496294641845,NCIT
+PBCD_J,"Lead, Cadmium, Total Mercury, Selenium, & Manganese - Blood",Selenium,http://purl.obolibrary.org/obo/NCIT_C825,0.5155196971603553,NCIT
+TRIGLY_J,Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides,low density lipoprotein triglyceride measurement,http://www.ebi.ac.uk/efo/EFO_0009946,0.7739565317922367,EFO
+UCM_J,Chromium - Urine,Chromium,http://purl.obolibrary.org/obo/NCIT_C370,0.8938172512642287,NCIT
+UNI_J,Nickel - Urine,Nickel,http://purl.obolibrary.org/obo/NCIT_C690,0.9169148952058009,NCIT
+SSPFAS_J,Perfluoroalkyl and Polyfluoroalkyl Substances (Surplus),exposure to perfluoroalkyl substance,http://purl.obolibrary.org/obo/ECTO_9002160,0.8205692250512021,ECTO
+FR_J,Flame Retardants - Urine,exposure to flame retardant,http://purl.obolibrary.org/obo/ECTO_9002131,0.86033938010156,ECTO
+SSUVOC_J,Volatile Organic Compound (VOC) Metabolites II - Urine (Surplus),exposure to volatile organic compound,http://purl.obolibrary.org/obo/ECTO_9001621,0.6955209318844848,ECTO
+PAQY_J,Physical Activity - Youth,Physical Activity,http://purl.obolibrary.org/obo/NCIT_C17708,0.8016952183012056,NCIT
