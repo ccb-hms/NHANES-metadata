@@ -2,7 +2,7 @@ from pathlib import Path
 import pandas as pd
 import text2term
 
-__version__ = "0.3.0"
+__version__ = "0.3.1"
 
 MAX_MAPPINGS = 1
 MIN_SCORE = 0.5
@@ -49,11 +49,12 @@ def map_to_ontologies(ontologies_table, terms_to_map, term_identifiers):
 
 
 def map_data_with_composite_ids(source_file, labels_column, variable_id_column, table_id_column):
+    sep = ":::"
     combined_id_column = "Variable ID"
     df = pd.read_csv(source_file)
-    df = insert_composite_ids(df, variable_id_column, table_id_column, combined_id_column)
+    df[combined_id_column] = df[variable_id_column].astype(str) + sep + df[table_id_column]
     mappings_df = map_data(df, labels_column, combined_id_column)
-    expanded_df = expand_composite_ids(mappings_df, variable_id_column, table_id_column, "Source Term Id")
+    expanded_df = expand_composite_ids(mappings_df, variable_id_column, table_id_column, "Source Term Id", sep=sep)
     return expanded_df
 
 
@@ -70,11 +71,6 @@ def get_terms_and_ids(nhanes_table, label_col, label_id_col):
     terms = nhanes_table[label_col].tolist()
     term_ids = nhanes_table[label_id_col].tolist()
     return terms, term_ids
-
-
-def insert_composite_ids(df, id_1_col, id_2_col, composite_id_col, sep=":::"):
-    df[composite_id_col] = df[id_1_col].astype(str) + sep + df[id_2_col]
-    return df
 
 
 def expand_composite_ids(df, id_1_col, id_2_col, mappings_df_id_col, sep=":::"):
