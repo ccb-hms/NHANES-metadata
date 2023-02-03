@@ -2,7 +2,7 @@ from pathlib import Path
 import pandas as pd
 import text2term
 
-__version__ = "0.2.0"
+__version__ = "0.3.0"
 
 MAX_MAPPINGS = 1
 MIN_SCORE = 0.5
@@ -10,28 +10,28 @@ MAPPINGS_OUTPUT_FOLDER = "ontology-mappings/"
 TARGET_ONTOLOGIES = "resources/ontologies.csv"
 
 
-# Map the values in the specified columns of the source file to the target ontology
-def map_to_ontology(target_ontology, source_file, source_file_columns, base_iris=()):
+# Map the given terms to the target ontology
+def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=()):
     if not text2term.cache_exists(target_ontology):
         raise FileNotFoundError("Could not find cache file for ontology: " + target_ontology)
 
-    mappings_df = text2term.map_file(
-            input_file=source_file,
-            target_ontology=target_ontology,
-            csv_columns=source_file_columns,
-            max_mappings=MAX_MAPPINGS,
-            min_score=MIN_SCORE,
-            base_iris=base_iris,
-            excl_deprecated=True,
-            save_mappings=False,
-            use_cache=True
+    mappings_df = text2term.map_terms(
+        source_terms=terms_to_map,
+        target_ontology=target_ontology,
+        source_terms_ids=term_identifiers,
+        max_mappings=MAX_MAPPINGS,
+        min_score=MIN_SCORE,
+        base_iris=base_iris,
+        excl_deprecated=True,
+        save_mappings=False,
+        use_cache=True
     )
     mappings_df["Ontology"] = target_ontology
     return mappings_df
 
 
-# Map the values in the specified columns of the source file to all ontologies listed in the ontologies table
-def map_to_ontologies(ontologies_table, source_file, source_file_columns, save_mappings, output_file_label=""):
+# Map the given terms to all ontologies listed in the ontologies table
+def map_to_ontologies(ontologies_table, terms_to_map, term_identifiers):
     ontologies_table = pd.read_csv(ontologies_table)
     all_mappings = pd.DataFrame()
     for index, row in ontologies_table.iterrows():
@@ -39,65 +39,50 @@ def map_to_ontologies(ontologies_table, source_file, source_file_columns, save_m
         limit_to_base_iris = row['iris']
         if not pd.isna(limit_to_base_iris):
             ontology_mappings = map_to_ontology(target_ontology=ontology_name, base_iris=(limit_to_base_iris,),
-                                                source_file=source_file, source_file_columns=source_file_columns)
+                                                terms_to_map=terms_to_map, term_identifiers=term_identifiers)
         else:
             ontology_mappings = map_to_ontology(target_ontology=ontology_name,
-                                                source_file=source_file, source_file_columns=source_file_columns)
+                                                terms_to_map=terms_to_map, term_identifiers=term_identifiers)
         all_mappings = pd.concat([all_mappings, ontology_mappings])
     all_mappings = all_mappings.drop_duplicates()
-    best_mappings = get_best_mappings(all_mappings, source_file, source_file_columns)
-    if save_mappings:
-        if output_file_label == "":
-            output_file_label = Path(source_file).stem
-        save_mappings_as_csv(all_mappings, output_file_label, "all")
-        save_mappings_as_csv(best_mappings, output_file_label, "best")
-    return all_mappings, best_mappings
+    return all_mappings
 
 
-def map_nhanes_tables(save_mappings, output_file_label=""):
-    return map_to_ontologies(source_file="https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/metadata/nhanes_tables.csv",
-                             source_file_columns=("Table Name", "Table"),
-                             ontologies_table=TARGET_ONTOLOGIES,
-                             output_file_label=output_file_label,
-                             save_mappings=save_mappings)
+def map_data_with_composite_ids(source_file, labels_column, variable_id_column, table_id_column):
+    combined_id_column = "Variable ID"
+    df = pd.read_csv(source_file)
+    df = insert_composite_ids(df, variable_id_column, table_id_column, combined_id_column)
+    mappings_df = map_data(df, labels_column, combined_id_column)
+    expanded_df = expand_composite_ids(mappings_df, variable_id_column, table_id_column, "Source Term Id")
+    return expanded_df
 
 
-def map_nhanes_variables(save_mappings, output_file_label=""):
-    return map_to_ontologies(source_file="https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/metadata/nhanes_variables.csv",
-                             source_file_columns=("SAS Label", "Variable"),
-                             ontologies_table=TARGET_ONTOLOGIES,
-                             output_file_label=output_file_label,
-                             save_mappings=save_mappings)
+def map_data(source_df, labels_column, label_ids_column):
+    terms, term_ids = get_terms_and_ids(source_df, labels_column, label_ids_column)
+    mappings_df = map_to_ontologies(
+        terms_to_map=terms,
+        term_identifiers=term_ids,
+        ontologies_table=TARGET_ONTOLOGIES)
+    return mappings_df
 
 
-def map_preprocessed_nhanes_variables(save_mappings, output_file_label=""):
-    return map_to_ontologies(source_file="https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/preprocessing/nhanes_variables_processed.csv",
-                             source_file_columns=("Processed Text", "Variable"),
-                             ontologies_table=TARGET_ONTOLOGIES,
-                             output_file_label=output_file_label,
-                             save_mappings=save_mappings)
+def get_terms_and_ids(nhanes_table, label_col, label_id_col):
+    terms = nhanes_table[label_col].tolist()
+    term_ids = nhanes_table[label_id_col].tolist()
+    return terms, term_ids
 
 
-def map_nhanes_metadata(save_mappings, create_ontology_cache):
-    if create_ontology_cache:
-        text2term.cache_ontology_set(ontology_registry_path=TARGET_ONTOLOGIES)
-    map_nhanes_tables(save_mappings=save_mappings)
-    map_nhanes_variables(save_mappings=save_mappings)
-    map_preprocessed_nhanes_variables(save_mappings=save_mappings)
+def insert_composite_ids(df, id_1_col, id_2_col, composite_id_col, sep=":::"):
+    df[composite_id_col] = df[id_1_col].astype(str) + sep + df[id_2_col]
+    return df
 
 
-# Get a dataframe containing the top-ranked mapping for each input variable
-def get_best_mappings(mappings_df, source_file, source_file_columns):
-    nhanes_table = pd.read_csv(source_file)
-    source_file_label_column = source_file_columns[0]
-    best_mappings = pd.DataFrame()
-    for index, row in nhanes_table.iterrows():
-        variable_label = row[source_file_label_column]
-        mappings = mappings_df[mappings_df['Source Term'] == variable_label]
-        best_mapping = mappings[mappings['Mapping Score'] == mappings['Mapping Score'].max()]
-        best_mappings = pd.concat([best_mappings, best_mapping])
-    best_mappings = best_mappings.drop_duplicates()
-    return best_mappings
+def expand_composite_ids(df, id_1_col, id_2_col, mappings_df_id_col, sep=":::"):
+    df[[id_1_col, id_2_col]] = df[mappings_df_id_col].str.split(sep, expand=True)
+    df = df.drop(columns=[mappings_df_id_col])
+    cols_to_move = [id_1_col, id_2_col]
+    df = df[cols_to_move + [col for col in df.columns if col not in cols_to_move]]
+    return df
 
 
 def save_mappings_as_csv(mappings_df, output_file_label, output_file_suffix):
@@ -106,5 +91,37 @@ def save_mappings_as_csv(mappings_df, output_file_label, output_file_suffix):
     mappings_df.to_csv(output_file_name, index=False)
 
 
+def map_nhanes_tables():
+    source_file = "https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/metadata/nhanes_tables.csv"
+    mappings = map_data(source_df=pd.read_csv(source_file), labels_column="Table Name", label_ids_column="Table")
+    save_mappings_as_csv(mappings, "nhanes_tables", "all")
+
+
+def map_nhanes_variables():
+    source_file = "https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/metadata/nhanes_variables.csv"
+    mappings = map_data_with_composite_ids(source_file=source_file,
+                                           labels_column="SAS Label",
+                                           variable_id_column="Variable",
+                                           table_id_column="Table")
+    save_mappings_as_csv(mappings, "nhanes_variables", "all")
+
+
+def map_preprocessed_nhanes_variables():
+    source_file = "https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/preprocessing/nhanes_variables_processed.csv"
+    mappings = map_data_with_composite_ids(source_file=source_file,
+                                           labels_column="Processed Text",
+                                           variable_id_column="Variable",
+                                           table_id_column="Table")
+    save_mappings_as_csv(mappings, "nhanes_variables_processed", "all")
+
+
+def map_nhanes_metadata(create_ontology_cache):
+    if create_ontology_cache:
+        text2term.cache_ontology_set(ontology_registry_path=TARGET_ONTOLOGIES)
+    map_nhanes_tables()
+    map_nhanes_variables()
+    map_preprocessed_nhanes_variables()
+
+
 if __name__ == "__main__":
-    map_nhanes_metadata(save_mappings=True, create_ontology_cache=False)
+    map_nhanes_metadata(create_ontology_cache=False)
