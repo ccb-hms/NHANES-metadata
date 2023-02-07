@@ -2,10 +2,10 @@ from pathlib import Path
 import pandas as pd
 import text2term
 
-__version__ = "0.3.1"
+__version__ = "0.3.2"
 
-MAX_MAPPINGS = 1
-MIN_SCORE = 0.5
+MAX_MAPPINGS_PER_ONTOLOGY = 1
+MIN_MAPPING_SCORE = 0.4
 MAPPINGS_OUTPUT_FOLDER = "ontology-mappings/"
 TARGET_ONTOLOGIES = "resources/ontologies.csv"
 
@@ -19,8 +19,8 @@ def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=(
         source_terms=terms_to_map,
         target_ontology=target_ontology,
         source_terms_ids=term_identifiers,
-        max_mappings=MAX_MAPPINGS,
-        min_score=MIN_SCORE,
+        max_mappings=MAX_MAPPINGS_PER_ONTOLOGY,
+        min_score=MIN_MAPPING_SCORE,
         base_iris=base_iris,
         excl_deprecated=True,
         save_mappings=False,
@@ -81,16 +81,25 @@ def expand_composite_ids(df, id_1_col, id_2_col, mappings_df_id_col, sep=":::"):
     return df
 
 
-def save_mappings_as_csv(mappings_df, output_file_label, output_file_suffix):
+def save_mappings_as_csv(mappings_df, output_file_label, output_file_suffix=""):
     Path(MAPPINGS_OUTPUT_FOLDER).mkdir(exist_ok=True, parents=True)
-    output_file_name = MAPPINGS_OUTPUT_FOLDER + output_file_label + "_mappings_" + output_file_suffix + ".csv"
-    mappings_df.to_csv(output_file_name, index=False)
+    output_file_name = MAPPINGS_OUTPUT_FOLDER + output_file_label + "_mappings"
+    if output_file_suffix != "":
+        output_file_name += "_" + output_file_suffix
+    mappings_df.to_csv(output_file_name + ".csv", index=False)
+
+
+def save_mappings_subsets(df, table_list):
+    for table in table_list:
+        df = df[df["Table"] == table]
+        save_mappings_as_csv(df, output_file_label=table)
 
 
 def map_nhanes_tables():
     source_file = "https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/metadata/nhanes_tables.csv"
     mappings = map_data(source_df=pd.read_csv(source_file), labels_column="Table Name", label_ids_column="Table")
-    save_mappings_as_csv(mappings, "nhanes_tables", "all")
+    save_mappings_as_csv(mappings, output_file_label="nhanes_tables", output_file_suffix="all")
+    return mappings
 
 
 def map_nhanes_variables():
@@ -99,7 +108,8 @@ def map_nhanes_variables():
                                            labels_column="SAS Label",
                                            variable_id_column="Variable",
                                            table_id_column="Table")
-    save_mappings_as_csv(mappings, "nhanes_variables", "all")
+    save_mappings_as_csv(mappings, output_file_label="nhanes_variables", output_file_suffix="all")
+    return mappings
 
 
 def map_preprocessed_nhanes_variables():
@@ -109,15 +119,18 @@ def map_preprocessed_nhanes_variables():
                                            variable_id_column="Variable",
                                            table_id_column="Table")
     save_mappings_as_csv(mappings, "nhanes_variables_processed", "all")
+    return mappings
 
 
 def map_nhanes_metadata(create_ontology_cache):
     if create_ontology_cache:
         text2term.cache_ontology_set(ontology_registry_path=TARGET_ONTOLOGIES)
-    map_nhanes_tables()
+    table_mappings = map_nhanes_tables()
     map_nhanes_variables()
-    map_preprocessed_nhanes_variables()
+    variable_mappings = map_preprocessed_nhanes_variables()
+    return table_mappings, variable_mappings
 
 
 if __name__ == "__main__":
-    map_nhanes_metadata(create_ontology_cache=False)
+    table_mappings, variable_mappings = map_nhanes_metadata(create_ontology_cache=False)
+    save_mappings_subsets(variable_mappings, ["OHXREF_C", "OHXPRU_C", "OHXPRL_C", "OHXDEN_C"])
