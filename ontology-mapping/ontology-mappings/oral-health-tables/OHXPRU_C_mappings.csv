@@ -1,0 +1,341 @@
+Variable,Table,Source Term,Mapped Term Label,Mapped Term IRI,Mapping Score,Ontology
+OHASCST4,OHXPRU_C,Periodontal Status Code,periodontal measurement,http://www.ebi.ac.uk/efo/EFO_0007780,0.6563740671477135,EFO
+OHD02CJD,OHXPRU_C,LOA: distal #2 FGM/CEJ,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5962828255930162,EFO
+OHD02CJM,OHXPRU_C,LOA: mid-facial #2 FGM/CEJ,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.4345753521879429,EFO
+OHD02LAD,OHXPRU_C,LOA: distal #2 calculated LA,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5198104176857434,EFO
+OHD02PCD,OHXPRU_C,LOA: distal #2 PD,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.65625544546529,EFO
+OHD02PCM,OHXPRU_C,LOA: mid-facial #2 PD,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.46860524432479395,EFO
+OHD03CJD,OHXPRU_C,LOA: distal #3 FGM/CEJ,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.588888807120842,EFO
+OHD03CJM,OHXPRU_C,LOA:mid-facial #3 FGM/CEJ,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.4302351624248243,EFO
+OHD03LAD,OHXPRU_C,LOA: distal #3 calculated LA,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5148900798008145,EFO
+OHD03PCD,OHXPRU_C,LOA: distal #3 PD,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6464369070887241,EFO
+OHD03PCM,OHXPRU_C,LOA: mid-facial #3 PD,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.46317672808804733,EFO
+OHD04CJD,OHXPRU_C,LOA: distal #4 FGM/CEJ,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5889379488251775,EFO
+OHD04CJM,OHXPRU_C,LOA: mid-facial #4 FGM/CEJ,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.43026411282767113,EFO
+OHD04LAD,OHXPRU_C,LOA: distal #4 calculated LA,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5149229256946535,EFO
+OHD04PCD,OHXPRU_C,LOA: distal #4 PD,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6465019110601231,EFO
+OHD04PCM,OHXPRU_C,LOA: mid-facial #4 PD,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.4632128511093867,EFO
+OHD05CJD,OHXPRU_C,LOA: distal #5 FGM/CEJ,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5895062893306519,EFO
+OHD05CJM,OHXPRU_C,LOA: mid-facial #5 FGM/CEJ,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.4305988321069925,EFO
+OHD05LAD,OHXPRU_C,LOA: distal #5 calculated LA,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5153026588990144,EFO
+OHD05PCD,OHXPRU_C,LOA: distal #5 PD,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6472539466487728,EFO
+OHD05PCM,OHXPRU_C,LOA: mid-facial #5 PD,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.46363058313570144,EFO
+OHD06CJD,OHXPRU_C,LOA: distal #6 FGM/CEJ,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5832077333035606,EFO
+OHD06CJM,OHXPRU_C,LOA: mid-facial #6 FGM/CEJ,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.4268788661272045,EFO
+OHD06LAD,OHXPRU_C,LOA: distal #6 calculated LA,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5110798375646549,EFO
+OHD06PCD,OHXPRU_C,LOA: distal #6 PD,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6389444008492919,EFO
+OHD06PCM,OHXPRU_C,LOA: mid-facial #6 PD,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.4589967135937684,EFO
+OHD07CJD,OHXPRU_C,LOA: distal #7 FGM/CEJ,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5774115139419974,EFO
+OHD07CJM,OHXPRU_C,LOA: mid-facial #7 FGM/CEJ,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.4234352227719137,EFO
+OHD07LAD,OHXPRU_C,LOA: distal #7 calculated LA,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5071656483423314,EFO
+OHD07PCD,OHXPRU_C,LOA: distal #7 PD,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6313450901497689,EFO
+OHD07PCM,OHXPRU_C,LOA: mid-facial #7 PD,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.4547238843276783,EFO
+OHD08CJD,OHXPRU_C,LOA: distal #8 FGM/CEJ,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5752581972177322,EFO
+OHD08CJM,OHXPRU_C,LOA: mid-facial #8 FGM/CEJ,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.4221509271663271,EFO
+OHD08LAD,OHXPRU_C,LOA: distal #8 calculated LA,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5057046289703202,EFO
+OHD08PCD,OHXPRU_C,LOA: distal #8 PD,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6285333324789196,EFO
+OHD08PCM,OHXPRU_C,LOA: mid-facial #8 PD,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.45313444118535695,EFO
+OHD09CJD,OHXPRU_C,LOA: distal #9 FGM/CEJ,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5765176288156506,EFO
+OHD09CJM,OHXPRU_C,LOA: mid-facial #9 FGM/CEJ,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.42290241255929406,EFO
+OHD09LAD,OHXPRU_C,LOA: distal #9 calculated LA,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5065596027593462,EFO
+OHD09PCD,OHXPRU_C,LOA: distal #9 PD,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6301771279862399,EFO
+OHD09PCM,OHXPRU_C,LOA: mid-facial #9 PD,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.45406421034928307,EFO
+OHD10CJD,OHXPRU_C,LOA: distal #10 FGM/CEJ,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5581809656258738,EFO
+OHD10CJM,OHXPRU_C,LOA: mid-facial #10 FGM/CEJ,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.411870371743828,EFO
+OHD10LAD,OHXPRU_C,LOA: distal #10 calculated LA,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.49398546018593525,EFO
+OHD10PCD,OHXPRU_C,LOA: distal #10 PD,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6064470631079241,EFO
+OHD10PCM,OHXPRU_C,LOA: mid-facial #10 PD,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.44048975733724105,EFO
+OHD11CJD,OHXPRU_C,LOA: distal #11 FGM/CEJ,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5532706624700127,EFO
+OHD11CJM,OHXPRU_C,LOA: mid-facial #11 FGM/CEJ,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.40888308214336133,EFO
+OHD11LAD,OHXPRU_C,LOA: distal #11 calculated LA,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.4905722218395907,EFO
+OHD11PCD,OHXPRU_C,LOA: distal #11 PD,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6001645626557007,EFO
+OHD11PCM,OHXPRU_C,LOA: mid-facial #11 PD,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.43684115983419736,EFO
+OHD12CJD,OHXPRU_C,LOA: distal #12 FGM/CEJ,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5699312546215746,EFO
+OHD12CJM,OHXPRU_C,LOA: mid-facial #12 FGM/CEJ,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.41896223413615924,EFO
+OHD12LAD,OHXPRU_C,LOA: distal #12 calculated LA,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5020742722003809,EFO
+OHD12PCD,OHXPRU_C,LOA: distal #12 PD,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6216036880114092,EFO
+OHD12PCM,OHXPRU_C,LOA: mid-facial #12 PD,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.4491976302604596,EFO
+OHD13CJD,OHXPRU_C,LOA: distal #13 FGM/CEJ,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5517633377166224,EFO
+OHD13CJM,OHXPRU_C,LOA: mid-facial #13 FGM/CEJ,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.4079632710065666,EFO
+OHD13LAD,OHXPRU_C,LOA: distal #13 calculated LA,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.4895205455617657,EFO
+OHD13PCD,OHXPRU_C,LOA: distal #13 PD,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5982419501139011,EFO
+OHD13PCM,OHXPRU_C,LOA: mid-facial #13 PD,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.43572000692004154,EFO
+OHD14CJD,OHXPRU_C,LOA: distal #14 FGM/CEJ,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5530864008994198,EFO
+OHD14CJM,OHXPRU_C,LOA: mid-facial #14 FGM/CEJ,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.4087707111236506,EFO
+OHD14LAD,OHXPRU_C,LOA: distal #14 calculated LA,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.4904437591277353,EFO
+OHD14PCD,OHXPRU_C,LOA: distal #14 PD,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5999293858116185,EFO
+OHD14PCM,OHXPRU_C,LOA: mid-facial #14 PD,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.4367041340695075,EFO
+OHD15CJD,OHXPRU_C,LOA: distal #15 FGM/CEJ,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5482531375927124,EFO
+OHD15CJM,OHXPRU_C,LOA: mid-facial #15 FGM/CEJ,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.40581616073690274,EFO
+OHD15LAD,OHXPRU_C,LOA: distal #15 calculated LA,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.4870643234796477,EFO
+OHD15PCD,OHXPRU_C,LOA: distal #15 PD,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.5937753341380952,EFO
+OHD15PCM,OHXPRU_C,LOA: mid-facial #15 PD,facial pain,http://www.ebi.ac.uk/efo/EFO_0009625,0.4331070489565479,EFO
+OHX02BPD,OHXPRU_C,BOP: distal #2,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6701867185325401,EFO
+OHX02BPM,OHXPRU_C,BOP: midfacial #2,lethal midline granuloma,http://www.ebi.ac.uk/efo/EFO_1001013,0.5733931727570772,EFO
+OHX03BPD,OHXPRU_C,BOP: distal #3,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6597395244684996,EFO
+OHX03BPM,OHXPRU_C,BOP: midfacial #3,lethal midline granuloma,http://www.ebi.ac.uk/efo/EFO_1001013,0.5678920391047444,EFO
+OHX04BPD,OHXPRU_C,BOP: distal #4,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6598086250484988,EFO
+OHX04BPM,OHXPRU_C,BOP: midfacial #4,lethal midline granuloma,http://www.ebi.ac.uk/efo/EFO_1001013,0.5679287550425925,EFO
+OHX05BPD,OHXPRU_C,BOP: distal #5,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6606081176484315,EFO
+OHX05BPM,OHXPRU_C,BOP: midfacial #5,lethal midline granuloma,http://www.ebi.ac.uk/efo/EFO_1001013,0.568353236928179,EFO
+OHX06BPD,OHXPRU_C,BOP: distal #6,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6517806145402505,EFO
+OHX06BPM,OHXPRU_C,BOP: midfacial #6,lethal midline granuloma,http://www.ebi.ac.uk/efo/EFO_1001013,0.5636334996390823,EFO
+OHX07BPD,OHXPRU_C,BOP: distal #7,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6437198495017806,EFO
+OHX07BPM,OHXPRU_C,BOP: midfacial #7,lethal midline granuloma,http://www.ebi.ac.uk/efo/EFO_1001013,0.5592601013735262,EFO
+OHX08BPD,OHXPRU_C,BOP: distal #8,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6407402800635648,EFO
+OHX08BPM,OHXPRU_C,BOP: midfacial #8,lethal midline granuloma,http://www.ebi.ac.uk/efo/EFO_1001013,0.5576280167605651,EFO
+OHX09BPD,OHXPRU_C,BOP: distal #9,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6424819899232402,EFO
+OHX09BPM,OHXPRU_C,BOP: midfacial #9,lethal midline granuloma,http://www.ebi.ac.uk/efo/EFO_1001013,0.5585830738270617,EFO
+OHX10BPD,OHXPRU_C,BOP: distal #10,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6173897186375266,EFO
+OHX10BPM,OHXPRU_C,BOP: midfacial #10,lethal midline granuloma,http://www.ebi.ac.uk/efo/EFO_1001013,0.5445433059324702,EFO
+OHX11BPD,OHXPRU_C,BOP: distal #11,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6107646984098887,EFO
+OHX11BPM,OHXPRU_C,BOP: midfacial #11,lethal midline granuloma,http://www.ebi.ac.uk/efo/EFO_1001013,0.5407345347658786,EFO
+OHX12BPD,OHXPRU_C,BOP: distal #12,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6334037356418639,EFO
+OHX12BPM,OHXPRU_C,BOP: midfacial #12,lethal midline granuloma,http://www.ebi.ac.uk/efo/EFO_1001013,0.5535733908692427,EFO
+OHX13BPD,OHXPRU_C,BOP: distal #13,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6087387507245816,EFO
+OHX13BPM,OHXPRU_C,BOP: midfacial #13,lethal midline granuloma,http://www.ebi.ac.uk/efo/EFO_1001013,0.5395611844954877,EFO
+OHX14BPD,OHXPRU_C,BOP: distal #14,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6105168442575176,EFO
+OHX14BPM,OHXPRU_C,BOP: midfacial #14,lethal midline granuloma,http://www.ebi.ac.uk/efo/EFO_1001013,0.5405912045769662,EFO
+OHX15BPD,OHXPRU_C,BOP: distal #15,distal,http://www.ebi.ac.uk/efo/EFO_0001655,0.6040347307068369,EFO
+OHX15BPM,OHXPRU_C,BOP: midfacial #15,lethal midline granuloma,http://www.ebi.ac.uk/efo/EFO_1001013,0.536821147556823,EFO
+OHAEXSTS,OHXPRU_C,Overall Oral Health Exam Status,Health Status,http://purl.obolibrary.org/obo/NCIT_C16669,0.6625863366435323,NCIT
+OHASCST4,OHXPRU_C,Periodontal Status Code,Periodontal Route of Administration,http://purl.obolibrary.org/obo/NCIT_C38294,0.7573982641649104,NCIT
+OHD02CJD,OHXPRU_C,LOA: distal #2 FGM/CEJ,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.610338940713454,NCIT
+OHD02CJM,OHXPRU_C,LOA: mid-facial #2 FGM/CEJ,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5765684912307639,NCIT
+OHD02CJS,OHXPRU_C,LOA: mesial #2 FGM/CEJ,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6330877165464108,NCIT
+OHD02LAD,OHXPRU_C,LOA: distal #2 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6293356050419395,NCIT
+OHD02LAM,OHXPRU_C,LOA: mid-facial #2 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5776208301960635,NCIT
+OHD02LAS,OHXPRU_C,LOA: mesial #2 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6195204287582157,NCIT
+OHD02PCD,OHXPRU_C,LOA: distal #2 PD,Distal Resection Margin,http://purl.obolibrary.org/obo/NCIT_C138061,0.6717252891266436,NCIT
+OHD02PCM,OHXPRU_C,LOA: mid-facial #2 PD,Face,http://purl.obolibrary.org/obo/NCIT_C13071,0.621717309421457,NCIT
+OHD02PCS,OHXPRU_C,LOA: mesial #2 PD,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6938124678211284,NCIT
+OHD03CJD,OHXPRU_C,LOA: distal #3 FGM/CEJ,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6027706237869445,NCIT
+OHD03CJM,OHXPRU_C,LOA:mid-facial #3 FGM/CEJ,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5708101879796069,NCIT
+OHD03CJS,OHXPRU_C,LOA: mesial #3 FGM/CEJ,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6255482898335898,NCIT
+OHD03LAD,OHXPRU_C,LOA: distal #3 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6233785412462413,NCIT
+OHD03LAM,OHXPRU_C,LOA: mid-facial #3 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5730046376582117,NCIT
+OHD03LAS,OHXPRU_C,LOA: mesial #3 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6138352709078763,NCIT
+OHD03PCD,OHXPRU_C,LOA: distal #3 PD,Distal Resection Margin,http://purl.obolibrary.org/obo/NCIT_C138061,0.6616752993317041,NCIT
+OHD03PCM,OHXPRU_C,LOA: mid-facial #3 PD,Face,http://purl.obolibrary.org/obo/NCIT_C13071,0.6145150799335566,NCIT
+OHD03PCS,OHXPRU_C,LOA: mesial #3 PD,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6839241393181469,NCIT
+OHD04CJD,OHXPRU_C,LOA: distal #4 FGM/CEJ,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6028209239037373,NCIT
+OHD04CJM,OHXPRU_C,LOA: mid-facial #4 FGM/CEJ,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5708485976363118,NCIT
+OHD04CJS,OHXPRU_C,LOA: mesial #4 FGM/CEJ,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6255984350071524,NCIT
+OHD04LAD,OHXPRU_C,LOA: distal #4 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6234183078414635,NCIT
+OHD04LAM,OHXPRU_C,LOA: mid-facial #4 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5730355214652021,NCIT
+OHD04LAS,OHXPRU_C,LOA: mesial #4 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.613873238855256,NCIT
+OHD04PCD,OHXPRU_C,LOA: distal #4 PD,Distal Resection Margin,http://purl.obolibrary.org/obo/NCIT_C138061,0.6617418356351878,NCIT
+OHD04PCM,OHXPRU_C,LOA: mid-facial #4 PD,Face,http://purl.obolibrary.org/obo/NCIT_C13071,0.61456300578993,NCIT
+OHD04PCS,OHXPRU_C,LOA: mesial #4 PD,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6839896754213873,NCIT
+OHD05CJD,OHXPRU_C,LOA: distal #5 FGM/CEJ,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6034026618428282,NCIT
+OHD05CJM,OHXPRU_C,LOA: mid-facial #5 FGM/CEJ,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5712926830840772,NCIT
+OHD05CJS,OHXPRU_C,LOA: mesial #5 FGM/CEJ,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6261783450471461,NCIT
+OHD05LAD,OHXPRU_C,LOA: distal #5 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6238780516591901,NCIT
+OHD05LAM,OHXPRU_C,LOA: mid-facial #5 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5733925043135732,NCIT
+OHD05LAS,OHXPRU_C,LOA: mesial #5 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6143121723712127,NCIT
+OHD05PCD,OHXPRU_C,LOA: distal #5 PD,Distal Resection Margin,http://purl.obolibrary.org/obo/NCIT_C138061,0.6625115988831882,NCIT
+OHD05PCM,OHXPRU_C,LOA: mid-facial #5 PD,Face,http://purl.obolibrary.org/obo/NCIT_C13071,0.6151172275674386,NCIT
+OHD05PCS,OHXPRU_C,LOA: mesial #5 PD,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6847477996006077,NCIT
+OHD06CJD,OHXPRU_C,LOA: distal #6 FGM/CEJ,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.596955630587524,NCIT
+OHD06CJM,OHXPRU_C,LOA: mid-facial #6 FGM/CEJ,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5663572555187593,NCIT
+OHD06CJS,OHXPRU_C,LOA: mesial #6 FGM/CEJ,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6197478858086342,NCIT
+OHD06LAD,OHXPRU_C,LOA: distal #6 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6187654726707293,NCIT
+OHD06LAM,OHXPRU_C,LOA: mid-facial #6 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.569415787353446,NCIT
+OHD06LAS,OHXPRU_C,LOA: mesial #6 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6094293568307594,NCIT
+OHD06PCD,OHXPRU_C,LOA: distal #6 PD,Distal Resection Margin,http://purl.obolibrary.org/obo/NCIT_C138061,0.6540061729956972,NCIT
+OHD06PCM,OHXPRU_C,LOA: mid-facial #6 PD,Face,http://purl.obolibrary.org/obo/NCIT_C13071,0.60896928761433,NCIT
+OHD06PCS,OHXPRU_C,LOA: mesial #6 PD,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6763640816235188,NCIT
+OHD07CJD,OHXPRU_C,LOA: distal #7 FGM/CEJ,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.591022777529479,NCIT
+OHD07CJM,OHXPRU_C,LOA: mid-facial #7 FGM/CEJ,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5617884362249347,NCIT
+OHD07CJS,OHXPRU_C,LOA: mesial #7 FGM/CEJ,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6138231624108522,NCIT
+OHD07LAD,OHXPRU_C,LOA: distal #7 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6140265552526316,NCIT
+OHD07LAM,OHXPRU_C,LOA: mid-facial #7 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5657162076152308,NCIT
+OHD07LAS,OHXPRU_C,LOA: mesial #7 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6049001713393127,NCIT
+OHD07PCD,OHXPRU_C,LOA: distal #7 PD,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6462277245087958,NCIT
+OHD07PCM,OHXPRU_C,LOA: mid-facial #7 PD,Face,http://purl.obolibrary.org/obo/NCIT_C13071,0.6033003542272132,NCIT
+OHD07PCS,OHXPRU_C,LOA: mesial #7 PD,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6686837412184777,NCIT
+OHD08CJD,OHXPRU_C,LOA: distal #8 FGM/CEJ,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.588818700886484,NCIT
+OHD08CJM,OHXPRU_C,LOA: mid-facial #8 FGM/CEJ,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5600845099072562,NCIT
+OHD08CJS,OHXPRU_C,LOA: mesial #8 FGM/CEJ,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6116203786980914,NCIT
+OHD08LAD,OHXPRU_C,LOA: distal #8 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6122576959162678,NCIT
+OHD08LAM,OHXPRU_C,LOA: mid-facial #8 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5643319681547538,NCIT
+OHD08LAS,OHXPRU_C,LOA: mesial #8 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6032088026692672,NCIT
+OHD08PCD,OHXPRU_C,LOA: distal #8 PD,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6433496855569572,NCIT
+OHD08PCM,OHXPRU_C,LOA: mid-facial #8 PD,Face,http://purl.obolibrary.org/obo/NCIT_C13071,0.6011915764747441,NCIT
+OHD08PCS,OHXPRU_C,LOA: mesial #8 PD,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6658388309940276,NCIT
+OHD09CJD,OHXPRU_C,LOA: distal #9 FGM/CEJ,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.5901078209388856,NCIT
+OHD09CJM,OHXPRU_C,LOA: mid-facial #9 FGM/CEJ,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5610815356175813,NCIT
+OHD09CJS,OHXPRU_C,LOA: mesial #9 FGM/CEJ,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6129088557838289,NCIT
+OHD09LAD,OHXPRU_C,LOA: distal #9 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6132928145451081,NCIT
+OHD09LAM,OHXPRU_C,LOA: mid-facial #9 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5651422303847741,NCIT
+OHD09LAS,OHXPRU_C,LOA: mesial #9 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6041986268211005,NCIT
+OHD09PCD,OHXPRU_C,LOA: distal #9 PD,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6450322300905678,NCIT
+OHD09PCM,OHXPRU_C,LOA: mid-facial #9 PD,Face,http://purl.obolibrary.org/obo/NCIT_C13071,0.602425138390621,NCIT
+OHD09PCS,OHXPRU_C,LOA: mesial #9 PD,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6675022152326532,NCIT
+OHD10CJD,OHXPRU_C,LOA: distal #10 FGM/CEJ,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.5713389094305967,NCIT
+OHD10CJM,OHXPRU_C,LOA: mid-facial #10 FGM/CEJ,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5464448860787953,NCIT
+OHD10CJS,OHXPRU_C,LOA: mesial #10 FGM/CEJ,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.5941180925838565,NCIT
+OHD10LAD,OHXPRU_C,LOA: distal #10 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5980692727400928,NCIT
+OHD10LAM,OHXPRU_C,LOA: mid-facial #10 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5531634422424166,NCIT
+OHD10LAS,OHXPRU_C,LOA: mesial #10 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5896264758441622,NCIT
+OHD10PCD,OHXPRU_C,LOA: distal #10 PD,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6207427787777804,NCIT
+OHD10PCM,OHXPRU_C,LOA: mid-facial #10 PD,Face,http://purl.obolibrary.org/obo/NCIT_C13071,0.5844153689616103,NCIT
+OHD10PCS,OHXPRU_C,LOA: mesial #10 PD,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6434333692540719,NCIT
+OHD11CJD,OHXPRU_C,LOA: distal #11 FGM/CEJ,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.5663128561919348,NCIT
+OHD11CJM,OHXPRU_C,LOA: mid-facial #11 FGM/CEJ,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5424815295535371,NCIT
+OHD11CJS,OHXPRU_C,LOA: mesial #11 FGM/CEJ,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.589074929414035,NCIT
+OHD11LAD,OHXPRU_C,LOA: distal #11 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5939368576388092,NCIT
+OHD11LAM,OHXPRU_C,LOA: mid-facial #11 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5498888325635415,NCIT
+OHD11LAS,OHXPRU_C,LOA: mesial #11 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.585665462386765,NCIT
+OHD11PCD,OHXPRU_C,LOA: distal #11 PD,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6143121815737969,NCIT
+OHD11PCM,OHXPRU_C,LOA: mid-facial #11 PD,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5795746288072344,NCIT
+OHD11PCS,OHXPRU_C,LOA: mesial #11 PD,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6370412730481091,NCIT
+OHD12CJD,OHXPRU_C,LOA: distal #12 FGM/CEJ,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.5833661868078727,NCIT
+OHD12CJM,OHXPRU_C,LOA: mid-facial #12 FGM/CEJ,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5558539434010206,NCIT
+OHD12CJS,OHXPRU_C,LOA: mesial #12 FGM/CEJ,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6061670673406822,NCIT
+OHD12LAD,OHXPRU_C,LOA: distal #12 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.6078624150665695,NCIT
+OHD12LAM,OHXPRU_C,LOA: mid-facial #12 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5608845789050847,NCIT
+OHD12LAS,OHXPRU_C,LOA: mesial #12 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5990042112846086,NCIT
+OHD12PCD,OHXPRU_C,LOA: distal #12 PD,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6362566892768531,NCIT
+OHD12PCM,OHXPRU_C,LOA: mid-facial #12 PD,Face,http://purl.obolibrary.org/obo/NCIT_C13071,0.5959684520527058,NCIT
+OHD12PCS,OHXPRU_C,LOA: mesial #12 PD,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6588202198217685,NCIT
+OHD13CJD,OHXPRU_C,LOA: distal #13 FGM/CEJ,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.5647699994236214,NCIT
+OHD13CJM,OHXPRU_C,LOA: mid-facial #13 FGM/CEJ,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5412611793503124,NCIT
+OHD13CJS,OHXPRU_C,LOA: mesial #13 FGM/CEJ,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.5875258778076724,NCIT
+OHD13LAD,OHXPRU_C,LOA: distal #13 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5926635908782855,NCIT
+OHD13LAM,OHXPRU_C,LOA: mid-facial #13 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5488778989289608,NCIT
+OHD13LAS,OHXPRU_C,LOA: mesial #13 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5844445457448495,NCIT
+OHD13PCD,OHXPRU_C,LOA: distal #13 PD,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6123442474797749,NCIT
+OHD13PCM,OHXPRU_C,LOA: mid-facial #13 PD,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5780871504196562,NCIT
+OHD13PCS,OHXPRU_C,LOA: mesial #13 PD,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6350834789396724,NCIT
+OHD14CJD,OHXPRU_C,LOA: distal #14 FGM/CEJ,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.5661242510418569,NCIT
+OHD14CJM,OHXPRU_C,LOA: mid-facial #14 FGM/CEJ,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5423324424298278,NCIT
+OHD14CJS,OHXPRU_C,LOA: mesial #14 FGM/CEJ,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.5888855906760958,NCIT
+OHD14LAD,OHXPRU_C,LOA: distal #14 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5937813275537241,NCIT
+OHD14LAM,OHXPRU_C,LOA: mid-facial #14 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5497653963356381,NCIT
+OHD14LAS,OHXPRU_C,LOA: mesial #14 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.585516338526295,NCIT
+OHD14PCD,OHXPRU_C,LOA: distal #14 PD,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6140714609296045,NCIT
+OHD14PCM,OHXPRU_C,LOA: mid-facial #14 PD,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5793928312478256,NCIT
+OHD14PCS,OHXPRU_C,LOA: mesial #14 PD,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6368018339386978,NCIT
+OHD15CJD,OHXPRU_C,LOA: distal #15 FGM/CEJ,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.5611770537049704,NCIT
+OHD15CJM,OHXPRU_C,LOA: mid-facial #15 FGM/CEJ,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.5384125223281103,NCIT
+OHD15CJS,OHXPRU_C,LOA: mesial #15 FGM/CEJ,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.5839167981036874,NCIT
+OHD15LAD,OHXPRU_C,LOA: distal #15 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5896898374528557,NCIT
+OHD15LAM,OHXPRU_C,LOA: mid-facial #15 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5465132204217186,NCIT
+OHD15LAS,OHXPRU_C,LOA: mesial #15 calculated LA,Calculation,http://purl.obolibrary.org/obo/NCIT_C54125,0.5815922140141303,NCIT
+OHD15PCD,OHXPRU_C,LOA: distal #15 PD,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6077723404144724,NCIT
+OHD15PCM,OHXPRU_C,LOA: mid-facial #15 PD,Facial,http://purl.obolibrary.org/obo/NCIT_C161327,0.574620434640503,NCIT
+OHD15PCS,OHXPRU_C,LOA: mesial #15 PD,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6305321746343973,NCIT
+OHX02BPD,OHXPRU_C,BOP: distal #2,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6859849626937954,NCIT
+OHX02BPM,OHXPRU_C,BOP: midfacial #2,Nasal Cavity and Paranasal Sinus Lethal Midline Granuloma,http://purl.obolibrary.org/obo/NCIT_C8196,0.5771377012729768,NCIT
+OHX02BPS,OHXPRU_C,BOP: mesial #2,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.7078058541620701,NCIT
+OHX03BPD,OHXPRU_C,BOP: distal #3,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6752914979740411,NCIT
+OHX03BPM,OHXPRU_C,BOP: midfacial #3,Nasal Cavity and Paranasal Sinus Lethal Midline Granuloma,http://purl.obolibrary.org/obo/NCIT_C8196,0.5716006426169822,NCIT
+OHX03BPS,OHXPRU_C,BOP: mesial #3,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6973161619996444,NCIT
+OHX04BPD,OHXPRU_C,BOP: distal #4,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6753622274550678,NCIT
+OHX04BPM,OHXPRU_C,BOP: midfacial #4,Nasal Cavity and Paranasal Sinus Lethal Midline Granuloma,http://purl.obolibrary.org/obo/NCIT_C8196,0.5716375983272635,NCIT
+OHX04BPS,OHXPRU_C,BOP: mesial #4,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.697385624190862,NCIT
+OHX05BPD,OHXPRU_C,BOP: distal #5,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6761805664137086,NCIT
+OHX05BPM,OHXPRU_C,BOP: midfacial #5,Nasal Cavity and Paranasal Sinus Lethal Midline Granuloma,http://purl.obolibrary.org/obo/NCIT_C8196,0.5720648522802559,NCIT
+OHX05BPS,OHXPRU_C,BOP: mesial #5,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6981892229408715,NCIT
+OHX06BPD,OHXPRU_C,BOP: distal #6,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6671449734619351,NCIT
+OHX06BPM,OHXPRU_C,BOP: midfacial #6,Nasal Cavity and Paranasal Sinus Lethal Midline Granuloma,http://purl.obolibrary.org/obo/NCIT_C8196,0.5673142928751903,NCIT
+OHX06BPS,OHXPRU_C,BOP: mesial #6,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6893084785062878,NCIT
+OHX07BPD,OHXPRU_C,BOP: distal #7,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6588941928193316,NCIT
+OHX07BPM,OHXPRU_C,BOP: midfacial #7,Nasal Cavity and Paranasal Sinus Lethal Midline Granuloma,http://purl.obolibrary.org/obo/NCIT_C8196,0.5629123342512363,NCIT
+OHX07BPS,OHXPRU_C,BOP: mesial #7,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6811840080440453,NCIT
+OHX08BPD,OHXPRU_C,BOP: distal #8,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6558443862901996,NCIT
+OHX08BPM,OHXPRU_C,BOP: midfacial #8,Nasal Cavity and Paranasal Sinus Lethal Midline Granuloma,http://purl.obolibrary.org/obo/NCIT_C8196,0.5612695913541103,NCIT
+OHX08BPS,OHXPRU_C,BOP: mesial #8,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6781772728630585,NCIT
+OHX09BPD,OHXPRU_C,BOP: distal #9,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.657627153301353,NCIT
+OHX09BPM,OHXPRU_C,BOP: midfacial #9,Nasal Cavity and Paranasal Sinus Lethal Midline Granuloma,http://purl.obolibrary.org/obo/NCIT_C8196,0.5622308853947979,NCIT
+OHX09BPS,OHXPRU_C,BOP: mesial #9,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6799350987194378,NCIT
+OHX10BPD,OHXPRU_C,BOP: distal #10,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6319433844264299,NCIT
+OHX10BPM,OHXPRU_C,BOP: midfacial #10,Nasal Cavity and Paranasal Sinus Lethal Midline Granuloma,http://purl.obolibrary.org/obo/NCIT_C8196,0.5480994311779137,NCIT
+OHX10BPS,OHXPRU_C,BOP: mesial #10,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6545471269991586,NCIT
+OHX11BPD,OHXPRU_C,BOP: distal #11,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6251621932627897,NCIT
+OHX11BPM,OHXPRU_C,BOP: midfacial #11,Nasal Cavity and Paranasal Sinus Lethal Midline Granuloma,http://purl.obolibrary.org/obo/NCIT_C8196,0.5442657869348339,NCIT
+OHX11BPS,OHXPRU_C,BOP: mesial #11,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6478215329898069,NCIT
+OHX12BPD,OHXPRU_C,BOP: distal #12,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.648334898244179,NCIT
+OHX12BPM,OHXPRU_C,BOP: midfacial #12,Nasal Cavity and Paranasal Sinus Lethal Midline Granuloma,http://purl.obolibrary.org/obo/NCIT_C8196,0.5571884868387081,NCIT
+OHX12BPS,OHXPRU_C,BOP: mesial #12,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6707655757616725,NCIT
+OHX13BPD,OHXPRU_C,BOP: distal #13,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6230884881163075,NCIT
+OHX13BPM,OHXPRU_C,BOP: midfacial #13,Nasal Cavity and Paranasal Sinus Lethal Midline Granuloma,http://purl.obolibrary.org/obo/NCIT_C8196,0.5430847741324224,NCIT
+OHX13BPS,OHXPRU_C,BOP: mesial #13,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.645762979349019,NCIT
+OHX14BPD,OHXPRU_C,BOP: distal #14,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6249084964693946,NCIT
+OHX14BPM,OHXPRU_C,BOP: midfacial #14,Nasal Cavity and Paranasal Sinus Lethal Midline Granuloma,http://purl.obolibrary.org/obo/NCIT_C8196,0.5441215207320218,NCIT
+OHX14BPS,OHXPRU_C,BOP: mesial #14,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.647569736217269,NCIT
+OHX15BPD,OHXPRU_C,BOP: distal #15,Distal,http://purl.obolibrary.org/obo/NCIT_C25237,0.6182735807074451,NCIT
+OHX15BPM,OHXPRU_C,BOP: midfacial #15,Nasal Cavity and Paranasal Sinus Lethal Midline Granuloma,http://purl.obolibrary.org/obo/NCIT_C8196,0.5403268434570705,NCIT
+OHX15BPS,OHXPRU_C,BOP: mesial #15,Mesial Surface,http://purl.obolibrary.org/obo/NCIT_C52590,0.6409799291146003,NCIT
+OHAEXSTS,OHXPRU_C,Overall Oral Health Exam Status,Oral health education (procedure),http://snomed.info/id/243085009,0.4322781787973982,SNOMED
+OHASCST4,OHXPRU_C,Periodontal Status Code,Periodontal operation (procedure),http://snomed.info/id/234677007,0.587024534698186,SNOMED
+OHD02CJM,OHXPRU_C,LOA: mid-facial #2 FGM/CEJ,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.4303831564277193,SNOMED
+OHD02LAD,OHXPRU_C,LOA: distal #2 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.42617304041792364,SNOMED
+OHD02LAS,OHXPRU_C,LOA: mesial #2 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.4195264062762025,SNOMED
+OHD02PCD,OHXPRU_C,LOA: distal #2 PD,PD 20 (finding),http://snomed.info/id/252104005,0.4049009778083632,SNOMED
+OHD02PCM,OHXPRU_C,LOA: mid-facial #2 PD,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.4640847741495148,SNOMED
+OHD03CJM,OHXPRU_C,LOA:mid-facial #3 FGM/CEJ,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.42608483495057653,SNOMED
+OHD03LAD,OHXPRU_C,LOA: distal #3 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.4221390401652174,SNOMED
+OHD03LAS,OHXPRU_C,LOA: mesial #3 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.415676535099482,SNOMED
+OHD03PCM,OHXPRU_C,LOA: mid-facial #3 PD,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.4587086249019162,SNOMED
+OHD04CJM,OHXPRU_C,LOA: mid-facial #4 FGM/CEJ,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.4261135060790572,SNOMED
+OHD04LAD,OHXPRU_C,LOA: distal #4 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.4221659692800761,SNOMED
+OHD04LAS,OHXPRU_C,LOA: mesial #4 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.4157022462072655,SNOMED
+OHD04PCM,OHXPRU_C,LOA: mid-facial #4 PD,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.4587443994571584,SNOMED
+OHD05CJM,OHXPRU_C,LOA: mid-facial #5 FGM/CEJ,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.4264449964390747,SNOMED
+OHD05LAD,OHXPRU_C,LOA: distal #5 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.42247729827377084,SNOMED
+OHD05LAS,OHXPRU_C,LOA: mesial #5 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.41599948289550936,SNOMED
+OHD05PCM,OHXPRU_C,LOA: mid-facial #5 PD,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.4591581017693608,SNOMED
+OHD06CJM,OHXPRU_C,LOA: mid-facial #6 FGM/CEJ,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.42276091566430374,SNOMED
+OHD06LAD,OHXPRU_C,LOA: distal #6 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.41901516564622954,SNOMED
+OHD06LAS,OHXPRU_C,LOA: mesial #6 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.4126929413173696,SNOMED
+OHD06PCM,OHXPRU_C,LOA: mid-facial #6 PD,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.4545689335390629,SNOMED
+OHD07CJM,OHXPRU_C,LOA: mid-facial #7 FGM/CEJ,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.4193504919267411,SNOMED
+OHD07LAD,OHXPRU_C,LOA: distal #7 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.4158060688969274,SNOMED
+OHD07LAS,OHXPRU_C,LOA: mesial #7 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.4096258706859886,SNOMED
+OHD07PCM,OHXPRU_C,LOA: mid-facial #7 PD,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.45033732275589705,SNOMED
+OHD08CJM,OHXPRU_C,LOA: mid-facial #8 FGM/CEJ,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.41807858546970034,SNOMED
+OHD08LAD,OHXPRU_C,LOA: distal #8 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.41460823398116803,SNOMED
+OHD08LAS,OHXPRU_C,LOA: mesial #8 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.4084805108449021,SNOMED
+OHD08PCM,OHXPRU_C,LOA: mid-facial #8 PD,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.44876321241321276,SNOMED
+OHD09CJM,OHXPRU_C,LOA: mid-facial #9 FGM/CEJ,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.4188228215470714,SNOMED
+OHD09LAD,OHXPRU_C,LOA: distal #9 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.41530919488296975,SNOMED
+OHD09LAS,OHXPRU_C,LOA: mesial #9 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.4091507992647631,SNOMED
+OHD09PCM,OHXPRU_C,LOA: mid-facial #9 PD,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.44968401242063394,SNOMED
+OHD10CJM,OHXPRU_C,LOA: mid-facial #10 FGM/CEJ,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.4078972029538974,SNOMED
+OHD10LAD,OHXPRU_C,LOA: distal #10 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.4050001275983684,SNOMED
+OHD10PCM,OHXPRU_C,LOA: mid-facial #10 PD,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.43624050738821823,SNOMED
+OHD11CJM,OHXPRU_C,LOA: mid-facial #11 FGM/CEJ,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.404938730686799,SNOMED
+OHD11LAD,OHXPRU_C,LOA: distal #11 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.40220174165949313,SNOMED
+OHD11PCM,OHXPRU_C,LOA: mid-facial #11 PD,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.4326271066235677,SNOMED
+OHD12CJM,OHXPRU_C,LOA: mid-facial #12 FGM/CEJ,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.414920652641036,SNOMED
+OHD12LAD,OHXPRU_C,LOA: distal #12 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.41163184080048704,SNOMED
+OHD12LAS,OHXPRU_C,LOA: mesial #12 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.40563324862144096,SNOMED
+OHD12PCM,OHXPRU_C,LOA: mid-facial #12 PD,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.4448643785203425,SNOMED
+OHD13CJM,OHXPRU_C,LOA: mid-facial #13 FGM/CEJ,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.4040277926449197,SNOMED
+OHD13LAD,OHXPRU_C,LOA: distal #13 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.40133951177412147,SNOMED
+OHD13PCM,OHXPRU_C,LOA: mid-facial #13 PD,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.431516769077724,SNOMED
+OHD14CJM,OHXPRU_C,LOA: mid-facial #14 FGM/CEJ,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.40482744367084045,SNOMED
+OHD14LAD,OHXPRU_C,LOA: distal #14 calculated LA,Calculated (qualifier value),http://snomed.info/id/258090004,0.4020964199063517,SNOMED
+OHD14PCM,OHXPRU_C,LOA: mid-facial #14 PD,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.43249140269829384,SNOMED
+OHD15CJM,OHXPRU_C,LOA: mid-facial #15 FGM/CEJ,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.4019013947937672,SNOMED
+OHD15PCM,OHXPRU_C,LOA: mid-facial #15 PD,Facial branch of facial artery (body structure),http://snomed.info/id/314308004,0.42892901740179595,SNOMED
+OHX02BPD,OHXPRU_C,BOP: distal #2,Distal loop enema (procedure),http://snomed.info/id/241166001,0.40826705872136193,SNOMED
+OHX02BPM,OHXPRU_C,BOP: midfacial #2,Fracture of midfacial bones (disorder),http://snomed.info/id/263155005,0.6545885110619667,SNOMED
+OHX03BPD,OHXPRU_C,BOP: distal #3,Distal loop enema (procedure),http://snomed.info/id/241166001,0.4019027947416811,SNOMED
+OHX03BPM,OHXPRU_C,BOP: midfacial #3,Fracture of midfacial bones (disorder),http://snomed.info/id/263155005,0.648308389397248,SNOMED
+OHX04BPD,OHXPRU_C,BOP: distal #4,Distal loop enema (procedure),http://snomed.info/id/241166001,0.40194488971278697,SNOMED
+OHX04BPM,OHXPRU_C,BOP: midfacial #4,Fracture of midfacial bones (disorder),http://snomed.info/id/263155005,0.6483503044953519,SNOMED
+OHX05BPD,OHXPRU_C,BOP: distal #5,Distal loop enema (procedure),http://snomed.info/id/241166001,0.4024319278518876,SNOMED
+OHX05BPM,OHXPRU_C,BOP: midfacial #5,Fracture of midfacial bones (disorder),http://snomed.info/id/263155005,0.6488348951369229,SNOMED
+OHX06BPM,OHXPRU_C,BOP: midfacial #6,Fracture of midfacial bones (disorder),http://snomed.info/id/263155005,0.6434468194648356,SNOMED
+OHX07BPM,OHXPRU_C,BOP: midfacial #7,Fracture of midfacial bones (disorder),http://snomed.info/id/263155005,0.6384541261525553,SNOMED
+OHX08BPM,OHXPRU_C,BOP: midfacial #8,Fracture of midfacial bones (disorder),http://snomed.info/id/263155005,0.6365909302034506,SNOMED
+OHX09BPM,OHXPRU_C,BOP: midfacial #9,Fracture of midfacial bones (disorder),http://snomed.info/id/263155005,0.6376812281226447,SNOMED
+OHX10BPM,OHXPRU_C,BOP: midfacial #10,Fracture of midfacial bones (disorder),http://snomed.info/id/263155005,0.6216533589424343,SNOMED
+OHX11BPM,OHXPRU_C,BOP: midfacial #11,Fracture of midfacial bones (disorder),http://snomed.info/id/263155005,0.6173052467475736,SNOMED
+OHX12BPM,OHXPRU_C,BOP: midfacial #12,Fracture of midfacial bones (disorder),http://snomed.info/id/263155005,0.6319621490263881,SNOMED
+OHX13BPM,OHXPRU_C,BOP: midfacial #13,Fracture of midfacial bones (disorder),http://snomed.info/id/263155005,0.61596574421608,SNOMED
+OHX14BPM,OHXPRU_C,BOP: midfacial #14,Fracture of midfacial bones (disorder),http://snomed.info/id/263155005,0.6171416202877411,SNOMED
+OHX15BPM,OHXPRU_C,BOP: midfacial #15,Fracture of midfacial bones (disorder),http://snomed.info/id/263155005,0.6128377043559067,SNOMED

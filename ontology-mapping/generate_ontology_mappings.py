@@ -91,8 +91,8 @@ def save_mappings_as_csv(mappings_df, output_file_label, output_file_suffix=""):
 
 def save_mappings_subsets(df, table_list):
     for table in table_list:
-        df = df[df["Table"] == table]
-        save_mappings_as_csv(df, output_file_label=table)
+        subset = df[df["Table"] == table]
+        save_mappings_as_csv(subset, output_file_label=table)
 
 
 def map_nhanes_tables():
