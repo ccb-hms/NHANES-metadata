@@ -1,0 +1,82 @@
+Variable,Table,Source Term,Mapped Term Label,Mapped Term IRI,Mapping Score,Ontology
+OHX02CSC,OHXDEN_C,Coronal Caries: Surface condition #2,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4206431291867393,OHD
+OHX02CTC,OHXDEN_C,Coronal Caries: Tooth count #2,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4620823959392532,OHD
+OHX03CSC,OHXDEN_C,Coronal Caries: Surface condition #3,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4181018065674013,OHD
+OHX03CTC,OHXDEN_C,Coronal Caries: Tooth count #3,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4582704207739537,OHD
+OHX04CSC,OHXDEN_C,Coronal Caries: Surface condition #4,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.418118858598033,OHD
+OHX04CTC,OHXDEN_C,Coronal Caries: Tooth count #4,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4582959142469912,OHD
+OHX05CSC,OHXDEN_C,Coronal Caries: Surface condition #5,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4183159126339746,OHD
+OHX05CTC,OHXDEN_C,Coronal Caries: Tooth count #5,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4585906003774202,OHD
+OHX06CSC,OHXDEN_C,Coronal Caries: Surface condition #6,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4161157065319306,OHD
+OHX06CTC,OHXDEN_C,Coronal Caries: Tooth count #6,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4553088534876885,OHD
+OHX07CSC,OHXDEN_C,Coronal Caries: Surface condition #7,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4140588333413787,OHD
+OHX07CTC,OHXDEN_C,Coronal Caries: Tooth count #7,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4522577690141553,OHD
+OHX08CSC,OHXDEN_C,Coronal Caries: Surface condition #8,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4132867505876999,OHD
+OHX08CTC,OHXDEN_C,Coronal Caries: Tooth count #8,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4511166534843959,OHD
+OHX09CSC,OHXDEN_C,Coronal Caries: Surface condition #9,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4137388519311677,OHD
+OHX09CTC,OHXDEN_C,Coronal Caries: Tooth count #9,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4517845717629868,OHD
+OHX10CSC,OHXDEN_C,Coronal Caries: Surface condition #10,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4070078142568829,OHD
+OHX10CTC,OHXDEN_C,Coronal Caries: Tooth count #10,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4419192348703601,OHD
+OHX10TC,OHXDEN_C,Tooth Count: #10,missing tooth 10 finding,http://purl.obolibrary.org/obo/OHD_0000069,0.4655624026144622,OHD
+OHX11CSC,OHXDEN_C,Coronal Caries: Surface condition #11,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4051501042850737,OHD
+OHX11CTC,OHXDEN_C,Coronal Caries: Tooth Count #11,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4392257232349405,OHD
+OHX11TC,OHXDEN_C,Tooth Count: #11,missing tooth 11 finding,http://purl.obolibrary.org/obo/OHD_0000070,0.4734310455699656,OHD
+OHX12CSC,OHXDEN_C,Coronal Caries: Surface condition #12,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4113580347754436,OHD
+OHX12CTC,OHXDEN_C,Coronal Caries: Tooth count #12,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4482758885105247,OHD
+OHX12TC,OHXDEN_C,Tooth Count: #12,missing tooth 12 finding,http://purl.obolibrary.org/obo/OHD_0000071,0.4452583018564804,OHD
+OHX13CSC,OHXDEN_C,Coronal Caries: Surface condition #13,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4045750597993273,OHD
+OHX13CTC,OHXDEN_C,Coronal Caries: Tooth count #13,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4383944727671441,OHD
+OHX13TC,OHXDEN_C,Tooth Count: #13,missing tooth 13 finding,http://purl.obolibrary.org/obo/OHD_0000072,0.4756908292600111,OHD
+OHX14CSC,OHXDEN_C,Coronal Caries: Surface condition #14,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4050799294649205,OHD
+OHX14CTC,OHXDEN_C,Coronal Caries: Tooth count #14,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4391242192938762,OHD
+OHX14TC,OHXDEN_C,Tooth Count: #14,missing tooth 14 finding,http://purl.obolibrary.org/obo/OHD_0000028,0.4739056649495251,OHD
+OHX15CSC,OHXDEN_C,Coronal Caries: Surface condition #15,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4032271423971365,OHD
+OHX15CTC,OHXDEN_C,Coronal Caries: Tooth count #15,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.436450618630091,OHD
+OHX15TC,OHXDEN_C,Tooth Count: #15,missing tooth 15 finding,http://purl.obolibrary.org/obo/OHD_0000073,0.4806859427698079,OHD
+OHX16TC,OHXDEN_C,Tooth Count: #16,missing tooth 16 finding,http://purl.obolibrary.org/obo/OHD_0000074,0.4797415759663496,OHD
+OHX17TC,OHXDEN_C,Tooth Count: #17,missing tooth 17 finding,http://purl.obolibrary.org/obo/OHD_0000075,0.4890316520186475,OHD
+OHX18CSC,OHXDEN_C,Coronal Caries: Surface condition #18,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4078091201884403,OHD
+OHX18CTC,OHXDEN_C,Coronal Caries: Tooth count #18,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4430849095090228,OHD
+OHX18TC,OHXDEN_C,Tooth Count: #18,missing tooth 18 finding,http://purl.obolibrary.org/obo/OHD_0000076,0.4625682504678436,OHD
+OHX19CSC,OHXDEN_C,Coronal Caries: Surface condition #19,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4028614640046061,OHD
+OHX19CTC,OHXDEN_C,Coronal Caries: Tooth count #19,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4359243780610424,OHD
+OHX19TC,OHXDEN_C,Tooth Count: #19,missing tooth 19 finding,http://purl.obolibrary.org/obo/OHD_0000077,0.48211423529877,OHD
+OHX20CSC,OHXDEN_C,Coronal Caries: Surface condition #20,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4063103089072392,OHD
+OHX20CTC,OHXDEN_C,Coronal Caries: Tooth count #20,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4409064563975979,OHD
+OHX20TC,OHXDEN_C,Tooth Count: #20,missing tooth 20 finding,http://purl.obolibrary.org/obo/OHD_0000078,0.468934952788083,OHD
+OHX21CSC,OHXDEN_C,Coronal Caries: Surface condition #21,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4014054542829953,OHD
+OHX21CTC,OHXDEN_C,Coronal Caries: Tooth count #21,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4338337304884229,OHD
+OHX21TC,OHXDEN_C,Tooth Count: #21,missing tooth 21 finding,http://purl.obolibrary.org/obo/OHD_0000079,0.4872285044280662,OHD
+OHX22CSC,OHXDEN_C,Coronal Caries: Surface condition #22,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4084200489562148,OHD
+OHX22CTC,OHXDEN_C,Coronal Caries: Tooth count #22,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4439752105941887,OHD
+OHX22TC,OHXDEN_C,Tooth Count: #22,missing tooth 22 finding,http://purl.obolibrary.org/obo/OHD_0000080,0.4598315162066023,OHD
+OHX23CSC,OHXDEN_C,Coronal Caries: Surface condition #23,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4036514499167222,OHD
+OHX23CTC,OHXDEN_C,Coronal Caries: Tooth count #23,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4370618239611714,OHD
+OHX23TC,OHXDEN_C,Tooth Count: #23,missing tooth 23 finding,http://purl.obolibrary.org/obo/OHD_0000081,0.4792818516514181,OHD
+OHX24CSC,OHXDEN_C,Coronal Caries: Surface condition #24,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4049072635332093,OHD
+OHX24CTC,OHXDEN_C,Coronal Caries: Tooth count #24,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4388745427391898,OHD
+OHX24TC,OHXDEN_C,Tooth Count: #24,missing tooth 24 finding,http://purl.obolibrary.org/obo/OHD_0000082,0.4745776158859944,OHD
+OHX25CSC,OHXDEN_C,Coronal Caries: Surface condition #25,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.404102348016158,OHD
+OHX25CTC,OHXDEN_C,Coronal Caries: Tooth count #25,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4377120321540832,OHD
+OHX25TC,OHXDEN_C,Tooth Count: #25,missing tooth 25 finding,http://purl.obolibrary.org/obo/OHD_0000083,0.4776605453455007,OHD
+OHX26CSC,OHXDEN_C,Coronal Caries: Surface condition #26,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4013432048190076,OHD
+OHX26CTC,OHXDEN_C,Coronal Caries: Tooth count #26,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4337445136791039,OHD
+OHX26TC,OHXDEN_C,Tooth Count: #26,missing tooth 26 finding,http://purl.obolibrary.org/obo/OHD_0000084,0.4874177410963192,OHD
+OHX27CSC,OHXDEN_C,Coronal Caries: Surface condition #27,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4001096450029663,OHD
+OHX27CTC,OHXDEN_C,Coronal Caries: Tooth count #27,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4319793427487198,OHD
+OHX27TC,OHXDEN_C,Tooth Count: #27,missing tooth 27 finding,http://purl.obolibrary.org/obo/OHD_0000085,0.4914290564868342,OHD
+OHX28CSC,OHXDEN_C,Coronal Caries: Surface condition #28,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.401608854575731,OHD
+OHX28CTC,OHXDEN_C,Coronal Caries: Tooth count #28,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4341253410854002,OHD
+OHX28TC,OHXDEN_C,Tooth Count: #28,missing tooth 28 finding,http://purl.obolibrary.org/obo/OHD_0000086,0.486480312385665,OHD
+OHX29CSC,OHXDEN_C,Coronal Caries: Surface condition #29,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4004218385594768,OHD
+OHX29CTC,OHXDEN_C,Coronal Caries: Tooth count #29,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.432425578293271,OHD
+OHX29TC,OHXDEN_C,Tooth Count: #29,missing tooth 29 finding,http://purl.obolibrary.org/obo/OHD_0000087,0.4904319890988919,OHD
+OHX30CSC,OHXDEN_C,Coronal Caries: Surface condition #30,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4122601109821845,OHD
+OHX30CTC,OHXDEN_C,Coronal Caries: Tooth count #30,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4496027986893371,OHD
+OHX30TC,OHXDEN_C,Tooth Count: #30,missing tooth 30 finding,http://purl.obolibrary.org/obo/OHD_0000088,0.440409307842826,OHD
+OHX31CSC,OHXDEN_C,Coronal Caries: Surface condition #31,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.4010723038467254,OHD
+OHX31CTC,OHXDEN_C,Coronal Caries: Tooth count #31,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4333564121269078,OHD
+OHX31TC,OHXDEN_C,Tooth Count: #31,missing tooth 31 finding,http://purl.obolibrary.org/obo/OHD_0000089,0.4883163831530464,OHD
+OHX32TC,OHXDEN_C,Tooth Count: #32,missing tooth 32 finding,http://purl.obolibrary.org/obo/OHD_0000090,0.5009568552553524,OHD
+OHXRCAR,OHXDEN_C,Root Caries: yes / no,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.5189718126939438,OHD
+OHXRRES,OHXDEN_C,Root restorations: yes / no,tooth restoration procedure,http://purl.obolibrary.org/obo/OHD_0000004,0.4187356211585817,OHD

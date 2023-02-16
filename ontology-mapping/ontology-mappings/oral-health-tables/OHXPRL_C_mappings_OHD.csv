@@ -1,0 +1,2 @@
+Variable,Table,Source Term,Mapped Term Label,Mapped Term IRI,Mapping Score,Ontology
+OHASCST4,OHXPRL_C,Periodontal Status Code,periodontist,http://purl.obolibrary.org/obo/OHD_0000187,0.585639445007641,OHD
