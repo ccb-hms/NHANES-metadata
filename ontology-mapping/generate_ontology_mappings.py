@@ -81,25 +81,42 @@ def expand_composite_ids(df, id_1_col, id_2_col, mappings_df_id_col, sep=":::"):
     return df
 
 
-def save_mappings_as_csv(mappings_df, output_file_label, output_file_suffix=""):
-    Path(MAPPINGS_OUTPUT_FOLDER).mkdir(exist_ok=True, parents=True)
-    output_file_name = MAPPINGS_OUTPUT_FOLDER + output_file_label + "_mappings"
+def top_mappings(mappings_df, label_column="Source Term"):
+    top_ranked_mappings = pd.DataFrame()
+    for label in mappings_df[label_column].unique():
+        mappings = mappings_df[mappings_df[label_column] == label]
+        top_ranked_mapping = mappings[mappings['Mapping Score'] == mappings['Mapping Score'].max()]
+        top_ranked_mappings = pd.concat([top_ranked_mappings, top_ranked_mapping])
+    return top_ranked_mappings
+
+
+def save_mappings_as_csv(mappings_df, output_file_label, output_file_suffix="", output_folder=MAPPINGS_OUTPUT_FOLDER,
+                         top_mappings_only=False, sort=False):
+    Path(output_folder).mkdir(exist_ok=True, parents=True)
+    output_file_name = output_folder + output_file_label + "_mappings"
     if output_file_suffix != "":
         output_file_name += "_" + output_file_suffix
+    if top_mappings_only:
+        mappings_df = top_mappings(mappings_df)
+    if sort:
+        mappings_df = mappings_df.sort_values(['Variable', 'Mapping Score'], ascending=[True, False])
     mappings_df.to_csv(output_file_name + ".csv", index=False)
 
 
-def save_mappings_subsets(df, table_list):
-    for table in table_list:
+def save_mappings_subsets(df, nhanes_tables, output_folder, ontology="", top_mappings_only=False):
+    for table in nhanes_tables:
         subset = df[df["Table"] == table]
-        save_mappings_as_csv(subset, output_file_label=table)
+        if ontology != "":  # limit to mappings to the specified ontology
+            subset = subset[subset["Ontology"] == ontology]
+        save_mappings_as_csv(subset, output_file_label=table, output_file_suffix=ontology, sort=True,
+                             output_folder=output_folder, top_mappings_only=top_mappings_only)
 
 
 def map_nhanes_tables(save_mappings=False):
     source_file = "https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/metadata/nhanes_tables.csv"
     mappings = map_data(source_df=pd.read_csv(source_file), labels_column="Table Name", label_ids_column="Table")
     if save_mappings:
-        save_mappings_as_csv(mappings, output_file_label="nhanes_tables", output_file_suffix="all")
+        save_mappings_as_csv(mappings, output_file_label="nhanes_tables")
     return mappings
 
 
@@ -111,16 +128,14 @@ def map_nhanes_variables(preprocess=False, save_mappings=False):
                                             column_to_process=labels_column,
                                             save_processed_table=False)
         labels_column = "Processed Text"
-        output_file_suffix = "preprocessed"
     else:
         input_df = pd.read_csv(source_file)
-        output_file_suffix = "all"
     mappings = map_data_with_composite_ids(df=input_df,
                                            labels_column=labels_column,
                                            variable_id_column="Variable",
                                            table_id_column="Table")
     if save_mappings:
-        save_mappings_as_csv(mappings, output_file_label="nhanes_variables", output_file_suffix=output_file_suffix)
+        save_mappings_as_csv(mappings, output_file_label="nhanes_variables", sort=True)
     return mappings
 
 
@@ -132,8 +147,18 @@ def map_nhanes_metadata(create_ontology_cache, preprocess_labels, save_mappings)
     return nhanes_table_mappings, nhanes_variable_mappings
 
 
+def save_oral_health_tables(mappings_df):
+    hdms_output_folder = MAPPINGS_OUTPUT_FOLDER + "oral-health-tables/"
+    save_mappings_subsets(mappings_df, output_folder=hdms_output_folder,
+                          nhanes_tables=["OHXREF_C", "OHXDEN_C"], top_mappings_only=True)
+    save_mappings_subsets(mappings_df, output_folder=hdms_output_folder,
+                          nhanes_tables=["OHXPRU_C", "OHXPRL_C"], top_mappings_only=False)
+    save_mappings_subsets(mappings_df, output_folder=hdms_output_folder,
+                          nhanes_tables=["OHXPRU_C", "OHXPRL_C", "OHXREF_C", "OHXDEN_C"], ontology="OHD")
+
+
 if __name__ == "__main__":
     table_mappings, variable_mappings = map_nhanes_metadata(create_ontology_cache=False,
                                                             preprocess_labels=True,
                                                             save_mappings=True)
-    save_mappings_subsets(variable_mappings, ["OHXREF_C", "OHXPRU_C", "OHXPRL_C", "OHXDEN_C"])
+    save_oral_health_tables(variable_mappings)  # Save tables for HDMS
