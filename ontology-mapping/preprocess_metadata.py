@@ -9,7 +9,8 @@ def main(input_file, column_to_process, save_processed_table=False):
 
 	processed_text = text2term.preprocess_terms(text_to_process, "resources/templates.txt", \
 												blacklist_path="resources/term_blacklist.txt", blacklist_char="-")
-	df["Processed Text"] = processed_text
+	df["Processed Text"] = ""
+	df["Processed Text"] = df[column_to_process].apply(lambda x: processed_text.get(x))
 
 	bl_df = pd.read_csv("resources/table_blacklist.csv")
 	for index, row in bl_df.iterrows():
