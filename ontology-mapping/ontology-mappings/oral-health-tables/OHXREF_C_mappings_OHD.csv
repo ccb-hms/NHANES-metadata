@@ -1,8 +1,12 @@
 Variable,Table,Source Term,Mapped Term Label,Mapped Term IRI,Mapping Score,Ontology
+OHAEXSTS,OHXREF_C,Overall Oral Health Exam Status,dental exam,http://purl.obolibrary.org/obo/OHD_0000019,0.35054576152681444,OHD
+OHAPOS,OHXREF_C,Was participant exam position recumbent,dental exam,http://purl.obolibrary.org/obo/OHD_0000019,0.3220416492856175,OHD
 OHAROCCI,OHXREF_C,Assessment of soft tissue lesion,soft tissue exam,http://purl.obolibrary.org/obo/OHD_0000032,0.524262346299612,OHD
 OHAROCDE,OHXREF_C,Denture/Partial Denture/plates,partial denture,http://purl.obolibrary.org/obo/OHD_0000310,0.8386326434252043,OHD
+OHAROCDT,OHXREF_C,Untreated Caries / Restorative needs,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.3417692581010124,OHD
 OHAROCGP,OHXREF_C,Periodontal needs,periodontist,http://purl.obolibrary.org/obo/OHD_0000187,0.5925853729990198,OHD
 OHAROTH,OHXREF_C,Some other finding,dental finding,http://purl.obolibrary.org/obo/OHD_0000010,0.5815037933473527,OHD
+OHQ140,OHXREF_C,bacterial endocarditis,endodontist,http://purl.obolibrary.org/obo/OHD_0000182,0.3265155289432194,OHD
 OHQ146,OHXREF_C,other artificial material,dental restoration material,http://purl.obolibrary.org/obo/OHD_0000000,0.4835506499599515,OHD
 OHQ410,OHXREF_C,Removable complete/partial max denture,partial denture,http://purl.obolibrary.org/obo/OHD_0000310,0.6148221258781145,OHD
 OHQ420,OHXREF_C,Wears complete/partial max denture,partial denture,http://purl.obolibrary.org/obo/OHD_0000310,0.691029851215894,OHD
@@ -11,7 +15,8 @@ OHQ440,OHXREF_C,Wears complete/partial Mand. denture,partial denture,http://purl
 OHQ490c,OHXREF_C,Cavities/Caries,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.6456752110161689,OHD
 OHQ490d,OHXREF_C,Broken/missing fillings or restorations,resin filling restoration procedure,http://purl.obolibrary.org/obo/OHD_0000042,0.5496542920492635,OHD
 OHQ490e,OHXREF_C,Broken / fractured teeth,fractured,http://purl.obolibrary.org/obo/OHD_0000043,0.5981196240924022,OHD
+OHQ490f,OHXREF_C,Staining/discoloration of teeth,stainless steel crown restoration procedure,http://purl.obolibrary.org/obo/OHD_0000163,0.34184672721257225,OHD
 OHQ490h,OHXREF_C,Teeth needing extractions,tooth extraction procedure,http://purl.obolibrary.org/obo/OHD_0000057,0.5424142826752069,OHD
 OHQ490i,OHXREF_C,Missing teeth,missing tooth finding,http://purl.obolibrary.org/obo/OHD_0000026,0.5555204020892739,OHD
-OHQ490j,OHXREF_C,Denture problems,partial denture,http://purl.obolibrary.org/obo/OHD_0000310,0.4018988807542257,OHD
+OHQ490j,OHXREF_C,Denture problems,partial denture,http://purl.obolibrary.org/obo/OHD_0000310,0.40189888075422575,OHD
 OHQ490k,OHXREF_C,Periodontal problems,periodontist,http://purl.obolibrary.org/obo/OHD_0000187,0.5877224722869983,OHD

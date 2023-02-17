@@ -3,7 +3,7 @@ OHAEXSTS,OHXREF_C,Overall Oral Health Exam Status,Health Status,http://purl.obol
 OHAPOS,OHXREF_C,Was participant exam position recumbent,Recumbent Position,http://purl.obolibrary.org/obo/NCIT_C77532,0.6660186732998112,NCIT
 OHARCMT,OHXREF_C,Other Referral Comments,Referral,http://purl.obolibrary.org/obo/NCIT_C52582,0.7374809778040029,NCIT
 OHAREC,OHXREF_C,Overall recommendation for care,Recommendation,http://purl.obolibrary.org/obo/NCIT_C25197,0.7458781386853685,NCIT
-OHARNF,OHXREF_C,No significant needs,Statistical Significance,http://purl.obolibrary.org/obo/NCIT_C61040,0.7886636705067758,NCIT
+OHARNF,OHXREF_C,No significant needs,Significant,http://purl.obolibrary.org/obo/NCIT_C41130,0.7886636705067758,NCIT
 OHAROCCI,OHXREF_C,Assessment of soft tissue lesion,Soft tissue lesion (disorder),http://snomed.info/id/239953001,0.6853536948671844,SNOMED
 OHAROCDE,OHXREF_C,Denture/Partial Denture/plates,partial denture,http://purl.obolibrary.org/obo/OHD_0000310,0.8386326434252043,OHD
 OHAROCDT,OHXREF_C,Untreated Caries / Restorative needs,Need,http://purl.obolibrary.org/obo/NCIT_C41204,0.5175782655331321,NCIT
@@ -17,8 +17,8 @@ OHQ132,OHXREF_C,a heart problem,Problem,http://purl.obolibrary.org/obo/NCIT_C280
 OHQ134,OHXREF_C,congenital heart murmurs,Heart Murmur,http://purl.obolibrary.org/obo/NCIT_C84480,0.7694159305541954,NCIT
 OHQ136,OHXREF_C,heart valve problem,heart valve disease,http://www.ebi.ac.uk/efo/EFO_0009551,0.7063819515384455,EFO
 OHQ138,OHXREF_C,congenital heart disease,Congenital Heart Disease,http://purl.obolibrary.org/obo/NCIT_C95834,0.9848300262202866,NCIT
-OHQ140,OHXREF_C,bacterial endocarditis,Bacterial Endocarditis,http://purl.obolibrary.org/obo/NCIT_C128359,0.9872359402556772,NCIT
-OHQ142,OHXREF_C,rheumatic fever,Rheumatic Fever,http://purl.obolibrary.org/obo/NCIT_C34984,0.9890656465400244,NCIT
+OHQ140,OHXREF_C,bacterial endocarditis,Bacterial Endocarditis,http://purl.obolibrary.org/obo/NCIT_C128359,0.9872359402556773,NCIT
+OHQ142,OHXREF_C,rheumatic fever,Rheumatic Fever,http://purl.obolibrary.org/obo/NCIT_C34984,0.9890656465400243,NCIT
 OHQ144,OHXREF_C,kidney disease w/ renal dialysis,Hemodialysis,http://purl.obolibrary.org/obo/NCIT_C15248,0.8226796691296383,NCIT
 OHQ146,OHXREF_C,other artificial material,Artificial,http://purl.obolibrary.org/obo/NCIT_C61464,0.8223983635491323,NCIT
 OHQ148,OHXREF_C,a hip bone or joint replacement,Joint Replacement,http://purl.obolibrary.org/obo/NCIT_C131579,0.8045950875550717,NCIT
@@ -27,14 +27,14 @@ OHQ420,OHXREF_C,Wears complete/partial max denture,partial denture,http://purl.o
 OHQ430,OHXREF_C,Removable complete/partial mand. denture,Defective mandibular removable partial denture (finding),http://snomed.info/id/699713000,0.6355468886910708,SNOMED
 OHQ440,OHXREF_C,Wears complete/partial Mand. denture,partial denture,http://purl.obolibrary.org/obo/OHD_0000310,0.6740130704674521,OHD
 OHQ490a,OHXREF_C,Toothache,toothache,http://www.ebi.ac.uk/efo/EFO_0010072,0.9782006680560708,EFO
-OHQ490b,OHXREF_C,Sensitivity,Sensitivity,http://purl.obolibrary.org/obo/NCIT_C25201,0.9947727291163394,NCIT
+OHQ490b,OHXREF_C,Sensitivity,Sensitivity,http://purl.obolibrary.org/obo/NCIT_C68816,0.9947727291163394,NCIT
 OHQ490c,OHXREF_C,Cavities/Caries,Caries,http://purl.obolibrary.org/obo/NCIT_C52593,0.8976122777053481,NCIT
 OHQ490d,OHXREF_C,Broken/missing fillings or restorations,resin filling restoration procedure,http://purl.obolibrary.org/obo/OHD_0000042,0.5496542920492635,OHD
 OHQ490e,OHXREF_C,Broken / fractured teeth,fractured,http://purl.obolibrary.org/obo/OHD_0000043,0.5981196240924022,OHD
 OHQ490f,OHXREF_C,Staining/discoloration of teeth,Discoloration,http://purl.obolibrary.org/obo/NCIT_C124525,0.7036691580181925,NCIT
-OHQ490g,OHXREF_C,Crooked teeth or need braces,Orthodontic Braces,http://purl.obolibrary.org/obo/NCIT_C94550,0.4827814319083781,NCIT
+OHQ490g,OHXREF_C,Crooked teeth or need braces,Orthodontic Braces,http://purl.obolibrary.org/obo/NCIT_C94550,0.48278143190837813,NCIT
 OHQ490h,OHXREF_C,Teeth needing extractions,Extraction,http://purl.obolibrary.org/obo/NCIT_C61575,0.6145177489723848,NCIT
-OHQ490i,OHXREF_C,Missing teeth,Missing Study Animal,http://purl.obolibrary.org/obo/NCIT_C96372,0.7717383653254789,NCIT
+OHQ490i,OHXREF_C,Missing teeth,Missing,http://purl.obolibrary.org/obo/NCIT_C54031,0.7717383653254789,NCIT
 OHQ490j,OHXREF_C,Denture problems,Denture,http://purl.obolibrary.org/obo/NCIT_C63720,0.6755270329166605,NCIT
 OHQ490k,OHXREF_C,Periodontal problems,Periodontal Route of Administration,http://purl.obolibrary.org/obo/NCIT_C38294,0.7600922105154211,NCIT
 OHQ490l,OHXREF_C,Unsatisfactory prior dental experience,Unsatisfactory,http://purl.obolibrary.org/obo/NCIT_C126862,0.6746734310533673,NCIT

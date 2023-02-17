@@ -15,12 +15,12 @@ OHX03TC,OHXDEN_C,Tooth Count: #3,Tooth,http://purl.obolibrary.org/obo/NCIT_C1250
 OHX04CSC,OHXDEN_C,Coronal Caries: Surface condition #4,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.6104123416116047,NCIT
 OHX04CTC,OHXDEN_C,Coronal Caries: Tooth count #4,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.5580753000461175,NCIT
 OHX04DI,OHXDEN_C,Fluorosis DI: #4,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.858374470134472,NCIT
-OHX04SE,OHXDEN_C,Dental Sealants: #4,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.6678986934926721,NCIT
+OHX04SE,OHXDEN_C,Dental Sealants: #4,Sealant Dosage Form,http://purl.obolibrary.org/obo/NCIT_C149892,0.6678986934926721,NCIT
 OHX04TC,OHXDEN_C,Tooth Count: #4,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.7050677485299286,NCIT
 OHX05CSC,OHXDEN_C,Coronal Caries: Surface condition #5,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.6107000210908478,NCIT
 OHX05CTC,OHXDEN_C,Coronal Caries: Tooth count #5,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.5584341447260417,NCIT
 OHX05DI,OHXDEN_C,Fluorosis DI: #5,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.8591822890482279,NCIT
-OHX05SE,OHXDEN_C,Dental Sealants: #5,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.6685083176704578,NCIT
+OHX05SE,OHXDEN_C,Dental Sealants: #5,Sealant Dosage Form,http://purl.obolibrary.org/obo/NCIT_C149892,0.6685083176704578,NCIT
 OHX05TC,OHXDEN_C,Tooth Count: #5,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.7060811143311354,NCIT
 OHX06CSC,OHXDEN_C,Coronal Caries: Surface condition #6,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.6074879369402308,NCIT
 OHX06CTC,OHXDEN_C,Coronal Caries: Tooth count #6,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.5544379016367452,NCIT
@@ -60,7 +60,7 @@ OHX12TC,OHXDEN_C,Tooth Count: #12,Tooth,http://purl.obolibrary.org/obo/NCIT_C125
 OHX13CSC,OHXDEN_C,Coronal Caries: Surface condition #13,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.590639729664,NCIT
 OHX13CTC,OHXDEN_C,Coronal Caries: Tooth count #13,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.5338409514954335,NCIT
 OHX13DI,OHXDEN_C,Fluorosis DI: #13,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.8054123572060814,NCIT
-OHX13SE,OHXDEN_C,Dental Sealants: #13,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.6278195594841786,NCIT
+OHX13SE,OHXDEN_C,Dental Sealants: #13,Sealant Dosage Form,http://purl.obolibrary.org/obo/NCIT_C149892,0.6278195594841786,NCIT
 OHX13TC,OHXDEN_C,Tooth Count: #13,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.6416866943278863,NCIT
 OHX14CSC,OHXDEN_C,Coronal Caries: Surface condition #14,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.5913767896373692,NCIT
 OHX14CTC,OHXDEN_C,Coronal Caries: Tooth count #14,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.5347295771610863,NCIT
@@ -70,7 +70,7 @@ OHX14TC,OHXDEN_C,Tooth Count: #14,Tooth,http://purl.obolibrary.org/obo/NCIT_C125
 OHX15CSC,OHXDEN_C,Coronal Caries: Surface condition #15,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.5886719030499862,NCIT
 OHX15CTC,OHXDEN_C,Coronal Caries: Tooth count #15,Tooth 15,http://purl.obolibrary.org/obo/NCIT_C94580,0.5884162958034616,NCIT
 OHX15DI,OHXDEN_C,Fluorosis DI: #15,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.8003991277527986,NCIT
-OHX15SE,OHXDEN_C,Dental Sealants: #15,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.6240146875629443,NCIT
+OHX15SE,OHXDEN_C,Dental Sealants: #15,Sealant Dosage Form,http://purl.obolibrary.org/obo/NCIT_C149892,0.6240146875629443,NCIT
 OHX15TC,OHXDEN_C,Tooth Count: #15,Tooth 15,http://purl.obolibrary.org/obo/NCIT_C94580,0.8327361721858954,NCIT
 OHX16TC,OHXDEN_C,Tooth Count: #16,Tooth 16,http://purl.obolibrary.org/obo/NCIT_C94581,0.8317756627791741,NCIT
 OHX17TC,OHXDEN_C,Tooth Count: #17,Tooth 17,http://purl.obolibrary.org/obo/NCIT_C94582,0.8370856416934255,NCIT
@@ -135,15 +135,15 @@ OHX29TC,OHXDEN_C,Tooth Count: #29,Tooth,http://purl.obolibrary.org/obo/NCIT_C125
 OHX30CSC,OHXDEN_C,Coronal Caries: Surface condition #30,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.6018591472804696,NCIT
 OHX30CTC,OHXDEN_C,Coronal Caries: Tooth count #30,Tooth 30,http://purl.obolibrary.org/obo/NCIT_C52667,0.5516113997238983,NCIT
 OHX30DI,OHXDEN_C,Fluorosis DI: #30,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.834862111263056,NCIT
-OHX30SE,OHXDEN_C,Dental Sealants: #30,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.6501324672754049,NCIT
+OHX30SE,OHXDEN_C,Dental Sealants: #30,Sealant Dosage Form,http://purl.obolibrary.org/obo/NCIT_C149892,0.6501324672754049,NCIT
 OHX30TC,OHXDEN_C,Tooth Count: #30,Tooth 30,http://purl.obolibrary.org/obo/NCIT_C52667,0.8057572558191899,NCIT
 OHX31CSC,OHXDEN_C,Coronal Caries: Surface condition #31,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.5855260510552645,NCIT
 OHX31CTC,OHXDEN_C,Coronal Caries: Tooth count #31,Tooth 31,http://purl.obolibrary.org/obo/NCIT_C94585,0.5964264260513272,NCIT
 OHX31DI,OHXDEN_C,Fluorosis DI: #31,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.7924744455856471,NCIT
-OHX31SE,OHXDEN_C,Dental Sealants: #31,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.6179962944069131,NCIT
+OHX31SE,OHXDEN_C,Dental Sealants: #31,Sealant Dosage Form,http://purl.obolibrary.org/obo/NCIT_C149892,0.6179962944069131,NCIT
 OHX31TC,OHXDEN_C,Tooth Count: #31,Tooth 31,http://purl.obolibrary.org/obo/NCIT_C94585,0.838155308250067,NCIT
 OHX32TC,OHXDEN_C,Tooth Count: #32,Tooth 32,http://purl.obolibrary.org/obo/NCIT_C94586,0.8475565575586368,NCIT
-OHXEDEN,OHXDEN_C,Edentulous-yes,Edentulous,http://purl.obolibrary.org/obo/NCIT_C63746,0.9171333654257028,NCIT
+OHXEDEN,OHXDEN_C,Edentulous-yes,Edentulous,http://purl.obolibrary.org/obo/NCIT_C63746,0.9171333654257027,NCIT
 OHXIMP,OHXDEN_C,Dental Implant: yes / no,Dental Implant,http://purl.obolibrary.org/obo/NCIT_C63718,0.8372136262101334,NCIT
 OHXRCAR,OHXDEN_C,Root Caries: yes / no,root caries,http://www.ebi.ac.uk/efo/EFO_1001163,0.8301301123782081,EFO
 OHXRRES,OHXDEN_C,Root restorations: yes / no,root structure,http://www.ebi.ac.uk/efo/EFO_0000989,0.527679092227172,EFO
