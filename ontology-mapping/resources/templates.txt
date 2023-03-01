@@ -1,17 +1,17 @@
 Ever been told you have (.*)
 Ever been told you had (.*)
-Ever told[ you]* had[ any]* (.*)
-Parents ever told had (.*)
+Ever told[ you]? had[ any]? (.*)
+Parents ever told had (.*);:;family history
 Ever treated for (.*)
 (.*) treated by (.*) doctor
-Close blood relative have (.*)
+Close blood relative have (.*);:;family history
 Doctor told you have (.*)
 Doctor ever told you have (.*)
-Age when first had (.*)
-Age when told you had (.*)
-Age when (.*) first diagnosed
-Age when (.*) started \([A-Za-z]+\)
-Age first told had (.*)
+Age when first had (.*);:;age
+Age when told you had (.*);:;age
+Age when (.*) first diagnosed;:;age
+Age when (.*) started \([A-Za-z]+\);:;age
+Age first told had (.*);:;age
 (.*) in past year
 Have (.*) now
 Do you still have [a]?(.*)
@@ -22,7 +22,7 @@ Had (.*) for [A-z 0-9]+
 Had (.*) [0-9] [A-z]+ in a row
 Ever had (.*)
 Reason (.*) occurred(.*)
-Age started (.*)
+Age started (.*);:;age
 Used last five days - (.*)
 When did SP (.*)
 Total # (.*)
@@ -37,11 +37,11 @@ Had (.*) Last 24 Hours(.*)\?
 Estimated (.*)
 Had (.*)\?
 Have (.*)\?
-Blood (.*) Comment Code
-[Cc]omment [Cc]ode for [an]*(.*)
-(.*) comment code
-(.*) Comment Code
-(.*) [Cc]omment
+Blood (.*) Comment Code;:;comment
+[Cc]omment [Cc]ode for [an]*(.*);:;comment
+(.*) comment code;:;comment
+(.*) Comment Code;:;comment
+(.*) [Cc]omment;:;comment
 Handcard: (.*)\?
 Doctor said (.*)
 When (SED) did you (.*)\?
@@ -50,7 +50,7 @@ Did you (.*)\?
 How often (.*)
 How long since (.*)
 Used (.*)
-Age when (.*)
+Age when (.*);:;age
 Specific Symptom: (.*)
 Gate: When last had (.*)
 Location [A-Za-z]+: (.*)

@@ -16,20 +16,32 @@ def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=(
     if not text2term.cache_exists(target_ontology):
         raise FileNotFoundError("Could not find cache file for ontology: " + target_ontology)
 
-    mappings_df = text2term.map_terms(
-        source_terms=terms_to_map,
-        target_ontology=target_ontology,
-        source_terms_ids=term_identifiers,
-        max_mappings=MAX_MAPPINGS_PER_ONTOLOGY,
-        min_score=MIN_MAPPING_SCORE,
-        base_iris=base_iris,
-        excl_deprecated=True,
-        save_mappings=False,
-        use_cache=True
-    )
+    if isinstance(terms_to_map[0], text2term.TaggedTerm):
+        mappings_df = text2term.map_tagged_terms(
+            tagged_terms_dict=terms_to_map,
+            target_ontology=target_ontology,
+            source_terms_ids=term_identifiers,
+            max_mappings=MAX_MAPPINGS_PER_ONTOLOGY,
+            min_score=MIN_MAPPING_SCORE,
+            base_iris=base_iris,
+            excl_deprecated=True,
+            save_mappings=False,
+            use_cache=True
+        )
+    else:
+        mappings_df = text2term.map_terms(
+            source_terms=terms_to_map,
+            target_ontology=target_ontology,
+            source_terms_ids=term_identifiers,
+            max_mappings=MAX_MAPPINGS_PER_ONTOLOGY,
+            min_score=MIN_MAPPING_SCORE,
+            base_iris=base_iris,
+            excl_deprecated=True,
+            save_mappings=False,
+            use_cache=True
+        )
     mappings_df["Ontology"] = target_ontology
     return mappings_df
-
 
 # Map the given terms to all ontologies listed in the ontologies table
 def map_to_ontologies(ontologies_table, terms_to_map, term_identifiers):
@@ -48,33 +60,42 @@ def map_to_ontologies(ontologies_table, terms_to_map, term_identifiers):
     all_mappings = all_mappings.drop_duplicates()
     return all_mappings
 
-
-def map_data_with_composite_ids(df, labels_column, variable_id_column, table_id_column):
-    sep = ":::"
-    combined_id_column = "Variable ID"
-    df[combined_id_column] = df[variable_id_column].astype(str) + sep + df[table_id_column]
-    mappings_df = map_data(df, labels_column, combined_id_column)
-    expanded_df = expand_composite_ids(mappings_df, variable_id_column, table_id_column, "Source Term Id", sep=sep)
-    return expanded_df
-
-
-def map_data(source_df, labels_column, label_ids_column):
-    terms, term_ids = get_terms_and_ids(source_df, labels_column, label_ids_column)
+def map_data(source_df, labels_column, label_ids_column, tags_column=""):
+    terms, term_ids = get_terms_and_ids(source_df, labels_column, label_ids_column, tags_column)
     mappings_df = map_to_ontologies(
         terms_to_map=terms,
         term_identifiers=term_ids,
         ontologies_table=TARGET_ONTOLOGIES)
     return mappings_df
 
-
-def get_terms_and_ids(nhanes_table, label_col, label_id_col):
-    terms = nhanes_table[label_col].tolist()
+def get_terms_and_ids(nhanes_table, label_col, label_id_col, tags_column="", term_identifiers=()):
+    if tags_column != "":
+        terms = []
+        for index, row in nhanes_table.iterrows():
+            tags = row[tags_column].split(",")
+            term = text2term.TaggedTerm(term=row[label_col], tags=tags, source_term_id=row[label_id_col])
+            terms.append(term)
+    else:
+        terms = nhanes_table[label_col].tolist()
     term_ids = nhanes_table[label_id_col].tolist()
     return terms, term_ids
 
+def map_data_with_composite_ids(df, labels_column, variable_id_column, table_id_column):
+    sep = ":::"
+    combined_id_column = "Variable ID"
+    df[combined_id_column] = df[variable_id_column].astype(str) + sep + df[table_id_column]
+    mappings_df = map_data(df, labels_column, combined_id_column, tags_column="Tags")
+    expanded_df = expand_composite_ids(mappings_df, variable_id_column, table_id_column, "Source Term Id", sep=sep)
+    return expanded_df
 
 def expand_composite_ids(df, id_1_col, id_2_col, mappings_df_id_col, sep=":::"):
-    df[[id_1_col, id_2_col]] = df[mappings_df_id_col].str.split(sep, expand=True)
+    temp_df = df[mappings_df_id_col].str.split(sep, n=1, expand=True)
+    if len(temp_df.columns) == 2:
+        temp_df.columns = [id_1_col, id_2_col]
+    else:
+        temp_df.columns = [id_1_col]
+        temp_df[id_2_col] = ""
+    df = df.join(temp_df)
     df = df.drop(columns=[mappings_df_id_col])
     cols_to_move = [id_1_col, id_2_col]
     df = df[cols_to_move + [col for col in df.columns if col not in cols_to_move]]
@@ -114,13 +135,14 @@ def save_mappings_subsets(df, nhanes_tables, output_folder, ontology="", top_map
 
 def map_nhanes_tables(save_mappings=False):
     source_file = "https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/metadata/nhanes_tables.csv"
-    mappings = map_data(source_df=pd.read_csv(source_file), labels_column="Table Name", label_ids_column="Table")
+    mappings = map_data(source_df=pd.read_csv(source_file), labels_column="Table Name", \
+                        label_ids_column="Table")
     if save_mappings:
         save_mappings_as_csv(mappings, output_file_label="nhanes_tables")
     return mappings
 
 
-def map_nhanes_variables(preprocess=False, save_mappings=False):
+def map_nhanes_variables(preprocess=True, save_mappings=False):
     source_file = "https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/metadata/nhanes_variables.csv"
     labels_column = "SAS Label"
     if preprocess:
