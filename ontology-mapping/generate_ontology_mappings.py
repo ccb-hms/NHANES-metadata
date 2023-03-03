@@ -3,10 +3,15 @@ import pandas as pd
 import text2term
 import preprocess_metadata
 
-__version__ = "0.4.0"
+__version__ = "0.5.1"
 
+# Input data
+NHANES_VARIABLES = "https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/metadata/nhanes_variables.csv"
+NHANES_TABLES = "https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/metadata/nhanes_tables.csv"
+
+# Mapping configuration
 MAX_MAPPINGS_PER_ONTOLOGY = 1
-MIN_MAPPING_SCORE = 0.4
+MIN_MAPPING_SCORE = 0.8
 MAPPINGS_OUTPUT_FOLDER = "ontology-mappings/"
 TARGET_ONTOLOGIES = "resources/ontologies.csv"
 
@@ -85,7 +90,7 @@ def map_data_with_composite_ids(df, labels_column, variable_id_column, table_id_
     combined_id_column = "Variable ID"
     df[combined_id_column] = df[variable_id_column].astype(str) + sep + df[table_id_column]
     mappings_df = map_data(df, labels_column, combined_id_column, tags_column="Tags")
-    expanded_df = expand_composite_ids(mappings_df, variable_id_column, table_id_column, "Source Term Id", sep=sep)
+    expanded_df = expand_composite_ids(mappings_df, variable_id_column, table_id_column, "Source Term ID", sep=sep)
     return expanded_df
 
 def expand_composite_ids(df, id_1_col, id_2_col, mappings_df_id_col, sep=":::"):
@@ -133,25 +138,22 @@ def save_mappings_subsets(df, nhanes_tables, output_folder, ontology="", top_map
                              output_folder=output_folder, top_mappings_only=top_mappings_only)
 
 
-def map_nhanes_tables(save_mappings=False):
-    source_file = "https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/metadata/nhanes_tables.csv"
-    mappings = map_data(source_df=pd.read_csv(source_file), labels_column="Table Name", \
-                        label_ids_column="Table")
+def map_nhanes_tables(tables_file=NHANES_TABLES, save_mappings=False):
+    mappings = map_data(source_df=pd.read_csv(tables_file), labels_column="Table Name", label_ids_column="Table")
     if save_mappings:
         save_mappings_as_csv(mappings, output_file_label="nhanes_tables")
     return mappings
 
 
-def map_nhanes_variables(preprocess=True, save_mappings=False):
-    source_file = "https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/metadata/nhanes_variables.csv"
+def map_nhanes_variables(variables_file=NHANES_VARIABLES, preprocess=False, save_mappings=False):
     labels_column = "SAS Label"
     if preprocess:
-        input_df = preprocess_metadata.main(input_file=source_file,
+        input_df = preprocess_metadata.main(input_file=variables_file,
                                             column_to_process=labels_column,
                                             save_processed_table=False)
         labels_column = "Processed Text"
     else:
-        input_df = pd.read_csv(source_file)
+        input_df = pd.read_csv(variables_file)
     mappings = map_data_with_composite_ids(df=input_df,
                                            labels_column=labels_column,
                                            variable_id_column="Variable",
@@ -161,7 +163,7 @@ def map_nhanes_variables(preprocess=True, save_mappings=False):
     return mappings
 
 
-def map_nhanes_metadata(create_ontology_cache, preprocess_labels, save_mappings):
+def map_nhanes_metadata(create_ontology_cache=False, preprocess_labels=False, save_mappings=False):
     if create_ontology_cache:
         text2term.cache_ontology_set(ontology_registry_path=TARGET_ONTOLOGIES)
     nhanes_table_mappings = map_nhanes_tables(save_mappings=save_mappings)
