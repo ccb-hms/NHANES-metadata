@@ -1,4 +1,0 @@
-pandas~=1.4.1
-Owlready2~=0.36
-text2term~=2.0.2
-ontoutils==0.3.0

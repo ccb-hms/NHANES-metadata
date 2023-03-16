@@ -1,0 +1,437 @@
+Variable,Table,Source Term,Mapped Term Label,Mapped Term IRI,Mapping Score,Ontology
+OHAEXSTS,OHXDEN_C,Overall Oral Health Exam Status,Health Status,http://purl.obolibrary.org/obo/NCIT_C16669,0.662586337,NCIT
+OHAEXSTS,OHXDEN_C,Overall Oral Health Exam Status,Oral health education (procedure),http://snomed.info/id/243085009,0.432278179,SNOMED
+OHAEXSTS,OHXDEN_C,Overall Oral Health Exam Status,dental exam,http://purl.obolibrary.org/obo/OHD_0000019,0.350545762,OHD
+OHASCST3,OHXDEN_C,Dentition Status Code,Status Code,http://purl.obolibrary.org/obo/NCIT_C164628,0.714198224,NCIT
+OHASCST3,OHXDEN_C,Dentition Status Code,Dentition (body structure),http://snomed.info/id/245543004,0.49701542,SNOMED
+OHASCST3,OHXDEN_C,Dentition Status Code,dentist,http://purl.obolibrary.org/obo/OHD_0000018,0.323605075,OHD
+OHX01TC,OHXDEN_C,Tooth Count: #1,Tooth 1,http://purl.obolibrary.org/obo/NCIT_C94579,0.783085921,NCIT
+OHX01TC,OHXDEN_C,Tooth Count: #1,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.619744522,SNOMED
+OHX01TC,OHXDEN_C,Tooth Count: #1,missing tooth 1 finding,http://purl.obolibrary.org/obo/OHD_0000059,0.364424332,OHD
+OHX02CSC,OHXDEN_C,Coronal Caries: Surface condition #2,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.614097528,NCIT
+OHX02CSC,OHXDEN_C,Coronal Caries: Surface condition #2,On conditional probation (finding),http://snomed.info/id/414936000,0.455255265,SNOMED
+OHX02CSC,OHXDEN_C,Coronal Caries: Surface condition #2,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.420643129,OHD
+OHX02CTC,OHXDEN_C,Coronal Caries: Tooth count #2,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.562686168,NCIT
+OHX02CTC,OHXDEN_C,Coronal Caries: Tooth count #2,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.469649284,SNOMED
+OHX02CTC,OHXDEN_C,Coronal Caries: Tooth count #2,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.462082396,OHD
+OHX02DI,OHXDEN_C,Fluorosis DI: #2,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.868809738,NCIT
+OHX02DI,OHXDEN_C,Fluorosis DI: #2,Fluorosis (disorder),http://snomed.info/id/244183009,0.770351322,SNOMED
+OHX02DI,OHXDEN_C,Fluorosis DI: #2,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.325839352,OHD
+OHX02SE,OHXDEN_C,Dental Sealants: #2,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.675769714,NCIT
+OHX02SE,OHXDEN_C,Dental Sealants: #2,Sealant (substance),http://snomed.info/id/311899008,0.507092251,SNOMED
+OHX02SE,OHXDEN_C,Dental Sealants: #2,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.392650296,OHD
+OHX02TC,OHXDEN_C,Tooth Count: #2,Tooth 2,http://purl.obolibrary.org/obo/NCIT_C94584,0.781332101,NCIT
+OHX02TC,OHXDEN_C,Tooth Count: #2,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.625827863,SNOMED
+OHX02TC,OHXDEN_C,Tooth Count: #2,missing tooth 2 finding,http://purl.obolibrary.org/obo/OHD_0000060,0.355107889,OHD
+OHX03CSC,OHXDEN_C,Coronal Caries: Surface condition #3,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.610387447,NCIT
+OHX03CSC,OHXDEN_C,Coronal Caries: Surface condition #3,On conditional probation (finding),http://snomed.info/id/414936000,0.452504833,SNOMED
+OHX03CSC,OHXDEN_C,Coronal Caries: Surface condition #3,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.418101807,OHD
+OHX03CTC,OHXDEN_C,Coronal Caries: Tooth count #3,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.558044256,NCIT
+OHX03CTC,OHXDEN_C,Coronal Caries: Tooth count #3,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.465774886,SNOMED
+OHX03CTC,OHXDEN_C,Coronal Caries: Tooth count #3,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.458270421,OHD
+OHX03DI,OHXDEN_C,Fluorosis DI: #3,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.858304619,NCIT
+OHX03DI,OHXDEN_C,Fluorosis DI: #3,Fluorosis (disorder),http://snomed.info/id/244183009,0.761036703,SNOMED
+OHX03DI,OHXDEN_C,Fluorosis DI: #3,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.321899501,OHD
+OHX03SE,OHXDEN_C,Dental Sealants: #3,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.667845978,NCIT
+OHX03SE,OHXDEN_C,Dental Sealants: #3,Sealant (substance),http://snomed.info/id/311899008,0.501146342,SNOMED
+OHX03SE,OHXDEN_C,Dental Sealants: #3,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.388046276,OHD
+OHX03TC,OHXDEN_C,Tooth Count: #3,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.704980195,NCIT
+OHX03TC,OHXDEN_C,Tooth Count: #3,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.614243449,SNOMED
+OHX03TC,OHXDEN_C,Tooth Count: #3,missing tooth 3 finding,http://purl.obolibrary.org/obo/OHD_0000061,0.372026734,OHD
+OHX04CSC,OHXDEN_C,Coronal Caries: Surface condition #4,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.610412342,NCIT
+OHX04CSC,OHXDEN_C,Coronal Caries: Surface condition #4,On conditional probation (finding),http://snomed.info/id/414936000,0.452523288,SNOMED
+OHX04CSC,OHXDEN_C,Coronal Caries: Surface condition #4,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.418118859,OHD
+OHX04CTC,OHXDEN_C,Coronal Caries: Tooth count #4,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.5580753,NCIT
+OHX04CTC,OHXDEN_C,Coronal Caries: Tooth count #4,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.465800797,SNOMED
+OHX04CTC,OHXDEN_C,Coronal Caries: Tooth count #4,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.458295914,OHD
+OHX04DI,OHXDEN_C,Fluorosis DI: #4,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.85837447,NCIT
+OHX04DI,OHXDEN_C,Fluorosis DI: #4,Fluorosis (disorder),http://snomed.info/id/244183009,0.761098638,SNOMED
+OHX04DI,OHXDEN_C,Fluorosis DI: #4,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.321925698,OHD
+OHX04SE,OHXDEN_C,Dental Sealants: #4,Sealant Dosage Form,http://purl.obolibrary.org/obo/NCIT_C149892,0.667898693,NCIT
+OHX04SE,OHXDEN_C,Dental Sealants: #4,Sealant (substance),http://snomed.info/id/311899008,0.5011859,SNOMED
+OHX04SE,OHXDEN_C,Dental Sealants: #4,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.388076906,OHD
+OHX04TC,OHXDEN_C,Tooth Count: #4,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.705067749,NCIT
+OHX04TC,OHXDEN_C,Tooth Count: #4,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.614319734,SNOMED
+OHX04TC,OHXDEN_C,Tooth Count: #4,missing tooth 4 finding,http://purl.obolibrary.org/obo/OHD_0000062,0.371925939,OHD
+OHX05CSC,OHXDEN_C,Coronal Caries: Surface condition #5,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.610700021,NCIT
+OHX05CSC,OHXDEN_C,Coronal Caries: Surface condition #5,On conditional probation (finding),http://snomed.info/id/414936000,0.452736556,SNOMED
+OHX05CSC,OHXDEN_C,Coronal Caries: Surface condition #5,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.418315913,OHD
+OHX05CTC,OHXDEN_C,Coronal Caries: Tooth count #5,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.558434145,NCIT
+OHX05CTC,OHXDEN_C,Coronal Caries: Tooth count #5,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.466100309,SNOMED
+OHX05CTC,OHXDEN_C,Coronal Caries: Tooth count #5,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.4585906,OHD
+OHX05DI,OHXDEN_C,Fluorosis DI: #5,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.859182289,NCIT
+OHX05DI,OHXDEN_C,Fluorosis DI: #5,Fluorosis (disorder),http://snomed.info/id/244183009,0.76181491,SNOMED
+OHX05DI,OHXDEN_C,Fluorosis DI: #5,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.322228663,OHD
+OHX05SE,OHXDEN_C,Dental Sealants: #5,Sealant Dosage Form,http://purl.obolibrary.org/obo/NCIT_C149892,0.668508318,NCIT
+OHX05SE,OHXDEN_C,Dental Sealants: #5,Sealant (substance),http://snomed.info/id/311899008,0.501643357,SNOMED
+OHX05SE,OHXDEN_C,Dental Sealants: #5,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.388431123,OHD
+OHX05TC,OHXDEN_C,Tooth Count: #5,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.706081114,NCIT
+OHX05TC,OHXDEN_C,Tooth Count: #5,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.615202672,SNOMED
+OHX05TC,OHXDEN_C,Tooth Count: #5,missing tooth 5 finding,http://purl.obolibrary.org/obo/OHD_0000063,0.370750323,OHD
+OHX06CSC,OHXDEN_C,Coronal Caries: Surface condition #6,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.607487937,NCIT
+OHX06CSC,OHXDEN_C,Coronal Caries: Surface condition #6,On conditional probation (finding),http://snomed.info/id/414936000,0.450355309,SNOMED
+OHX06CSC,OHXDEN_C,Coronal Caries: Surface condition #6,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.416115707,OHD
+OHX06CTC,OHXDEN_C,Coronal Caries: Tooth count #6,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.554437902,NCIT
+OHX06CTC,OHXDEN_C,Coronal Caries: Tooth count #6,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.462764821,SNOMED
+OHX06CTC,OHXDEN_C,Coronal Caries: Tooth count #6,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.455308853,OHD
+OHX06DI,OHXDEN_C,Fluorosis DI: #6,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.85022652,NCIT
+OHX06DI,OHXDEN_C,Fluorosis DI: #6,Fluorosis (disorder),http://snomed.info/id/244183009,0.75387406,SNOMED
+OHX06DI,OHXDEN_C,Fluorosis DI: #6,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.318869882,OHD
+OHX06TC,OHXDEN_C,Tooth Count: #6,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.694929808,NCIT
+OHX06TC,OHXDEN_C,Tooth Count: #6,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.60548663,SNOMED
+OHX06TC,OHXDEN_C,Tooth Count: #6,missing tooth 6 finding,http://purl.obolibrary.org/obo/OHD_0000064,0.382853858,OHD
+OHX07CSC,OHXDEN_C,Coronal Caries: Surface condition #7,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.604485105,NCIT
+OHX07CSC,OHXDEN_C,Coronal Caries: Surface condition #7,On conditional probation (finding),http://snomed.info/id/414936000,0.448129188,SNOMED
+OHX07CSC,OHXDEN_C,Coronal Caries: Surface condition #7,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.414058833,OHD
+OHX07CTC,OHXDEN_C,Coronal Caries: Tooth count #7,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.55072254,NCIT
+OHX07CTC,OHXDEN_C,Coronal Caries: Tooth count #7,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.459663773,SNOMED
+OHX07CTC,OHXDEN_C,Coronal Caries: Tooth count #7,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.452257769,OHD
+OHX07DI,OHXDEN_C,Fluorosis DI: #7,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.841978781,NCIT
+OHX07DI,OHXDEN_C,Fluorosis DI: #7,Fluorosis (disorder),http://snomed.info/id/244183009,0.746561001,SNOMED
+OHX07DI,OHXDEN_C,Fluorosis DI: #7,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.315776641,OHD
+OHX07SE,OHXDEN_C,Dental Sealants: #7,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.655514479,NCIT
+OHX07SE,OHXDEN_C,Dental Sealants: #7,Sealant (substance),http://snomed.info/id/311899008,0.491892883,SNOMED
+OHX07SE,OHXDEN_C,Dental Sealants: #7,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.380881163,OHD
+OHX07TC,OHXDEN_C,Tooth Count: #7,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.684818289,NCIT
+OHX07TC,OHXDEN_C,Tooth Count: #7,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.596676546,SNOMED
+OHX07TC,OHXDEN_C,Tooth Count: #7,missing tooth 7 finding,http://purl.obolibrary.org/obo/OHD_0000066,0.392485097,OHD
+OHX07TR,OHXDEN_C,Incisor Trauma: #7,Traumatized incisor (disorder),http://snomed.info/id/404199004,0.684855592,SNOMED
+OHX07TR,OHXDEN_C,Incisor Trauma: #7,Incisor,http://purl.obolibrary.org/obo/NCIT_C32769,0.681974968,NCIT
+OHX07TR,OHXDEN_C,Incisor Trauma: #7,prosthetic left upper central secondary incisor tooth,http://purl.obolibrary.org/obo/OHD_0000325,0.376906871,OHD
+OHX08CSC,OHXDEN_C,Coronal Caries: Surface condition #8,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.60335794,NCIT
+OHX08CSC,OHXDEN_C,Coronal Caries: Surface condition #8,On conditional probation (finding),http://snomed.info/id/414936000,0.447293576,SNOMED
+OHX08CSC,OHXDEN_C,Coronal Caries: Surface condition #8,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.413286751,OHD
+OHX08CTC,OHXDEN_C,Coronal Caries: Tooth count #8,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.549332983,NCIT
+OHX08CTC,OHXDEN_C,Coronal Caries: Tooth count #8,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.458503971,SNOMED
+OHX08CTC,OHXDEN_C,Coronal Caries: Tooth count #8,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.451116653,OHD
+OHX08DI,OHXDEN_C,Fluorosis DI: #8,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.838913205,NCIT
+OHX08DI,OHXDEN_C,Fluorosis DI: #8,Fluorosis (disorder),http://snomed.info/id/244183009,0.743842833,SNOMED
+OHX08DI,OHXDEN_C,Fluorosis DI: #8,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.314626924,OHD
+OHX08TC,OHXDEN_C,Tooth Count: #8,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.681097558,NCIT
+OHX08TC,OHXDEN_C,Tooth Count: #8,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.593434704,SNOMED
+OHX08TC,OHXDEN_C,Tooth Count: #8,missing tooth 8 finding,http://purl.obolibrary.org/obo/OHD_0000067,0.395763307,OHD
+OHX08TR,OHXDEN_C,Incisor Trauma: #8,Traumatized incisor (disorder),http://snomed.info/id/404199004,0.683253173,SNOMED
+OHX08TR,OHXDEN_C,Incisor Trauma: #8,Incisor,http://purl.obolibrary.org/obo/NCIT_C32769,0.68037929,NCIT
+OHX08TR,OHXDEN_C,Incisor Trauma: #8,prosthetic left upper central secondary incisor tooth,http://purl.obolibrary.org/obo/OHD_0000325,0.376024988,OHD
+OHX09CSC,OHXDEN_C,Coronal Caries: Surface condition #9,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.604017963,NCIT
+OHX09CSC,OHXDEN_C,Coronal Caries: Surface condition #9,On conditional probation (finding),http://snomed.info/id/414936000,0.447782878,SNOMED
+OHX09CSC,OHXDEN_C,Coronal Caries: Surface condition #9,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.413738852,OHD
+OHX09CTC,OHXDEN_C,Coronal Caries: Tooth count #9,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.550146319,NCIT
+OHX09CTC,OHXDEN_C,Coronal Caries: Tooth count #9,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.459182827,SNOMED
+OHX09CTC,OHXDEN_C,Coronal Caries: Tooth count #9,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.451784572,OHD
+OHX09DI,OHXDEN_C,Fluorosis DI: #9,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.840706298,NCIT
+OHX09DI,OHXDEN_C,Fluorosis DI: #9,Fluorosis (disorder),http://snomed.info/id/244183009,0.745432723,SNOMED
+OHX09DI,OHXDEN_C,Fluorosis DI: #9,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.315299407,OHD
+OHX09TC,OHXDEN_C,Tooth Count: #9,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.683271418,NCIT
+OHX09TC,OHXDEN_C,Tooth Count: #9,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.595328771,SNOMED
+OHX09TC,OHXDEN_C,Tooth Count: #9,missing tooth 9 finding,http://purl.obolibrary.org/obo/OHD_0000068,0.393864001,OHD
+OHX09TR,OHXDEN_C,Incisor Trauma: #9,Traumatized incisor (disorder),http://snomed.info/id/404199004,0.684191209,SNOMED
+OHX09TR,OHXDEN_C,Incisor Trauma: #9,Incisor,http://purl.obolibrary.org/obo/NCIT_C32769,0.681313379,NCIT
+OHX09TR,OHXDEN_C,Incisor Trauma: #9,prosthetic left upper central secondary incisor tooth,http://purl.obolibrary.org/obo/OHD_0000325,0.376541231,OHD
+OHX10CSC,OHXDEN_C,Coronal Caries: Surface condition #10,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.594191312,NCIT
+OHX10CSC,OHXDEN_C,Coronal Caries: Surface condition #10,On conditional probation (finding),http://snomed.info/id/414936000,0.440497984,SNOMED
+OHX10CSC,OHXDEN_C,Coronal Caries: Surface condition #10,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.407007814,OHD
+OHX10CTC,OHXDEN_C,Coronal Caries: Tooth count #10,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.538133119,NCIT
+OHX10CTC,OHXDEN_C,Coronal Caries: Tooth count #10,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.449155939,SNOMED
+OHX10CTC,OHXDEN_C,Coronal Caries: Tooth count #10,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.441919235,OHD
+OHX10DI,OHXDEN_C,Fluorosis DI: #10,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.814572545,NCIT
+OHX10DI,OHXDEN_C,Fluorosis DI: #10,Fluorosis (disorder),http://snomed.info/id/244183009,0.722260594,SNOMED
+OHX10DI,OHXDEN_C,Fluorosis DI: #10,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.305498176,OHD
+OHX10SE,OHXDEN_C,Dental Sealants: #10,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.634766948,NCIT
+OHX10SE,OHXDEN_C,Dental Sealants: #10,Sealant (substance),http://snomed.info/id/311899008,0.4763241,SNOMED
+OHX10SE,OHXDEN_C,Dental Sealants: #10,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.368825985,OHD
+OHX10TC,OHXDEN_C,Tooth Count: #10,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.652243717,NCIT
+OHX10TC,OHXDEN_C,Tooth Count: #10,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.56829459,SNOMED
+OHX10TC,OHXDEN_C,Tooth Count: #10,missing tooth 10 finding,http://purl.obolibrary.org/obo/OHD_0000069,0.465562403,OHD
+OHX10TR,OHXDEN_C,Incisor Trauma: #10,Traumatized incisor (disorder),http://snomed.info/id/404199004,0.67030553,SNOMED
+OHX10TR,OHXDEN_C,Incisor Trauma: #10,Incisor,http://purl.obolibrary.org/obo/NCIT_C32769,0.667486107,NCIT
+OHX10TR,OHXDEN_C,Incisor Trauma: #10,prosthetic left upper central secondary incisor tooth,http://purl.obolibrary.org/obo/OHD_0000325,0.368899317,OHD
+OHX11CSC,OHXDEN_C,Coronal Caries: Surface condition #11,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.591479238,NCIT
+OHX11CSC,OHXDEN_C,Coronal Caries: Surface condition #11,On conditional probation (finding),http://snomed.info/id/414936000,0.438487415,SNOMED
+OHX11CSC,OHXDEN_C,Coronal Caries: Surface condition #11,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.405150104,OHD
+OHX11CTC,OHXDEN_C,Coronal Caries: Tooth Count #11,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.53485318,NCIT
+OHX11CTC,OHXDEN_C,Coronal Caries: Tooth Count #11,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.446418319,SNOMED
+OHX11CTC,OHXDEN_C,Coronal Caries: Tooth Count #11,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.439225723,OHD
+OHX11DI,OHXDEN_C,Fluorosis DI: #11,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.807564463,NCIT
+OHX11DI,OHXDEN_C,Fluorosis DI: #11,Fluorosis (disorder),http://snomed.info/id/244183009,0.716046707,SNOMED
+OHX11DI,OHXDEN_C,Fluorosis DI: #11,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.302869857,OHD
+OHX11TC,OHXDEN_C,Tooth Count: #11,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.644152762,NCIT
+OHX11TC,OHXDEN_C,Tooth Count: #11,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.561245008,SNOMED
+OHX11TC,OHXDEN_C,Tooth Count: #11,missing tooth 11 finding,http://purl.obolibrary.org/obo/OHD_0000070,0.473431046,OHD
+OHX12CSC,OHXDEN_C,Coronal Caries: Surface condition #12,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.600542205,NCIT
+OHX12CSC,OHXDEN_C,Coronal Caries: Surface condition #12,On conditional probation (finding),http://snomed.info/id/414936000,0.445206158,SNOMED
+OHX12CSC,OHXDEN_C,Coronal Caries: Surface condition #12,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.411358035,OHD
+OHX12CTC,OHXDEN_C,Coronal Caries: Tooth count #12,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.545873732,NCIT
+OHX12CTC,OHXDEN_C,Coronal Caries: Tooth count #12,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.455616687,SNOMED
+OHX12CTC,OHXDEN_C,Coronal Caries: Tooth count #12,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.448275889,OHD
+OHX12DI,OHXDEN_C,Fluorosis DI: #12,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.831325995,NCIT
+OHX12DI,OHXDEN_C,Fluorosis DI: #12,Fluorosis (disorder),http://snomed.info/id/244183009,0.737115449,SNOMED
+OHX12DI,OHXDEN_C,Fluorosis DI: #12,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.311781408,OHD
+OHX12SE,OHXDEN_C,Dental Sealants: #12,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.647456803,NCIT
+OHX12SE,OHXDEN_C,Dental Sealants: #12,Sealant (substance),http://snomed.info/id/311899008,0.485846467,SNOMED
+OHX12SE,OHXDEN_C,Dental Sealants: #12,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.376199318,OHD
+OHX12TC,OHXDEN_C,Tooth Count: #12,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.671974209,NCIT
+OHX12TC,OHXDEN_C,Tooth Count: #12,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.585485605,SNOMED
+OHX12TC,OHXDEN_C,Tooth Count: #12,missing tooth 12 finding,http://purl.obolibrary.org/obo/OHD_0000071,0.445258302,OHD
+OHX13CSC,OHXDEN_C,Coronal Caries: Surface condition #13,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.59063973,NCIT
+OHX13CSC,OHXDEN_C,Coronal Caries: Surface condition #13,On conditional probation (finding),http://snomed.info/id/414936000,0.437865053,SNOMED
+OHX13CSC,OHXDEN_C,Coronal Caries: Surface condition #13,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.40457506,OHD
+OHX13CTC,OHXDEN_C,Coronal Caries: Tooth count #13,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.533840951,NCIT
+OHX13CTC,OHXDEN_C,Coronal Caries: Tooth count #13,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.445573457,SNOMED
+OHX13CTC,OHXDEN_C,Coronal Caries: Tooth count #13,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.438394473,OHD
+OHX13DI,OHXDEN_C,Fluorosis DI: #13,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.805412357,NCIT
+OHX13DI,OHXDEN_C,Fluorosis DI: #13,Fluorosis (disorder),http://snomed.info/id/244183009,0.71413849,SNOMED
+OHX13DI,OHXDEN_C,Fluorosis DI: #13,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.302062729,OHD
+OHX13SE,OHXDEN_C,Dental Sealants: #13,Sealant Dosage Form,http://purl.obolibrary.org/obo/NCIT_C149892,0.627819559,NCIT
+OHX13SE,OHXDEN_C,Dental Sealants: #13,Sealant (substance),http://snomed.info/id/311899008,0.471110834,SNOMED
+OHX13SE,OHXDEN_C,Dental Sealants: #13,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.364789263,OHD
+OHX13TC,OHXDEN_C,Tooth Count: #13,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.641686694,NCIT
+OHX13TC,OHXDEN_C,Tooth Count: #13,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.559096343,SNOMED
+OHX13TC,OHXDEN_C,Tooth Count: #13,missing tooth 13 finding,http://purl.obolibrary.org/obo/OHD_0000072,0.475690829,OHD
+OHX14CSC,OHXDEN_C,Coronal Caries: Surface condition #14,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.59137679,NCIT
+OHX14CSC,OHXDEN_C,Coronal Caries: Surface condition #14,On conditional probation (finding),http://snomed.info/id/414936000,0.438411466,SNOMED
+OHX14CSC,OHXDEN_C,Coronal Caries: Surface condition #14,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.405079929,OHD
+OHX14CTC,OHXDEN_C,Coronal Caries: Tooth count #14,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.534729577,NCIT
+OHX14CTC,OHXDEN_C,Coronal Caries: Tooth count #14,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.446315153,SNOMED
+OHX14CTC,OHXDEN_C,Coronal Caries: Tooth count #14,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.439124219,OHD
+OHX14DI,OHXDEN_C,Fluorosis DI: #14,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.807301401,NCIT
+OHX14DI,OHXDEN_C,Fluorosis DI: #14,Fluorosis (disorder),http://snomed.info/id/244183009,0.715813457,SNOMED
+OHX14DI,OHXDEN_C,Fluorosis DI: #14,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.302771198,OHD
+OHX14SE,OHXDEN_C,Dental Sealants: #14,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.629252791,NCIT
+OHX14SE,OHXDEN_C,Dental Sealants: #14,Sealant (substance),http://snomed.info/id/311899008,0.47218632,SNOMED
+OHX14SE,OHXDEN_C,Dental Sealants: #14,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.36562203,OHD
+OHX14TC,OHXDEN_C,Tooth Count: #14,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.64385086,NCIT
+OHX14TC,OHXDEN_C,Tooth Count: #14,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.560981962,SNOMED
+OHX14TC,OHXDEN_C,Tooth Count: #14,missing tooth 14 finding,http://purl.obolibrary.org/obo/OHD_0000028,0.473905665,OHD
+OHX15CSC,OHXDEN_C,Coronal Caries: Surface condition #15,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.588671903,NCIT
+OHX15CSC,OHXDEN_C,Coronal Caries: Surface condition #15,On conditional probation (finding),http://snomed.info/id/414936000,0.436406224,SNOMED
+OHX15CSC,OHXDEN_C,Coronal Caries: Surface condition #15,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.403227142,OHD
+OHX15CTC,OHXDEN_C,Coronal Caries: Tooth count #15,Tooth 15,http://purl.obolibrary.org/obo/NCIT_C94580,0.588416296,NCIT
+OHX15CTC,OHXDEN_C,Coronal Caries: Tooth count #15,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.443597771,SNOMED
+OHX15CTC,OHXDEN_C,Coronal Caries: Tooth count #15,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.436450619,OHD
+OHX15DI,OHXDEN_C,Fluorosis DI: #15,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.800399128,NCIT
+OHX15DI,OHXDEN_C,Fluorosis DI: #15,Fluorosis (disorder),http://snomed.info/id/244183009,0.709693388,SNOMED
+OHX15DI,OHXDEN_C,Fluorosis DI: #15,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.300182562,OHD
+OHX15SE,OHXDEN_C,Dental Sealants: #15,Sealant Dosage Form,http://purl.obolibrary.org/obo/NCIT_C149892,0.624014688,NCIT
+OHX15SE,OHXDEN_C,Dental Sealants: #15,Sealant (substance),http://snomed.info/id/311899008,0.468255689,SNOMED
+OHX15SE,OHXDEN_C,Dental Sealants: #15,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.362578474,OHD
+OHX15TC,OHXDEN_C,Tooth Count: #15,Tooth 15,http://purl.obolibrary.org/obo/NCIT_C94580,0.832736172,NCIT
+OHX15TC,OHXDEN_C,Tooth Count: #15,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.554120073,SNOMED
+OHX15TC,OHXDEN_C,Tooth Count: #15,missing tooth 15 finding,http://purl.obolibrary.org/obo/OHD_0000073,0.480685943,OHD
+OHX16TC,OHXDEN_C,Tooth Count: #16,Tooth 16,http://purl.obolibrary.org/obo/NCIT_C94581,0.831775663,NCIT
+OHX16TC,OHXDEN_C,Tooth Count: #16,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.555220322,SNOMED
+OHX16TC,OHXDEN_C,Tooth Count: #16,missing tooth 16 finding,http://purl.obolibrary.org/obo/OHD_0000074,0.479741576,OHD
+OHX17TC,OHXDEN_C,Tooth Count: #17,Tooth 17,http://purl.obolibrary.org/obo/NCIT_C94582,0.837085642,NCIT
+OHX17TC,OHXDEN_C,Tooth Count: #17,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.545447889,SNOMED
+OHX17TC,OHXDEN_C,Tooth Count: #17,missing tooth 17 finding,http://purl.obolibrary.org/obo/OHD_0000075,0.489031652,OHD
+OHX18CSC,OHXDEN_C,Coronal Caries: Surface condition #18,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.595361139,NCIT
+OHX18CSC,OHXDEN_C,Coronal Caries: Surface condition #18,On conditional probation (finding),http://snomed.info/id/414936000,0.441365225,SNOMED
+OHX18CSC,OHXDEN_C,Coronal Caries: Surface condition #18,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.40780912,OHD
+OHX18CTC,OHXDEN_C,Coronal Caries: Tooth count #18,Tooth 18,http://purl.obolibrary.org/obo/NCIT_C94583,0.572220006,NCIT
+OHX18CTC,OHXDEN_C,Coronal Caries: Tooth count #18,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.450340702,SNOMED
+OHX18CTC,OHXDEN_C,Coronal Caries: Tooth count #18,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.44308491,OHD
+OHX18DI,OHXDEN_C,Fluorosis DI: #18,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.817622009,NCIT
+OHX18DI,OHXDEN_C,Fluorosis DI: #18,Fluorosis (disorder),http://snomed.info/id/244183009,0.724964476,SNOMED
+OHX18DI,OHXDEN_C,Fluorosis DI: #18,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.30664185,OHD
+OHX18SE,OHXDEN_C,Dental Sealants: #18,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.637078353,NCIT
+OHX18SE,OHXDEN_C,Dental Sealants: #18,Sealant (substance),http://snomed.info/id/311899008,0.47805856,SNOMED
+OHX18SE,OHXDEN_C,Dental Sealants: #18,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.370169007,OHD
+OHX18TC,OHXDEN_C,Tooth Count: #18,Tooth 18,http://purl.obolibrary.org/obo/NCIT_C94583,0.822547405,NCIT
+OHX18TC,OHXDEN_C,Tooth Count: #18,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.571387703,SNOMED
+OHX18TC,OHXDEN_C,Tooth Count: #18,missing tooth 18 finding,http://purl.obolibrary.org/obo/OHD_0000076,0.46256825,OHD
+OHX19CSC,OHXDEN_C,Coronal Caries: Surface condition #19,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.588138049,NCIT
+OHX19CSC,OHXDEN_C,Coronal Caries: Surface condition #19,On conditional probation (finding),http://snomed.info/id/414936000,0.436010456,SNOMED
+OHX19CSC,OHXDEN_C,Coronal Caries: Surface condition #19,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.402861464,OHD
+OHX19CTC,OHXDEN_C,Coronal Caries: Tooth count #19,Tooth 19,http://purl.obolibrary.org/obo/NCIT_C60728,0.589490911,NCIT
+OHX19CTC,OHXDEN_C,Coronal Caries: Tooth count #19,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.443062913,SNOMED
+OHX19CTC,OHXDEN_C,Coronal Caries: Tooth count #19,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.435924378,OHD
+OHX19DI,OHXDEN_C,Fluorosis DI: #19,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.799046586,NCIT
+OHX19DI,OHXDEN_C,Fluorosis DI: #19,Fluorosis (disorder),http://snomed.info/id/244183009,0.708494124,SNOMED
+OHX19SE,OHXDEN_C,Dental Sealants: #19,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.622987832,NCIT
+OHX19SE,OHXDEN_C,Dental Sealants: #19,Sealant (substance),http://snomed.info/id/311899008,0.467485144,SNOMED
+OHX19SE,OHXDEN_C,Dental Sealants: #19,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.361981828,OHD
+OHX19TC,OHXDEN_C,Tooth Count: #19,Tooth 19,http://purl.obolibrary.org/obo/NCIT_C60728,0.833250677,NCIT
+OHX19TC,OHXDEN_C,Tooth Count: #19,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.552784364,SNOMED
+OHX19TC,OHXDEN_C,Tooth Count: #19,missing tooth 19 finding,http://purl.obolibrary.org/obo/OHD_0000077,0.482114235,OHD
+OHX20CSC,OHXDEN_C,Coronal Caries: Surface condition #20,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.593173022,NCIT
+OHX20CSC,OHXDEN_C,Coronal Caries: Surface condition #20,On conditional probation (finding),http://snomed.info/id/414936000,0.439743085,SNOMED
+OHX20CSC,OHXDEN_C,Coronal Caries: Surface condition #20,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.406310309,OHD
+OHX20CTC,OHXDEN_C,Coronal Caries: Tooth count #20,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.53689984,NCIT
+OHX20CTC,OHXDEN_C,Coronal Caries: Tooth count #20,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.448126576,SNOMED
+OHX20CTC,OHXDEN_C,Coronal Caries: Tooth count #20,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.440906456,OHD
+OHX20DI,OHXDEN_C,Fluorosis DI: #20,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.811931221,NCIT
+OHX20DI,OHXDEN_C,Fluorosis DI: #20,Fluorosis (disorder),http://snomed.info/id/244183009,0.7199186,SNOMED
+OHX20DI,OHXDEN_C,Fluorosis DI: #20,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.304507571,OHD
+OHX20SE,OHXDEN_C,Dental Sealants: #20,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.632764332,NCIT
+OHX20SE,OHXDEN_C,Dental Sealants: #20,Sealant (substance),http://snomed.info/id/311899008,0.474821352,SNOMED
+OHX20SE,OHXDEN_C,Dental Sealants: #20,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.367662381,OHD
+OHX20TC,OHXDEN_C,Tooth Count: #20,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.6491833,NCIT
+OHX20TC,OHXDEN_C,Tooth Count: #20,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.565628074,SNOMED
+OHX20TC,OHXDEN_C,Tooth Count: #20,missing tooth 20 finding,http://purl.obolibrary.org/obo/OHD_0000078,0.468934953,OHD
+OHX21CSC,OHXDEN_C,Coronal Caries: Surface condition #21,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.586012418,NCIT
+OHX21CSC,OHXDEN_C,Coronal Caries: Surface condition #21,On conditional probation (finding),http://snomed.info/id/414936000,0.43443464,SNOMED
+OHX21CSC,OHXDEN_C,Coronal Caries: Surface condition #21,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.401405454,OHD
+OHX21CTC,OHXDEN_C,Coronal Caries: Tooth count #21,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.528287252,NCIT
+OHX21CTC,OHXDEN_C,Coronal Caries: Tooth count #21,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.440938029,SNOMED
+OHX21CTC,OHXDEN_C,Coronal Caries: Tooth count #21,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.43383373,OHD
+OHX21DI,OHXDEN_C,Fluorosis DI: #21,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.793692536,NCIT
+OHX21DI,OHXDEN_C,Fluorosis DI: #21,Fluorosis (disorder),http://snomed.info/id/244183009,0.703746825,SNOMED
+OHX21SE,OHXDEN_C,Dental Sealants: #21,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.618921676,NCIT
+OHX21SE,OHXDEN_C,Dental Sealants: #21,Sealant (substance),http://snomed.info/id/311899008,0.464433933,SNOMED
+OHX21SE,OHXDEN_C,Dental Sealants: #21,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.359619223,OHD
+OHX21TC,OHXDEN_C,Tooth Count: #21,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.628406161,NCIT
+OHX21TC,OHXDEN_C,Tooth Count: #21,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.547525123,SNOMED
+OHX21TC,OHXDEN_C,Tooth Count: #21,missing tooth 21 finding,http://purl.obolibrary.org/obo/OHD_0000079,0.487228504,OHD
+OHX22CSC,OHXDEN_C,Coronal Caries: Surface condition #22,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.596253035,NCIT
+OHX22CSC,OHXDEN_C,Coronal Caries: Surface condition #22,On conditional probation (finding),http://snomed.info/id/414936000,0.442026423,SNOMED
+OHX22CSC,OHXDEN_C,Coronal Caries: Surface condition #22,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.408420049,OHD
+OHX22CTC,OHXDEN_C,Coronal Caries: Tooth count #22,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.540636718,NCIT
+OHX22CTC,OHXDEN_C,Coronal Caries: Tooth count #22,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.451245583,SNOMED
+OHX22CTC,OHXDEN_C,Coronal Caries: Tooth count #22,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.443975211,OHD
+OHX22DI,OHXDEN_C,Fluorosis DI: #22,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.819957898,NCIT
+OHX22DI,OHXDEN_C,Fluorosis DI: #22,Fluorosis (disorder),http://snomed.info/id/244183009,0.727035649,SNOMED
+OHX22DI,OHXDEN_C,Fluorosis DI: #22,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.307517905,OHD
+OHX22TC,OHXDEN_C,Tooth Count: #22,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.65852532,NCIT
+OHX22TC,OHXDEN_C,Tooth Count: #22,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.573767699,SNOMED
+OHX22TC,OHXDEN_C,Tooth Count: #22,missing tooth 22 finding,http://purl.obolibrary.org/obo/OHD_0000080,0.459831516,OHD
+OHX23CSC,OHXDEN_C,Coronal Caries: Surface condition #23,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.58929135,NCIT
+OHX23CSC,OHXDEN_C,Coronal Caries: Surface condition #23,On conditional probation (finding),http://snomed.info/id/414936000,0.436865445,SNOMED
+OHX23CSC,OHXDEN_C,Coronal Caries: Surface condition #23,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.40365145,OHD
+OHX23CTC,OHXDEN_C,Coronal Caries: Tooth count #23,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.532218161,NCIT
+OHX23CTC,OHXDEN_C,Coronal Caries: Tooth count #23,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.444218985,SNOMED
+OHX23CTC,OHXDEN_C,Coronal Caries: Tooth count #23,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.437061824,OHD
+OHX23DI,OHXDEN_C,Fluorosis DI: #23,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.80197252,NCIT
+OHX23DI,OHXDEN_C,Fluorosis DI: #23,Fluorosis (disorder),http://snomed.info/id/244183009,0.711088475,SNOMED
+OHX23DI,OHXDEN_C,Fluorosis DI: #23,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.300772649,OHD
+OHX23TC,OHXDEN_C,Tooth Count: #23,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.637762859,NCIT
+OHX23TC,OHXDEN_C,Tooth Count: #23,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.555677537,SNOMED
+OHX23TC,OHXDEN_C,Tooth Count: #23,missing tooth 23 finding,http://purl.obolibrary.org/obo/OHD_0000081,0.479281852,OHD
+OHX23TR,OHXDEN_C,Incisor Trauma: #23,Traumatized incisor (disorder),http://snomed.info/id/404199004,0.663444634,SNOMED
+OHX23TR,OHXDEN_C,Incisor Trauma: #23,Incisor,http://purl.obolibrary.org/obo/NCIT_C32769,0.660654068,NCIT
+OHX23TR,OHXDEN_C,Incisor Trauma: #23,prosthetic left upper central secondary incisor tooth,http://purl.obolibrary.org/obo/OHD_0000325,0.365123457,OHD
+OHX24CSC,OHXDEN_C,Coronal Caries: Surface condition #24,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.591124714,NCIT
+OHX24CSC,OHXDEN_C,Coronal Caries: Surface condition #24,On conditional probation (finding),http://snomed.info/id/414936000,0.438224592,SNOMED
+OHX24CSC,OHXDEN_C,Coronal Caries: Surface condition #24,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.404907264,OHD
+OHX24CTC,OHXDEN_C,Coronal Caries: Tooth count #24,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.534425541,NCIT
+OHX24CTC,OHXDEN_C,Coronal Caries: Tooth count #24,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.446061388,SNOMED
+OHX24CTC,OHXDEN_C,Coronal Caries: Tooth count #24,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.438874543,OHD
+OHX24DI,OHXDEN_C,Fluorosis DI: #24,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.806654647,NCIT
+OHX24DI,OHXDEN_C,Fluorosis DI: #24,Fluorosis (disorder),http://snomed.info/id/244183009,0.715239997,SNOMED
+OHX24DI,OHXDEN_C,Fluorosis DI: #24,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.302528639,OHD
+OHX24TC,OHXDEN_C,Tooth Count: #24,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.643109164,NCIT
+OHX24TC,OHXDEN_C,Tooth Count: #24,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.560335729,SNOMED
+OHX24TC,OHXDEN_C,Tooth Count: #24,missing tooth 24 finding,http://purl.obolibrary.org/obo/OHD_0000082,0.474577616,OHD
+OHX24TR,OHXDEN_C,Incisor Trauma: #24,Traumatized incisor (disorder),http://snomed.info/id/404199004,0.666006865,SNOMED
+OHX24TR,OHXDEN_C,Incisor Trauma: #24,Incisor,http://purl.obolibrary.org/obo/NCIT_C32769,0.663205522,NCIT
+OHX24TR,OHXDEN_C,Incisor Trauma: #24,prosthetic left upper central secondary incisor tooth,http://purl.obolibrary.org/obo/OHD_0000325,0.366533568,OHD
+OHX25CSC,OHXDEN_C,Coronal Caries: Surface condition #25,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.589949617,NCIT
+OHX25CSC,OHXDEN_C,Coronal Caries: Surface condition #25,On conditional probation (finding),http://snomed.info/id/414936000,0.437353445,SNOMED
+OHX25CSC,OHXDEN_C,Coronal Caries: Surface condition #25,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.404102348,OHD
+OHX25CTC,OHXDEN_C,Coronal Caries: Tooth count #25,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.533009931,NCIT
+OHX25CTC,OHXDEN_C,Coronal Caries: Tooth count #25,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.444879841,SNOMED
+OHX25CTC,OHXDEN_C,Coronal Caries: Tooth count #25,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.437712032,OHD
+OHX25DI,OHXDEN_C,Fluorosis DI: #25,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.803649247,NCIT
+OHX25DI,OHXDEN_C,Fluorosis DI: #25,Fluorosis (disorder),http://snomed.info/id/244183009,0.712575185,SNOMED
+OHX25DI,OHXDEN_C,Fluorosis DI: #25,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.30140149,OHD
+OHX25TC,OHXDEN_C,Tooth Count: #25,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.639672782,NCIT
+OHX25TC,OHXDEN_C,Tooth Count: #25,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.557341637,SNOMED
+OHX25TC,OHXDEN_C,Tooth Count: #25,missing tooth 25 finding,http://purl.obolibrary.org/obo/OHD_0000083,0.477660545,OHD
+OHX25TR,OHXDEN_C,Incisor Trauma: #25,Traumatized incisor (disorder),http://snomed.info/id/404199004,0.664363938,SNOMED
+OHX25TR,OHXDEN_C,Incisor Trauma: #25,Incisor,http://purl.obolibrary.org/obo/NCIT_C32769,0.661569505,NCIT
+OHX25TR,OHXDEN_C,Incisor Trauma: #25,prosthetic left upper central secondary incisor tooth,http://purl.obolibrary.org/obo/OHD_0000325,0.365629391,OHD
+OHX26CSC,OHXDEN_C,Coronal Caries: Surface condition #26,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.58592154,NCIT
+OHX26CSC,OHXDEN_C,Coronal Caries: Surface condition #26,On conditional probation (finding),http://snomed.info/id/414936000,0.434367269,SNOMED
+OHX26CSC,OHXDEN_C,Coronal Caries: Surface condition #26,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.401343205,OHD
+OHX26CTC,OHXDEN_C,Coronal Caries: Tooth count #26,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.528178611,NCIT
+OHX26CTC,OHXDEN_C,Coronal Caries: Tooth count #26,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.440847352,SNOMED
+OHX26CTC,OHXDEN_C,Coronal Caries: Tooth count #26,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.433744514,OHD
+OHX26DI,OHXDEN_C,Fluorosis DI: #26,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.793464739,NCIT
+OHX26DI,OHXDEN_C,Fluorosis DI: #26,Fluorosis (disorder),http://snomed.info/id/244183009,0.703544843,SNOMED
+OHX26TC,OHXDEN_C,Tooth Count: #26,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.628150478,NCIT
+OHX26TC,OHXDEN_C,Tooth Count: #26,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.547302348,SNOMED
+OHX26TC,OHXDEN_C,Tooth Count: #26,missing tooth 26 finding,http://purl.obolibrary.org/obo/OHD_0000084,0.487417741,OHD
+OHX26TR,OHXDEN_C,Incisor Trauma: #26,Traumatized incisor (disorder),http://snomed.info/id/404199004,0.658750053,SNOMED
+OHX26TR,OHXDEN_C,Incisor Trauma: #26,Incisor,http://purl.obolibrary.org/obo/NCIT_C32769,0.655979234,NCIT
+OHX26TR,OHXDEN_C,Incisor Trauma: #26,prosthetic left upper central secondary incisor tooth,http://purl.obolibrary.org/obo/OHD_0000325,0.362539817,OHD
+OHX27CSC,OHXDEN_C,Coronal Caries: Surface condition #27,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.584120664,NCIT
+OHX27CSC,OHXDEN_C,Coronal Caries: Surface condition #27,On conditional probation (finding),http://snomed.info/id/414936000,0.433032207,SNOMED
+OHX27CSC,OHXDEN_C,Coronal Caries: Surface condition #27,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.400109645,OHD
+OHX27CTC,OHXDEN_C,Coronal Caries: Tooth count #27,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.526029131,NCIT
+OHX27CTC,OHXDEN_C,Coronal Caries: Tooth count #27,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.439053275,SNOMED
+OHX27CTC,OHXDEN_C,Coronal Caries: Tooth count #27,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.431979343,OHD
+OHX27DI,OHXDEN_C,Fluorosis DI: #27,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.788969117,NCIT
+OHX27DI,OHXDEN_C,Fluorosis DI: #27,Fluorosis (disorder),http://snomed.info/id/244183009,0.69955869,SNOMED
+OHX27TC,OHXDEN_C,Tooth Count: #27,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.623123229,NCIT
+OHX27TC,OHXDEN_C,Tooth Count: #27,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.542922148,SNOMED
+OHX27TC,OHXDEN_C,Tooth Count: #27,missing tooth 27 finding,http://purl.obolibrary.org/obo/OHD_0000085,0.491429056,OHD
+OHX28CSC,OHXDEN_C,Coronal Caries: Surface condition #28,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.586309362,NCIT
+OHX28CSC,OHXDEN_C,Coronal Caries: Surface condition #28,On conditional probation (finding),http://snomed.info/id/414936000,0.434654777,SNOMED
+OHX28CSC,OHXDEN_C,Coronal Caries: Surface condition #28,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.401608855,OHD
+OHX28CTC,OHXDEN_C,Coronal Caries: Tooth count #28,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.528642352,NCIT
+OHX28CTC,OHXDEN_C,Coronal Caries: Tooth count #28,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.441234415,SNOMED
+OHX28CTC,OHXDEN_C,Coronal Caries: Tooth count #28,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.434125341,OHD
+OHX28DI,OHXDEN_C,Fluorosis DI: #28,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.794437493,NCIT
+OHX28DI,OHXDEN_C,Fluorosis DI: #28,Fluorosis (disorder),http://snomed.info/id/244183009,0.70440736,SNOMED
+OHX28SE,OHXDEN_C,Dental Sealants: #28,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.619487565,NCIT
+OHX28SE,OHXDEN_C,Dental Sealants: #28,Sealant (substance),http://snomed.info/id/311899008,0.464858571,SNOMED
+OHX28SE,OHXDEN_C,Dental Sealants: #28,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.359948028,OHD
+OHX28TC,OHXDEN_C,Tooth Count: #28,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.629242956,NCIT
+OHX28TC,OHXDEN_C,Tooth Count: #28,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.548254215,SNOMED
+OHX28TC,OHXDEN_C,Tooth Count: #28,missing tooth 28 finding,http://purl.obolibrary.org/obo/OHD_0000086,0.486480312,OHD
+OHX29CSC,OHXDEN_C,Coronal Caries: Surface condition #29,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.584576436,NCIT
+OHX29CSC,OHXDEN_C,Coronal Caries: Surface condition #29,On conditional probation (finding),http://snomed.info/id/414936000,0.433370089,SNOMED
+OHX29CSC,OHXDEN_C,Coronal Caries: Surface condition #29,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.400421839,OHD
+OHX29CTC,OHXDEN_C,Coronal Caries: Tooth count #29,Coronal Plane,http://purl.obolibrary.org/obo/NCIT_C94876,0.52657252,NCIT
+OHX29CTC,OHXDEN_C,Coronal Caries: Tooth count #29,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.439506818,SNOMED
+OHX29CTC,OHXDEN_C,Coronal Caries: Tooth count #29,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.432425578,OHD
+OHX29DI,OHXDEN_C,Fluorosis DI: #29,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.79010357,NCIT
+OHX29DI,OHXDEN_C,Fluorosis DI: #29,Fluorosis (disorder),http://snomed.info/id/244183009,0.700564581,SNOMED
+OHX29SE,OHXDEN_C,Dental Sealants: #29,Sealant,http://purl.obolibrary.org/obo/NCIT_C52587,0.616194829,NCIT
+OHX29SE,OHXDEN_C,Dental Sealants: #29,Sealant (substance),http://snomed.info/id/311899008,0.462387728,SNOMED
+OHX29SE,OHXDEN_C,Dental Sealants: #29,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.358034811,OHD
+OHX29TC,OHXDEN_C,Tooth Count: #29,Tooth,http://purl.obolibrary.org/obo/NCIT_C12506,0.624388493,NCIT
+OHX29TC,OHXDEN_C,Tooth Count: #29,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.544024562,SNOMED
+OHX29TC,OHXDEN_C,Tooth Count: #29,missing tooth 29 finding,http://purl.obolibrary.org/obo/OHD_0000087,0.490431989,OHD
+OHX30CSC,OHXDEN_C,Coronal Caries: Surface condition #30,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.601859147,NCIT
+OHX30CSC,OHXDEN_C,Coronal Caries: Surface condition #30,On conditional probation (finding),http://snomed.info/id/414936000,0.44618246,SNOMED
+OHX30CSC,OHXDEN_C,Coronal Caries: Surface condition #30,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.412260111,OHD
+OHX30CTC,OHXDEN_C,Coronal Caries: Tooth count #30,Tooth 30,http://purl.obolibrary.org/obo/NCIT_C52667,0.5516114,NCIT
+OHX30CTC,OHXDEN_C,Coronal Caries: Tooth count #30,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.456965326,SNOMED
+OHX30CTC,OHXDEN_C,Coronal Caries: Tooth count #30,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.449602799,OHD
+OHX30DI,OHXDEN_C,Fluorosis DI: #30,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.834862111,NCIT
+OHX30DI,OHXDEN_C,Fluorosis DI: #30,Fluorosis (disorder),http://snomed.info/id/244183009,0.740250832,SNOMED
+OHX30DI,OHXDEN_C,Fluorosis DI: #30,prosthesis,http://purl.obolibrary.org/obo/OHD_0000301,0.313107597,OHD
+OHX30SE,OHXDEN_C,Dental Sealants: #30,Sealant Dosage Form,http://purl.obolibrary.org/obo/NCIT_C149892,0.650132467,NCIT
+OHX30SE,OHXDEN_C,Dental Sealants: #30,Sealant (substance),http://snomed.info/id/311899008,0.487854264,SNOMED
+OHX30SE,OHXDEN_C,Dental Sealants: #30,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.37775399,OHD
+OHX30TC,OHXDEN_C,Tooth Count: #30,Tooth 30,http://purl.obolibrary.org/obo/NCIT_C52667,0.805757256,NCIT
+OHX30TC,OHXDEN_C,Tooth Count: #30,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.589177332,SNOMED
+OHX30TC,OHXDEN_C,Tooth Count: #30,missing tooth 30 finding,http://purl.obolibrary.org/obo/OHD_0000088,0.440409308,OHD
+OHX31CSC,OHXDEN_C,Coronal Caries: Surface condition #31,Conditional,http://purl.obolibrary.org/obo/NCIT_C63905,0.585526051,NCIT
+OHX31CSC,OHXDEN_C,Coronal Caries: Surface condition #31,On conditional probation (finding),http://snomed.info/id/414936000,0.434074077,SNOMED
+OHX31CSC,OHXDEN_C,Coronal Caries: Surface condition #31,restored tooth surface,http://purl.obolibrary.org/obo/OHD_0000208,0.401072304,OHD
+OHX31CTC,OHXDEN_C,Coronal Caries: Tooth count #31,Tooth 31,http://purl.obolibrary.org/obo/NCIT_C94585,0.596426426,NCIT
+OHX31CTC,OHXDEN_C,Coronal Caries: Tooth count #31,Coronal depression of tooth (body structure),http://snomed.info/id/9502002,0.440452895,SNOMED
+OHX31CTC,OHXDEN_C,Coronal Caries: Tooth count #31,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.433356412,OHD
+OHX31DI,OHXDEN_C,Fluorosis DI: #31,Dental Fluorosis,http://purl.obolibrary.org/obo/NCIT_C85059,0.792474446,NCIT
+OHX31DI,OHXDEN_C,Fluorosis DI: #31,Fluorosis (disorder),http://snomed.info/id/244183009,0.702666776,SNOMED
+OHX31SE,OHXDEN_C,Dental Sealants: #31,Sealant Dosage Form,http://purl.obolibrary.org/obo/NCIT_C149892,0.617996294,NCIT
+OHX31SE,OHXDEN_C,Dental Sealants: #31,Sealant (substance),http://snomed.info/id/311899008,0.463739534,SNOMED
+OHX31SE,OHXDEN_C,Dental Sealants: #31,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.359081538,OHD
+OHX31TC,OHXDEN_C,Tooth Count: #31,Tooth 31,http://purl.obolibrary.org/obo/NCIT_C94585,0.838155308,NCIT
+OHX31TC,OHXDEN_C,Tooth Count: #31,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.54633482,SNOMED
+OHX31TC,OHXDEN_C,Tooth Count: #31,missing tooth 31 finding,http://purl.obolibrary.org/obo/OHD_0000089,0.488316383,OHD
+OHX32TC,OHXDEN_C,Tooth Count: #32,Tooth 32,http://purl.obolibrary.org/obo/NCIT_C94586,0.847556558,NCIT
+OHX32TC,OHXDEN_C,Tooth Count: #32,Sound tooth count (observable entity),http://snomed.info/id/251320006,0.531850855,SNOMED
+OHX32TC,OHXDEN_C,Tooth Count: #32,missing tooth 32 finding,http://purl.obolibrary.org/obo/OHD_0000090,0.500956855,OHD
+OHXEDEN,OHXDEN_C,Edentulous-yes,Edentulous,http://purl.obolibrary.org/obo/NCIT_C63746,0.917133365,NCIT
+OHXEDEN,OHXDEN_C,Edentulous-yes,Edentulous (finding),http://snomed.info/id/278650002,0.815054461,SNOMED
+OHXIMP,OHXDEN_C,Dental Implant: yes / no,Dental Implant,http://purl.obolibrary.org/obo/NCIT_C63718,0.837213626,NCIT
+OHXIMP,OHXDEN_C,Dental Implant: yes / no,Fracture of dental implant (disorder),http://snomed.info/id/698686003,0.621537183,SNOMED
+OHXIMP,OHXDEN_C,Dental Implant: yes / no,dental procedure,http://purl.obolibrary.org/obo/OHD_0000002,0.331577876,OHD
+OHXRCAR,OHXDEN_C,Root Caries: yes / no,Root,http://purl.obolibrary.org/obo/NCIT_C33446,0.605449048,NCIT
+OHXRCAR,OHXDEN_C,Root Caries: yes / no,dental caries,http://purl.obolibrary.org/obo/OHD_0000031,0.518971813,OHD
+OHXRCAR,OHXDEN_C,Root Caries: yes / no,"Root amputation, per root (procedure)",http://snomed.info/id/23199002,0.467225549,SNOMED
+OHXRRES,OHXDEN_C,Root restorations: yes / no,Root,http://purl.obolibrary.org/obo/NCIT_C79664,0.523532104,NCIT
+OHXRRES,OHXDEN_C,Root restorations: yes / no,"Root amputation, per root (procedure)",http://snomed.info/id/23199002,0.448989584,SNOMED
+OHXRRES,OHXDEN_C,Root restorations: yes / no,tooth restoration procedure,http://purl.obolibrary.org/obo/OHD_0000004,0.418735621,OHD

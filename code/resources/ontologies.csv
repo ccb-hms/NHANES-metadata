@@ -1,0 +1,6 @@
+acronym,name,version,date,url,iris,comments
+EFO,Experimental Factor Ontology,3.46.0,09/15/22,https://github.com/EBISPOT/efo/releases/download/v3.46.0/efo.owl,http://www.ebi.ac.uk/efo/EFO,
+NCIT,NCI Thesaurus,22.07d,08/19/22,http://purl.obolibrary.org/obo/ncit/releases/2022-08-19/ncit.owl,,
+ECTO,"Environmental conditions, treatments and exposures ontology",12/12/22,12/12/22,http://purl.obolibrary.org/obo/ecto/releases/2022-12-12/ecto.owl,http://purl.obolibrary.org/obo/ECTO,
+FOODON,Food Ontology,0.5.1,11/17/21,https://raw.githubusercontent.com/FoodOntology/foodon/v0.5.1/foodon.owl,http://purl.obolibrary.org/obo/FOODON,
+OHD,Oral Health and Disease Ontology,10/10/22,10/10/22,http://purl.obolibrary.org/obo/ohd.owl,http://purl.obolibrary.org/obo/OHD,unversioned IRI

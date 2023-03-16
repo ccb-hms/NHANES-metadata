@@ -1,0 +1,61 @@
+Ever been told you have (.*)
+Ever been told you had (.*)
+Ever told[ you]? had[ any]? (.*)
+Parents ever told had (.*);:;family history
+Ever treated for (.*)
+(.*) treated by (.*) doctor
+Close blood relative have (.*);:;family history
+Doctor told you have (.*)
+Doctor ever told you have (.*)
+Age when first had (.*);:;age
+Age when told you had (.*);:;age
+Age when (.*) first diagnosed;:;age
+Age when (.*) started \([A-Za-z]+\);:;age
+Age first told had (.*);:;age
+(.*) in past year
+Have (.*) now
+Do you still have [a]?(.*)
+Still have (.*)
+Had (.*) in past year
+Had service for (.*)
+Had (.*) for [A-z 0-9]+
+Had (.*) [0-9] [A-z]+ in a row
+Ever had (.*)
+Reason (.*) occurred(.*)
+Age started (.*);:;age
+Used last five days - (.*)
+When did SP (.*)
+Total # (.*)
+HH Ref Person (.*)
+(.*) eaten during past 30 days 
+(.*) eaten in past 30 days 
+Num times (.*) eaten in past 30 days
+Had (.*) in last 30 minutes\?
+Excluded per (.*)
+Amount of (time) spend (in) (.*)
+Had (.*) Last 24 Hours(.*)\?
+Estimated (.*)
+Had (.*)\?
+Have (.*)\?
+Blood (.*) Comment Code;:;comment
+[Cc]omment [Cc]ode for [an]*(.*);:;comment
+(.*) comment code;:;comment
+(.*) Comment Code;:;comment
+(.*) [Cc]omment;:;comment
+Handcard: (.*)\?
+Doctor said (.*)
+When (SED) did you (.*)\?
+When (SED) were you (.*)\?
+Did you (.*)\?
+How often (.*)
+How long since (.*)
+Used (.*)
+Age when (.*);:;age
+Specific Symptom: (.*)
+Gate: When last had (.*)
+Location [A-Za-z]+: (.*)
+(.*): temporal pattern
+(.*): how long to develop
+(.*) exam status
+(.*) @ [A-z 0-9]+
+(.*)\?

@@ -1,0 +1,4 @@
+Variable,Table,Source Term,Mapped Term Label,Mapped Term IRI,Mapping Score,Ontology
+OHAEXSTS,OHXPRU_C,Overall Oral Health Exam Status,dental exam,http://purl.obolibrary.org/obo/OHD_0000019,0.35054576152681444,OHD
+OHASCST4,OHXPRU_C,Periodontal Status Code,periodontist,http://purl.obolibrary.org/obo/OHD_0000187,0.585639445007641,OHD
+OHD02PCM,OHXPRU_C,LOA: mid-facial #2 PD,orofacial pain dentist,http://purl.obolibrary.org/obo/OHD_0000184,0.30229545289942805,OHD
