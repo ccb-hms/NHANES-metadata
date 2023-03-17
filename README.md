@@ -3,7 +3,7 @@ This repository contains code and (meta)data components to be included in the [N
 
 ## Code
 The [code](https://github.com/ccb-hms/NHANES-metadata/tree/master/code) folder contains the programs that generate the metadata components described in the next subsections. 
-* `get_nhanes_metadata.Rmd` extracts and saves NHANES metadata for inclusion in the NHANES database distribution.
+* `get_nhanes_metadata.Rmd` extracts and saves NHANES metadata from CDC using [nhanesA](https://github.com/cjendres1/nhanes).
 * `generate_ontology_mappings.py` generates mappings of the metadata to a select set of ontologies.
 * `generate_semsql_ontology_tables.py` downloads [SemanticSQL](https://github.com/INCATools/semantic-sql) ontology databases and exports tables needed to support ontology-based querying.
 
@@ -19,9 +19,9 @@ The [ontology-mappings](https://github.com/ccb-hms/NHANES-metadata/tree/master/o
 * `nhanes_variables_mappings.csv` contains mappings of the variable labels that are specified in the `SAS Label` column of the `nhanes_variables.csv` table.
 
 ## Ontology Tables
-The [ontology-tables](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-tables) folder contains tabular representations of the class hierarchies of select ontologies. Here we are leveraging the [SemanticSQL](https://github.com/INCATools/semantic-sql) readily available SQL builds of popular biomedical ontologies. For each ontology, the following tables are exported:
+The [ontology-tables](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-tables) folder contains tabular representations of the class hierarchies of select ontologies. We use readily available [SemanticSQL](https://github.com/INCATools/semantic-sql)-based SQL builds of biomedical ontologies. For each ontology, the following tables are exported:
 * `ontology_labels.csv` contains the labels of all ontology terms.
 * `ontology_edges.csv` contains the asserted relationships between ontology terms.
 * `ontology_entailed_edges.csv` contains the inferred relationships between ontology terms (including asserted ones).
 
-These tables can be combined with the ontology-mapping tables to enable ontology-based search of mapped data points. 
+These tables are combined with the ontology mappings to enable ontology-based search of mapped data points. 
