@@ -19,7 +19,7 @@ The [ontology-mappings](https://github.com/ccb-hms/NHANES-metadata/tree/master/o
 * `nhanes_variables_mappings.csv` contains mappings of the variable labels that are specified in the `SAS Label` column of the `nhanes_variables.csv` table.
 
 ## Ontology Tables
-The [ontology-tables](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-tables) folder contains tabular representations of the class hierarchies of select ontologies. We use readily available [SemanticSQL](https://github.com/INCATools/semantic-sql)-based SQL builds of biomedical ontologies. For each ontology, the following tables are exported:
+The [ontology-tables](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-tables) folder contains table representations of ontology class hierarchies. We use readily available [SemanticSQL](https://github.com/INCATools/semantic-sql)-based SQL builds of ontologies from which we extract, for each ontology, the tables:
 * `ontology_labels.csv` contains the labels of all ontology terms.
 * `ontology_edges.csv` contains the asserted relationships between ontology terms.
 * `ontology_entailed_edges.csv` contains the inferred relationships between ontology terms (including asserted ones).
