@@ -13,6 +13,10 @@ excl_deprecated=True,   # exclude deprecated ontology terms
 max_mappings=1,         # maximum number of mappings per input term (per ontology)
 ```
 
+The outputs are two tables:
+- `nhanes_tables_mappings.csv` contains mappings of the table names that are specified in the `Table Name` column of the `nhanes_tables.csv` table.
+- `nhanes_variables_mappings.csv` contains mappings of the variable labels that are specified in the `SAS Label` column of the `nhanes_variables.csv` table. 
+
 We are considering mapping labels to the ontologies listed below as well, however they have no SemanticSQL builds yet.
 - Systematized Nomenclature of Medicine - Clinical terms (SNOMED)
 - Environmental Conditions, Treatments and Exposures Ontology (ECTO)
