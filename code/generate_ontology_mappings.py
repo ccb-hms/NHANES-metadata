@@ -12,7 +12,7 @@ NHANES_TABLES = "https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/maste
 # Mapping configuration
 MAX_MAPPINGS_PER_ONTOLOGY = 1
 MIN_MAPPING_SCORE = 0.8
-MAPPINGS_OUTPUT_FOLDER = "ontology-mappings/"
+MAPPINGS_OUTPUT_FOLDER = "../ontology-mappings/"
 TARGET_ONTOLOGIES = "resources/ontologies.csv"
 
 
