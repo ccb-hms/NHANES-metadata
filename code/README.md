@@ -12,4 +12,7 @@ Before mapping, variable labels are preprocessed using the `preprocess_metadata.
 `generate_semsql_ontology_tables.py` retrieves [SemanticSQL](https://github.com/INCATools/semantic-sql)-based SQL builds of ontologies and then extracts tables of interest to support ontology-based search of the mapped metadata. The tables are saved in the [ontology-tables](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-tables) folder.
 
 ### 4. Perform Ontology-based Search of Mapped Metadata
-`ontology_annotated_data_search_py` provides a prototype search interface over the mapped NHANES metadata. It uses the ontology mappings table (generated in **2.**) and the ontology tables (generated in **3.**) to enable searching for NHANES variables that have been annotated with a given search term, or with more specific terms according to the respective ontology's class hierarchy structure (e.g., variables annotated with _infectious disease_`EFO:0005741` and its subclasses in the EFO ontology). 
+`ontology_annotated_data_search_py` provides a prototype search interface over the mapped NHANES metadata. It uses the ontology mappings table (generated in **2.**) and the ontology tables (generated in **3.**) to enable searching for NHANES variables that have been annotated with a given search term, or with more specific terms according to the respective ontology's class hierarchy structure. For example, search for variables annotated with _infectious disease_`EFO:0005741` and its subclasses in the EFO ontology. 
+
+### Other Utilities
+`run_nhanes_utilities.sh` installs the Python requirements in `requirements.txt` needed to run the Python utilities, and then executes both `generate_ontology_mappings.py` and `generate_semsql_ontology_tables.py`.
