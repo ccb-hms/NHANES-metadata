@@ -15,4 +15,4 @@ Before mapping, variable labels are preprocessed using the `preprocess_metadata.
 `ontology_annotated_data_search_py` provides a prototype search interface over the mapped NHANES metadata. It uses the ontology mappings table (generated in **2.**) and the ontology tables (generated in **3.**) to enable searching for NHANES variables that have been annotated with a given search term, or with more specific terms according to the respective ontology's class hierarchy structure. For example, search for variables annotated with _infectious disease_`EFO:0005741` and its subclasses in the EFO ontology. 
 
 ### Other Utilities
-`run_nhanes_utilities.sh` installs the Python requirements in `requirements.txt` needed to run the Python utilities, and then executes both `generate_ontology_mappings.py` and `generate_semsql_ontology_tables.py`.
+`run_nhanes_utilities.sh` installs the Python dependencies listed in `requirements.txt`, which are necessary to run the Python utilities described. It then executes both `generate_ontology_mappings.py` and `generate_semsql_ontology_tables.py` to obtain the _ontology-mappings_ and _ontology-tables_ folders, respectively.
