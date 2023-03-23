@@ -4,7 +4,7 @@ This folder contains software utilities to perform the tasks below.
 `get_nhanes_metadata.Rmd` uses the [nhanesA](https://github.com/cjendres1/nhanes) R package to retrieve the metadata about NHANES survey tables, variables and response codes from all available years (pre-pandemic). The metadata are saved in the [metadata](https://github.com/ccb-hms/NHANES-metadata/tree/master/metadata) folder. 
 
 ### 2. Map NHANES Metadata to Ontologies
-`generate_ontology_mappings.py` uses the [text2term](https://github.com/ccb-hms/ontology-mapper) Python pacakge to generate ontology mappings for the labels used to describe NHANES tables and variables. The mappings are saved in the [ontology-mappings](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-mappings) folder. 
+`generate_ontology_mappings.py` uses the [text2term](https://github.com/ccb-hms/ontology-mapper) Python package to generate ontology mappings for the labels used to describe NHANES tables and variables. The mappings are saved in the [ontology-mappings](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-mappings) folder. 
 
 Before mapping, variable labels are preprocessed using the `preprocess_metadata.py` module. As a consequence, the output of the mapping process contains the preprocessed labels rather than the original ones.   
 
