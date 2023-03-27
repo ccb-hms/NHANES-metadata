@@ -3,6 +3,7 @@ import pandas as pd
 import sqlite3
 
 ONTOLOGIES = {'efo', 'ncit', 'foodon'}
+ONTOLOGY_MAPPINGS_TABLE = 'ontology_mappings'
 
 
 def setup_database():
@@ -16,26 +17,24 @@ def setup_database():
         ontology_edges_table_name = ontology_name + "_edges"
         ontology_entailed_edges_table_name = ontology_name + "_entailed_edges"
         ontology_term_labels_table_name = ontology_name + "_labels"
+        semsql_table_columns = "subject,predicate,object"
 
         import_csv_to_db(sql_connection=db_connection,
                          csv_file=ontology_tables_folder + ontology_edges_table_name + '.csv',
-                         table_name=ontology_edges_table_name,
-                         table_columns='subject,predicate,object')
+                         table_name=ontology_edges_table_name, table_columns=semsql_table_columns)
 
         import_csv_to_db(sql_connection=db_connection,
                          csv_file=ontology_tables_folder + ontology_entailed_edges_table_name + '.csv',
-                         table_name=ontology_entailed_edges_table_name,
-                         table_columns='subject,predicate,object')
+                         table_name=ontology_entailed_edges_table_name, table_columns=semsql_table_columns)
 
         import_csv_to_db(sql_connection=db_connection,
                          csv_file=ontology_tables_folder + ontology_term_labels_table_name + '.csv',
-                         table_name=ontology_term_labels_table_name,
-                         table_columns='subject,predicate,value')
+                         table_name=ontology_term_labels_table_name, table_columns=semsql_table_columns)
 
     # Import the ontology mappings table
     import_csv_to_db(sql_connection=db_connection,
                      csv_file='https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/ontology-mappings/nhanes_variables_mappings.csv',
-                     table_name='ontology_mappings',
+                     table_name=ONTOLOGY_MAPPINGS_TABLE,
                      table_columns="'Variable','Table','Source Term','Mapped Term Label','Mapped Term CURIE',"
                                    "'Mapped Term IRI','Mapping Score','Tags','Ontology'")
     return db_connection
@@ -48,12 +47,10 @@ def import_csv_to_db(sql_connection, csv_file, table_name, table_columns):
     data_frame.to_sql(table_name, sql_connection, if_exists='replace', index=False)
 
 
-def resources_annotated_with_term(cursor, search_term, include_subclasses=True, direct_subclasses_only=False,
-                                  ontology_mappings_table='ontology_mappings'):
+def resources_annotated_with_term(cursor, search_term, include_subclasses=True, direct_subclasses_only=False):
     result_df = pd.DataFrame()
     for ontology in ONTOLOGIES:
         df = resources_annotated_with_term_in_ontology(cursor=cursor, search_term=search_term, ontology_name=ontology,
-                                                       ontology_mappings_table=ontology_mappings_table,
                                                        include_subclasses=include_subclasses,
                                                        direct_subclasses_only=direct_subclasses_only)
         result_df = pd.concat([result_df, df])
@@ -61,7 +58,7 @@ def resources_annotated_with_term(cursor, search_term, include_subclasses=True, 
 
 
 def resources_annotated_with_term_in_ontology(cursor, search_term, ontology_name, include_subclasses=True,
-                                              direct_subclasses_only=False, ontology_mappings_table='ontology_mappings'):
+                                              direct_subclasses_only=False):
     if include_subclasses:
         if direct_subclasses_only:
             ontology_table = ontology_name + "_edges"
@@ -74,7 +71,7 @@ def resources_annotated_with_term_in_ontology(cursor, search_term, ontology_name
                     m.`Source Term` AS "Variable Label (preprocessed)",
                     m.`Mapped Term Label` AS "Ontology Term", m.`Mapped Term CURIE` AS "Ontology Term ID",
                     m.`Mapping Score` AS "Mapping Confidence"
-                 FROM `''' + ontology_mappings_table + '''` m
+                 FROM `''' + ONTOLOGY_MAPPINGS_TABLE + '''` m
                  LEFT JOIN ''' + ontology_table + ''' ee ON (m.`Mapped Term CURIE` = ee.subject)
                  WHERE (m.`Mapped Term CURIE` = \'''' + search_term + '''\'''' +
                              (''' OR ee.object = \'''' + search_term + '''\'''' if include_subclasses else '''''')
@@ -92,17 +89,17 @@ def do_example_queries(search_term='EFO:0009605'):  # EFO:0009605 'pancreas dise
     df1 = resources_annotated_with_term(db_cursor, search_term=search_term, include_subclasses=False)
     print("Resources annotated with " + search_term + ": " + ("0" if df1.empty else str(df1.shape[0])))
     if not df1.empty:
-        print(df1.to_string() + "\n")
+        print(df1.head().to_string() + "\n")
 
     df2 = resources_annotated_with_term(db_cursor, search_term=search_term, include_subclasses=True, direct_subclasses_only=True)
     print("Resources annotated with " + search_term + " or its direct (asserted) subclasses: " + ("0" if df2.empty else str(df2.shape[0])))
     if not df2.empty:
-        print(df2.to_string() + "\n")
+        print(df2.head().to_string() + "\n")
 
     df3 = resources_annotated_with_term(db_cursor, search_term=search_term, include_subclasses=True, direct_subclasses_only=False)
     print("Resources annotated with " + search_term + " or its indirect (inferred) subclasses: " + ("0" if df3.empty else str(df3.shape[0])))
     if not df3.empty:
-        print(df3.to_string() + "\n")
+        print(df3.head().to_string() + "\n")
     db_cursor.close()
     db_connection.close()
 
