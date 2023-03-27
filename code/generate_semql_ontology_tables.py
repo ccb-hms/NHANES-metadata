@@ -3,6 +3,7 @@ import sqlite3
 import urllib.request
 import pandas as pd
 
+__version__ = "0.2.1"
 
 # Overlap between readily available SemanticSQL (https://github.com/INCATools/semantic-sql) databases and the
 # ontologies planned for use with NHANES

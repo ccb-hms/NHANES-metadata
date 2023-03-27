@@ -2,6 +2,8 @@ from pathlib import Path
 import pandas as pd
 import sqlite3
 
+__version__ = "0.1.1"
+
 ONTOLOGIES = {'efo', 'ncit', 'foodon'}
 ONTOLOGY_MAPPINGS_TABLE = 'ontology_mappings'
 
