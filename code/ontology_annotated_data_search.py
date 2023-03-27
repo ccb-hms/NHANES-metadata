@@ -2,7 +2,7 @@ from pathlib import Path
 import pandas as pd
 import sqlite3
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 
 ONTOLOGIES = {'efo', 'ncit', 'foodon'}
 ONTOLOGY_MAPPINGS_TABLE = 'ontology_mappings'
@@ -85,9 +85,7 @@ def resources_annotated_with_term_in_ontology(cursor, search_term, ontology_name
     return results_df
 
 
-def do_example_queries(search_term='EFO:0009605'):  # EFO:0009605 'pancreas disease'
-    db_connection = setup_database()
-    db_cursor = db_connection.cursor()
+def do_example_queries(db_cursor, search_term='EFO:0009605'):  # EFO:0009605 'pancreas disease'
     df1 = resources_annotated_with_term(db_cursor, search_term=search_term, include_subclasses=False)
     print("Resources annotated with " + search_term + ": " + ("0" if df1.empty else str(df1.shape[0])))
     if not df1.empty:
@@ -102,12 +100,16 @@ def do_example_queries(search_term='EFO:0009605'):  # EFO:0009605 'pancreas dise
     print("Resources annotated with " + search_term + " or its indirect (inferred) subclasses: " + ("0" if df3.empty else str(df3.shape[0])))
     if not df3.empty:
         print(df3.head().to_string() + "\n")
-    db_cursor.close()
-    db_connection.close()
 
 
 if __name__ == '__main__':
-    do_example_queries()
-    do_example_queries(search_term="EFO:0005741")    # infectious disease
-    do_example_queries(search_term="EFO:0004324")    # body weights and measures
-    do_example_queries(search_term="NCIT:C3303")     # pain
+    connection = setup_database()
+    cursor = connection.cursor()
+
+    do_example_queries(cursor)
+    do_example_queries(cursor, search_term="EFO:0005741")    # infectious disease
+    do_example_queries(cursor, search_term="EFO:0004324")    # body weights and measures
+    do_example_queries(cursor, search_term="NCIT:C3303")     # pain
+
+    cursor.close()
+    connection.close()
