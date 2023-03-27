@@ -64,6 +64,7 @@ def get_labels_table(cursor):
     labels_df = pd.DataFrame(labels_data, columns=labels_columns)
     labels_df = labels_df.drop(columns=["stanza", "object", "datatype", "language"])
     labels_df = labels_df[labels_df["subject"].str.startswith("_:") == False]  # remove blank nodes
+    labels_df = labels_df.rename(columns={'value': 'object'})  # rename label value column to be the same as edge tables
     return labels_df
 
 

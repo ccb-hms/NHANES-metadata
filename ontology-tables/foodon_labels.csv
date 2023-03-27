@@ -1,4 +1,4 @@
-subject,predicate,value
+subject,predicate,object
 BFO:0000179,rdfs:label,BFO OWL specification label
 BFO:0000180,rdfs:label,BFO CLIF specification label
 DRON:00010000,rdfs:label,has_RxCUI

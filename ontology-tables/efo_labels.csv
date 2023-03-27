@@ -1,4 +1,4 @@
-subject,predicate,value
+subject,predicate,object
 IAO:0000112,rdfs:label,example of usage
 IAO:0000114,rdfs:label,has curation status
 IAO:0000115,rdfs:label,definition
