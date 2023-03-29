@@ -10,7 +10,7 @@ def main(input_file, column_to_process, save_processed_table=False):
 		temp_file.write('\n'.join(text_to_process))
 
 	processed_text = text2term.preprocess_tagged_terms("temp.txt", "resources/templates.txt", \
-                                                       blacklist_path="resources/term_blacklist.txt", blacklist_char="-")
+                                                       blocklist_path="resources/term_blocklist.txt", blocklist_char="-")
 	os.remove("temp.txt")
 
 	df["Processed Text"] = ""
@@ -20,7 +20,7 @@ def main(input_file, column_to_process, save_processed_table=False):
 		tags = ','.join(term.get_tags())
 		df.loc[df[column_to_process] == term.get_original_term(), "Tags"] = tags
 	
-	bl_df = pd.read_csv("resources/table_blacklist.csv")
+	bl_df = pd.read_csv("resources/table_blocklist.csv")
 	for index, row in bl_df.iterrows():
 		df["Processed Text"] = np.where((df["Variable"] == row["names"]) & (df["Table"] == row["tables"]), \
 										"-", df["Processed Text"])

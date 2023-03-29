@@ -6,7 +6,11 @@ This folder contains software utilities to perform the tasks below.
 ### 2. Map NHANES Metadata to Ontologies
 `generate_ontology_mappings.py` uses the [text2term](https://github.com/ccb-hms/ontology-mapper) Python package to generate ontology mappings for the labels used to describe NHANES tables and variables. The mappings are saved in the [ontology-mappings](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-mappings) folder. 
 
-Before mapping, variable labels are preprocessed using the `preprocess_metadata.py` module. As a consequence, the output of the mapping process contains the preprocessed labels rather than the original ones.   
+Before mapping, variable labels are preprocessed using the `preprocess_metadata.py` module. As a consequence, the output of the mapping process contains the preprocessed labels rather than the original ones. 
+
+Mechanically, `preprocess_metadata.py` takes in a templates file (`templates.txt`) which contains Regex expressions that correspond to some of the NHANES variables. The preprocess module then transforms those into shortened expressions and adds any tags that are annotated in the aforementioned file. 
+
+Similarly, there are two blocklist files that denote which terms and tables are not to be included in the output. This allows some terms that do not correspond with ontology terms to be filtered out of the mappings. This is done manually with the `table_blocklist.csv` and with the preprocess module for `term_blocklist.txt`.
 
 ### 3. Generate Ontology Tables to Facilitate Search in Relational DBs
 `generate_semsql_ontology_tables.py` retrieves [SemanticSQL](https://github.com/INCATools/semantic-sql)-based SQL builds of ontologies and then extracts tables of interest to support ontology-based search of the mapped metadata. The tables are saved in the [ontology-tables](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-tables) folder.
