@@ -1,6 +1,0 @@
-Variable,Table,Source Term,Mapped Term Label,Mapped Term IRI,Mapping Score,Ontology
-OHAEXSTS,OHXPRL_C,Overall Oral Health Exam Status,dental exam,http://purl.obolibrary.org/obo/OHD_0000019,0.35054576152681444,OHD
-OHASCST4,OHXPRL_C,Periodontal Status Code,periodontist,http://purl.obolibrary.org/obo/OHD_0000187,0.585639445007641,OHD
-OHD27PCM,OHXPRL_C,LOA: mid-facial #27 PD,missing tooth 27 finding,http://purl.obolibrary.org/obo/OHD_0000085,0.3045689949401213,OHD
-OHD29PCM,OHXPRL_C,LOA: mid-facial #29 PD,missing tooth 29 finding,http://purl.obolibrary.org/obo/OHD_0000087,0.3033429784668127,OHD
-OHD31PCM,OHXPRL_C,LOA: mid-facial #31 PD,missing tooth 31 finding,http://purl.obolibrary.org/obo/OHD_0000089,0.3007563802204617,OHD
