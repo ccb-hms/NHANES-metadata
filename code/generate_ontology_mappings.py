@@ -3,7 +3,7 @@ import pandas as pd
 import text2term
 import preprocess_metadata
 
-__version__ = "0.5.1"
+__version__ = "0.5.2"
 
 # Input data
 NHANES_VARIABLES = "https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/metadata/nhanes_variables.csv"
@@ -20,7 +20,6 @@ TARGET_ONTOLOGIES = "resources/ontologies.csv"
 def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=()):
     if not text2term.cache_exists(target_ontology):
         raise FileNotFoundError("Could not find cache file for ontology: " + target_ontology)
-
     if isinstance(terms_to_map[0], text2term.TaggedTerm):
         mappings_df = text2term.map_tagged_terms(
             tagged_terms_dict=terms_to_map,
@@ -48,6 +47,7 @@ def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=(
     mappings_df["Ontology"] = target_ontology
     return mappings_df
 
+
 # Map the given terms to all ontologies listed in the ontologies table
 def map_to_ontologies(ontologies_table, terms_to_map, term_identifiers):
     ontologies_table = pd.read_csv(ontologies_table)
@@ -56,7 +56,9 @@ def map_to_ontologies(ontologies_table, terms_to_map, term_identifiers):
         ontology_name = row['acronym']
         limit_to_base_iris = row['iris']
         if not pd.isna(limit_to_base_iris):
-            ontology_mappings = map_to_ontology(target_ontology=ontology_name, base_iris=(limit_to_base_iris,),
+            if "," in limit_to_base_iris:
+                limit_to_base_iris = tuple(limit_to_base_iris.split(","))
+            ontology_mappings = map_to_ontology(target_ontology=ontology_name, base_iris=limit_to_base_iris,
                                                 terms_to_map=terms_to_map, term_identifiers=term_identifiers)
         else:
             ontology_mappings = map_to_ontology(target_ontology=ontology_name,
@@ -64,6 +66,7 @@ def map_to_ontologies(ontologies_table, terms_to_map, term_identifiers):
         all_mappings = pd.concat([all_mappings, ontology_mappings])
     all_mappings = all_mappings.drop_duplicates()
     return all_mappings
+
 
 def map_data(source_df, labels_column, label_ids_column, tags_column=""):
     terms, term_ids = get_terms_and_ids(source_df, labels_column, label_ids_column, tags_column)
@@ -73,7 +76,8 @@ def map_data(source_df, labels_column, label_ids_column, tags_column=""):
         ontologies_table=TARGET_ONTOLOGIES)
     return mappings_df
 
-def get_terms_and_ids(nhanes_table, label_col, label_id_col, tags_column="", term_identifiers=()):
+
+def get_terms_and_ids(nhanes_table, label_col, label_id_col, tags_column=""):
     if tags_column != "":
         terms = []
         for index, row in nhanes_table.iterrows():
@@ -85,6 +89,7 @@ def get_terms_and_ids(nhanes_table, label_col, label_id_col, tags_column="", ter
     term_ids = nhanes_table[label_id_col].tolist()
     return terms, term_ids
 
+
 def map_data_with_composite_ids(df, labels_column, variable_id_column, table_id_column):
     sep = ":::"
     combined_id_column = "Variable ID"
@@ -92,6 +97,7 @@ def map_data_with_composite_ids(df, labels_column, variable_id_column, table_id_
     mappings_df = map_data(df, labels_column, combined_id_column, tags_column="Tags")
     expanded_df = expand_composite_ids(mappings_df, variable_id_column, table_id_column, "Source Term ID", sep=sep)
     return expanded_df
+
 
 def expand_composite_ids(df, id_1_col, id_2_col, mappings_df_id_col, sep=":::"):
     temp_df = df[mappings_df_id_col].str.split(sep, n=1, expand=True)
@@ -185,4 +191,3 @@ if __name__ == "__main__":
     table_mappings, variable_mappings = map_nhanes_metadata(create_ontology_cache=False,
                                                             preprocess_labels=True,
                                                             save_mappings=True)
-    save_oral_health_tables(variable_mappings)  # Save tables for HDMS
