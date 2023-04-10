@@ -3,20 +3,38 @@ import sqlite3
 import urllib.request
 import pandas as pd
 
-__version__ = "0.2.2"
+__version__ = "0.3.0"
 
-# Overlap between readily available SemanticSQL (https://github.com/INCATools/semantic-sql) databases and the
-# ontologies planned for use with NHANES
 ontologies = {
-    # "HPO": "https://s3.amazonaws.com/bbop-sqlite/hp.db",
     "EFO": "https://s3.amazonaws.com/bbop-sqlite/efo.db",
     "FOODON": "https://s3.amazonaws.com/bbop-sqlite/foodon.db",
     "NCIT": "https://s3.amazonaws.com/bbop-sqlite/ncit.db"
 }
 
 
-def get_semsql_ontology_tables(ontology_url, ontology_name, tables_output_folder='../ontology-tables',
-                               db_output_folder="../ontology-db", save_tables=False):
+def get_semsql_tables_for_ontologies(tables_output_folder='../ontology-tables',
+                                     db_output_folder="../ontology-db",
+                                     save_tables=False):
+    all_edges = all_entailed_edges = all_labels = pd.DataFrame()
+    for ontology in ontologies:
+        edges, entailed_edges, labels, version = get_semsql_tables_for_ontology(ontology_name=ontology,
+                                                                                ontology_url=ontologies[ontology],
+                                                                                db_output_folder=db_output_folder,
+                                                                                save_tables=False)
+        labels["ontology"] = edges["ontology"] = entailed_edges["ontology"] = ontology
+        all_labels = pd.concat([all_labels, labels])
+        all_edges = pd.concat([all_edges, edges])
+        all_entailed_edges = pd.concat([all_entailed_edges, entailed_edges])
+
+    if save_tables:
+        save_table(all_labels, "ontology_labels.tsv", tables_output_folder)
+        save_table(all_edges, "ontology_edges.tsv", tables_output_folder)
+        save_table(all_entailed_edges, "ontology_entailed_edges.tsv", tables_output_folder)
+    return all_edges, all_entailed_edges, all_labels
+
+
+def get_semsql_tables_for_ontology(ontology_url, ontology_name, tables_output_folder='../ontology-tables',
+                                   db_output_folder="../ontology-db", save_tables=False):
     db_file = os.path.join(db_output_folder, ontology_name.lower() + ".db")
     if not os.path.isfile(db_file):
         if not os.path.exists(db_output_folder):
@@ -34,35 +52,36 @@ def get_semsql_ontology_tables(ontology_url, ontology_name, tables_output_folder
     cursor.close()
     conn.close()
     if save_tables:
-        if not os.path.exists(tables_output_folder):
-            os.makedirs(tables_output_folder)
-        edges_csv_file = os.path.join(tables_output_folder, ontology_name.lower() + "_edges.csv")
-        edges_df.to_csv(edges_csv_file, index=False)
-        entailed_edges_csv_file = os.path.join(tables_output_folder, ontology_name.lower() + "_entailed_edges.csv")
-        entailed_edges_df.to_csv(entailed_edges_csv_file, index=False)
-        label_csv_file = os.path.join(tables_output_folder, ontology_name.lower() + "_labels.csv")
-        labels_df.to_csv(label_csv_file, index=False)
+        save_table(labels_df, ontology_name.lower() + "_labels.tsv", tables_output_folder)
+        save_table(edges_df, ontology_name.lower() + "_entailed_edges.tsv", tables_output_folder)
+        save_table(entailed_edges_df, ontology_name.lower() + "_edges.tsv", tables_output_folder)
     return edges_df, entailed_edges_df, labels_df, onto_version
 
 
 def _get_ontology_version(cursor):
     cursor.execute("SELECT `value` FROM statements WHERE predicate='owl:versionInfo'")
-    version = cursor.fetchall().pop()[0]
-    return version
+    ontology_version = cursor.fetchall()
+    if len(ontology_version) > 0:
+        return ontology_version.pop()[0]
+    return ""
 
 
 def _get_edges_table(cursor):
     cursor.execute("SELECT * FROM edge WHERE predicate='rdfs:subClassOf'")
     edge_columns = [x[0] for x in cursor.description]
     edge_data = cursor.fetchall()
-    return pd.DataFrame(edge_data, columns=edge_columns)
+    edges_df = pd.DataFrame(edge_data, columns=edge_columns)
+    edges_df = edges_df.drop(columns=["predicate"])
+    return edges_df
 
 
 def _get_entailed_edges_table(cursor):
     cursor.execute("SELECT * FROM entailed_edge WHERE predicate='rdfs:subClassOf'")
     entailed_edge_columns = [x[0] for x in cursor.description]
     entailed_edge_data = cursor.fetchall()
-    return pd.DataFrame(entailed_edge_data, columns=entailed_edge_columns)
+    entailed_edges_df = pd.DataFrame(entailed_edge_data, columns=entailed_edge_columns)
+    entailed_edges_df = entailed_edges_df.drop(columns=["predicate"])
+    return entailed_edges_df
 
 
 def _get_labels_table(cursor):
@@ -75,9 +94,16 @@ def _get_labels_table(cursor):
     labels_df = labels_df.drop(columns=["stanza", "object", "datatype", "language"])
     labels_df = labels_df[labels_df["subject"].str.startswith("_:") == False]  # remove blank nodes
     labels_df = labels_df.rename(columns={'value': 'object'})  # rename label value column to be the same as edge tables
+    labels_df = labels_df.drop(columns=["predicate"])
     return labels_df
 
 
+def save_table(df, output_filename, tables_output_folder):
+    if not os.path.exists(tables_output_folder):
+        os.makedirs(tables_output_folder)
+    output_file = os.path.join(tables_output_folder, output_filename)
+    df.to_csv(output_file, index=False, sep="\t")
+
+
 if __name__ == "__main__":
-    for ontology in ontologies:
-        get_semsql_ontology_tables(ontology_name=ontology, ontology_url=ontologies[ontology], save_tables=True)
+    get_semsql_tables_for_ontologies(save_tables=True)
