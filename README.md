@@ -15,13 +15,13 @@ The [metadata](https://github.com/ccb-hms/NHANES-metadata/tree/master/metadata) 
 
 ## Ontology Mappings
 The [ontology-mappings](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-mappings) folder contains the output of running the [text2term](https://github.com/ccb-hms/ontology-mapper) ontology mapping tool on the labels used to describe NHANES tables and variables. 
-* `nhanes_tables_mappings.csv` contains mappings of the table names that are specified in the `Table Name` column of the `nhanes_tables.csv` table.
-* `nhanes_variables_mappings.csv` contains mappings of the variable labels that are specified in the `SAS Label` column of the `nhanes_variables.csv` table.
+* `nhanes_tables_mappings.tsv` contains mappings of the table names that are specified in the `Table Name` column of the `nhanes_tables.csv` table.
+* `nhanes_variables_mappings.tsv` contains mappings of the variable labels that are specified in the `SAS Label` column of the `nhanes_variables.csv` table.
 
 ## Ontology Tables
-The [ontology-tables](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-tables) folder contains table representations of ontology class hierarchies. We use readily available [SemanticSQL](https://github.com/INCATools/semantic-sql)-based SQL builds of ontologies from which we extract, for each ontology, the tables:
-* `ontology_labels.csv` contains the labels of all ontology terms.
-* `ontology_edges.csv` contains the asserted relationships between ontology terms.
-* `ontology_entailed_edges.csv` contains the inferred relationships between ontology terms (including asserted ones).
+The [ontology-tables](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-tables) folder contains table representations of ontology class hierarchies. We use readily available [SemanticSQL](https://github.com/INCATools/semantic-sql)-based SQL builds of ontologies from which we extract the tables:
+* `ontology_labels.tsv` contains the labels of all ontology terms.
+* `ontology_edges.tsv` contains the asserted relationships between ontology terms.
+* `ontology_entailed_edges.tsv` contains the inferred relationships between ontology terms (including asserted ones).
 
 These tables are combined with the ontology mappings to enable ontology-based search of mapped data points. 
