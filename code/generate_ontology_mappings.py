@@ -3,11 +3,11 @@ import pandas as pd
 import text2term
 import preprocess_metadata
 
-__version__ = "0.5.2"
+__version__ = "0.6.0"
 
 # Input data
-NHANES_VARIABLES = "https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/metadata/nhanes_variables.csv"
-NHANES_TABLES = "https://raw.githubusercontent.com/ccb-hms/NHANES-metadata/master/metadata/nhanes_tables.csv"
+NHANES_VARIABLES = "../metadata/nhanes_variables.csv"
+NHANES_TABLES = "../metadata/nhanes_tables.csv"
 
 # Mapping configuration
 MAX_MAPPINGS_PER_ONTOLOGY = 1
@@ -122,8 +122,8 @@ def top_mappings(mappings_df, label_column="Source Term"):
     return top_ranked_mappings
 
 
-def save_mappings_as_csv(mappings_df, output_file_label, output_file_suffix="", output_folder=MAPPINGS_OUTPUT_FOLDER,
-                         top_mappings_only=False, sort=False):
+def save_mappings_file(mappings_df, output_file_label, output_file_suffix="", output_folder=MAPPINGS_OUTPUT_FOLDER,
+                       top_mappings_only=False, sort=False):
     Path(output_folder).mkdir(exist_ok=True, parents=True)
     output_file_name = output_folder + output_file_label + "_mappings"
     if output_file_suffix != "":
@@ -132,7 +132,8 @@ def save_mappings_as_csv(mappings_df, output_file_label, output_file_suffix="", 
         mappings_df = top_mappings(mappings_df)
     if sort:
         mappings_df = mappings_df.sort_values(['Variable', 'Mapping Score'], ascending=[True, False])
-    mappings_df.to_csv(output_file_name + ".csv", index=False)
+    mappings_df.columns = mappings_df.columns.str.replace(' ', '')  # remove spaces from column names
+    mappings_df.to_csv(output_file_name + ".tsv", index=False, sep="\t")
 
 
 def save_mappings_subsets(df, nhanes_tables, output_folder, ontology="", top_mappings_only=False):
@@ -140,14 +141,14 @@ def save_mappings_subsets(df, nhanes_tables, output_folder, ontology="", top_map
         subset = df[df["Table"] == table]
         if ontology != "":  # limit to mappings to the specified ontology
             subset = subset[subset["Ontology"] == ontology]
-        save_mappings_as_csv(subset, output_file_label=table, output_file_suffix=ontology, sort=True,
-                             output_folder=output_folder, top_mappings_only=top_mappings_only)
+        save_mappings_file(subset, output_file_label=table, output_file_suffix=ontology, sort=True,
+                           output_folder=output_folder, top_mappings_only=top_mappings_only)
 
 
 def map_nhanes_tables(tables_file=NHANES_TABLES, save_mappings=False):
     mappings = map_data(source_df=pd.read_csv(tables_file), labels_column="Table Name", label_ids_column="Table")
     if save_mappings:
-        save_mappings_as_csv(mappings, output_file_label="nhanes_tables")
+        save_mappings_file(mappings, output_file_label="nhanes_tables")
     return mappings
 
 
@@ -165,7 +166,7 @@ def map_nhanes_variables(variables_file=NHANES_VARIABLES, preprocess=False, save
                                            variable_id_column="Variable",
                                            table_id_column="Table")
     if save_mappings:
-        save_mappings_as_csv(mappings, output_file_label="nhanes_variables", sort=True)
+        save_mappings_file(mappings, output_file_label="nhanes_variables", sort=True)
     return mappings
 
 
