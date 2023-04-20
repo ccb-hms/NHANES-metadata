@@ -750,7 +750,7 @@ CDQ009B	CDQ_B	Albumin urine (mg/L) SI	Urine Albumin	NCIT:C121532	http://purl.obo
 CDQ009B	CDQ_J	Potassium (mmol/L)	Potassium	NCIT:C765	http://purl.obolibrary.org/obo/NCIT_C765	0.8290169674698988		NCIT
 CDQ009B	CDQ_I	hot shower?	Hot Bath or Shower	NCIT:C168257	http://purl.obolibrary.org/obo/NCIT_C168257	0.8125842764712821		NCIT
 CDQ009B	CDQ_B	Age lymphoma/Hodgkin's diagnosed	Hodgkins lymphoma	EFO:0000183	http://www.ebi.ac.uk/efo/EFO_0000183	0.8068966088215964		EFO
-CDQ009C	CDQ_D	Dosage form	Pharmaceutical Dosage Form	NCIT:C42636	http://purl.obolibrary.org/obo/NCIT_C42636	0.9961939771877021		NCIT
+CDQ009C	CDQ_D	Dosage form	EDQM-HC Pharmaceutical Dosage Form Terminology	NCIT:C150103	http://purl.obolibrary.org/obo/NCIT_C150103	0.9961939771877021		NCIT
 CDQ009C	CDQ_C	heart failure	Heart Failure, CTCAE	NCIT:C143529	http://purl.obolibrary.org/obo/NCIT_C143529	0.9941405895925158	age	NCIT
 CDQ009C	CDQ_E	Chloroform	Chloroform	NCIT:C29815	http://purl.obolibrary.org/obo/NCIT_C29815	0.9921401396645741	comment	NCIT
 CDQ009C	CDQ_G	attempt suicide	Suicide Attempt	NCIT:C80111	http://purl.obolibrary.org/obo/NCIT_C80111	0.9856910188623824		NCIT
@@ -1298,7 +1298,7 @@ DEX6COMM	DEX_C	liver cancer	carcinoma of liver and intrahepatic biliary tract	MO
 DEX6COMM	DEX_C	Reader 6	Reader Device	NCIT:C50132	http://purl.obolibrary.org/obo/NCIT_C50132	0.8739883781493892	comment	NCIT
 DEX6FITZ	DEX_C	lung cancer	lung cancer	MONDO:0008903	http://purl.obolibrary.org/obo/MONDO_0008903	0.99031475140679	age	EFO
 DEX6FITZ	DEX_C	Reader 6 Fitzpatrick Skin Type	Fitzpatrick Skin Type I	NCIT:C74569	http://purl.obolibrary.org/obo/NCIT_C74569	0.8905597221955843		NCIT
-DIQ010	DIQ	Dosage Form	Pharmaceutical Dosage Form	NCIT:C42636	http://purl.obolibrary.org/obo/NCIT_C42636	0.9961939771877021		NCIT
+DIQ010	DIQ	Dosage Form	EDQM-HC Pharmaceutical Dosage Form Terminology	NCIT:C150103	http://purl.obolibrary.org/obo/NCIT_C150103	0.9961939771877021		NCIT
 DIQ010	DIQ_I	Measles	Measles	NCIT:C96406	http://purl.obolibrary.org/obo/NCIT_C96406	0.9922662172740987		NCIT
 DIQ010	DIQ	diabetes	Diabetes Mellitus	NCIT:C2985	http://purl.obolibrary.org/obo/NCIT_C2985	0.989396233129914		NCIT
 DIQ010	DIQ_B	diabetes	Diabetes Mellitus	NCIT:C2985	http://purl.obolibrary.org/obo/NCIT_C2985	0.989396233129914		NCIT
@@ -4823,18 +4823,18 @@ DSD010	DSQTOT_J	Any Dietary Supplements Taken	dietary supplement	FOODON:03401298
 DSD010	DSQ1_B	kidney disease w/ renal dialysis	renal dialysis	EFO:0010690	http://www.ebi.ac.uk/efo/EFO_0010690	0.8162514301865152		EFO
 DSD010	DSQTOT_H	wrist fracture  1st time	wrist fracture	EFO:0009515	http://www.ebi.ac.uk/efo/EFO_0009515	0.8152791098375153		EFO
 DSD010	DSQ1_B	allergies	seasonal allergic rhinitis	EFO:0003956	http://www.ebi.ac.uk/efo/EFO_0003956	0.8101651115436791	age	EFO
-DSD120U	DSQFILE2	Dosage Form	Pharmaceutical Dosage Form	NCIT:C42636	http://purl.obolibrary.org/obo/NCIT_C42636	0.9961939771877021		NCIT
+DSD120U	DSQFILE2	Dosage Form	EDQM-HC Pharmaceutical Dosage Form Terminology	NCIT:C150103	http://purl.obolibrary.org/obo/NCIT_C150103	0.9961939771877021		NCIT
 DSD120U	DSQFILE2	diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.9867852076510027		EFO
 DSD120U	DSQFILE2	Q.38 Did you eat mixed veggies	mixed vegetables	FOODON:00002683	http://purl.obolibrary.org/obo/FOODON_00002683	0.813640040928446		FOODON
-DSD122U	DSQ2_B	Dosage form	Pharmaceutical Dosage Form	NCIT:C42636	http://purl.obolibrary.org/obo/NCIT_C42636	0.9961939771877021		NCIT
-DSD122U	DSQ2_C	Dosage form	Pharmaceutical Dosage Form	NCIT:C42636	http://purl.obolibrary.org/obo/NCIT_C42636	0.9961939771877021		NCIT
-DSD122U	DSQ2_D	Dosage form	Pharmaceutical Dosage Form	NCIT:C42636	http://purl.obolibrary.org/obo/NCIT_C42636	0.9961939771877021		NCIT
-DSD122U	DSQIDS_E	Dosage form	Pharmaceutical Dosage Form	NCIT:C42636	http://purl.obolibrary.org/obo/NCIT_C42636	0.9961939771877021		NCIT
-DSD122U	DSQIDS_F	Dosage form	Pharmaceutical Dosage Form	NCIT:C42636	http://purl.obolibrary.org/obo/NCIT_C42636	0.9961939771877021		NCIT
-DSD122U	DSQIDS_G	Dosage form	Pharmaceutical Dosage Form	NCIT:C42636	http://purl.obolibrary.org/obo/NCIT_C42636	0.9961939771877021		NCIT
-DSD122U	DSQIDS_H	Dosage form	Pharmaceutical Dosage Form	NCIT:C42636	http://purl.obolibrary.org/obo/NCIT_C42636	0.9961939771877021		NCIT
-DSD122U	DSQIDS_I	Dosage form	Pharmaceutical Dosage Form	NCIT:C42636	http://purl.obolibrary.org/obo/NCIT_C42636	0.9961939771877021		NCIT
-DSD122U	DSQIDS_J	Dosage form	Pharmaceutical Dosage Form	NCIT:C42636	http://purl.obolibrary.org/obo/NCIT_C42636	0.9961939771877021		NCIT
+DSD122U	DSQ2_B	Dosage form	EDQM-HC Pharmaceutical Dosage Form Terminology	NCIT:C150103	http://purl.obolibrary.org/obo/NCIT_C150103	0.9961939771877021		NCIT
+DSD122U	DSQ2_C	Dosage form	EDQM-HC Pharmaceutical Dosage Form Terminology	NCIT:C150103	http://purl.obolibrary.org/obo/NCIT_C150103	0.9961939771877021		NCIT
+DSD122U	DSQ2_D	Dosage form	EDQM-HC Pharmaceutical Dosage Form Terminology	NCIT:C150103	http://purl.obolibrary.org/obo/NCIT_C150103	0.9961939771877021		NCIT
+DSD122U	DSQIDS_E	Dosage form	EDQM-HC Pharmaceutical Dosage Form Terminology	NCIT:C150103	http://purl.obolibrary.org/obo/NCIT_C150103	0.9961939771877021		NCIT
+DSD122U	DSQIDS_F	Dosage form	EDQM-HC Pharmaceutical Dosage Form Terminology	NCIT:C150103	http://purl.obolibrary.org/obo/NCIT_C150103	0.9961939771877021		NCIT
+DSD122U	DSQIDS_G	Dosage form	EDQM-HC Pharmaceutical Dosage Form Terminology	NCIT:C150103	http://purl.obolibrary.org/obo/NCIT_C150103	0.9961939771877021		NCIT
+DSD122U	DSQIDS_H	Dosage form	EDQM-HC Pharmaceutical Dosage Form Terminology	NCIT:C150103	http://purl.obolibrary.org/obo/NCIT_C150103	0.9961939771877021		NCIT
+DSD122U	DSQIDS_I	Dosage form	EDQM-HC Pharmaceutical Dosage Form Terminology	NCIT:C150103	http://purl.obolibrary.org/obo/NCIT_C150103	0.9961939771877021		NCIT
+DSD122U	DSQIDS_J	Dosage form	EDQM-HC Pharmaceutical Dosage Form Terminology	NCIT:C150103	http://purl.obolibrary.org/obo/NCIT_C150103	0.9961939771877021		NCIT
 DSD122U	DSQ2_B	Pain in neck	Neck pain	HP:0030833	http://purl.obolibrary.org/obo/HP_0030833	0.9800155382680105		EFO
 DSD122U	DSQ2_C	RBC folate (ng/mL)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.9106148137864083		EFO
 DSD128CC	DSQIDS_E	To improve sleep	Surgery to Improve Sleep	NCIT:C157997	http://purl.obolibrary.org/obo/NCIT_C157997	0.8420632006062119		NCIT
@@ -5973,7 +5973,7 @@ FFQ0031	FFQRAW_C	Q.31 Did you eat sauerkraut	sauerkraut	FOODON:03301397	http://p
 FFQ0031	FFQRAW_D	Q.31 Did you eat sauerkraut	sauerkraut	FOODON:03301397	http://purl.obolibrary.org/obo/FOODON_03301397	0.8492413298865046		FOODON
 FFQ0031	FFQRAW_D	of Dietary Supplements Taken	Dietary Supplement	NCIT:C1505	http://purl.obolibrary.org/obo/NCIT_C1505	0.8398853322292612		NCIT
 FFQ0031	FFQRAW_C	sardines	Sardine	NCIT:C72060	http://purl.obolibrary.org/obo/NCIT_C72060	0.8389282853485357		NCIT
-FFQ0038	FFQRAW_D	Dosage Form	Pharmaceutical Dosage Form	NCIT:C42636	http://purl.obolibrary.org/obo/NCIT_C42636	0.9961939771877021		NCIT
+FFQ0038	FFQRAW_D	Dosage Form	EDQM-HC Pharmaceutical Dosage Form Terminology	NCIT:C150103	http://purl.obolibrary.org/obo/NCIT_C150103	0.9961939771877021		NCIT
 FFQ0038	FFQRAW_C	shark	Shark	NCIT:C71922	http://purl.obolibrary.org/obo/NCIT_C71922	0.9913987327101272		NCIT
 FFQ0038	FFQRAW_D	diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.9867852076510027		EFO
 FFQ0038	FFQRAW_C	Varicella	chickenpox	EFO:0007204	http://www.ebi.ac.uk/efo/EFO_0007204	0.980479397381272		EFO
@@ -6958,7 +6958,7 @@ LBDRBFSI	LAB06	kidney cancer	kidney (whole, raw)	FOODON:03310898	http://purl.obo
 LBDRBFSI	LAB06	kidney cancer	kidney (whole, raw)	FOODON:03310898	http://purl.obolibrary.org/obo/FOODON_03310898	0.8560142688790612	age	FOODON
 LBDRBFSI	L06_B	# of times other shellfish eaten	shellfish	FOODON:03411433	http://purl.obolibrary.org/obo/FOODON_03411433	0.821579526889731		FOODON
 LBDRBFSI	L06NB_C	Magnesium (mg)	magnesium added	FOODON:03460774	http://purl.obolibrary.org/obo/FOODON_03460774	0.8128488556087475		FOODON
-LBDRFO	FOLATE_H	Dosage form	Pharmaceutical Dosage Form	NCIT:C42636	http://purl.obolibrary.org/obo/NCIT_C42636	0.9961939771877021		NCIT
+LBDRFO	FOLATE_H	Dosage form	EDQM-HC Pharmaceutical Dosage Form Terminology	NCIT:C150103	http://purl.obolibrary.org/obo/NCIT_C150103	0.9961939771877021		NCIT
 LBDRFO	FOLATE_G	trouble sleeping	Trouble Sleeping	NCIT:C104294	http://purl.obolibrary.org/obo/NCIT_C104294	0.9949799685375067		NCIT
 LBDRFO	FOLATE_G	RBC folate (ng/mL)	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.9121354200702604		NCIT
 LBDRFO	FOLATE_H	RBC folate (ng/mL)	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.9121354200702604		NCIT

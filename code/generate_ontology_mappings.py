@@ -189,6 +189,7 @@ def save_oral_health_tables(mappings_df):
 
 
 if __name__ == "__main__":
-    table_mappings, variable_mappings = map_nhanes_metadata(create_ontology_cache=False,
+    make_cache = not text2term.cache_exists("EFO") # Assume if one exists, they all do
+    table_mappings, variable_mappings = map_nhanes_metadata(create_ontology_cache=make_cache,
                                                             preprocess_labels=True,
                                                             save_mappings=True)
