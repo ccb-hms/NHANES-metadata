@@ -3,7 +3,7 @@ import pandas as pd
 import text2term
 import preprocess_metadata
 
-__version__ = "0.6.0"
+__version__ = "0.7.0"
 
 # Input data
 NHANES_VARIABLES = "../metadata/nhanes_variables.csv"
@@ -14,6 +14,11 @@ MAX_MAPPINGS_PER_ONTOLOGY = 1
 MIN_MAPPING_SCORE = 0.8
 MAPPINGS_OUTPUT_FOLDER = "../ontology-mappings/"
 TARGET_ONTOLOGIES = "resources/ontologies.csv"
+
+# Mappings data frame columns configuration
+NHANES_TABLE_COL = "Table"
+NHANES_VARIABLE_COL = "Variable"
+MAPPING_SCORE_COL = "Mapping Score"
 
 
 # Map the given terms to the target ontology
@@ -90,36 +95,30 @@ def get_terms_and_ids(nhanes_table, label_col, label_id_col, tags_column=""):
     return terms, term_ids
 
 
-def map_data_with_composite_ids(df, labels_column, variable_id_column, table_id_column):
+def map_data_with_composite_ids(df, labels_column, variable_id_column, table_id_column, tags_column=""):
     sep = ":::"
     combined_id_column = "Variable ID"
     df[combined_id_column] = df[variable_id_column].astype(str) + sep + df[table_id_column]
-    mappings_df = map_data(df, labels_column, combined_id_column, tags_column="Tags")
+    mappings_df = map_data(df, labels_column, combined_id_column, tags_column=tags_column)
     expanded_df = expand_composite_ids(mappings_df, variable_id_column, table_id_column, "Source Term ID", sep=sep)
     return expanded_df
 
 
 def expand_composite_ids(df, id_1_col, id_2_col, mappings_df_id_col, sep=":::"):
-    temp_df = df[mappings_df_id_col].str.split(sep, n=1, expand=True)
-    if len(temp_df.columns) == 2:
-        temp_df.columns = [id_1_col, id_2_col]
-    else:
-        temp_df.columns = [id_1_col]
-        temp_df[id_2_col] = ""
-    df = df.join(temp_df)
+    composite_id_cols = [id_1_col, id_2_col]
+    df[composite_id_cols] = df[mappings_df_id_col].str.split(sep, expand=True)
     df = df.drop(columns=[mappings_df_id_col])
-    cols_to_move = [id_1_col, id_2_col]
-    df = df[cols_to_move + [col for col in df.columns if col not in cols_to_move]]
+    df = df[composite_id_cols + [col for col in df.columns if col not in composite_id_cols]]
     return df
 
 
-def top_mappings(mappings_df, label_column="Source Term"):
-    top_ranked_mappings = pd.DataFrame()
-    for label in mappings_df[label_column].unique():
-        mappings = mappings_df[mappings_df[label_column] == label]
-        top_ranked_mapping = mappings[mappings['Mapping Score'] == mappings['Mapping Score'].max()]
-        top_ranked_mappings = pd.concat([top_ranked_mappings, top_ranked_mapping])
-    return top_ranked_mappings
+def top_mappings(mappings_df):
+    # group the mappings data frame by the composite identifier and get the row with the maximum score for each group
+    max_scores = mappings_df.groupby([NHANES_VARIABLE_COL, NHANES_TABLE_COL])[MAPPING_SCORE_COL].max().reset_index()
+
+    # merge the original data frame with the maximum scores data frame on the composite unique identifier and the score
+    top_mappings_df = pd.merge(mappings_df, max_scores, on=[NHANES_VARIABLE_COL, NHANES_TABLE_COL, MAPPING_SCORE_COL])
+    return top_mappings_df
 
 
 def save_mappings_file(mappings_df, output_file_label, output_file_suffix="", output_folder=MAPPINGS_OUTPUT_FOLDER,
@@ -131,50 +130,55 @@ def save_mappings_file(mappings_df, output_file_label, output_file_suffix="", ou
     if top_mappings_only:
         mappings_df = top_mappings(mappings_df)
     if sort:
-        mappings_df = mappings_df.sort_values(['Variable', 'Mapping Score'], ascending=[True, False])
+        mappings_df = mappings_df.sort_values([NHANES_VARIABLE_COL, MAPPING_SCORE_COL], ascending=[True, False])
     mappings_df.columns = mappings_df.columns.str.replace(' ', '')  # remove spaces from column names
     mappings_df.to_csv(output_file_name + ".tsv", index=False, sep="\t")
 
 
 def save_mappings_subsets(df, nhanes_tables, output_folder, ontology="", top_mappings_only=False):
     for table in nhanes_tables:
-        subset = df[df["Table"] == table]
+        subset = df[df[NHANES_TABLE_COL] == table]
         if ontology != "":  # limit to mappings to the specified ontology
             subset = subset[subset["Ontology"] == ontology]
         save_mappings_file(subset, output_file_label=table, output_file_suffix=ontology, sort=True,
                            output_folder=output_folder, top_mappings_only=top_mappings_only)
 
 
-def map_nhanes_tables(tables_file=NHANES_TABLES, save_mappings=False):
-    mappings = map_data(source_df=pd.read_csv(tables_file), labels_column="Table Name", label_ids_column="Table")
+def map_nhanes_tables(tables_file=NHANES_TABLES, save_mappings=False, top_mappings_only=False):
+    mappings = map_data(source_df=pd.read_csv(tables_file), labels_column="Table Name", label_ids_column=NHANES_TABLE_COL)
     if save_mappings:
-        save_mappings_file(mappings, output_file_label="nhanes_tables")
+        save_mappings_file(mappings, output_file_label="nhanes_tables", top_mappings_only=top_mappings_only)
     return mappings
 
 
-def map_nhanes_variables(variables_file=NHANES_VARIABLES, preprocess=False, save_mappings=False):
+def map_nhanes_variables(variables_file=NHANES_VARIABLES, preprocess=False, save_mappings=False, top_mappings_only=False):
     labels_column = "SAS Label"
+    tags_column = ""
     if preprocess:
         input_df = preprocess_metadata.main(input_file=variables_file,
                                             column_to_process=labels_column,
                                             save_processed_table=False)
         labels_column = "Processed Text"
+        tags_column = "Tags"
     else:
         input_df = pd.read_csv(variables_file)
+
     mappings = map_data_with_composite_ids(df=input_df,
                                            labels_column=labels_column,
-                                           variable_id_column="Variable",
-                                           table_id_column="Table")
+                                           variable_id_column=NHANES_VARIABLE_COL,
+                                           table_id_column=NHANES_TABLE_COL,
+                                           tags_column=tags_column)
     if save_mappings:
-        save_mappings_file(mappings, output_file_label="nhanes_variables", sort=True)
+        save_mappings_file(mappings, output_file_label="nhanes_variables", top_mappings_only=top_mappings_only, sort=True)
     return mappings
 
 
-def map_nhanes_metadata(create_ontology_cache=False, preprocess_labels=False, save_mappings=False):
+def map_nhanes_metadata(create_ontology_cache=False, preprocess_labels=False, save_mappings=False, top_mappings_only=False):
     if create_ontology_cache:
         text2term.cache_ontology_set(ontology_registry_path=TARGET_ONTOLOGIES)
     nhanes_table_mappings = map_nhanes_tables(save_mappings=save_mappings)
-    nhanes_variable_mappings = map_nhanes_variables(preprocess=preprocess_labels, save_mappings=save_mappings)
+    nhanes_variable_mappings = map_nhanes_variables(preprocess=preprocess_labels, save_mappings=save_mappings,
+                                                    top_mappings_only=top_mappings_only)
     return nhanes_table_mappings, nhanes_variable_mappings
 
 
@@ -189,7 +193,8 @@ def save_oral_health_tables(mappings_df):
 
 
 if __name__ == "__main__":
-    make_cache = not text2term.cache_exists("EFO") # Assume if one exists, they all do
+    make_cache = not text2term.cache_exists("EFO")  # Assume if one exists, they all do
     table_mappings, variable_mappings = map_nhanes_metadata(create_ontology_cache=make_cache,
                                                             preprocess_labels=True,
+                                                            top_mappings_only=True,
                                                             save_mappings=True)
