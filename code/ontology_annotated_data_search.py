@@ -55,14 +55,14 @@ def resources_annotated_with_term(db_cursor, search_term, include_subclasses=Tru
             ontology_table = "ontology_entailed_edges"
     else:
         ontology_table = "ontology_edges"
-    results = db_cursor.execute('''
-                 SELECT DISTINCT m.`Variable`, m.`Table`, m.`SourceTerm`, 
+
+    query = '''SELECT DISTINCT m.`Variable`, m.`Table`, m.`SourceTerm`, 
                     m.`MappedTermLabel`, m.`MappedTermCURIE`, m.`MappingScore`
                  FROM `''' + ONTOLOGY_MAPPINGS_TABLE + '''` m
-                 LEFT JOIN ''' + ontology_table + ''' ee ON (m.`MappedTermCURIE` = ee.subject)
-                 WHERE (m.`MappedTermCURIE` = \'''' + search_term + '''\'''' +
-                                (''' OR ee.object = \'''' + search_term + '''\'''' if include_subclasses else '''''')
-                                + ''')''').fetchall()
+                 LEFT JOIN ''' + ontology_table + ''' ee ON (m.`MappedTermCURIE` = ee.Subject)
+                 WHERE (m.`MappedTermCURIE` = \'''' + search_term + '''\'''' +\
+            (''' OR ee.Object = \'''' + search_term + '''\'''' if include_subclasses else '''''') + ''')'''
+    results = db_cursor.execute(query).fetchall()
     results_columns = [x[0] for x in db_cursor.description]
     results_df = pd.DataFrame(results, columns=results_columns)
     results_df = results_df.sort_values(by=['Variable'])

@@ -4,13 +4,18 @@ import urllib.request
 import bioregistry
 import pandas as pd
 
-__version__ = "0.4.2"
+__version__ = "0.5.0"
 
 ontologies = {
     "EFO": "https://s3.amazonaws.com/bbop-sqlite/efo.db",
     "FOODON": "https://s3.amazonaws.com/bbop-sqlite/foodon.db",
     "NCIT": "https://s3.amazonaws.com/bbop-sqlite/ncit.db"
 }
+
+SUBJECT_COL = "Subject"
+OBJECT_COL = "Object"
+IRI_COL = "IRI"
+ONTOLOGY_COL = "Ontology"
 
 
 def get_semsql_tables_for_ontologies(tables_output_folder='../ontology-tables',
@@ -23,7 +28,7 @@ def get_semsql_tables_for_ontologies(tables_output_folder='../ontology-tables',
                                            ontology_url=ontologies[ontology],
                                            db_output_folder=db_output_folder,
                                            save_tables=False)
-        labels["ontology"] = edges["ontology"] = entailed_edges["ontology"] = dbxrefs["ontology"] = ontology
+        labels[ONTOLOGY_COL] = edges[ONTOLOGY_COL] = entailed_edges[ONTOLOGY_COL] = dbxrefs[ONTOLOGY_COL] = ontology
         all_labels = pd.concat([all_labels, labels])
         all_edges = pd.concat([all_edges, edges])
         all_entailed_edges = pd.concat([all_entailed_edges, entailed_edges])
@@ -78,8 +83,9 @@ def _get_edges_table(cursor):
     edge_data = cursor.fetchall()
     edges_df = pd.DataFrame(edge_data, columns=edge_columns)
     edges_df = edges_df.drop(columns=["predicate"])
+    edges_df = edges_df.rename(columns={'object': OBJECT_COL, 'subject': SUBJECT_COL})
     edges_df = edges_df.drop_duplicates()
-    edges_df = fix_identifiers(edges_df, columns=["subject", "object"])
+    edges_df = fix_identifiers(edges_df, columns=[SUBJECT_COL, OBJECT_COL])
     return edges_df
 
 
@@ -89,8 +95,9 @@ def _get_entailed_edges_table(cursor):
     entailed_edge_data = cursor.fetchall()
     entailed_edges_df = pd.DataFrame(entailed_edge_data, columns=entailed_edge_columns)
     entailed_edges_df = entailed_edges_df.drop(columns=["predicate"])
+    entailed_edges_df = entailed_edges_df.rename(columns={'object': OBJECT_COL, 'subject': SUBJECT_COL})
     entailed_edges_df = entailed_edges_df.drop_duplicates()
-    entailed_edges_df = fix_identifiers(entailed_edges_df, columns=["subject", "object"])
+    entailed_edges_df = fix_identifiers(entailed_edges_df, columns=[SUBJECT_COL, OBJECT_COL])
     return entailed_edges_df
 
 
@@ -105,12 +112,12 @@ def _get_labels_table(cursor):
     labels_data = cursor.fetchall()
     labels_df = pd.DataFrame(labels_data, columns=labels_columns)
     labels_df = labels_df.drop(columns=["stanza", "predicate", "object", "datatype", "language"])
-    labels_df = labels_df[labels_df["subject"].str.startswith("_:") == False]  # remove blank nodes
-    labels_df = labels_df.rename(columns={'value': 'object'})  # rename label value column to the same as other tables
-    labels_df = labels_df.drop_duplicates(subset=["subject"])  # remove all but one label for each subject/term
-    labels_df = fix_identifiers(labels_df, columns=["subject"])
-    labels_df["object"] = labels_df["object"].str.strip()
-    labels_df['iri'] = labels_df['subject'].apply(get_iri)
+    labels_df = labels_df.rename(columns={'value': OBJECT_COL, 'subject': SUBJECT_COL})
+    labels_df = labels_df.drop_duplicates(subset=[SUBJECT_COL])  # remove all but one label for each subject/term
+    labels_df = labels_df[labels_df[SUBJECT_COL].str.startswith("_:") == False]  # remove blank nodes
+    labels_df = fix_identifiers(labels_df, columns=[SUBJECT_COL])
+    labels_df[OBJECT_COL] = labels_df[OBJECT_COL].str.strip()
+    labels_df[IRI_COL] = labels_df[SUBJECT_COL].apply(get_iri)
     return labels_df
 
 
@@ -120,10 +127,10 @@ def _get_db_cross_references_table(cursor):
     db_xrefs_data = cursor.fetchall()
     db_xrefs = pd.DataFrame(db_xrefs_data, columns=db_xrefs_columns)
     db_xrefs = db_xrefs.drop(columns=["stanza", "predicate", "object", "datatype", "language"])
-    db_xrefs = db_xrefs[db_xrefs["subject"].str.startswith("_:") == False]  # remove blank nodes
-    db_xrefs = db_xrefs.rename(columns={'value': 'object'})  # rename dbxref value column to the same as other tables
+    db_xrefs = db_xrefs.rename(columns={'value': OBJECT_COL, 'subject': SUBJECT_COL})
     db_xrefs = db_xrefs.drop_duplicates()
-    db_xrefs = fix_identifiers(db_xrefs, columns=["subject"])
+    db_xrefs = db_xrefs[db_xrefs[SUBJECT_COL].str.startswith("_:") == False]  # remove blank nodes
+    db_xrefs = fix_identifiers(db_xrefs, columns=[SUBJECT_COL])
     return db_xrefs
 
 
