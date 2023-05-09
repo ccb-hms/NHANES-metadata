@@ -16,6 +16,7 @@ SUBJECT_COL = "Subject"
 OBJECT_COL = "Object"
 IRI_COL = "IRI"
 ONTOLOGY_COL = "Ontology"
+IRI_PRIORITY_LIST = ["obofoundry", "default", "bioregistry"]
 
 
 def get_semsql_tables_for_ontologies(tables_output_folder='../ontology-tables',
@@ -136,10 +137,10 @@ def _get_db_cross_references_table(cursor):
 
 def get_iri(curie):
     if "DBR" in curie:
-        curie = curie.split(":")[1]
-        return "http://dbpedia.org/resource/" + curie
+        term_id = curie.split(":")[1]
+        return "http://dbpedia.org/resource/" + term_id
     else:
-        return bioregistry.get_iri(curie)
+        return bioregistry.get_iri(curie, priority=IRI_PRIORITY_LIST)
 
 
 def fix_identifiers(df, columns=()):
