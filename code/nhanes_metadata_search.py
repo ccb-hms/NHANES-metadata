@@ -2,41 +2,43 @@ from pathlib import Path
 import pandas as pd
 import sqlite3
 
-__version__ = "0.2.0"
+__version__ = "0.3.0"
 
 ONTOLOGY_MAPPINGS_TABLE = 'ontology_mappings'
 
 
 def setup_database():
-    db_name = 'example_database.db'
+    db_name = 'nhanes_metadata.db'
     Path(db_name).touch()
     db_connection = sqlite3.connect(db_name)
     ontology_tables_folder = '../ontology-tables/'
-    semsql_table_columns = "subject,object,ontology"
 
-    # Import the edges and labels tables
-    ontology_edges_table_name = "ontology_edges"
-    ontology_entailed_edges_table_name = "ontology_entailed_edges"
-    ontology_term_labels_table_name = "ontology_labels"
+    # Import the edges and database cross-references tables
+    ontology_edges_table = "ontology_edges"
+    ontology_entailed_edges_table = "ontology_entailed_edges"
+    ontology_dbxrefs_table = "ontology_dbxrefs"
+    ontology_tables_columns = "Subject TEXT,Object TEXT,Ontology TEXT"
 
-    import_table_to_db(sql_connection=db_connection,
-                       table_file=ontology_tables_folder + ontology_edges_table_name + '.tsv',
-                       table_name=ontology_edges_table_name, table_columns=semsql_table_columns)
+    import_table_to_db(db_connection, table_file=ontology_tables_folder + ontology_edges_table + '.tsv',
+                       table_name=ontology_edges_table, table_columns=ontology_tables_columns)
 
-    import_table_to_db(sql_connection=db_connection,
-                       table_file=ontology_tables_folder + ontology_entailed_edges_table_name + '.tsv',
-                       table_name=ontology_entailed_edges_table_name, table_columns=semsql_table_columns)
+    import_table_to_db(db_connection, table_file=ontology_tables_folder + ontology_entailed_edges_table + '.tsv',
+                       table_name=ontology_entailed_edges_table, table_columns=ontology_tables_columns)
 
-    import_table_to_db(sql_connection=db_connection,
-                       table_file=ontology_tables_folder + ontology_term_labels_table_name + '.tsv',
-                       table_name=ontology_term_labels_table_name, table_columns=semsql_table_columns)
+    import_table_to_db(db_connection, table_file=ontology_tables_folder + ontology_dbxrefs_table + '.tsv',
+                       table_name=ontology_dbxrefs_table, table_columns=ontology_tables_columns)
+
+    # Import the labels table
+    term_labels_table_name = "ontology_labels"
+    term_labels_table_columns = "Subject TEXT,Object TEXT,IRI TEXT,Ontology TEXT,Direct INT,Inherited INT"
+    import_table_to_db(db_connection, table_file=ontology_tables_folder + term_labels_table_name + '.tsv',
+                       table_name=term_labels_table_name, table_columns=term_labels_table_columns)
 
     # Import the ontology mappings table
-    import_table_to_db(sql_connection=db_connection,
-                       table_file="../ontology-mappings/nhanes_variables_mappings.tsv",
-                       table_name=ONTOLOGY_MAPPINGS_TABLE,
-                       table_columns="'Variable','Table','SourceTerm','MappedTermLabel','MappedTermCURIE',"
-                                     "'MappedTermIRI','MappingScore','Tags','Ontology'")
+    mappings_table_columns = "Variable TEXT,`Table` TEXT,SourceTerm TEXT,MappedTermLabel TEXT,MappedTermCURIE TEXT," \
+                             "MappedTermIRI TEXT,MappingScore REAL,Tags TEXT,Ontology TEXT"
+    import_table_to_db(db_connection, table_file="../ontology-mappings/nhanes_variables_mappings.tsv",
+                       table_name=ONTOLOGY_MAPPINGS_TABLE, table_columns=mappings_table_columns)
     return db_connection
 
 
