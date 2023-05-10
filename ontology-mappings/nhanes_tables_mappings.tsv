@@ -1,277 +1,277 @@
 SourceTermID	SourceTerm	MappedTermLabel	MappedTermCURIE	MappedTermIRI	MappingScore	Ontology
-BPX	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9828983961068323	EFO
-BMX	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538502039156649	EFO
-TB	Tuberculosis	tuberculosis	MONDO:0018076	http://purl.obolibrary.org/obo/MONDO_0018076	0.9737693991480773	EFO
-UC	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099271573276821	EFO
-LAB16	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8394513547118584	EFO
-SSOL_A	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	benign monoclonal gammopathy	EFO:1000836	http://www.ebi.ac.uk/efo/EFO_1000836	0.9011775665534081	EFO
-CIQGAD	Mental Health - Generalized Anxiety Disorder	generalized anxiety disorder	EFO:1001892	http://www.ebi.ac.uk/efo/EFO_1001892	0.8875923058658743	EFO
-CIQMDEP	Mental Health - Depression	depressive disorder	MONDO:0002050	http://purl.obolibrary.org/obo/MONDO_0002050	0.8832588700262062	EFO
-ALQ	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8686110704221458	EFO
-CDQ	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815329845038226	EFO
-CFQ	Cognitive Functioning	cognition	EFO:0003925	http://www.ebi.ac.uk/efo/EFO_0003925	0.9004874002594415	EFO
-DIQ	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991146115389642	EFO
-DUQ	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445813386962043	EFO
-ECQ	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8724174326552433	EFO
-IMQ	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8688479057992675	EFO
-MCQ	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.9136061964376708	EFO
-OCQ	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8029165936522593	EFO
-OSQ	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.9830749903198981	EFO
-PAQ	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901769934821487	EFO
-PAQIAF	Physical Activity - Individual Activities	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.8313330875474427	EFO
-SXQ	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905187785640853	EFO
-TBQ	Tuberculosis	tuberculosis	MONDO:0018076	http://purl.obolibrary.org/obo/MONDO_0018076	0.9737693991480773	EFO
-BMX_B	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538502039156649	EFO
-BPX_B	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9828983961068323	EFO
-UC_B	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099271573276821	EFO
-L06VID_B	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.868581897166305	EFO
-L16_B	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8394513547118584	EFO
-L35_B	Methicillin - Resistant Staphylococcus aureus (MRSA)	Methicillin-Resistant Staphylococcus Aureus Infection	EFO:0008555	http://www.ebi.ac.uk/efo/EFO_0008555	0.8283728950059616	EFO
-SSOL_B	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	benign monoclonal gammopathy	EFO:1000836	http://www.ebi.ac.uk/efo/EFO_1000836	0.9011775665534081	EFO
-VID_B	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.868581897166305	EFO
-ALQ_B	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8686110704221458	EFO
-CDQ_B	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815329845038226	EFO
-CFQ_B	Cognitive Functioning	cognition	EFO:0003925	http://www.ebi.ac.uk/efo/EFO_0003925	0.9004874002594415	EFO
-DIQ_B	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991146115389642	EFO
-DUQ_B	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445813386962043	EFO
-ECQ_B	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8724174326552433	EFO
-IMQ_B	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8688479057992675	EFO
-MCQ_B	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.9136061964376708	EFO
-OCQ_B	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8029165936522593	EFO
-OSQ_B	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.9830749903198981	EFO
-PAQ_B	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901769934821487	EFO
-PAQIAF_B	Physical Activity - Individual Activities	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.8313330875474427	EFO
-SXQ_B	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905187785640853	EFO
-CIQGAD_B	Mental Health - Generalized Anxiety Disorder	generalized anxiety disorder	EFO:1001892	http://www.ebi.ac.uk/efo/EFO_1001892	0.8875923058658743	EFO
-CIQDEP_B	Mental Health - Depression	depressive disorder	MONDO:0002050	http://purl.obolibrary.org/obo/MONDO_0002050	0.8832588700262062	EFO
-BPX_C	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9828983961068323	EFO
-BMX_C	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538502039156649	EFO
-L16_C	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8394513547118584	EFO
-L35_C	Methicillin - Resistant Staphylococcus aureus (MRSA)	Methicillin-Resistant Staphylococcus Aureus Infection	EFO:0008555	http://www.ebi.ac.uk/efo/EFO_0008555	0.8283728950059616	EFO
-L43_C	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.8264703713863609	EFO
-UC_C	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099271573276821	EFO
-SSQFEV_C	Coxiella Burnetii (Q Fever) Antibodies - Serum (Surplus)	Q fever	EFO:0005224	http://www.ebi.ac.uk/efo/EFO_0005224	0.8286147804252306	EFO
-L06VID_C	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.868581897166305	EFO
-SSOL_C	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	benign monoclonal gammopathy	EFO:1000836	http://www.ebi.ac.uk/efo/EFO_1000836	0.9011775665534081	EFO
-VID_C	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.868581897166305	EFO
-CDQ_C	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815329845038226	EFO
-ALQ_C	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8686110704221458	EFO
-DIQ_C	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991146115389642	EFO
-DUQ_C	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445813386962043	EFO
-ECQ_C	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8724174326552433	EFO
-IMQ_C	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8688479057992675	EFO
-MCQ_C	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.9136061964376708	EFO
-OCQ_C	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8029165936522593	EFO
-OSQ_C	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.9830749903198981	EFO
-PAQ_C	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901769934821487	EFO
-PAQIAF_C	Physical Activity - Individual Activities	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.8313330875474427	EFO
-SXQ_C	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905187785640853	EFO
-CIQGAD_C	Mental Health - Generalized Anxiety Disorder	generalized anxiety disorder	EFO:1001892	http://www.ebi.ac.uk/efo/EFO_1001892	0.8875923058658743	EFO
-CIQDEP_C	Mental Health - Depression	depressive disorder	MONDO:0002050	http://purl.obolibrary.org/obo/MONDO_0002050	0.8832588700262062	EFO
-BPX_D	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9828983961068323	EFO
-BMX_D	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538502039156649	EFO
-TCHOL_D	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.8350210410874607	EFO
-HDL_D	Cholesterol - HDL	HDL cholesterol change measurement	EFO:0007805	http://www.ebi.ac.uk/efo/EFO_0007805	0.8003484726983019	EFO
-VIT_B6_D	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.8264703713863609	EFO
-FOLATE_D	Folate - RBC & Serum	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.8508001767480922	EFO
-PTH_D	Parathyroid Hormone	parathyroid hormone measurement	EFO:0004752	http://www.ebi.ac.uk/efo/EFO_0004752	0.837382314344343	EFO
-GLU_D	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.8484376724631028	EFO
-OGTT_D	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.9307527758828946	EFO
-ALB_CR_D	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8394513547118584	EFO
-UCPREG_D	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099271573276821	EFO
-B12_D	Vitamin B12	vitamin B12 deficiency	EFO:0000734	http://www.ebi.ac.uk/efo/EFO_0000734	0.9107483969293131	EFO
-VID_D	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.868581897166305	EFO
-ALQ_D	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8686110704221458	EFO
-AGQ_D	Allergy	allergic disease	MONDO:0005271	http://purl.obolibrary.org/obo/MONDO_0005271	0.9404200805190921	EFO
-CDQ_D	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815329845038226	EFO
-DIQ_D	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991146115389642	EFO
-DUQ_D	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445813386962043	EFO
-ECQ_D	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8724174326552433	EFO
-IMQ_D	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8688479057992675	EFO
-MCQ_D	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.9136061964376708	EFO
-OSQ_D	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.9830749903198981	EFO
-PAQ_D	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901769934821487	EFO
-PAQIAF_D	Physical Activity - Individual Activities	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.8313330875474427	EFO
-SXQ_D	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905187785640853	EFO
-SLQ_D	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.9752610864406586	EFO
-SMQ_D	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.9440156291452844	EFO
-SMQRTU_D	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.8099642507772137	EFO
-OCQ_D	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8029165936522593	EFO
-BPX_E	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9828983961068323	EFO
-BMX_E	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538502039156649	EFO
-ENX_E	Exhaled Nitric Oxide	nitric oxide exhalation measurement	EFO:0005536	http://www.ebi.ac.uk/efo/EFO_0005536	0.8721364039064226	EFO
-GLU_E	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.8484376724631028	EFO
-UCPREG_E	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099271573276821	EFO
-ALB_CR_E	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8394513547118584	EFO
-TCHOL_E	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.8350210410874607	EFO
-OGTT_E	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.9307527758828946	EFO
-HDL_E	Cholesterol - HDL	HDL cholesterol change measurement	EFO:0007805	http://www.ebi.ac.uk/efo/EFO_0007805	0.8003484726983019	EFO
-ApoB_E	Apolipoprotein B	abetalipoproteinemia	MONDO:0008692	http://purl.obolibrary.org/obo/MONDO_0008692	0.8602145109737247	EFO
-SSUSG_E	Urine Specific Gravity Measurement (Surplus)	urine specific gravity measurement	EFO:0010135	http://www.ebi.ac.uk/efo/EFO_0010135	0.9080063052292513	EFO
-FOLATE_E	Folate - RBC & Serum	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.8508001767480922	EFO
-VIT_B6_E	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.8264703713863609	EFO
-VID_E	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.868581897166305	EFO
-ALQ_E	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8686110704221458	EFO
-CDQ_E	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815329845038226	EFO
-ECQ_E	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8724174326552433	EFO
-IMQ_E	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8688479057992675	EFO
-MCQ_E	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.9136061964376708	EFO
-PAQ_E	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901769934821487	EFO
-SMQRTU_E	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.8099642507772137	EFO
-OSQ_E	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.9830749903198981	EFO
-SXQ_E	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905187785640853	EFO
-DIQ_E	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991146115389642	EFO
-SMQ_E	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.9440156291452844	EFO
-SLQ_E	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.9752610864406586	EFO
-DUQ_E	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445813386962043	EFO
-OCQ_E	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8029165936522593	EFO
-ENX_F	Exhaled Nitric Oxide	nitric oxide exhalation measurement	EFO:0005536	http://www.ebi.ac.uk/efo/EFO_0005536	0.8721364039064226	EFO
-BMX_F	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538502039156649	EFO
-BPX_F	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9828983961068323	EFO
-UCPREG_F	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099271573276821	EFO
-HDL_F	Cholesterol - HDL	HDL cholesterol change measurement	EFO:0007805	http://www.ebi.ac.uk/efo/EFO_0007805	0.8003484726983019	EFO
-FOLATE_F	Folate - RBC & Serum	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.8508001767480922	EFO
-TCHOL_F	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.8350210410874607	EFO
-ALB_CR_F	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8394513547118584	EFO
-CHLMDA_F	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.8975849848072901	EFO
-GLU_F	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.8484376724631028	EFO
-OGTT_F	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.9307527758828946	EFO
-ApoB_F	Apolipoprotein B	abetalipoproteinemia	MONDO:0008692	http://purl.obolibrary.org/obo/MONDO_0008692	0.8602145109737247	EFO
-VIT_B6_F	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.8264703713863609	EFO
-VID_F	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.868581897166305	EFO
-SMQRTU_F	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.8099642507772137	EFO
-CDQ_F	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815329845038226	EFO
-ARQ_F	Arthritis	arthritis	EFO:0005856	http://www.ebi.ac.uk/efo/EFO_0005856	0.9934662890131214	EFO
-MCQ_F	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.9136061964376708	EFO
-DIQ_F	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991146115389642	EFO
-PAQ_F	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901769934821487	EFO
-SMQ_F	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.9440156291452844	EFO
-SXQ_F	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905187785640853	EFO
-IMQ_F	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8688479057992675	EFO
-OCQ_F	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8029165936522593	EFO
-ECQ_F	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8724174326552433	EFO
-SLQ_F	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.9752610864406586	EFO
-OSQ_F	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.9830749903198981	EFO
-ALQ_F	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8686110704221458	EFO
-DUQ_F	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445813386962043	EFO
-TBX_G	Tuberculosis	tuberculosis	MONDO:0018076	http://purl.obolibrary.org/obo/MONDO_0018076	0.9737693991480773	EFO
-BPX_G	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9828983961068323	EFO
-ENX_G	Exhaled Nitric Oxide	nitric oxide exhalation measurement	EFO:0005536	http://www.ebi.ac.uk/efo/EFO_0005536	0.8721364039064226	EFO
-BMX_G	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538502039156649	EFO
-TCHOL_G	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.8350210410874607	EFO
-ALB_CR_G	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8394513547118584	EFO
-UCPREG_G	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099271573276821	EFO
-FOLATE_G	Folate - RBC	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.9885745557401402	EFO
-MMA_G	Methylmalonic Acid	methylmalonic acidemia	MONDO:0002012	http://purl.obolibrary.org/obo/MONDO_0002012	0.8456196115388783	EFO
-VITB12_G	Vitamin B12	vitamin B12 deficiency	EFO:0000734	http://www.ebi.ac.uk/efo/EFO_0000734	0.9107483969293131	EFO
-HDL_G	Cholesterol - HDL	HDL cholesterol change measurement	EFO:0007805	http://www.ebi.ac.uk/efo/EFO_0007805	0.8003484726983019	EFO
-CHLMDA_G	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.8975849848072901	EFO
-GLU_G	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.8484376724631028	EFO
-OGTT_G	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.9307527758828946	EFO
-ApoB_G	Apolipoprotein B	abetalipoproteinemia	MONDO:0008692	http://purl.obolibrary.org/obo/MONDO_0008692	0.8602145109737247	EFO
-VID_G	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.868581897166305	EFO
-TBQ_G	Tuberculosis	tuberculosis	MONDO:0018076	http://purl.obolibrary.org/obo/MONDO_0018076	0.9737693991480773	EFO
-CDQ_G	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815329845038226	EFO
-PAQ_G	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901769934821487	EFO
-CKQ_G	Creatine Kinase	Elevated circulating creatine kinase concentration	HP:0003236	http://purl.obolibrary.org/obo/HP_0003236	0.8468655034172126	EFO
-DIQ_G	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991146115389642	EFO
-ECQ_G	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8724174326552433	EFO
-SXQ_G	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905187785640853	EFO
-SMQRTU_G	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.8099642507772137	EFO
-SMQ_G	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.9440156291452844	EFO
-OCQ_G	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8029165936522593	EFO
-MCQ_G	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.9136061964376708	EFO
-IMQ_G	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8688479057992675	EFO
-DUQ_G	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445813386962043	EFO
-SLQ_G	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.9752610864406586	EFO
-ALQ_G	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8686110704221458	EFO
-CFQ_G	Cognitive Functioning	cognition	EFO:0003925	http://www.ebi.ac.uk/efo/EFO_0003925	0.9004874002594415	EFO
-BPX_H	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9828983961068323	EFO
-BMX_H	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538502039156649	EFO
-ApoB_H	Apolipoprotein B	abetalipoproteinemia	MONDO:0008692	http://purl.obolibrary.org/obo/MONDO_0008692	0.8602145109737247	EFO
-HDL_H	Cholesterol - HDL	HDL cholesterol change measurement	EFO:0007805	http://www.ebi.ac.uk/efo/EFO_0007805	0.8003484726983019	EFO
-TCHOL_H	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.8350210410874607	EFO
-HEPA_H	Hepatitis A	hepatitis A virus infection	EFO:0007305	http://www.ebi.ac.uk/efo/EFO_0007305	0.9890177853858856	EFO
-OGTT_H	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.9307527758828946	EFO
-UCPREG_H	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099271573276821	EFO
-GLU_H	Plasma Fasting Glucose	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.97968634523414	EFO
-VITB12_H	Vitamin B12	vitamin B12 deficiency	EFO:0000734	http://www.ebi.ac.uk/efo/EFO_0000734	0.9107483969293131	EFO
-CHLMDA_H	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.8975849848072901	EFO
-INS_H	Insulin	insulinoma	EFO:0000549	http://www.ebi.ac.uk/efo/EFO_0000549	0.8373022774812953	EFO
-ALB_CR_H	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8394513547118584	EFO
-MMA_H	Methylmalonic Acid	methylmalonic acidemia	MONDO:0002012	http://purl.obolibrary.org/obo/MONDO_0002012	0.8456196115388783	EFO
-VID_H	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.868581897166305	EFO
-FOLATE_H	Folate - RBC	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.9885745557401402	EFO
-OSQ_H	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.9830749903198981	EFO
-IMQ_H	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8688479057992675	EFO
-SXQ_H	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905187785640853	EFO
-CDQ_H	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815329845038226	EFO
-MCQ_H	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.9136061964376708	EFO
-PAQ_H	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901769934821487	EFO
-HEQ_H	Hepatitis	Hepatitis	HP:0012115	http://purl.obolibrary.org/obo/HP_0012115	0.9869178807228041	EFO
-ECQ_H	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8724174326552433	EFO
-DIQ_H	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991146115389642	EFO
-SMQ_H	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.9440156291452844	EFO
-SMQRTU_H	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.8099642507772137	EFO
-SLQ_H	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.9752610864406586	EFO
-DUQ_H	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445813386962043	EFO
-ALQ_H	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8686110704221458	EFO
-OCQ_H	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8029165936522593	EFO
-CKQ_H	Creatine Kinase	Elevated circulating creatine kinase concentration	HP:0003236	http://purl.obolibrary.org/obo/HP_0003236	0.8468655034172126	EFO
-CFQ_H	Cognitive Functioning	cognition	EFO:0003925	http://www.ebi.ac.uk/efo/EFO_0003925	0.9004874002594415	EFO
-BPX_I	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9828983961068323	EFO
-BMX_I	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538502039156649	EFO
-UCPREG_I	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099271573276821	EFO
-CHLMDA_I	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.8975849848072901	EFO
-ALB_CR_I	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8394513547118584	EFO
-HEPA_I	Hepatitis A	hepatitis A virus infection	EFO:0007305	http://www.ebi.ac.uk/efo/EFO_0007305	0.9890177853858856	EFO
-HDL_I	Cholesterol - High-Density Lipoprotein (HDL)	high density lipoprotein cholesterol measurement	EFO:0004612	http://www.ebi.ac.uk/efo/EFO_0004612	0.8583885847625349	EFO
-TCHOL_I	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.8350210410874607	EFO
-GLU_I	Plasma Fasting Glucose	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.97968634523414	EFO
-INS_I	Insulin	insulinoma	EFO:0000549	http://www.ebi.ac.uk/efo/EFO_0000549	0.8373022774812953	EFO
-OGTT_I	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.9307527758828946	EFO
-FOLATE_I	Folate - RBC	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.9885745557401402	EFO
-APOB_I	Apolipoprotein B	abetalipoproteinemia	MONDO:0008692	http://purl.obolibrary.org/obo/MONDO_0008692	0.8602145109737247	EFO
-VID_I	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.868581897166305	EFO
-CDQ_I	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815329845038226	EFO
-MCQ_I	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.9136061964376708	EFO
-HEQ_I	Hepatitis	Hepatitis	HP:0012115	http://purl.obolibrary.org/obo/HP_0012115	0.9869178807228041	EFO
-PAQ_I	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901769934821487	EFO
-IMQ_I	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8688479057992675	EFO
-SMQRTU_I	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.8099642507772137	EFO
-SMQ_I	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.9440156291452844	EFO
-DIQ_I	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991146115389642	EFO
-SXQ_I	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905187785640853	EFO
-ECQ_I	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8724174326552433	EFO
-OCQ_I	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8029165936522593	EFO
-SLQ_I	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.9752610864406586	EFO
-ALQ_I	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8686110704221458	EFO
-DUQ_I	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445813386962043	EFO
-BPX_J	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9828983961068323	EFO
-BMX_J	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538502039156649	EFO
-ALB_CR_J	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8394513547118584	EFO
-UCPREG_J	Urine Pregnancy Test	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099271573276821	EFO
-HEPA_J	Hepatitis A	hepatitis A virus infection	EFO:0007305	http://www.ebi.ac.uk/efo/EFO_0007305	0.9890177853858856	EFO
-TCHOL_J	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.8350210410874607	EFO
-HDL_J	Cholesterol - High - Density Lipoprotein (HDL)	high density lipoprotein cholesterol measurement	EFO:0004612	http://www.ebi.ac.uk/efo/EFO_0004612	0.8583885847625349	EFO
-GLU_J	Plasma Fasting Glucose	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.97968634523414	EFO
-INS_J	Insulin	insulinoma	EFO:0000549	http://www.ebi.ac.uk/efo/EFO_0000549	0.8373022774812953	EFO
-FOLATE_J	Folate - RBC	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.9885745557401402	EFO
-VID_J	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.868581897166305	EFO
-HEQ_J	Hepatitis	Hepatitis	HP:0012115	http://purl.obolibrary.org/obo/HP_0012115	0.9869178807228041	EFO
-CDQ_J	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815329845038226	EFO
-PAQ_J	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901769934821487	EFO
-IMQ_J	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8688479057992675	EFO
-DIQ_J	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991146115389642	EFO
-SMQRTU_J	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.8099642507772137	EFO
-SMQ_J	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.9440156291452844	EFO
-MCQ_J	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.9136061964376708	EFO
-SLQ_J	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.9752610864406586	EFO
-OCQ_J	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8029165936522593	EFO
-DUQ_J	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445813386962043	EFO
-ECQ_J	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8724174326552433	EFO
-OSQ_J	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.9830749903198981	EFO
-ALQ_J	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8686110704221458	EFO
+BPX	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9827102181142745	EFO
+BMX	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538176509817792	EFO
+TB	Tuberculosis	tuberculosis	MONDO:0018076	http://purl.obolibrary.org/obo/MONDO_0018076	0.9738233581799487	EFO
+UC	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099361136110894	EFO
+LAB16	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8395567468490455	EFO
+SSOL_A	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	benign monoclonal gammopathy	EFO:1000836	http://www.ebi.ac.uk/efo/EFO_1000836	0.9012121330917346	EFO
+CIQGAD	Mental Health - Generalized Anxiety Disorder	generalized anxiety disorder	EFO:1001892	http://www.ebi.ac.uk/efo/EFO_1001892	0.887517469460629	EFO
+CIQMDEP	Mental Health - Depression	depressive disorder	MONDO:0002050	http://purl.obolibrary.org/obo/MONDO_0002050	0.8832334598334877	EFO
+ALQ	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8684245856389979	EFO
+CDQ	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.8154102435100169	EFO
+CFQ	Cognitive Functioning	cognition	EFO:0003925	http://www.ebi.ac.uk/efo/EFO_0003925	0.9004966185087891	EFO
+DIQ	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.9911218192147492	EFO
+DUQ	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445647750651978	EFO
+ECQ	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8723504397948626	EFO
+IMQ	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8687771579529582	EFO
+MCQ	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913613592841015	EFO
+OCQ	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8027288756485202	EFO
+OSQ	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983045914451067	EFO
+PAQ	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901668074204059	EFO
+PAQIAF	Physical Activity - Individual Activities	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.8312932076549203	EFO
+SXQ	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905427276101023	EFO
+TBQ	Tuberculosis	tuberculosis	MONDO:0018076	http://purl.obolibrary.org/obo/MONDO_0018076	0.9738233581799487	EFO
+BMX_B	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538176509817792	EFO
+BPX_B	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9827102181142745	EFO
+UC_B	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099361136110894	EFO
+L06VID_B	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.8686086738970226	EFO
+L16_B	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8395567468490455	EFO
+L35_B	Methicillin - Resistant Staphylococcus aureus (MRSA)	Methicillin-Resistant Staphylococcus Aureus Infection	EFO:0008555	http://www.ebi.ac.uk/efo/EFO_0008555	0.8284107801172715	EFO
+SSOL_B	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	benign monoclonal gammopathy	EFO:1000836	http://www.ebi.ac.uk/efo/EFO_1000836	0.9012121330917346	EFO
+VID_B	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.8686086738970226	EFO
+ALQ_B	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8684245856389979	EFO
+CDQ_B	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.8154102435100169	EFO
+CFQ_B	Cognitive Functioning	cognition	EFO:0003925	http://www.ebi.ac.uk/efo/EFO_0003925	0.9004966185087891	EFO
+DIQ_B	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.9911218192147492	EFO
+DUQ_B	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445647750651978	EFO
+ECQ_B	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8723504397948626	EFO
+IMQ_B	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8687771579529582	EFO
+MCQ_B	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913613592841015	EFO
+OCQ_B	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8027288756485202	EFO
+OSQ_B	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983045914451067	EFO
+PAQ_B	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901668074204059	EFO
+PAQIAF_B	Physical Activity - Individual Activities	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.8312932076549203	EFO
+SXQ_B	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905427276101023	EFO
+CIQGAD_B	Mental Health - Generalized Anxiety Disorder	generalized anxiety disorder	EFO:1001892	http://www.ebi.ac.uk/efo/EFO_1001892	0.887517469460629	EFO
+CIQDEP_B	Mental Health - Depression	depressive disorder	MONDO:0002050	http://purl.obolibrary.org/obo/MONDO_0002050	0.8832334598334877	EFO
+BPX_C	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9827102181142745	EFO
+BMX_C	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538176509817792	EFO
+L16_C	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8395567468490455	EFO
+L35_C	Methicillin - Resistant Staphylococcus aureus (MRSA)	Methicillin-Resistant Staphylococcus Aureus Infection	EFO:0008555	http://www.ebi.ac.uk/efo/EFO_0008555	0.8284107801172715	EFO
+L43_C	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.8267348976696777	EFO
+UC_C	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099361136110894	EFO
+SSQFEV_C	Coxiella Burnetii (Q Fever) Antibodies - Serum (Surplus)	Q fever	EFO:0005224	http://www.ebi.ac.uk/efo/EFO_0005224	0.8286018566533008	EFO
+L06VID_C	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.8686086738970226	EFO
+SSOL_C	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	benign monoclonal gammopathy	EFO:1000836	http://www.ebi.ac.uk/efo/EFO_1000836	0.9012121330917346	EFO
+VID_C	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.8686086738970226	EFO
+CDQ_C	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.8154102435100169	EFO
+ALQ_C	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8684245856389979	EFO
+DIQ_C	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.9911218192147492	EFO
+DUQ_C	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445647750651978	EFO
+ECQ_C	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8723504397948626	EFO
+IMQ_C	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8687771579529582	EFO
+MCQ_C	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913613592841015	EFO
+OCQ_C	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8027288756485202	EFO
+OSQ_C	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983045914451067	EFO
+PAQ_C	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901668074204059	EFO
+PAQIAF_C	Physical Activity - Individual Activities	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.8312932076549203	EFO
+SXQ_C	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905427276101023	EFO
+CIQGAD_C	Mental Health - Generalized Anxiety Disorder	generalized anxiety disorder	EFO:1001892	http://www.ebi.ac.uk/efo/EFO_1001892	0.887517469460629	EFO
+CIQDEP_C	Mental Health - Depression	depressive disorder	MONDO:0002050	http://purl.obolibrary.org/obo/MONDO_0002050	0.8832334598334877	EFO
+BPX_D	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9827102181142745	EFO
+BMX_D	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538176509817792	EFO
+TCHOL_D	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.8352814118580807	EFO
+HDL_D	Cholesterol - HDL	HDL cholesterol change measurement	EFO:0007805	http://www.ebi.ac.uk/efo/EFO_0007805	0.800534939696533	EFO
+VIT_B6_D	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.8267348976696777	EFO
+FOLATE_D	Folate - RBC & Serum	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.8507358904079003	EFO
+PTH_D	Parathyroid Hormone	parathyroid hormone measurement	EFO:0004752	http://www.ebi.ac.uk/efo/EFO_0004752	0.8376393039766841	EFO
+GLU_D	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.8485092407238009	EFO
+OGTT_D	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.9307588358124056	EFO
+ALB_CR_D	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8395567468490455	EFO
+UCPREG_D	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099361136110894	EFO
+B12_D	Vitamin B12	vitamin B12 deficiency	EFO:0000734	http://www.ebi.ac.uk/efo/EFO_0000734	0.9107505382665153	EFO
+VID_D	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.8686086738970226	EFO
+ALQ_D	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8684245856389979	EFO
+AGQ_D	Allergy	allergic disease	MONDO:0005271	http://purl.obolibrary.org/obo/MONDO_0005271	0.9405416748702934	EFO
+CDQ_D	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.8154102435100169	EFO
+DIQ_D	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.9911218192147492	EFO
+DUQ_D	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445647750651978	EFO
+ECQ_D	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8723504397948626	EFO
+IMQ_D	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8687771579529582	EFO
+MCQ_D	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913613592841015	EFO
+OSQ_D	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983045914451067	EFO
+PAQ_D	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901668074204059	EFO
+PAQIAF_D	Physical Activity - Individual Activities	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.8312932076549203	EFO
+SXQ_D	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905427276101023	EFO
+SLQ_D	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.9752341148646231	EFO
+SMQ_D	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.9440457794494953	EFO
+SMQRTU_D	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.8100132867108791	EFO
+OCQ_D	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8027288756485202	EFO
+BPX_E	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9827102181142745	EFO
+BMX_E	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538176509817792	EFO
+ENX_E	Exhaled Nitric Oxide	nitric oxide exhalation measurement	EFO:0005536	http://www.ebi.ac.uk/efo/EFO_0005536	0.8721032259407386	EFO
+GLU_E	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.8485092407238009	EFO
+UCPREG_E	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099361136110894	EFO
+ALB_CR_E	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8395567468490455	EFO
+TCHOL_E	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.8352814118580807	EFO
+OGTT_E	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.9307588358124056	EFO
+HDL_E	Cholesterol - HDL	HDL cholesterol change measurement	EFO:0007805	http://www.ebi.ac.uk/efo/EFO_0007805	0.800534939696533	EFO
+ApoB_E	Apolipoprotein B	abetalipoproteinemia	MONDO:0008692	http://purl.obolibrary.org/obo/MONDO_0008692	0.8602101215105054	EFO
+SSUSG_E	Urine Specific Gravity Measurement (Surplus)	urine specific gravity measurement	EFO:0010135	http://www.ebi.ac.uk/efo/EFO_0010135	0.9078391457421756	EFO
+FOLATE_E	Folate - RBC & Serum	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.8507358904079003	EFO
+VIT_B6_E	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.8267348976696777	EFO
+VID_E	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.8686086738970226	EFO
+ALQ_E	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8684245856389979	EFO
+CDQ_E	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.8154102435100169	EFO
+ECQ_E	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8723504397948626	EFO
+IMQ_E	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8687771579529582	EFO
+MCQ_E	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913613592841015	EFO
+PAQ_E	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901668074204059	EFO
+SMQRTU_E	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.8100132867108791	EFO
+OSQ_E	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983045914451067	EFO
+SXQ_E	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905427276101023	EFO
+DIQ_E	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.9911218192147492	EFO
+SMQ_E	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.9440457794494953	EFO
+SLQ_E	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.9752341148646231	EFO
+DUQ_E	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445647750651978	EFO
+OCQ_E	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8027288756485202	EFO
+ENX_F	Exhaled Nitric Oxide	nitric oxide exhalation measurement	EFO:0005536	http://www.ebi.ac.uk/efo/EFO_0005536	0.8721032259407386	EFO
+BMX_F	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538176509817792	EFO
+BPX_F	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9827102181142745	EFO
+UCPREG_F	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099361136110894	EFO
+HDL_F	Cholesterol - HDL	HDL cholesterol change measurement	EFO:0007805	http://www.ebi.ac.uk/efo/EFO_0007805	0.800534939696533	EFO
+FOLATE_F	Folate - RBC & Serum	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.8507358904079003	EFO
+TCHOL_F	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.8352814118580807	EFO
+ALB_CR_F	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8395567468490455	EFO
+CHLMDA_F	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.8976044971075962	EFO
+GLU_F	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.8485092407238009	EFO
+OGTT_F	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.9307588358124056	EFO
+ApoB_F	Apolipoprotein B	abetalipoproteinemia	MONDO:0008692	http://purl.obolibrary.org/obo/MONDO_0008692	0.8602101215105054	EFO
+VIT_B6_F	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.8267348976696777	EFO
+VID_F	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.8686086738970226	EFO
+SMQRTU_F	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.8100132867108791	EFO
+CDQ_F	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.8154102435100169	EFO
+ARQ_F	Arthritis	arthritis	EFO:0005856	http://www.ebi.ac.uk/efo/EFO_0005856	0.9934831589770637	EFO
+MCQ_F	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913613592841015	EFO
+DIQ_F	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.9911218192147492	EFO
+PAQ_F	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901668074204059	EFO
+SMQ_F	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.9440457794494953	EFO
+SXQ_F	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905427276101023	EFO
+IMQ_F	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8687771579529582	EFO
+OCQ_F	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8027288756485202	EFO
+ECQ_F	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8723504397948626	EFO
+SLQ_F	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.9752341148646231	EFO
+OSQ_F	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983045914451067	EFO
+ALQ_F	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8684245856389979	EFO
+DUQ_F	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445647750651978	EFO
+TBX_G	Tuberculosis	tuberculosis	MONDO:0018076	http://purl.obolibrary.org/obo/MONDO_0018076	0.9738233581799487	EFO
+BPX_G	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9827102181142745	EFO
+ENX_G	Exhaled Nitric Oxide	nitric oxide exhalation measurement	EFO:0005536	http://www.ebi.ac.uk/efo/EFO_0005536	0.8721032259407386	EFO
+BMX_G	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538176509817792	EFO
+TCHOL_G	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.8352814118580807	EFO
+ALB_CR_G	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8395567468490455	EFO
+UCPREG_G	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099361136110894	EFO
+FOLATE_G	Folate - RBC	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.9884998591874925	EFO
+MMA_G	Methylmalonic Acid	methylmalonic acidemia	MONDO:0002012	http://purl.obolibrary.org/obo/MONDO_0002012	0.8454838061108706	EFO
+VITB12_G	Vitamin B12	vitamin B12 deficiency	EFO:0000734	http://www.ebi.ac.uk/efo/EFO_0000734	0.9107505382665153	EFO
+HDL_G	Cholesterol - HDL	HDL cholesterol change measurement	EFO:0007805	http://www.ebi.ac.uk/efo/EFO_0007805	0.800534939696533	EFO
+CHLMDA_G	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.8976044971075962	EFO
+GLU_G	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.8485092407238009	EFO
+OGTT_G	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.9307588358124056	EFO
+ApoB_G	Apolipoprotein B	abetalipoproteinemia	MONDO:0008692	http://purl.obolibrary.org/obo/MONDO_0008692	0.8602101215105054	EFO
+VID_G	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.8686086738970226	EFO
+TBQ_G	Tuberculosis	tuberculosis	MONDO:0018076	http://purl.obolibrary.org/obo/MONDO_0018076	0.9738233581799487	EFO
+CDQ_G	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.8154102435100169	EFO
+PAQ_G	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901668074204059	EFO
+CKQ_G	Creatine Kinase	Elevated circulating creatine kinase concentration	HP:0003236	http://purl.obolibrary.org/obo/HP_0003236	0.8468638616883573	EFO
+DIQ_G	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.9911218192147492	EFO
+ECQ_G	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8723504397948626	EFO
+SXQ_G	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905427276101023	EFO
+SMQRTU_G	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.8100132867108791	EFO
+SMQ_G	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.9440457794494953	EFO
+OCQ_G	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8027288756485202	EFO
+MCQ_G	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913613592841015	EFO
+IMQ_G	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8687771579529582	EFO
+DUQ_G	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445647750651978	EFO
+SLQ_G	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.9752341148646231	EFO
+ALQ_G	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8684245856389979	EFO
+CFQ_G	Cognitive Functioning	cognition	EFO:0003925	http://www.ebi.ac.uk/efo/EFO_0003925	0.9004966185087891	EFO
+BPX_H	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9827102181142745	EFO
+BMX_H	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538176509817792	EFO
+ApoB_H	Apolipoprotein B	abetalipoproteinemia	MONDO:0008692	http://purl.obolibrary.org/obo/MONDO_0008692	0.8602101215105054	EFO
+HDL_H	Cholesterol - HDL	HDL cholesterol change measurement	EFO:0007805	http://www.ebi.ac.uk/efo/EFO_0007805	0.800534939696533	EFO
+TCHOL_H	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.8352814118580807	EFO
+HEPA_H	Hepatitis A	hepatitis A virus infection	EFO:0007305	http://www.ebi.ac.uk/efo/EFO_0007305	0.9889450182377297	EFO
+OGTT_H	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.9307588358124056	EFO
+UCPREG_H	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099361136110894	EFO
+GLU_H	Plasma Fasting Glucose	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.9797689847137783	EFO
+VITB12_H	Vitamin B12	vitamin B12 deficiency	EFO:0000734	http://www.ebi.ac.uk/efo/EFO_0000734	0.9107505382665153	EFO
+CHLMDA_H	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.8976044971075962	EFO
+INS_H	Insulin	insulinoma	EFO:0000549	http://www.ebi.ac.uk/efo/EFO_0000549	0.8373121852785085	EFO
+ALB_CR_H	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8395567468490455	EFO
+MMA_H	Methylmalonic Acid	methylmalonic acidemia	MONDO:0002012	http://purl.obolibrary.org/obo/MONDO_0002012	0.8454838061108706	EFO
+VID_H	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.8686086738970226	EFO
+FOLATE_H	Folate - RBC	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.9884998591874925	EFO
+OSQ_H	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983045914451067	EFO
+IMQ_H	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8687771579529582	EFO
+SXQ_H	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905427276101023	EFO
+CDQ_H	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.8154102435100169	EFO
+MCQ_H	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913613592841015	EFO
+PAQ_H	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901668074204059	EFO
+HEQ_H	Hepatitis	Hepatitis	HP:0012115	http://purl.obolibrary.org/obo/HP_0012115	0.9868393070786157	EFO
+ECQ_H	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8723504397948626	EFO
+DIQ_H	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.9911218192147492	EFO
+SMQ_H	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.9440457794494953	EFO
+SMQRTU_H	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.8100132867108791	EFO
+SLQ_H	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.9752341148646231	EFO
+DUQ_H	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445647750651978	EFO
+ALQ_H	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8684245856389979	EFO
+OCQ_H	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8027288756485202	EFO
+CKQ_H	Creatine Kinase	Elevated circulating creatine kinase concentration	HP:0003236	http://purl.obolibrary.org/obo/HP_0003236	0.8468638616883573	EFO
+CFQ_H	Cognitive Functioning	cognition	EFO:0003925	http://www.ebi.ac.uk/efo/EFO_0003925	0.9004966185087891	EFO
+BPX_I	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9827102181142745	EFO
+BMX_I	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538176509817792	EFO
+UCPREG_I	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099361136110894	EFO
+CHLMDA_I	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.8976044971075962	EFO
+ALB_CR_I	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8395567468490455	EFO
+HEPA_I	Hepatitis A	hepatitis A virus infection	EFO:0007305	http://www.ebi.ac.uk/efo/EFO_0007305	0.9889450182377297	EFO
+HDL_I	Cholesterol - High-Density Lipoprotein (HDL)	high density lipoprotein cholesterol measurement	EFO:0004612	http://www.ebi.ac.uk/efo/EFO_0004612	0.8585878600882574	EFO
+TCHOL_I	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.8352814118580807	EFO
+GLU_I	Plasma Fasting Glucose	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.9797689847137783	EFO
+INS_I	Insulin	insulinoma	EFO:0000549	http://www.ebi.ac.uk/efo/EFO_0000549	0.8373121852785085	EFO
+OGTT_I	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.9307588358124056	EFO
+FOLATE_I	Folate - RBC	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.9884998591874925	EFO
+APOB_I	Apolipoprotein B	abetalipoproteinemia	MONDO:0008692	http://purl.obolibrary.org/obo/MONDO_0008692	0.8602101215105054	EFO
+VID_I	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.8686086738970226	EFO
+CDQ_I	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.8154102435100169	EFO
+MCQ_I	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913613592841015	EFO
+HEQ_I	Hepatitis	Hepatitis	HP:0012115	http://purl.obolibrary.org/obo/HP_0012115	0.9868393070786157	EFO
+PAQ_I	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901668074204059	EFO
+IMQ_I	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8687771579529582	EFO
+SMQRTU_I	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.8100132867108791	EFO
+SMQ_I	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.9440457794494953	EFO
+DIQ_I	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.9911218192147492	EFO
+SXQ_I	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.9905427276101023	EFO
+ECQ_I	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8723504397948626	EFO
+OCQ_I	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8027288756485202	EFO
+SLQ_I	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.9752341148646231	EFO
+ALQ_I	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8684245856389979	EFO
+DUQ_I	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445647750651978	EFO
+BPX_J	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.9827102181142745	EFO
+BMX_J	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.9538176509817792	EFO
+ALB_CR_J	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.8395567468490455	EFO
+UCPREG_J	Urine Pregnancy Test	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.9099361136110894	EFO
+HEPA_J	Hepatitis A	hepatitis A virus infection	EFO:0007305	http://www.ebi.ac.uk/efo/EFO_0007305	0.9889450182377297	EFO
+TCHOL_J	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.8352814118580807	EFO
+HDL_J	Cholesterol - High - Density Lipoprotein (HDL)	high density lipoprotein cholesterol measurement	EFO:0004612	http://www.ebi.ac.uk/efo/EFO_0004612	0.8585878600882574	EFO
+GLU_J	Plasma Fasting Glucose	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.9797689847137783	EFO
+INS_J	Insulin	insulinoma	EFO:0000549	http://www.ebi.ac.uk/efo/EFO_0000549	0.8373121852785085	EFO
+FOLATE_J	Folate - RBC	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.9884998591874925	EFO
+VID_J	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.8686086738970226	EFO
+HEQ_J	Hepatitis	Hepatitis	HP:0012115	http://purl.obolibrary.org/obo/HP_0012115	0.9868393070786157	EFO
+CDQ_J	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.8154102435100169	EFO
+PAQ_J	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.9901668074204059	EFO
+IMQ_J	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.8687771579529582	EFO
+DIQ_J	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.9911218192147492	EFO
+SMQRTU_J	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.8100132867108791	EFO
+SMQ_J	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.9440457794494953	EFO
+MCQ_J	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913613592841015	EFO
+SLQ_J	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.9752341148646231	EFO
+OCQ_J	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.8027288756485202	EFO
+DUQ_J	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.9445647750651978	EFO
+ECQ_J	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.8723504397948626	EFO
+OSQ_J	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983045914451067	EFO
+ALQ_J	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.8684245856389979	EFO
 BPX	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.9863733730639508	NCIT
 AUX1	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.9948230669631555	NCIT
 AUXTYM	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.8759250363721962	NCIT
@@ -288,7 +288,7 @@ PH	Fasting Questionnaire	Questionnaire	NCIT:C17048	http://purl.obolibrary.org/ob
 UC	Pregnancy Test - Urine	Pregnancy Test	NCIT:C92949	http://purl.obolibrary.org/obo/NCIT_C92949	0.9294830374429341	NCIT
 LAB06HM	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.8243304805564738	NCIT
 LAB11	C-Reactive Protein (CRP)	C-Reactive Protein Measurement	NCIT:C64548	http://purl.obolibrary.org/obo/NCIT_C64548	0.8587781198571878	NCIT
-Lab13	Cholesterol - Total & HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.897874375286346	NCIT
+Lab13	Cholesterol - Total & HDL	Serum HDL Cholesterol Measurement	NCIT:C61041	http://purl.obolibrary.org/obo/NCIT_C61041	0.897874375286346	NCIT
 LAB18T4	Thyroid - Stimulating Hormone & Thyroxine (TSH & T4)	Recombinant Thyroid-Stimulating Hormone	NCIT:C887	http://purl.obolibrary.org/obo/NCIT_C887	0.8076782740834936	NCIT
 lab09	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.8904482959812816	NCIT
 Lab02	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.8209804649502721	NCIT
@@ -334,7 +334,7 @@ BPX_B	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/N
 MSX_B	Muscle Strength	Isometric Muscle Strength	NCIT:C138967	http://purl.obolibrary.org/obo/NCIT_C138967	0.8065800886400628	NCIT
 VIX_B	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.9903169690340958	NCIT
 SSCHL_B	Sex Steroid Hormone - Men (Surplus)	Sex Steroid Hormone	NCIT:C123796	http://purl.obolibrary.org/obo/NCIT_C123796	0.8394638026172091	NCIT
-l13_b	Cholesterol - Total & HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.897874375286346	NCIT
+l13_b	Cholesterol - Total & HDL	Serum HDL Cholesterol Measurement	NCIT:C61041	http://purl.obolibrary.org/obo/NCIT_C61041	0.897874375286346	NCIT
 l09_b	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.8904482959812816	NCIT
 l39_2_b	Erythrocyte Protoporphyrin	Free Erythrocyte Protoporphyrin Measurement	NCIT:C147339	http://purl.obolibrary.org/obo/NCIT_C147339	0.8602446089484856	NCIT
 L02_B	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.8209804649502721	NCIT
@@ -400,7 +400,7 @@ VIX_C	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.9903
 L06PHY_C	Phytoestrogens - Urine	Phytoestrogen	NCIT:C1194	http://purl.obolibrary.org/obo/NCIT_C1194	0.9338506524157375	NCIT
 L06VIT_C	Vitamin C	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.9890558923896972	NCIT
 SSCHL_C	Sex Steroid Hormone - Men (Surplus)	Sex Steroid Hormone	NCIT:C123796	http://purl.obolibrary.org/obo/NCIT_C123796	0.8394638026172091	NCIT
-l13_c	Cholesterol - Total & HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.897874375286346	NCIT
+l13_c	Cholesterol - Total & HDL	Serum HDL Cholesterol Measurement	NCIT:C61041	http://purl.obolibrary.org/obo/NCIT_C61041	0.897874375286346	NCIT
 l09_c	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.8904482959812816	NCIT
 L02_C	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.8209804649502721	NCIT
 L02HBS_C	Hepatitis B Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9005018028578748	NCIT
@@ -459,7 +459,7 @@ PAXRAW_D	Physical Activity Monitor	Activity Monitor	NCIT:C156897	http://purl.obo
 VIX_D	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.9903169690340958	NCIT
 PHTHTE_D	Phthalates - Urine	Phthalate	NCIT:C152072	http://purl.obolibrary.org/obo/NCIT_C152072	0.8360774963414978	NCIT
 TCHOL_D	Cholesterol - Total	Serum Total Cholesterol Measurement	NCIT:C61032	http://purl.obolibrary.org/obo/NCIT_C61032	0.9935053478469454	NCIT
-HDL_D	Cholesterol - HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.991345837290877	NCIT
+HDL_D	Cholesterol - HDL	Serum HDL Cholesterol Measurement	NCIT:C61041	http://purl.obolibrary.org/obo/NCIT_C61041	0.991345837290877	NCIT
 HSV_D	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.8904482959812816	NCIT
 VIT_B6_D	Vitamin B6	Vitamin B6 Measurement	NCIT:C74901	http://purl.obolibrary.org/obo/NCIT_C74901	0.9893280417334867	NCIT
 CRP_D	C-Reactive Protein (CRP)	C-Reactive Protein Measurement	NCIT:C64548	http://purl.obolibrary.org/obo/NCIT_C64548	0.8587781198571878	NCIT
@@ -486,7 +486,7 @@ VID_D	Vitamin D	Ergocalciferol	NCIT:C29029	http://purl.obolibrary.org/obo/NCIT_C
 ACQ_D	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.9899040131215114	NCIT
 ALQ_D	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.9853377344246809	NCIT
 AGQ_D	Allergy	Allergic Reaction	NCIT:C114476	http://purl.obolibrary.org/obo/NCIT_C114476	0.9374342126059032	NCIT
-BHQ_D	Bowel Health	Pattern of Bowel Movements	NCIT:C124186	http://purl.obolibrary.org/obo/NCIT_C124186	0.8511649686016239	NCIT
+BHQ_D	Bowel Health	Intestine	NCIT:C12736	http://purl.obolibrary.org/obo/NCIT_C12736	0.8511649686016239	NCIT
 CDQ_D	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.9015260541337381	NCIT
 DEQ_D	Dermatology	Dermatology	NCIT:C16500	http://purl.obolibrary.org/obo/NCIT_C16500	0.9937359622490675	NCIT
 AUQ_D	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.9948230669631555	NCIT
@@ -535,7 +535,7 @@ UIO_E	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/N
 HIV_E	HIV Antibody Test	HIV Antibody	NCIT:C16688	http://purl.obolibrary.org/obo/NCIT_C16688	0.87139373083212	NCIT
 TCHOL_E	Cholesterol - Total	Serum Total Cholesterol Measurement	NCIT:C61032	http://purl.obolibrary.org/obo/NCIT_C61032	0.9935053478469454	NCIT
 OGTT_E	Oral Glucose Tolerance Test	Glucose Tolerance Test	NCIT:C45946	http://purl.obolibrary.org/obo/NCIT_C45946	0.9350941003887346	NCIT
-HDL_E	Cholesterol - HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.991345837290877	NCIT
+HDL_E	Cholesterol - HDL	Serum HDL Cholesterol Measurement	NCIT:C61041	http://purl.obolibrary.org/obo/NCIT_C61041	0.991345837290877	NCIT
 ApoB_E	Apolipoprotein B	Apolipoprotein B Measurement	NCIT:C74734	http://purl.obolibrary.org/obo/NCIT_C74734	0.9900196223810782	NCIT
 HSV_E	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.8904482959812816	NCIT
 PHTHTE_E	Phthalates - Urine	Phthalate	NCIT:C152072	http://purl.obolibrary.org/obo/NCIT_C152072	0.8360774963414978	NCIT
@@ -544,7 +544,7 @@ PHYTO_E	Phytoestrogens - Urine	Phytoestrogen	NCIT:C1194	http://purl.obolibrary.o
 VIT_B6_E	Vitamin B6	Vitamin B6 Measurement	NCIT:C74901	http://purl.obolibrary.org/obo/NCIT_C74901	0.9893280417334867	NCIT
 VID_E	Vitamin D	Ergocalciferol	NCIT:C29029	http://purl.obolibrary.org/obo/NCIT_C29029	0.9880778727357085	NCIT
 ALQ_E	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.9853377344246809	NCIT
-BHQ_E	Bowel Health	Pattern of Bowel Movements	NCIT:C124186	http://purl.obolibrary.org/obo/NCIT_C124186	0.8511649686016239	NCIT
+BHQ_E	Bowel Health	Intestine	NCIT:C12736	http://purl.obolibrary.org/obo/NCIT_C12736	0.8511649686016239	NCIT
 CDQ_E	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.9015260541337381	NCIT
 ECQ_E	Early Childhood	Early Childhood	NCIT:C89346	http://purl.obolibrary.org/obo/NCIT_C89346	0.9889857381346016	NCIT
 IMQ_E	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.992843652490303	NCIT
@@ -583,7 +583,7 @@ OHXPER_F	Oral Health - Periodontal	Periodontal Route of Administration	NCIT:C382
 AUX_F	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.9948230669631555	NCIT
 AUXTYM_F	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.8759250363721962	NCIT
 UCPREG_F	Pregnancy Test - Urine	Pregnancy Test	NCIT:C92949	http://purl.obolibrary.org/obo/NCIT_C92949	0.9294830374429341	NCIT
-HDL_F	Cholesterol - HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.991345837290877	NCIT
+HDL_F	Cholesterol - HDL	Serum HDL Cholesterol Measurement	NCIT:C61041	http://purl.obolibrary.org/obo/NCIT_C61041	0.991345837290877	NCIT
 FOLATE_F	Folate - RBC & Serum	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.8518020762312666	NCIT
 HEPA_F	Hepatitis A Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.8848024607022434	NCIT
 HIV_F	HIV Antibody Test	HIV Antibody	NCIT:C16688	http://purl.obolibrary.org/obo/NCIT_C16688	0.87139373083212	NCIT
@@ -629,7 +629,7 @@ OCQ_F	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C251
 ECQ_F	Early Childhood	Early Childhood	NCIT:C89346	http://purl.obolibrary.org/obo/NCIT_C89346	0.9889857381346016	NCIT
 SLQ_F	Sleep Disorders	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.92635249426534	NCIT
 WHQMEC_F	Weight History - Youth	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.8136062952904579	NCIT
-BHQ_F	Bowel Health	Pattern of Bowel Movements	NCIT:C124186	http://purl.obolibrary.org/obo/NCIT_C124186	0.8511649686016239	NCIT
+BHQ_F	Bowel Health	Intestine	NCIT:C12736	http://purl.obolibrary.org/obo/NCIT_C12736	0.8511649686016239	NCIT
 OSQ_F	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.9922527901618065	NCIT
 ALQ_F	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.9853377344246809	NCIT
 DUQ_F	Drug Use	Medication	NCIT:C459	http://purl.obolibrary.org/obo/NCIT_C459	0.8892572194487443	NCIT
@@ -660,7 +660,7 @@ FOLATE_G	Folate - RBC	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl
 MMA_G	Methylmalonic Acid	Methylmalonic Acid Measurement	NCIT:C96690	http://purl.obolibrary.org/obo/NCIT_C96690	0.984025940521624	NCIT
 VITB12_G	Vitamin B12	Cyanocobalamin	NCIT:C64333	http://purl.obolibrary.org/obo/NCIT_C64333	0.9889539930927902	NCIT
 CMV_G	Cytomegalovirus IgG & IgM Antibodies - Serum	Cytomegalovirus IgM Antibody Measurement	NCIT:C96597	http://purl.obolibrary.org/obo/NCIT_C96597	0.8324615732110402	NCIT
-HDL_G	Cholesterol - HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.991345837290877	NCIT
+HDL_G	Cholesterol - HDL	Serum HDL Cholesterol Measurement	NCIT:C61041	http://purl.obolibrary.org/obo/NCIT_C61041	0.991345837290877	NCIT
 TST_G	Total Testosterone	Total Testosterone Measurement	NCIT:C74793	http://purl.obolibrary.org/obo/NCIT_C74793	0.9790198445653355	NCIT
 UIO_G	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.8902009977550649	NCIT
 FASTQX_G	Fasting Questionnaire	Questionnaire	NCIT:C17048	http://purl.obolibrary.org/obo/NCIT_C17048	0.8287551229761575	NCIT
@@ -706,7 +706,7 @@ DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	Dietary Suppl
 BPX_H	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.9863733730639508	NCIT
 OHXPER_H	Oral Health - Periodontal	Periodontal Route of Administration	NCIT:C38294	http://purl.obolibrary.org/obo/NCIT_C38294	0.8236258740719136	NCIT
 ApoB_H	Apolipoprotein B	Apolipoprotein B Measurement	NCIT:C74734	http://purl.obolibrary.org/obo/NCIT_C74734	0.9900196223810782	NCIT
-HDL_H	Cholesterol - HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.991345837290877	NCIT
+HDL_H	Cholesterol - HDL	Serum HDL Cholesterol Measurement	NCIT:C61041	http://purl.obolibrary.org/obo/NCIT_C61041	0.991345837290877	NCIT
 TCHOL_H	Cholesterol - Total	Serum Total Cholesterol Measurement	NCIT:C61032	http://purl.obolibrary.org/obo/NCIT_C61032	0.9935053478469454	NCIT
 HEPA_H	Hepatitis A	Hepatitis A Infection	NCIT:C3096	http://purl.obolibrary.org/obo/NCIT_C3096	0.9924161323930356	NCIT
 HEPB_S_H	Hepatitis B: Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9005018028578748	NCIT
@@ -887,25 +887,25 @@ AUQ_J	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCI
 PUQMEC_J	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.8752278921208181	NCIT
 ALQ_J	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.9853377344246809	NCIT
 FSQ_J	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.8623239308201092	NCIT
-DSQIDS_E	Dietary Supplement Use 30 Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8485783321820373	FOODON
-DSQTOT_E	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8845759888513631	FOODON
-DS1TOT_E	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8175759879078208	FOODON
-DS2TOT_E	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8210469191436818	FOODON
-DSQIDS_F	Dietary Supplement Use 30 Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8485783321820373	FOODON
-DSQTOT_F	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8845759888513631	FOODON
-DS1TOT_F	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8175759879078208	FOODON
-DSQIDS_G	Dietary Supplement Use 30 Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8485783321820373	FOODON
-DSQTOT_G	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8845759888513631	FOODON
-DS1TOT_G	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8175759879078208	FOODON
-DS2TOT_G	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8210469191436818	FOODON
-DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8485783321820373	FOODON
-DS1TOT_H	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8175759879078208	FOODON
-DS2TOT_H	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8210469191436818	FOODON
-DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8845759888513631	FOODON
-DS1TOT_I	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8175759879078208	FOODON
-DS2TOT_I	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8210469191436818	FOODON
-DSQIDS_I	Dietary Supplement Use 30-Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8485783321820373	FOODON
-DSQTOT_J	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8845759888513631	FOODON
-DS1TOT_J	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8175759879078208	FOODON
-DS2TOT_J	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8210469191436818	FOODON
-DSQIDS_J	Dietary Supplement Use 30-Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8485783321820373	FOODON
+DSQIDS_E	Dietary Supplement Use 30 Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8485747767253247	FOODON
+DSQTOT_E	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8845722825681386	FOODON
+DS1TOT_E	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8175725623477706	FOODON
+DS2TOT_E	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8210434790407833	FOODON
+DSQIDS_F	Dietary Supplement Use 30 Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8485747767253247	FOODON
+DSQTOT_F	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8845722825681386	FOODON
+DS1TOT_F	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8175725623477706	FOODON
+DSQIDS_G	Dietary Supplement Use 30 Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8485747767253247	FOODON
+DSQTOT_G	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8845722825681386	FOODON
+DS1TOT_G	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8175725623477706	FOODON
+DS2TOT_G	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8210434790407833	FOODON
+DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8485747767253247	FOODON
+DS1TOT_H	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8175725623477706	FOODON
+DS2TOT_H	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8210434790407833	FOODON
+DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8845722825681386	FOODON
+DS1TOT_I	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8175725623477706	FOODON
+DS2TOT_I	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8210434790407833	FOODON
+DSQIDS_I	Dietary Supplement Use 30-Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8485747767253247	FOODON
+DSQTOT_J	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8845722825681386	FOODON
+DS1TOT_J	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8175725623477706	FOODON
+DS2TOT_J	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8210434790407833	FOODON
+DSQIDS_J	Dietary Supplement Use 30-Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.8485747767253247	FOODON
