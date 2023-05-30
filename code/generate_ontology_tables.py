@@ -4,13 +4,7 @@ import urllib.request
 import bioregistry
 import pandas as pd
 
-__version__ = "0.5.0"
-
-ontologies = {
-    "EFO": "https://s3.amazonaws.com/bbop-sqlite/efo.db",
-    "FOODON": "https://s3.amazonaws.com/bbop-sqlite/foodon.db",
-    "NCIT": "https://s3.amazonaws.com/bbop-sqlite/ncit.db"
-}
+__version__ = "0.6.0"
 
 SUBJECT_COL = "Subject"
 OBJECT_COL = "Object"
@@ -19,14 +13,15 @@ ONTOLOGY_COL = "Ontology"
 IRI_PRIORITY_LIST = ["obofoundry", "default", "bioregistry"]
 
 
-def get_semsql_tables_for_ontologies(tables_output_folder='../ontology-tables',
+def get_semsql_tables_for_ontologies(ontologies,
+                                     tables_output_folder='../ontology-tables',
                                      db_output_folder="../ontology-db",
                                      save_tables=False):
     all_edges = all_entailed_edges = all_labels = all_dbxrefs = pd.DataFrame()
     for ontology in ontologies:
         edges, entailed_edges, labels, dbxrefs, version = \
-            get_semsql_tables_for_ontology(ontology_name=ontology,
-                                           ontology_url=ontologies[ontology],
+            get_semsql_tables_for_ontology(ontology_url="https://s3.amazonaws.com/bbop-sqlite/" + ontology + ".db",
+                                           ontology_name=ontology,
                                            db_output_folder=db_output_folder,
                                            save_tables=False)
         labels[ONTOLOGY_COL] = edges[ONTOLOGY_COL] = entailed_edges[ONTOLOGY_COL] = dbxrefs[ONTOLOGY_COL] = ontology
@@ -150,26 +145,26 @@ def fix_identifiers(df, columns=()):
 
 
 def get_curie_id_for_term(term):
-    if "<" in term or "http" in term:
-        term = term.replace("<", "")
-        term = term.replace(">", "")
-        curie = bioregistry.curie_from_iri(term)
-        if curie is None:
-            if "http://dbpedia.org" in term:
-                return "DBR:" + term.rsplit('/', 1)[1]
-            else:
-                return term
-        return curie.upper()
-    else:
-        return term
+    if not pd.isna(term):
+        if "<" in term or "http" in term:
+            term = term.replace("<", "")
+            term = term.replace(">", "")
+            curie = bioregistry.curie_from_iri(term)
+            if curie is None:
+                if "http://dbpedia.org" in term:
+                    return "DBR:" + term.rsplit('/', 1)[1]
+                else:
+                    return term
+            return curie.upper()
+    return term
 
 
 def save_table(df, output_filename, tables_output_folder):
     if not os.path.exists(tables_output_folder):
         os.makedirs(tables_output_folder)
     output_file = os.path.join(tables_output_folder, output_filename)
-    df.to_csv(output_file, index=False, sep="\t")
+    df.to_csv(output_file, index=False, sep="\t", mode="w")
 
 
 if __name__ == "__main__":
-    get_semsql_tables_for_ontologies(save_tables=True)
+    get_semsql_tables_for_ontologies(ontologies=["EFO", "FOODON", "NCIT"], save_tables=True)
