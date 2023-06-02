@@ -3,7 +3,7 @@ import pandas as pd
 import text2term
 import preprocess_metadata
 
-__version__ = "0.7.0"
+__version__ = "0.7.1"
 
 # Input data
 NHANES_VARIABLES = "../metadata/nhanes_variables.csv"
@@ -19,10 +19,15 @@ TARGET_ONTOLOGIES = "resources/ontologies.csv"
 NHANES_TABLE_COL = "Table"
 NHANES_VARIABLE_COL = "Variable"
 MAPPING_SCORE_COL = "Mapping Score"
+ONTOLOGY_COL = "Ontology"
+
+NHANES_VARIABLE_LABEL_COL = "SAS Label"
+NHANES_VARIABLE_LABEL_PROCESSED_COL = "Processed Text"
 
 
 # Map the given terms to the target ontology
-def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=()):
+def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=(), min_mapping_score=MIN_MAPPING_SCORE,
+                    max_mappings=MAX_MAPPINGS_PER_ONTOLOGY):
     if not text2term.cache_exists(target_ontology):
         raise FileNotFoundError("Could not find cache file for ontology: " + target_ontology)
     if isinstance(terms_to_map[0], text2term.TaggedTerm):
@@ -30,8 +35,8 @@ def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=(
             tagged_terms_dict=terms_to_map,
             target_ontology=target_ontology,
             source_terms_ids=term_identifiers,
-            max_mappings=MAX_MAPPINGS_PER_ONTOLOGY,
-            min_score=MIN_MAPPING_SCORE,
+            max_mappings=max_mappings,
+            min_score=min_mapping_score,
             base_iris=base_iris,
             excl_deprecated=True,
             save_mappings=False,
@@ -42,14 +47,15 @@ def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=(
             source_terms=terms_to_map,
             target_ontology=target_ontology,
             source_terms_ids=term_identifiers,
-            max_mappings=MAX_MAPPINGS_PER_ONTOLOGY,
-            min_score=MIN_MAPPING_SCORE,
+            max_mappings=max_mappings,
+            min_score=min_mapping_score,
             base_iris=base_iris,
             excl_deprecated=True,
             save_mappings=False,
             use_cache=True
         )
-    mappings_df["Ontology"] = target_ontology
+    mappings_df[ONTOLOGY_COL] = target_ontology
+    mappings_df[MAPPING_SCORE_COL] = mappings_df[MAPPING_SCORE_COL].astype(float).round(decimals=3)
     return mappings_df
 
 
@@ -139,7 +145,7 @@ def save_mappings_subsets(df, nhanes_tables, output_folder, ontology="", top_map
     for table in nhanes_tables:
         subset = df[df[NHANES_TABLE_COL] == table]
         if ontology != "":  # limit to mappings to the specified ontology
-            subset = subset[subset["Ontology"] == ontology]
+            subset = subset[subset[ONTOLOGY_COL] == ontology]
         save_mappings_file(subset, output_file_label=table, output_file_suffix=ontology, sort=True,
                            output_folder=output_folder, top_mappings_only=top_mappings_only)
 
@@ -152,13 +158,13 @@ def map_nhanes_tables(tables_file=NHANES_TABLES, save_mappings=False, top_mappin
 
 
 def map_nhanes_variables(variables_file=NHANES_VARIABLES, preprocess=False, save_mappings=False, top_mappings_only=False):
-    labels_column = "SAS Label"
+    labels_column = NHANES_VARIABLE_LABEL_COL
     tags_column = ""
     if preprocess:
         input_df = preprocess_metadata.main(input_file=variables_file,
                                             column_to_process=labels_column,
                                             save_processed_table=False)
-        labels_column = "Processed Text"
+        labels_column = NHANES_VARIABLE_LABEL_PROCESSED_COL
         tags_column = "Tags"
     else:
         input_df = pd.read_csv(variables_file)
