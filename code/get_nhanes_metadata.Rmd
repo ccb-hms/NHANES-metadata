@@ -4,10 +4,8 @@ output:
   html_notebook
 ---
 
-Load the *nhanesA* library (v0.7.2 from GitHub).
+Load the *nhanesA* library (v0.7.3).
 ```{r}
-library(devtools)
-install_github("cjendres1/nhanes")
 library(nhanesA)
 ```
 
@@ -46,15 +44,16 @@ get_variables_metadata <- function(tables) {
   # Write a table containing metadata about all variables
   all_variables <- data.frame(matrix(ncol=5, nrow = 0))
   colnames(all_variables) <-c("Variable", "Table", "SAS Label", "English Text", "Target")
-  variables_metadata_file <- paste(output_folder, "nhanes_variables.csv", sep="")
-  write.table(all_variables, file=variables_metadata_file, row.names=FALSE, sep=",")
+  variables_metadata_file <- paste(output_folder, "nhanes_variables.tsv", sep="")
+  write.table(all_variables, file=variables_metadata_file, row.names=FALSE, sep="\t")
   
   # Write a table containing the codebooks of all variables
   all_codebooks <- data.frame(matrix(ncol=7, nrow = 0))
-  variables_codebooks_file <- paste(output_folder, "nhanes_variables_codebooks.csv", sep="")
+  variables_codebooks_file <- paste(output_folder, "nhanes_variables_codebooks.tsv", sep="")
   colnames(all_codebooks) <-c("Variable", "Table", "Code or Value", "Value Description", 
                                           "Count", "Cumulative", "Skip to Item")
-  write.table(all_codebooks, file=variables_codebooks_file, row.names=FALSE, sep=",")
+  all_codebooks <- replace(all_codebooks, is.na(all_codebooks), "")
+  write.table(all_codebooks, file=variables_codebooks_file, row.names=FALSE, na="", sep="\t")
   
   for (nhanes_table in 1:nrow(tables)) {
     table_name <- tables[nhanes_table, "Table"]
@@ -62,10 +61,10 @@ get_variables_metadata <- function(tables) {
     variable_details <- get_variables_in_table(table_name=table_name, 
                                                nhanes_data_group=data_group)
     table_variables <- variable_details[[1]]
-    write.table(table_variables, file=variables_metadata_file, sep=",", 
+    write.table(table_variables, file=variables_metadata_file, sep="\t", 
                 append=TRUE, col.names=FALSE, row.names=FALSE)
     table_codebooks <- variable_details[[2]]
-    write.table(table_codebooks, file=variables_codebooks_file, sep=",", 
+    write.table(table_codebooks, file=variables_codebooks_file, sep="\t", 
                 append=TRUE, col.names=FALSE, row.names=FALSE)
   }
 }
@@ -121,15 +120,15 @@ clean <- function(text) {
 
 Get the metadata about the tables and the variables in NHANES surveys 1999-2017.
 ```{r}
-output_folder <- "metadata/"
+output_folder <- "../metadata/"
 dir.create(file.path(".", output_folder), showWarnings=FALSE, recursive=TRUE)
 
-# Get the metadata about all NHANES tables. Write to a CSV file.
+# Get the metadata about all NHANES tables.
 all_tables <- get_tables_metadata()
-write.table(all_tables, file=paste(output_folder, "nhanes_tables.csv", sep=""), 
-            row.names=FALSE, sep=",")
+write.table(all_tables, file=paste(output_folder, "nhanes_tables.tsv", sep=""), 
+            row.names=FALSE, sep="\t")
 
-# Get metadata about all variables in all NHANES tables collected above. Write to a CSV file.
+# Get metadata about all variables in all NHANES tables collected above.
 get_variables_metadata(all_tables)
 print("finished")
 ```
