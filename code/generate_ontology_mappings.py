@@ -3,11 +3,11 @@ import pandas as pd
 import text2term
 import preprocess_metadata
 
-__version__ = "0.7.1"
+__version__ = "0.8.0"
 
 # Input data
-NHANES_VARIABLES = "../metadata/nhanes_variables.csv"
-NHANES_TABLES = "../metadata/nhanes_tables.csv"
+NHANES_VARIABLES = "../metadata/nhanes_variables.tsv"
+NHANES_TABLES = "../metadata/nhanes_tables.tsv"
 
 # Mapping configuration
 MAX_MAPPINGS_PER_ONTOLOGY = 1
@@ -16,13 +16,14 @@ MAPPINGS_OUTPUT_FOLDER = "../ontology-mappings/"
 TARGET_ONTOLOGIES = "resources/ontologies.csv"
 
 # Mappings data frame columns configuration
-NHANES_TABLE_COL = "Table"
-NHANES_VARIABLE_COL = "Variable"
+NHANES_TABLE_ID_COL = "Table"
+NHANES_TABLE_NAME_COL = "TableName"
+NHANES_VARIABLE_ID_COL = "Variable"
 MAPPING_SCORE_COL = "Mapping Score"
 ONTOLOGY_COL = "Ontology"
 
-NHANES_VARIABLE_LABEL_COL = "SAS Label"
-NHANES_VARIABLE_LABEL_PROCESSED_COL = "Processed Text"
+NHANES_VARIABLE_LABEL_COL = "SASLabel"
+NHANES_VARIABLE_LABEL_PROCESSED_COL = "ProcessedText"
 
 
 # Map the given terms to the target ontology
@@ -102,28 +103,27 @@ def get_terms_and_ids(nhanes_table, label_col, label_id_col, tags_column=""):
 
 
 def map_data_with_composite_ids(df, labels_column, variable_id_column, table_id_column, tags_column=""):
-    sep = ":::"
-    combined_id_column = "Variable ID"
+    sep = "-"
+    combined_id_column = "VariableID"
     df[combined_id_column] = df[variable_id_column].astype(str) + sep + df[table_id_column]
     mappings_df = map_data(df, labels_column, combined_id_column, tags_column=tags_column)
     expanded_df = expand_composite_ids(mappings_df, variable_id_column, table_id_column, "Source Term ID", sep=sep)
     return expanded_df
 
 
-def expand_composite_ids(df, id_1_col, id_2_col, mappings_df_id_col, sep=":::"):
+def expand_composite_ids(df, id_1_col, id_2_col, mappings_df_id_col, sep="-"):
     composite_id_cols = [id_1_col, id_2_col]
     df[composite_id_cols] = df[mappings_df_id_col].str.split(sep, expand=True)
-    df = df.drop(columns=[mappings_df_id_col])
     df = df[composite_id_cols + [col for col in df.columns if col not in composite_id_cols]]
     return df
 
 
 def top_mappings(mappings_df):
     # group the mappings data frame by the composite identifier and get the row with the maximum score for each group
-    max_scores = mappings_df.groupby([NHANES_VARIABLE_COL, NHANES_TABLE_COL])[MAPPING_SCORE_COL].max().reset_index()
+    max_scores = mappings_df.groupby([NHANES_VARIABLE_ID_COL, NHANES_TABLE_ID_COL])[MAPPING_SCORE_COL].max().reset_index()
 
     # merge the original data frame with the maximum scores data frame on the composite unique identifier and the score
-    top_mappings_df = pd.merge(mappings_df, max_scores, on=[NHANES_VARIABLE_COL, NHANES_TABLE_COL, MAPPING_SCORE_COL])
+    top_mappings_df = pd.merge(mappings_df, max_scores, on=[NHANES_VARIABLE_ID_COL, NHANES_TABLE_ID_COL, MAPPING_SCORE_COL])
     return top_mappings_df
 
 
@@ -136,14 +136,14 @@ def save_mappings_file(mappings_df, output_file_label, output_file_suffix="", ou
     if top_mappings_only:
         mappings_df = top_mappings(mappings_df)
     if sort:
-        mappings_df = mappings_df.sort_values([NHANES_VARIABLE_COL, MAPPING_SCORE_COL], ascending=[True, False])
+        mappings_df = mappings_df.sort_values([NHANES_VARIABLE_ID_COL, MAPPING_SCORE_COL], ascending=[True, False])
     mappings_df.columns = mappings_df.columns.str.replace(' ', '')  # remove spaces from column names
     mappings_df.to_csv(output_file_name + ".tsv", index=False, sep="\t")
 
 
 def save_mappings_subsets(df, nhanes_tables, output_folder, ontology="", top_mappings_only=False):
     for table in nhanes_tables:
-        subset = df[df[NHANES_TABLE_COL] == table]
+        subset = df[df[NHANES_TABLE_ID_COL] == table]
         if ontology != "":  # limit to mappings to the specified ontology
             subset = subset[subset[ONTOLOGY_COL] == ontology]
         save_mappings_file(subset, output_file_label=table, output_file_suffix=ontology, sort=True,
@@ -151,28 +151,32 @@ def save_mappings_subsets(df, nhanes_tables, output_folder, ontology="", top_map
 
 
 def map_nhanes_tables(tables_file=NHANES_TABLES, save_mappings=False, top_mappings_only=False):
-    mappings = map_data(source_df=pd.read_csv(tables_file), labels_column="Table Name", label_ids_column=NHANES_TABLE_COL)
+    mappings = map_data(source_df=pd.read_csv(tables_file, sep="\t"),
+                        labels_column=NHANES_TABLE_NAME_COL,
+                        label_ids_column=NHANES_TABLE_ID_COL)
     if save_mappings:
         save_mappings_file(mappings, output_file_label="nhanes_tables", top_mappings_only=top_mappings_only)
     return mappings
 
 
-def map_nhanes_variables(variables_file=NHANES_VARIABLES, preprocess=False, save_mappings=False, top_mappings_only=False):
+def map_nhanes_variables(variables_file=NHANES_VARIABLES, preprocess=False, save_mappings=False,
+                         top_mappings_only=False, variables_file_col_separator="\t"):
     labels_column = NHANES_VARIABLE_LABEL_COL
     tags_column = ""
     if preprocess:
-        input_df = preprocess_metadata.main(input_file=variables_file,
-                                            column_to_process=labels_column,
-                                            save_processed_table=False)
+        input_df = preprocess_metadata.preprocess(input_file=variables_file,
+                                                  column_to_process=labels_column,
+                                                  save_processed_table=True,
+                                                  input_file_col_separator=variables_file_col_separator)
         labels_column = NHANES_VARIABLE_LABEL_PROCESSED_COL
         tags_column = "Tags"
     else:
-        input_df = pd.read_csv(variables_file)
+        input_df = pd.read_csv(variables_file, sep=variables_file_col_separator)
 
     mappings = map_data_with_composite_ids(df=input_df,
                                            labels_column=labels_column,
-                                           variable_id_column=NHANES_VARIABLE_COL,
-                                           table_id_column=NHANES_TABLE_COL,
+                                           variable_id_column=NHANES_VARIABLE_ID_COL,
+                                           table_id_column=NHANES_TABLE_ID_COL,
                                            tags_column=tags_column)
     if save_mappings:
         save_mappings_file(mappings, output_file_label="nhanes_variables", top_mappings_only=top_mappings_only, sort=True)
