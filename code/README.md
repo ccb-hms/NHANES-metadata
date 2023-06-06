@@ -13,10 +13,10 @@ Mechanically, `preprocess_metadata.py` takes in a templates file (`templates.txt
 Similarly, there are two blocklist files that denote which terms and tables are not to be included in the output. This allows some terms that should not be mapped to ontology terms to be filtered out of the mapping process. This is done manually with the `table_blocklist.csv` and with the preprocess module for `term_blocklist.txt`.
 
 ## Generate Ontology Tables to Facilitate Search in Relational DBs
-`generate_semsql_ontology_tables.py` retrieves [SemanticSQL](https://github.com/INCATools/semantic-sql)-based SQL builds of ontologies and then extracts tables of interest to support ontology-based search of the mapped metadata. The tables are saved in the [ontology-tables](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-tables) folder.
+`generate_ontology_tables.py` retrieves [SemanticSQL](https://github.com/INCATools/semantic-sql)-based SQL builds of ontologies and then extracts tables of interest to support ontology-based search of the mapped metadata. The tables are saved in the [ontology-tables](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-tables) folder.
 
 ## Perform Ontology-based Search of Mapped Metadata
 `ontology_annotated_data_search_py` provides a prototype search interface over the mapped NHANES metadata. It uses the ontology mappings table (generated in **2.**) and the ontology tables (generated in **3.**) to enable searching for NHANES variables that have been annotated with a given search term, or with more specific terms according to the respective ontology's class hierarchy structure. For example, search for variables annotated with _infectious disease_`EFO:0005741` and its subclasses in the EFO ontology. 
 
 ## Other Utilities
-`run_nhanes_utilities.sh` installs the Python dependencies listed in `requirements.txt`, which are necessary to run the Python utilities described. It then executes both `generate_ontology_mappings.py` and `generate_semsql_ontology_tables.py` to obtain the _ontology-mappings_ and _ontology-tables_ folders, respectively.
+`run_nhanes_utilities.sh` installs the Python dependencies listed in `requirements.txt`, which are necessary to run the Python utilities described. It then executes both `generate_ontology_mappings.py` and `generate_ontology_tables.py` to obtain the _ontology-mappings_ and _ontology-tables_ folders, respectively.
