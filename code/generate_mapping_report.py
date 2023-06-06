@@ -1,7 +1,7 @@
 import pandas as pd
 from owlready2 import *
 
-__version__ = "0.6.0"
+__version__ = "0.6.1"
 
 BASE_IRI = "https://computationalbiomed.hms.harvard.edu/ontology/"
 
@@ -52,7 +52,7 @@ def get_mapping_counts(mappings_df, ontology_iri,
                        save_ontology=SAVE_ONTOLOGY,
                        use_reasoning=USE_REASONING,
                        ontology_term_blocklist=TERM_BLOCKLIST):
-    print("Computing counts of direct and inherited ontology mappings...")
+    print(f"Computing mapping counts for {ontology_iri}...")
     mappings_df.columns = mappings_df.columns.str.replace(' ', '')  # remove spaces from column names
     start = time.time()
     ontology = get_ontology(ontology_iri).load()
@@ -69,7 +69,10 @@ def get_mapping_counts(mappings_df, ontology_iri,
             inherited_mappings = set()
             for instance in instances:
                 if BASE_IRI in instance.iri:
-                    inherited_mappings.add(instance.resource_id[0])
+                    if len(instance.resource_id) == 0:
+                        print(f"Empty Resource ID for {instance.iri} — mapped to {term}")
+                    else:
+                        inherited_mappings.add(instance.resource_id[0])
             inherited_mappings = inherited_mappings.difference(direct_mappings)
             inherited_mappings_count = len(inherited_mappings)
             output.append((term.iri, direct_mappings_count, inherited_mappings_count))
@@ -112,7 +115,7 @@ def _create_instances(ontology, mappings_df, source_term_id_col, source_term_sec
                 if source_term_secondary_id_col != '':
                     new_instance.resource_secondary_id.append(source_term_secondary_id)
     if save_ontology:
-        ontology.save("ontology_mappings.owl")
+        ontology.save(ontology.name + "_mappings.owl")
 
     if use_reasoning:
         print("...reasoning over ontology...")
