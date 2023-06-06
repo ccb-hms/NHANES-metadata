@@ -44,9 +44,9 @@ def get_semsql_tables_for_ontology(ontology_url, ontology_name, tables_output_fo
     if not os.path.isfile(db_file):
         if not os.path.exists(db_output_folder):
             os.makedirs(db_output_folder)
-        print("Downloading database file for " + ontology_name + "...")
+        print(f"Downloading database file for {ontology_name}...")
         urllib.request.urlretrieve(ontology_url, db_file)
-    print("Generating tables for " + ontology_name + "...")
+    print(f"Generating tables for {ontology_name}...")
     conn = sqlite3.connect(db_file)
     cursor = conn.cursor()
     # Get the tables from the sqlite database
@@ -55,6 +55,7 @@ def get_semsql_tables_for_ontology(ontology_url, ontology_name, tables_output_fo
     labels_df = _get_labels_table(cursor)
     dbxrefs_df = _get_db_cross_references_table(cursor)
     onto_version = _get_ontology_version(cursor)
+    print(f"\tversion: {onto_version}")
     cursor.close()
     conn.close()
     if save_tables:
