@@ -7,6 +7,7 @@ output:
 Load the *nhanesA* library (v0.7.3).
 ```{r}
 library(nhanesA)
+library(progress)
 ```
 
 Get metadata about NHANES tables from all survey years and data groups.
@@ -21,7 +22,7 @@ get_tables_metadata <- function() {
       all_tables <- rbind(all_tables, tables_year)
     }
   }
-  colnames(all_tables) <-c("Table", "Table Name", "Data Group", "Year")
+  colnames(all_tables) <-c("Table", "TableName", "DataGroup", "Year")
   return(all_tables)
 }
 
@@ -43,28 +44,28 @@ Get metadata about all variables in the given collection of NHANES tables.
 get_variables_metadata <- function(tables) {
   # Write a table containing metadata about all variables
   all_variables <- data.frame(matrix(ncol=5, nrow = 0))
-  colnames(all_variables) <-c("Variable", "Table", "SAS Label", "English Text", "Target")
+  colnames(all_variables) <-c("Variable", "Table", "SASLabel", "EnglishText", "Target")
   variables_metadata_file <- paste(output_folder, "nhanes_variables.tsv", sep="")
-  write.table(all_variables, file=variables_metadata_file, row.names=FALSE, sep="\t")
+  write.table(all_variables, file=variables_metadata_file, row.names=FALSE, sep="\t", na="")
   
   # Write a table containing the codebooks of all variables
   all_codebooks <- data.frame(matrix(ncol=7, nrow = 0))
   variables_codebooks_file <- paste(output_folder, "nhanes_variables_codebooks.tsv", sep="")
-  colnames(all_codebooks) <-c("Variable", "Table", "Code or Value", "Value Description", 
-                                          "Count", "Cumulative", "Skip to Item")
-  all_codebooks <- replace(all_codebooks, is.na(all_codebooks), "")
+  colnames(all_codebooks) <-c("Variable", "Table", "CodeOrValue", "ValueDescription", 
+                                          "Count", "Cumulative", "SkipToItem")
   write.table(all_codebooks, file=variables_codebooks_file, row.names=FALSE, na="", sep="\t")
-  
+  pb <- progress_bar$new(total = nrow(tables))
   for (nhanes_table in 1:nrow(tables)) {
+    pb$tick()
     table_name <- tables[nhanes_table, "Table"]
-    data_group <- tables[nhanes_table, "Data Group"]
+    data_group <- tables[nhanes_table, "DataGroup"]
     variable_details <- get_variables_in_table(table_name=table_name, 
                                                nhanes_data_group=data_group)
     table_variables <- variable_details[[1]]
-    write.table(table_variables, file=variables_metadata_file, sep="\t", 
+    write.table(table_variables, file=variables_metadata_file, sep="\t", na="",
                 append=TRUE, col.names=FALSE, row.names=FALSE)
     table_codebooks <- variable_details[[2]]
-    write.table(table_codebooks, file=variables_codebooks_file, sep="\t", 
+    write.table(table_codebooks, file=variables_codebooks_file, sep="\t", na="",
                 append=TRUE, col.names=FALSE, row.names=FALSE)
   }
 }
@@ -94,7 +95,7 @@ get_variables_in_table <- function(table_name, nhanes_data_group) {
           all_variables[nrow(all_variables) + 1, ] <- variable_details_vector
           
           variable_codebook <- variable_details[variable_name][[1]]
-          variable_codebook[["Value Description"]] <- clean(variable_codebook[["Value Description"]])
+          variable_codebook[["ValueDescription"]] <- clean(variable_codebook[["Value Description"]])
           variable_codebook <- cbind('Table'=table_name, variable_codebook)
           variable_codebook <- cbind('Variable'=variable_name, variable_codebook)
           all_variable_codebooks <- rbind(all_variable_codebooks, variable_codebook)
@@ -126,7 +127,7 @@ dir.create(file.path(".", output_folder), showWarnings=FALSE, recursive=TRUE)
 # Get the metadata about all NHANES tables.
 all_tables <- get_tables_metadata()
 write.table(all_tables, file=paste(output_folder, "nhanes_tables.tsv", sep=""), 
-            row.names=FALSE, sep="\t")
+            row.names=FALSE, sep="\t", na="")
 
 # Get metadata about all variables in all NHANES tables collected above.
 get_variables_metadata(all_tables)
