@@ -1,7 +1,7 @@
 import pandas as pd
 from owlready2 import *
 
-__version__ = "0.6.1"
+__version__ = "0.7.0"
 
 BASE_IRI = "https://computationalbiomed.hms.harvard.edu/ontology/"
 
@@ -55,7 +55,8 @@ def get_mapping_counts(mappings_df, ontology_iri,
     print(f"Computing mapping counts for {ontology_iri}...")
     mappings_df.columns = mappings_df.columns.str.replace(' ', '')  # remove spaces from column names
     start = time.time()
-    ontology = get_ontology(ontology_iri).load()
+    ontology_world = World()
+    ontology = ontology_world.get_ontology(ontology_iri).load()
     _create_instances(ontology, mappings_df, save_ontology=save_ontology, use_reasoning=use_reasoning,
                       source_term_id_col=source_term_id_col, source_term_secondary_id_col=source_term_secondary_id_col,
                       source_term_col=source_term_col, mapped_term_iri_col=mapped_term_iri_col)
@@ -78,6 +79,7 @@ def get_mapping_counts(mappings_df, ontology_iri,
             output.append((term.iri, direct_mappings_count, inherited_mappings_count))
     output_df = pd.DataFrame(data=output, columns=['IRI', 'Direct', 'Inherited'])
     print(f"...done ({time.time() - start:.1f} seconds)")
+    ontology_world.close()
     return output_df
 
 
@@ -90,35 +92,37 @@ def _create_instances(ontology, mappings_df, source_term_id_col, source_term_sec
 
         class resource_id(Thing >> str):
             pass
-    for index, row in mappings_df.iterrows():
-        source_term = row[source_term_col]
-        source_term_id = row[source_term_id_col]
-        ontology_term_iri = row[mapped_term_iri_col]
-        ontology_term = IRIS[ontology_term_iri]
 
-        if ontology_term is not None:
-            if source_term_secondary_id_col != '':
-                source_term_secondary_id = row[source_term_secondary_id_col]
-                new_instance_iri = BASE_IRI + source_term_secondary_id + "-" + source_term_id
-            else:
-                new_instance_iri = BASE_IRI + source_term_id
-
-            if IRIS[new_instance_iri] is not None:
-                labels = IRIS[new_instance_iri].label
-                if source_term not in labels:
-                    labels.append(source_term)
-            else:
-                # create OWL instance to represent mapping
-                new_instance = ontology_term(label=source_term, iri=new_instance_iri)
-                new_instance.resource_id.append(source_term_id)
-
+        for index, row in mappings_df.iterrows():
+            source_term = row[source_term_col]
+            source_term_id = row[source_term_id_col]
+            ontology_term_iri = row[mapped_term_iri_col]
+            ontology_term = ontology.world[ontology_term_iri]
+            if ontology_term is not None:
                 if source_term_secondary_id_col != '':
-                    new_instance.resource_secondary_id.append(source_term_secondary_id)
-    if save_ontology:
-        ontology.save(ontology.name + "_mappings.owl")
+                    source_term_secondary_id = row[source_term_secondary_id_col]
+                    new_instance_iri = BASE_IRI + source_term_secondary_id + "-" + source_term_id
+                else:
+                    new_instance_iri = BASE_IRI + source_term_id
 
-    if use_reasoning:
-        print("...reasoning over ontology...")
-        owlready2.reasoning.JAVA_MEMORY = 20000  # TODO: even so the HermiT reasoner performs poorly on EFO+mappings
-        with ontology:
-            sync_reasoner()
+                if ontology.world[new_instance_iri] is not None:
+                    labels = ontology.world[new_instance_iri].label
+                    if source_term not in labels:
+                        labels.append(source_term)
+                else:
+                    # create OWL instance to represent mapping
+                    new_instance = ontology_term(label=source_term, iri=new_instance_iri)
+                    new_instance.resource_id.append(source_term_id)
+
+                    if source_term_secondary_id_col != '':
+                        new_instance.resource_secondary_id.append(source_term_secondary_id)
+            else:
+                print("Null ontology term for IRI " + str(ontology_term_iri))
+        if save_ontology:
+            ontology.save(ontology.name + "_mappings.owl")
+
+        if use_reasoning:
+            print("...reasoning over ontology...")
+            owlready2.reasoning.JAVA_MEMORY = 20000  # TODO: even so the HermiT reasoner performs poorly on EFO+mappings
+            with ontology:
+                sync_reasoner()
