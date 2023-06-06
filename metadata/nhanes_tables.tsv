@@ -1,0 +1,1381 @@
+Table	TableName	DataGroup	Year
+DEMO	Demographic Variables & Sample Weights	DEMOGRAPHICS	1999
+DRXIFF	Dietary Interview - Individual Foods	DIETARY	1999
+DRXTOT	Dietary Interview - Total Nutrient Intakes	DIETARY	1999
+DSQFILE1	"Dietary Supplement Use 30-Day - File 1, Supplement Counts"	DIETARY	1999
+DSQFILE2	"Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements"	DIETARY	1999
+BPX	Blood Pressure	EXAMINATION	1999
+BMX	Body Measures	EXAMINATION	1999
+CVX	Cardiovascular Fitness	EXAMINATION	1999
+AUX1	Audiometry	EXAMINATION	1999
+AUXTYM	Audiometry - Tympanometry	EXAMINATION	1999
+BIX	Bioelectrical Impedance Analysis	EXAMINATION	1999
+BAX	Balance	EXAMINATION	1999
+LEXABPI	Lower Extremity Disease - Ankle Brachial Blood Pressure Index	EXAMINATION	1999
+LEXPN	Lower Extremity Disease - Peripheral Neuropathy	EXAMINATION	1999
+MSX	Muscle Strength	EXAMINATION	1999
+OHXDENT	Oral Health - Dentition	EXAMINATION	1999
+OHXPERIO	Oral Health - Periodontal	EXAMINATION	1999
+OHXREF	Oral Health - Recommendation of Care	EXAMINATION	1999
+SEQ	Shared Exclusion Questions	EXAMINATION	1999
+TB	Tuberculosis	EXAMINATION	1999
+VIX	Vision	EXAMINATION	1999
+AUXAR	Audiometry - Acoustic Reflex	EXAMINATION	1999
+SSCHL_A	Sex Steroid Hormone - Men (Surplus)	LABORATORY	1999
+L02HBS	Hepatitis B Surface Antibody	LABORATORY	1999
+L02HPA_a	Hepatitis A Antibody	LABORATORY	1999
+PH	Fasting Questionnaire	LABORATORY	1999
+PHPYPA	"Phthalates, Phytoestrogens & PAHs - Urine PHPYPA Urinary Phthalates"	LABORATORY	1999
+UC	Pregnancy Test - Urine	LABORATORY	1999
+LAB03	"HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells"	LABORATORY	1999
+LAB04	Volatile Organic Compounds - Blood & Water	LABORATORY	1999
+LAB05	Chlamydia & Gonorrhea - Urine	LABORATORY	1999
+LAB06	"Cadmium, Lead, Mercury, Cotinine & Nutritional Biochemistries"	LABORATORY	1999
+LAB06HM	Metals - Urine	LABORATORY	1999
+LAB07	Latex	LABORATORY	1999
+LAB10	Glycohemoglobin	LABORATORY	1999
+LAB10AM	"Plasma Fasting Glucose, Serum C-peptide & Insulin"	LABORATORY	1999
+LAB11	C-Reactive Protein (CRP)	LABORATORY	1999
+Lab13	Cholesterol - Total & HDL	LABORATORY	1999
+LAB13AM	Cholesterol - LDL & Triglycerides	LABORATORY	1999
+LAB16	Albumin & Creatinine - Urine	LABORATORY	1999
+LAB17	Cryptosporidum & Toxoplasma	LABORATORY	1999
+LAB18	Standard Biochemistry Profile & Hormones	LABORATORY	1999
+LAB18T4	Thyroid - Stimulating Hormone & Thyroxine (TSH & T4)	LABORATORY	1999
+LAB19	"Measles, Rubella, & Varicella"	LABORATORY	1999
+LAB20	Lead - Dust	LABORATORY	1999
+LAB21	Volatile Organic Compounds (VOC) - Personal Exposure Badge	LABORATORY	1999
+LAB25	Complete Blood Count with 5-part Differential - Whole Blood	LABORATORY	1999
+LAB22	Mercury - Hair	LABORATORY	1999
+LAB28POC	"Dioxins, Furans, & Coplanar PCBs"	LABORATORY	1999
+SSFOL_A	Folic Acid - Unmetabolized (Surplus)	LABORATORY	1999
+lab09	Herpes Simplex Virus Type-1 & Type-2	LABORATORY	1999
+Lab02	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	LABORATORY	1999
+SSCYST_A	Cystatin C - Serum (Surplus)	LABORATORY	1999
+SSHSV1_A	Herpes Simplex Virus Type-1 (Surplus)	LABORATORY	1999
+SSMUMP_A	Mumps Antibody - Serum (Surplus)	LABORATORY	1999
+SSPFC_A	Perfluoroalkyl Chemicals - Serum (Surplus)	LABORATORY	1999
+SSTFR_A	Transferrin Receptor - Pregnant Women (Surplus)	LABORATORY	1999
+SSVARI_A	Varicella-Zoster Virus Antibody (Surplus)	LABORATORY	1999
+LAB26PP	"Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)"	LABORATORY	1999
+SSOL_A	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	LABORATORY	1999
+SSAFB_A	Aflatoxin B1-lysine - Serum (Surplus)	LABORATORY	1999
+TELO_A	Telomere Mean and Standard Deviation (Surplus)	LABORATORY	1999
+TFA_A	Trans Fatty Acids	LABORATORY	1999
+SSAMH_A	Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus)	LABORATORY	1999
+SSNORO_A	Norovirus antibody - Serum	LABORATORY	1999
+SSCMV_A	Cytomegalovirus Antibodies - Serum (Surplus)	LABORATORY	1999
+RXQ_RX	Prescription Medications	QUESTIONNAIRE	1999
+CIQGAD	Mental Health - Generalized Anxiety Disorder	QUESTIONNAIRE	1999
+CIQMDEP	Mental Health - Depression	QUESTIONNAIRE	1999
+CIQPANIC	Mental Health - Panic Disorder	QUESTIONNAIRE	1999
+ACQ	Acculturation	QUESTIONNAIRE	1999
+ALQ	Alcohol Use	QUESTIONNAIRE	1999
+AUQ	Audiometry	QUESTIONNAIRE	1999
+BAQ	Balance	QUESTIONNAIRE	1999
+BPQ	Blood Pressure & Cholesterol	QUESTIONNAIRE	1999
+CDQ	Cardiovascular Health	QUESTIONNAIRE	1999
+CFQ	Cognitive Functioning	QUESTIONNAIRE	1999
+HSQ	Current Health Status	QUESTIONNAIRE	1999
+DEQ	Dermatology	QUESTIONNAIRE	1999
+DIQ	Diabetes	QUESTIONNAIRE	1999
+DBQ	Diet Behavior & Nutrition	QUESTIONNAIRE	1999
+DUQ	Drug Use	QUESTIONNAIRE	1999
+ECQ	Early Childhood	QUESTIONNAIRE	1999
+FSQ	Food Security	QUESTIONNAIRE	1999
+HIQ	Health Insurance	QUESTIONNAIRE	1999
+HUQ	Hospital Utilization & Access to Care	QUESTIONNAIRE	1999
+HOQ	Housing Characteristics	QUESTIONNAIRE	1999
+IMQ	Immunization	QUESTIONNAIRE	1999
+KIQ	Kidney Conditions	QUESTIONNAIRE	1999
+MCQ	Medical Conditions	QUESTIONNAIRE	1999
+MPQ	Miscellaneous Pain	QUESTIONNAIRE	1999
+OCQ	Occupation	QUESTIONNAIRE	1999
+OHQ	Oral Health	QUESTIONNAIRE	1999
+OSQ	Osteoporosis	QUESTIONNAIRE	1999
+RXQ_ANA	Analgesic Pain Relievers	QUESTIONNAIRE	1999
+PUQ	Pesticide Use	QUESTIONNAIRE	1999
+PAQ	Physical Activity	QUESTIONNAIRE	1999
+PAQIAF	Physical Activity - Individual Activities	QUESTIONNAIRE	1999
+PFQ	Physical Functioning	QUESTIONNAIRE	1999
+RHQ	Reproductive Health	QUESTIONNAIRE	1999
+RDQ	Respiratory Health	QUESTIONNAIRE	1999
+SXQ	Sexual Behavior	QUESTIONNAIRE	1999
+SMQMEC	Smoking - Adult Recent Tobacco Use & Youth Cigarette/Tobacco Use	QUESTIONNAIRE	1999
+SMQ	Smoking - Cigarette/Tobacco Use - Adult	QUESTIONNAIRE	1999
+SSQ	Social Support	QUESTIONNAIRE	1999
+TBQ	Tuberculosis	QUESTIONNAIRE	1999
+VIQ	Vision	QUESTIONNAIRE	1999
+WHQ	Weight History	QUESTIONNAIRE	1999
+SMQFAM	Smoking - Household Smokers	QUESTIONNAIRE	1999
+DEMO_B	Demographic Variables & Sample Weights	DEMOGRAPHICS	2001
+DRXTOT_B	Dietary Interview - Total Nutrient Intakes	DIETARY	2001
+DRXIFF_B	Dietary Interview - Individual Foods	DIETARY	2001
+DSQ1_B	"Dietary Supplement Use 30-Day - File 1, Supplement Counts"	DIETARY	2001
+DSQ2_B	"Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements"	DIETARY	2001
+DXX_2_B	"Dual-Energy X-ray Absorptiometry - Whole Body, Second Exam"	EXAMINATION	2001
+AUX_B	Audiometry	EXAMINATION	2001
+AUXTYM_B	Audiometry - Tympanometry	EXAMINATION	2001
+BAX_B	Balance	EXAMINATION	2001
+BIX_B	Bioelectrical Impedance Analysis	EXAMINATION	2001
+BMX_B	Body Measures	EXAMINATION	2001
+BPX_B	Blood Pressure	EXAMINATION	2001
+CVX_B	Cardiovascular Fitness	EXAMINATION	2001
+LEXPN_B	Lower Extremity Disease - Peripheral Neuropathy	EXAMINATION	2001
+MSX_B	Muscle Strength	EXAMINATION	2001
+OHXDEN_B	Oral Health - Dentition	EXAMINATION	2001
+OHXPRL_B	Oral Health - Periodontal/Lower	EXAMINATION	2001
+OHXPRU_B	Oral Health - Periodontal/Upper	EXAMINATION	2001
+OHXREF_B	Oral Health - Recommendation of Care	EXAMINATION	2001
+VIX_B	Vision	EXAMINATION	2001
+LEXAB_B	Lower Extremity Disease - Ankle Brachial Blood Pressure Index	EXAMINATION	2001
+AUXAR_B	Audiometry - Acoustic Reflex	EXAMINATION	2001
+SSCHL_B	Sex Steroid Hormone - Men (Surplus)	LABORATORY	2001
+l13_b	Cholesterol - Total & HDL	LABORATORY	2001
+l11p_2_b	"Prostate-specific Antigen (PSA), Second Exam"	LABORATORY	2001
+L11_2_b	"C-Reactive Protein & Others, Second Exam"	LABORATORY	2001
+l09_b	Herpes Simplex Virus Type-1 & Type-2	LABORATORY	2001
+l13_2_b	"Cholesterol - Total, HDL, LDL  & Triglycerides, Second Exam"	LABORATORY	2001
+L19_2_B	"Measles, Rubella, & Varicella, Second Exam"	LABORATORY	2001
+L16_2_B	"Creatinine & Albumin - Urine, Second Exam"	LABORATORY	2001
+l25_2_b	"Complete Blood Count with 5-part Differential - Whole Blood, Second Exam"	LABORATORY	2001
+l39_2_b	Erythrocyte Protoporphyrin	LABORATORY	2001
+VIT_2_B	"Vitamin A, Vitamin E, & Carotenoids, Second Exam"	LABORATORY	2001
+L02_B	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	LABORATORY	2001
+l34_b	Bacterial vaginosis (BV) & Trichomonas vaginalis	LABORATORY	2001
+SSCYST_B	Cystatin C (Surplus)	LABORATORY	2001
+SSHSV1_B	Herpes Simplex Virus Type-1 (Surplus)	LABORATORY	2001
+SSMUMP_B	Mumps Antibody - Serum (Surplus)	LABORATORY	2001
+SSNO3P_B	"Perchlorate, Nitrate & Thiocyanate - Urine (Surplus)"	LABORATORY	2001
+SSTFR_B	Transferrin Receptor - Pregnant Women (Surplus)	LABORATORY	2001
+SSVARI_B	Varicella-Zoster Virus Antibody (Surplus)	LABORATORY	2001
+PH_B	Fasting Questionnaire	LABORATORY	2001
+PHPYPA_B	"Phthalates, Phytoestrogens & PAHs - Urine"	LABORATORY	2001
+UC_B	Pregnancy Test - Urine	LABORATORY	2001
+L02HBS_B	Hepatitis B Surface Antibody	LABORATORY	2001
+L02HPA_B	Hepatitis A Antibody	LABORATORY	2001
+L03_B	"HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells"	LABORATORY	2001
+L04VOC_B	Volatile Organic Compounds - Blood & Water	LABORATORY	2001
+L05_B	Chlamydia & Gonorrhea - Urine	LABORATORY	2001
+L06_B	"Cadmium, Lead, Mercury, Cotinine & Nutritional Biochemistries"	LABORATORY	2001
+L06VIT_B	"Vitamin A, Vitamin E & Carotenoids"	LABORATORY	2001
+L06VID_B	Vitamin D	LABORATORY	2001
+L06UIO_B	Iodine - Urine	LABORATORY	2001
+L06HM_B	Metals - Urine	LABORATORY	2001
+L10_B	Glycohemoglobin	LABORATORY	2001
+L10AM_B	"Plasma Fasting Glucose, Serum C-peptide & Insulin"	LABORATORY	2001
+L11_B	"C-Reactive protein (CRP), Fibrinogen, Bone Alkaline Phosphatase & Urinary N-telopeptides"	LABORATORY	2001
+L11PSA_B	Prostate specific antigen (PSA)	LABORATORY	2001
+L13AM_B	Cholesterol - LDL & Triglycerides	LABORATORY	2001
+L16_B	Albumin & Creatinine - Urine	LABORATORY	2001
+L17_B	"Toxoplasma (IgG), Toxoplasma (IgM),Toxoplasma (Dye),Toxoplasma Differential Agglutination, & Toxoplasma (Avidity)"	LABORATORY	2001
+L19_B	"Measles, Rubella, & Varicella"	LABORATORY	2001
+L20_B	Lead - Dust	LABORATORY	2001
+L25_B	Complete Blood Count with 5-part Differential - Whole Blood	LABORATORY	2001
+l26PP_B	"Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)"	LABORATORY	2001
+L28POC_B	"Dioxins, Furans, & Coplanar PCBs"	LABORATORY	2001
+L35_B	Methicillin - Resistant Staphylococcus aureus (MRSA)	LABORATORY	2001
+L36_B	"Syphilis-IgG, Syphilis Rapid Plasma Reagin (RPR) & Treponema pallidum Particle Agglutination (TP-PA)"	LABORATORY	2001
+L39_B	Erythrocyte Protoporphyrin	LABORATORY	2001
+L40_B	Standard Biochemistry Profile	LABORATORY	2001
+L40T4_B	Thyroid - Stimulating Hormone & Thyroxine (TSH & T4)	LABORATORY	2001
+L40FE_B	"Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation"	LABORATORY	2001
+VID_2_B	"Vitamin D, Second Exam"	LABORATORY	2001
+L06_2_B	"Cadmium, Lead, Total Mercury, Ferritin, Serum Folate, RBC Folate, Vitamin B12, Homocysteine, Methylmalonic acid, Cotinine - Bloo"	LABORATORY	2001
+L10_2_B	"Glycohemoglobin, Plasma Glucose, Serum C-peptide, & Insulin, Second Exam"	LABORATORY	2001
+L40_2_B	"Standard Biochemistry Profile, Follicle Stimulating Hormone & Luteinizing Hormone, Second Exam"	LABORATORY	2001
+SSOL_B	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	LABORATORY	2001
+SSBFR_B	Brominated Flame Retardants (BFRs) - Pooled Samples (Surplus)	LABORATORY	2001
+SSPCB_B	Non-dioxin-like Polychlorinated Biphenyls - Pooled Samples (Surplus Sera)	LABORATORY	2001
+SSPST_B	Pesticides - Organochlorine Metabolites - Serum - Pooled Samples (Surplus)	LABORATORY	2001
+TELO_B	Telomere Mean and Standard Deviation (Surplus)	LABORATORY	2001
+VID_B	Vitamin D	LABORATORY	2001
+SSAMH_B	Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus)	LABORATORY	2001
+SSCMV_B	Cytomegalovirus Antibodies - Serum (Surplus)	LABORATORY	2001
+SSCA_B	Cancer antigen CA125 and CA15.3 - Serum (Surplus)	LABORATORY	2001
+SSHE4_B	Human epididymal secretory protein E4 (HE4) - Serum (Surplus)	LABORATORY	2001
+SSCGA_B	"Cancer antigen CA125, CA15.3 and HE4 IgG antibodies - Serum (Surplus)"	LABORATORY	2001
+WHQ_B	Weight History	QUESTIONNAIRE	2001
+ACQ_B	Acculturation	QUESTIONNAIRE	2001
+ALQ_B	Alcohol Use	QUESTIONNAIRE	2001
+RXQANA_B	Analgesic Pain Relievers	QUESTIONNAIRE	2001
+AUQ_B	Audiometry	QUESTIONNAIRE	2001
+BAQ_B	Balance	QUESTIONNAIRE	2001
+BPQ_B	Blood Pressure & Cholesterol	QUESTIONNAIRE	2001
+CDQ_B	Cardiovascular Health	QUESTIONNAIRE	2001
+CFQ_B	Cognitive Functioning	QUESTIONNAIRE	2001
+HSQ_B	Current Health Status	QUESTIONNAIRE	2001
+DEQ_B	Dermatology	QUESTIONNAIRE	2001
+DIQ_B	Diabetes	QUESTIONNAIRE	2001
+DBQ_B	Diet Behavior & Nutrition	QUESTIONNAIRE	2001
+DUQ_B	Drug Use	QUESTIONNAIRE	2001
+ECQ_B	Early Childhood	QUESTIONNAIRE	2001
+SMQFAM_B	Smoking - Household Smokers	QUESTIONNAIRE	2001
+FSQ_B	Food Security	QUESTIONNAIRE	2001
+HIQ_B	Health Insurance	QUESTIONNAIRE	2001
+HCQ_B	Hepatitis C Follow Up	QUESTIONNAIRE	2001
+HUQ_B	Hospital Utilization & Access to Care	QUESTIONNAIRE	2001
+HOQ_B	Housing Characteristics	QUESTIONNAIRE	2001
+IMQ_B	Immunization	QUESTIONNAIRE	2001
+MCQ_B	Medical Conditions	QUESTIONNAIRE	2001
+MPQ_B	Miscellaneous Pain	QUESTIONNAIRE	2001
+OCQ_B	Occupation	QUESTIONNAIRE	2001
+OSQ_B	Osteoporosis	QUESTIONNAIRE	2001
+PUQ_B	Pesticide Use	QUESTIONNAIRE	2001
+PAQ_B	Physical Activity	QUESTIONNAIRE	2001
+PAQIAF_B	Physical Activity - Individual Activities	QUESTIONNAIRE	2001
+PFQ_B	Physical Functioning	QUESTIONNAIRE	2001
+KIQ_P_B	Prostate Conditions	QUESTIONNAIRE	2001
+RHQ_B	Reproductive Health	QUESTIONNAIRE	2001
+RDQ_B	Respiratory Health	QUESTIONNAIRE	2001
+SXQ_B	Sexual Behavior	QUESTIONNAIRE	2001
+SSQ_B	Social Support	QUESTIONNAIRE	2001
+SMQ_B	Smoking - Cigarette/Tobacco Use - Adult	QUESTIONNAIRE	2001
+SMQMEC_B	Smoking - Adult Recent Tobacco Use & Youth Cigarette/Tobacco Use	QUESTIONNAIRE	2001
+KIQ_U_B	Kidney Conditions - Urology	QUESTIONNAIRE	2001
+VIQ_B	Vision	QUESTIONNAIRE	2001
+RXQ_RX_B	Prescription Medications	QUESTIONNAIRE	2001
+CIQPAN_B	Mental Health - Panic Disorder	QUESTIONNAIRE	2001
+CIQGAD_B	Mental Health - Generalized Anxiety Disorder	QUESTIONNAIRE	2001
+CIQDEP_B	Mental Health - Depression	QUESTIONNAIRE	2001
+OHQ_B	Oral Health	QUESTIONNAIRE	2001
+DEMO_C	Demographic Variables & Sample Weights	DEMOGRAPHICS	2003
+FFQRAW_C	Food Frequency Questionnaire - Raw Questionnaire Responses	DIETARY	2003
+FFQDC_C	Food Frequency Questionnaire - Output from DietCalc Software	DIETARY	2003
+DRXFCD_C	Dietary Interview Technical Support File - Food Codes	DIETARY	2003
+DR1TOT_C	"Dietary Interview - Total Nutrient Intakes, First Day"	DIETARY	2003
+DR2TOT_C	"Dietary Interview - Total Nutrient Intakes, Second Day"	DIETARY	2003
+DR2IFF_C	"Dietary Interview - Individual Foods, Second Day"	DIETARY	2003
+DR1IFF_C	"Dietary Interview - Individual Foods, First Day"	DIETARY	2003
+DSQ1_C	"Dietary Supplement Use 30-Day - File 1, Supplement Counts"	DIETARY	2003
+DSQ2_C	"Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements"	DIETARY	2003
+DRXMCD_C	Dietary Interview Technical Support File - Modification Codes	DIETARY	2003
+AUX_C	Audiometry	EXAMINATION	2003
+AUXTYM_C	Audiometry - Tympanometry	EXAMINATION	2003
+BAX_C	Balance	EXAMINATION	2003
+BIX_C	Bioelectrical Impedance Analysis	EXAMINATION	2003
+BPX_C	Blood Pressure	EXAMINATION	2003
+BMX_C	Body Measures	EXAMINATION	2003
+CVX_C	Cardiovascular Fitness	EXAMINATION	2003
+DEX_C	Dermatology	EXAMINATION	2003
+LEXAB_C	Lower Extremity Disease - Ankle Brachial Blood Pressure Index	EXAMINATION	2003
+LEXPN_C	Lower Extremity Disease - Peripheral Neuropathy	EXAMINATION	2003
+OHXADD_C	Oral Health - Addendum	EXAMINATION	2003
+OHXDEN_C	Oral Health - Dentition	EXAMINATION	2003
+OHXPRL_C	Oral Health - Periodontal/Lower	EXAMINATION	2003
+OHXPRU_C	Oral Health - Periodontal/Upper	EXAMINATION	2003
+OHXREF_C	Oral Health - Recommendation of Care	EXAMINATION	2003
+PAXRAW_C	Physical Activity Monitor	EXAMINATION	2003
+VIX_C	Vision	EXAMINATION	2003
+DXXAG_C	Dual Energy X-ray Absorptiometry - Android/Gynoid	EXAMINATION	2003
+AUXAR_C	Audiometry - Acoustic Reflex	EXAMINATION	2003
+L24PP_C	Pesticides - Environmental - Urine	LABORATORY	2003
+L26UPP_C	"Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)"	LABORATORY	2003
+L06PHY_C	Phytoestrogens - Urine	LABORATORY	2003
+L06VIT_C	Vitamin C	LABORATORY	2003
+SSCHL_C	Sex Steroid Hormone - Men (Surplus)	LABORATORY	2003
+SSMEL_C	Melamine - Urine (Surplus)	LABORATORY	2003
+l13_c	Cholesterol - Total & HDL	LABORATORY	2003
+l09_c	Herpes Simplex Virus Type-1 & Type-2	LABORATORY	2003
+L02_C	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	LABORATORY	2003
+L02HBS_C	Hepatitis B Surface Antibody	LABORATORY	2003
+L02HPA_C	Hepatitis A Antibody	LABORATORY	2003
+L03_C	"HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells"	LABORATORY	2003
+L04PER_C	Perchlorate - Urine	LABORATORY	2003
+L04VOC_C	"Volatile Organic Compounds - Blood, Water, & Related Questionnaire Items"	LABORATORY	2003
+L05_C	Chlamydia & Gonorrhea - Urine	LABORATORY	2003
+L06AGE_C	Acrylamide & Glycidamide	LABORATORY	2003
+L06BMT_C	"Cadmium, Lead, & Total Mercury - Blood"	LABORATORY	2003
+L06MH_C	Methylmalonic acid & Homocysteine	LABORATORY	2003
+L06NB_C	"Folate - RBC & Serum, and Vitamin B12"	LABORATORY	2003
+L06COT_C	Cotinine - Serum	LABORATORY	2003
+L06TFR_C	Ferritin & Transferrin Receptor	LABORATORY	2003
+L06HM_C	Metals - Urine	LABORATORY	2003
+L06UIO_C	Iodine - Urine	LABORATORY	2003
+L06UAS_C	Arsenics - Total & Speciated - Urine	LABORATORY	2003
+L06UHG_C	Mercury: Inorganic - Urine	LABORATORY	2003
+L10_C	Glycohemoglobin	LABORATORY	2003
+L10AM_C	"Plasma Fasting Glucose, Serum C-peptide & Insulin"	LABORATORY	2003
+L11_C	"C-Reactive Protein (CRP), Bone Alkaline Phosphatase (BAP) & Parathyroid Hormone (PTH)"	LABORATORY	2003
+L11PSA_C	Prostate Specific Antigen (PSA)	LABORATORY	2003
+L13AM_C	Cholesterol - LDL & Triglycerides	LABORATORY	2003
+L16_C	Albumin & Creatinine - Urine	LABORATORY	2003
+L17_C	Toxoplasma (IgG) & Toxoplasma (IgM)	LABORATORY	2003
+L19_C	"Measles, Rubella, & Varicella"	LABORATORY	2003
+L20_C	Lead - Dust	LABORATORY	2003
+L24EPH_C	Environmental Phenols	LABORATORY	2003
+L24PFC_C	Polyfluoroalkyl Chemicals	LABORATORY	2003
+L24PH_C	Phthalates - Urine	LABORATORY	2003
+L25_C	Complete Blood Count with 5-part Differential - Whole Blood	LABORATORY	2003
+L26OPD_C	Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine	LABORATORY	2003
+L28DFP_C	"Dioxins, Furans, & Coplanar PCBs"	LABORATORY	2003
+L28NPB_C	Non-dioxin-like Polychlorinated Biphenyls	LABORATORY	2003
+L28OCP_C	Pesticides - Organochlorine Metabolites - Serum (Surplus)	LABORATORY	2003
+L28PBE_C	Brominated Flame Retardants (BFRs)	LABORATORY	2003
+L31PAH_C	Polyaromatic Hydrocarbons (PAHs) - Urine	LABORATORY	2003
+L35_C	Methicillin - Resistant Staphylococcus aureus (MRSA)	LABORATORY	2003
+L36_C	"Syphilis-IgG, Syphilis Rapid Plasma Reagin (RPR) & Treponema pallidum Particle Agglutination (TP-PA)"	LABORATORY	2003
+L39EPP_C	Erythrocyte Protoporphyrin & Selenium	LABORATORY	2003
+L40_C	Standard Biochemistry Profile	LABORATORY	2003
+L40FE_C	"Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation"	LABORATORY	2003
+L43_C	Vitamin B6	LABORATORY	2003
+L45VIT_C	"Vitamin A, Vitamin E & Carotenoids"	LABORATORY	2003
+L52SER_C	"Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum: 4-plex CLIA"	LABORATORY	2003
+PH_C	Fasting Questionnaire	LABORATORY	2003
+UC_C	Pregnancy Test - Urine	LABORATORY	2003
+SSQFEV_C	Coxiella Burnetii (Q Fever) Antibodies - Serum (Surplus)	LABORATORY	2003
+SSMUMP_C	Mumps Antibody - Serum (Surplus)	LABORATORY	2003
+SSVARI_C	Varicella-Zoster Virus Antibody (Surplus)	LABORATORY	2003
+l34_c	Bacterial vaginosis (BV) & Trichomonas vaginalis	LABORATORY	2003
+L37SWA_C	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Prototype Line Blot Assay	LABORATORY	2003
+L37SWR_C	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Linear Array	LABORATORY	2003
+L06VID_C	Vitamin D	LABORATORY	2003
+SSFA_C	Fatty Acids - Plasma (Surplus)	LABORATORY	2003
+SSEBV_C	Epstein-Barr Virus (VCA IgG) - Serum (Surplus)	LABORATORY	2003
+SSHCVR_C	Hepatitis C RNA (HCV-RNA) & HCV Genotype (Surplus)	LABORATORY	2003
+SSOL_C	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	LABORATORY	2003
+VID_C	Vitamin D	LABORATORY	2003
+SSAMH_C	Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus)	LABORATORY	2003
+SSNORO_C	Norovirus antibody - Serum	LABORATORY	2003
+SSCMV_C	Cytomegalovirus Antibodies - Serum (Surplus)	LABORATORY	2003
+CDQ_C	Cardiovascular Health	QUESTIONNAIRE	2003
+ACQ_C	Acculturation	QUESTIONNAIRE	2003
+ALQ_C	Alcohol Use	QUESTIONNAIRE	2003
+RXQANA_C	Analgesic Pain Relievers	QUESTIONNAIRE	2003
+AUQ_C	Audiometry	QUESTIONNAIRE	2003
+BAQ_C	Balance	QUESTIONNAIRE	2003
+BPQ_C	Blood Pressure & Cholesterol	QUESTIONNAIRE	2003
+HSQ_C	Current Health Status	QUESTIONNAIRE	2003
+DEQ_C	Dermatology	QUESTIONNAIRE	2003
+DIQ_C	Diabetes	QUESTIONNAIRE	2003
+DBQ_C	Diet Behavior & Nutrition	QUESTIONNAIRE	2003
+DUQ_C	Drug Use	QUESTIONNAIRE	2003
+ECQ_C	Early Childhood	QUESTIONNAIRE	2003
+SMQFAM_C	Smoking - Household Smokers	QUESTIONNAIRE	2003
+FSQ_C	Food Security	QUESTIONNAIRE	2003
+HIQ_C	Health Insurance	QUESTIONNAIRE	2003
+HOQ_C	Housing Characteristics	QUESTIONNAIRE	2003
+HCQ_C	Hepatitis C Follow Up	QUESTIONNAIRE	2003
+HUQ_C	Hospital Utilization & Access to Care	QUESTIONNAIRE	2003
+IMQ_C	Immunization	QUESTIONNAIRE	2003
+KIQ_U_C	Kidney Conditions - Urology	QUESTIONNAIRE	2003
+MCQ_C	Medical Conditions	QUESTIONNAIRE	2003
+MPQ_C	Miscellaneous Pain	QUESTIONNAIRE	2003
+OCQ_C	Occupation	QUESTIONNAIRE	2003
+OHQ_C	Oral Health	QUESTIONNAIRE	2003
+OSQ_C	Osteoporosis	QUESTIONNAIRE	2003
+PUQ_C	Pesticide Use	QUESTIONNAIRE	2003
+PAQ_C	Physical Activity	QUESTIONNAIRE	2003
+PAQIAF_C	Physical Activity - Individual Activities	QUESTIONNAIRE	2003
+PFQ_C	Physical Functioning	QUESTIONNAIRE	2003
+RXQ_RX_C	Prescription Medications	QUESTIONNAIRE	2003
+KIQ_P_C	Prostate Conditions	QUESTIONNAIRE	2003
+PSQ_C	Prostate Specific Antigen Follow-up	QUESTIONNAIRE	2003
+RHQ_C	Reproductive Health	QUESTIONNAIRE	2003
+RDQ_C	Respiratory Health	QUESTIONNAIRE	2003
+SMQ_C	Smoking - Cigarette/Tobacco Use - Adult	QUESTIONNAIRE	2003
+SMQMEC_C	Smoking - Adult Recent Tobacco Use & Youth Cigarette/Tobacco Use	QUESTIONNAIRE	2003
+SSQ_C	Social Support	QUESTIONNAIRE	2003
+SXQ_C	Sexual Behavior	QUESTIONNAIRE	2003
+VIQ_C	Vision	QUESTIONNAIRE	2003
+WHQ_C	Weight History	QUESTIONNAIRE	2003
+CIQGAD_C	Mental Health - Generalized Anxiety Disorder	QUESTIONNAIRE	2003
+CIQDEP_C	Mental Health - Depression	QUESTIONNAIRE	2003
+CIQPAN_C	Mental Health - Panic Disorder	QUESTIONNAIRE	2003
+DEMO_D	Demographic Variables & Sample Weights	DEMOGRAPHICS	2005
+FFQRAW_D	Food Frequency Questionnaire - Raw Questionnaire Responses	DIETARY	2005
+FFQDC_D	Food Frequency Questionnaire - Output from DietCalc Software	DIETARY	2005
+DSQ1_D	"Dietary Supplement Use 30-Day - File 1, Supplement Counts"	DIETARY	2005
+DSQ2_D	"Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements"	DIETARY	2005
+DR1IFF_D	"Dietary Interview - Individual Foods, First Day"	DIETARY	2005
+DR1TOT_D	"Dietary Interview - Total Nutrient Intakes, First Day"	DIETARY	2005
+DR2TOT_D	"Dietary Interview - Total Nutrient Intakes, Second Day"	DIETARY	2005
+DRXFCD_D	Dietary Interview Technical Support File - Food Codes	DIETARY	2005
+DRXMCD_D	Dietary Interview Technical Support File - Modification Codes	DIETARY	2005
+DR2IFF_D	"Dietary Interview - Individual Foods, Second Day"	DIETARY	2005
+BPX_D	Blood Pressure	EXAMINATION	2005
+BMX_D	Body Measures	EXAMINATION	2005
+AUX_D	Audiometry	EXAMINATION	2005
+AUXTYM_D	Audiometry - Tympanometry	EXAMINATION	2005
+DXXFEM_D	Dual Energy X-ray Absorptiometry - Femur	EXAMINATION	2005
+OPXFDT_D	Ophthalmology - Frequency Doubling Technology	EXAMINATION	2005
+OHX_D	Oral Health	EXAMINATION	2005
+PAXRAW_D	Physical Activity Monitor	EXAMINATION	2005
+VIX_D	Vision	EXAMINATION	2005
+DXXAG_D	Dual Energy X-ray Absorptiometry - Android/Gynoid	EXAMINATION	2005
+AUXAR_D	Audiometry - Acoustic Reflex	EXAMINATION	2005
+OPXRET_D	Ophthalmology - Retinal Imaging	EXAMINATION	2005
+DXXSPN_D	Dual Energy X-ray Absorptiometry - Spine	EXAMINATION	2005
+PbCd_D	"Cadmium, Lead, & Total Mercury - Blood"	LABORATORY	2005
+PP_D	Pesticides - Environmental - Urine	LABORATORY	2005
+PHTHTE_D	Phthalates - Urine	LABORATORY	2005
+OPD_D	Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine	LABORATORY	2005
+VOC_D	Volatile Organic Compounds - Water & Related Questionnaire Items	LABORATORY	2005
+UPP_D	"Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)"	LABORATORY	2005
+TCHOL_D	Cholesterol - Total	LABORATORY	2005
+HDL_D	Cholesterol - HDL	LABORATORY	2005
+HSV_D	Herpes Simplex Virus Type-1 & Type-2	LABORATORY	2005
+VIT_B6_D	Vitamin B6	LABORATORY	2005
+PERNT_D	"Perchlorate, Nitrate & Thiocyanate - Urine"	LABORATORY	2005
+AL_IGE_D	Allergen Specific IgE(s) & Total IgE - Serum	LABORATORY	2005
+CBC_D	Complete Blood Count with 5-Part Differential - Whole Blood	LABORATORY	2005
+CRP_D	C-Reactive Protein (CRP)	LABORATORY	2005
+EPH_D	Environmental Phenols & Parabens	LABORATORY	2005
+EPP_D	Erythrocyte Protoporphyrin	LABORATORY	2005
+FERTIN_D	Ferritin	LABORATORY	2005
+FOLATE_D	Folate - RBC & Serum	LABORATORY	2005
+GHB_D	Glycohemoglobin	LABORATORY	2005
+HEPA_D	Hepatitis A Antibody	LABORATORY	2005
+HEPBD_D	"Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody"	LABORATORY	2005
+HEPB_S_D	Hepatitis B Surface Antibody	LABORATORY	2005
+HEPC_D	"Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype"	LABORATORY	2005
+HCY_D	Homocysteine	LABORATORY	2005
+HIV_D	"HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells"	LABORATORY	2005
+FETIB_D	"Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation"	LABORATORY	2005
+PTH_D	Parathyroid Hormone	LABORATORY	2005
+WPIN_D	"Perchlorate, Nitrate & Iodide - Tap Water"	LABORATORY	2005
+FASTQX_D	Fasting Questionnaire	LABORATORY	2005
+GLU_D	Plasma Fasting Glucose & Insulin	LABORATORY	2005
+PFC_D	Polyfluoroalkyl Chemicals	LABORATORY	2005
+PSA_D	Prostate Specific Antigen (PSA)	LABORATORY	2005
+COT_D	Cotinine - Serum	LABORATORY	2005
+BIOPRO_D	Standard Biochemistry Profile	LABORATORY	2005
+UAS_D	Arsenics - Total & Speciated - Urine	LABORATORY	2005
+IHg_D	Mercury: Inorganic - Blood	LABORATORY	2005
+TFR_D	Transferrin Receptor	LABORATORY	2005
+TRIGLY_D	"Cholesterol - LDL, Triglyceride & Apoliprotein (ApoB)"	LABORATORY	2005
+OGTT_D	Oral Glucose Tolerance Test	LABORATORY	2005
+ALB_CR_D	Albumin & Creatinine - Urine	LABORATORY	2005
+CHLMDA_D	Chlamydia & Gonorrhea - Urine	LABORATORY	2005
+UIO_D	Iodine - Urine	LABORATORY	2005
+UHG_D	Mercury: Inorganic - Urine	LABORATORY	2005
+UHM_D	Metals - Urine	LABORATORY	2005
+UCPREG_D	Pregnancy Test - Urine	LABORATORY	2005
+VITAEC_D	"Vitamin A, Vitamin E & Carotenoids"	LABORATORY	2005
+B12_D	Vitamin B12	LABORATORY	2005
+VIC_D	Vitamin C	LABORATORY	2005
+PHYTO_D	Phytoestrogens - Urine	LABORATORY	2005
+VOCWB_D	Volatile Organic Compounds - Blood & Related Questionnaire Items	LABORATORY	2005
+SSEBV_D	Epstein-Barr Virus (VCA IgG) - Serum (Surplus)	LABORATORY	2005
+CARB_D	Pesticides - Carbamates & Organophosphorus Metabolites - Urine	LABORATORY	2005
+ALDUST_D	Allergens - Household Dust	LABORATORY	2005
+PAH_D	Polyaromatic Hydrocarbons (PAHs) - Urine	LABORATORY	2005
+DOXPOL_D	"Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs)  - Pooled Samples"	LABORATORY	2005
+BFRPOL_D	Brominated Flame Retardants (BFRs) - Pooled Samples	LABORATORY	2005
+PCBPOL_D	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples	LABORATORY	2005
+PSTPOL_D	Pesticides - Organochlorine Pesticides - Pooled Samples	LABORATORY	2005
+HPVSRM_D	"Human Papillomavirus (HPV) - Multiplexed 6, 11, 16, 18, 31, 33, 45, 52 & 58 Antibody – Serum: 9-plex CLIA"	LABORATORY	2005
+SSUVOC_D	Volatile Organic Compound (VOC) Metabolites - Urine (Surplus)	LABORATORY	2005
+SSSAL_D	Salmonella & Campylobacter Antibodies (Surplus)	LABORATORY	2005
+AMDGYD_D	Acrylamide & Glycidamide	LABORATORY	2005
+VID_D	Vitamin D	LABORATORY	2005
+HPVSER_D	"Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody – Serum: 4-plex CLIA"	LABORATORY	2005
+HPVSWR_D	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array	LABORATORY	2005
+ACQ_D	Acculturation	QUESTIONNAIRE	2005
+ALQ_D	Alcohol Use	QUESTIONNAIRE	2005
+AGQ_D	Allergy	QUESTIONNAIRE	2005
+BHQ_D	Bowel Health	QUESTIONNAIRE	2005
+BPQ_D	Blood Pressure & Cholesterol	QUESTIONNAIRE	2005
+CDQ_D	Cardiovascular Health	QUESTIONNAIRE	2005
+HSQ_D	Current Health Status	QUESTIONNAIRE	2005
+DPQ_D	Mental Health - Depression Screener	QUESTIONNAIRE	2005
+DEQ_D	Dermatology	QUESTIONNAIRE	2005
+DBQ_D	Diet Behavior & Nutrition	QUESTIONNAIRE	2005
+AUQ_D	Audiometry	QUESTIONNAIRE	2005
+DIQ_D	Diabetes	QUESTIONNAIRE	2005
+DUQ_D	Drug Use	QUESTIONNAIRE	2005
+ECQ_D	Early Childhood	QUESTIONNAIRE	2005
+FSQ_D	Food Security	QUESTIONNAIRE	2005
+HIQ_D	Health Insurance	QUESTIONNAIRE	2005
+HCQ_D	Hepatitis C Follow Up	QUESTIONNAIRE	2005
+HUQ_D	Hospital Utilization & Access to Care	QUESTIONNAIRE	2005
+HOQ_D	Housing Characteristics	QUESTIONNAIRE	2005
+IMQ_D	Immunization	QUESTIONNAIRE	2005
+KIQ_U_D	Kidney Conditions - Urology	QUESTIONNAIRE	2005
+MCQ_D	Medical Conditions	QUESTIONNAIRE	2005
+OHQ_D	Oral Health	QUESTIONNAIRE	2005
+OSQ_D	Osteoporosis	QUESTIONNAIRE	2005
+PUQMEC_D	Pesticide Use	QUESTIONNAIRE	2005
+PAQ_D	Physical Activity	QUESTIONNAIRE	2005
+PAQIAF_D	Physical Activity - Individual Activities	QUESTIONNAIRE	2005
+PFQ_D	Physical Functioning	QUESTIONNAIRE	2005
+RXQ_RX_D	Prescription Medications	QUESTIONNAIRE	2005
+KIQ_P_D	Prostate Conditions	QUESTIONNAIRE	2005
+PSQ_D	Prostate Specific Antigen Follow-up	QUESTIONNAIRE	2005
+RHQ_D	Reproductive Health	QUESTIONNAIRE	2005
+RDQ_D	Respiratory Health	QUESTIONNAIRE	2005
+SXQ_D	Sexual Behavior	QUESTIONNAIRE	2005
+SLQ_D	Sleep Disorders	QUESTIONNAIRE	2005
+SMQ_D	Smoking - Cigarette Use	QUESTIONNAIRE	2005
+SMQFAM_D	Smoking - Household Smokers	QUESTIONNAIRE	2005
+SMQRTU_D	Smoking - Recent Tobacco Use	QUESTIONNAIRE	2005
+SSQ_D	Social Support	QUESTIONNAIRE	2005
+VIQ_D	Vision	QUESTIONNAIRE	2005
+WHQMEC_D	Weight History - Youth	QUESTIONNAIRE	2005
+WHQ_D	Weight History	QUESTIONNAIRE	2005
+OCQ_D	Occupation	QUESTIONNAIRE	2005
+DEMO_E	Demographic Variables & Sample Weights	DEMOGRAPHICS	2007
+DS1IDS_E	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	DIETARY	2007
+DS2IDS_E	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	DIETARY	2007
+DSQIDS_E	Dietary Supplement Use 30 Day - Individual Dietary Supplements	DIETARY	2007
+DSQTOT_E	Dietary Supplement Use 30-Day - Total Dietary Supplements	DIETARY	2007
+DS1TOT_E	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	DIETARY	2007
+DS2TOT_E	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	DIETARY	2007
+DR1IFF_E	"Dietary Interview - Individual Foods, First Day"	DIETARY	2007
+DR2IFF_E	"Dietary Interview - Individual Foods, Second Day"	DIETARY	2007
+DR1TOT_E	"Dietary Interview - Total Nutrient Intakes, First Day"	DIETARY	2007
+DR2TOT_E	"Dietary Interview - Total Nutrient Intakes, Second Day"	DIETARY	2007
+DRXMCD_E	Dietary Interview Technical Support File - Modification Codes	DIETARY	2007
+DRXFCD_E	Dietary Interview Technical Support File - Food Codes	DIETARY	2007
+VIX_E	Vision	EXAMINATION	2007
+BPX_E	Blood Pressure	EXAMINATION	2007
+OPXFDT_E	Ophthalmology - Frequency Doubling Technology	EXAMINATION	2007
+OHX_E	Oral Health	EXAMINATION	2007
+DXXFEM_E	Dual Energy X-ray Absorptiometry - Femur	EXAMINATION	2007
+BMX_E	Body Measures	EXAMINATION	2007
+AUX_E	Audiometry	EXAMINATION	2007
+AUXTYM_E	Audiometry - Tympanometry	EXAMINATION	2007
+ENX_E	Exhaled Nitric Oxide	EXAMINATION	2007
+SPX_E	Spirometry - Pre and Post-Bronchodilator	EXAMINATION	2007
+SPXRAW_E	Spirometry - Raw Curve Data	EXAMINATION	2007
+AUXAR_E	Audiometry - Acoustic Reflex	EXAMINATION	2007
+OPXRET_E	Ophthalmology - Retinal Imaging	EXAMINATION	2007
+DXXSPN_E	Dual Energy X-ray Absorptiometry - Spine	EXAMINATION	2007
+HEPC_E	"Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype"	LABORATORY	2007
+HEPA_E	Hepatitis A Antibody	LABORATORY	2007
+HEPBD_E	"Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody"	LABORATORY	2007
+HEPB_S_E	Hepatitis B Surface Antibody	LABORATORY	2007
+CRP_E	C-Reactive Protein (CRP)	LABORATORY	2007
+PSA_E	Prostate Specific Antigen (PSA)	LABORATORY	2007
+CBC_E	Complete Blood Count with 5-part Differential - Whole Blood	LABORATORY	2007
+GLU_E	Plasma Fasting Glucose & Insulin	LABORATORY	2007
+GHB_E	Glycohemoglobin	LABORATORY	2007
+FASTQX_E	Fasting Questionnaire	LABORATORY	2007
+UCPREG_E	Pregnancy Test - Urine	LABORATORY	2007
+THYROD_E	Thyroid Profile	LABORATORY	2007
+FERTIN_E	Ferritin	LABORATORY	2007
+TFR_E	Transferrin Receptor	LABORATORY	2007
+UHM_E	Metals - Urine	LABORATORY	2007
+UHG_E	Mercury: Inorganic - Urine	LABORATORY	2007
+UIO_E	Iodine - Urine	LABORATORY	2007
+UAS_E	Arsenics - Total & Speciated - Urine	LABORATORY	2007
+PbCd_E	"Cadmium, Lead, & Total Mercury - Blood"	LABORATORY	2007
+ALB_CR_E	Albumin & Creatinine - Urine	LABORATORY	2007
+BIOPRO_E	Standard Biochemistry Profile	LABORATORY	2007
+HIV_E	HIV Antibody Test	LABORATORY	2007
+TCHOL_E	Cholesterol - Total	LABORATORY	2007
+TRIGLY_E	Cholesterol - LDL & Triglycerides	LABORATORY	2007
+OGTT_E	Oral Glucose Tolerance Test	LABORATORY	2007
+HDL_E	Cholesterol - HDL	LABORATORY	2007
+COTNAL_E	Cotinine - Serum & Total NNAL - Urine	LABORATORY	2007
+ApoB_E	Apolipoprotein B	LABORATORY	2007
+HSV_E	Herpes Simplex Virus Type-1 & Type-2	LABORATORY	2007
+EPH_E	Environmental Phenols	LABORATORY	2007
+PFC_E	Polyfluoroalkyl Chemicals	LABORATORY	2007
+PP_E	Pesticides - Environmental - Urine	LABORATORY	2007
+PHTHTE_E	Phthalates - Urine	LABORATORY	2007
+HPVSWR_E	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array	LABORATORY	2007
+UPP_E	"Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)"	LABORATORY	2007
+CHLMDA_E	Chlamydia & Gonorrhea - Urine	LABORATORY	2007
+SSUSG_E	Urine Specific Gravity Measurement (Surplus)	LABORATORY	2007
+PERNT_E	"Perchlorate, Nitrate & Thiocyanate - Urine"	LABORATORY	2007
+FOLATE_E	Folate - RBC & Serum	LABORATORY	2007
+SSEBV_E	Epstein-Barr Virus (VCA IgG) - Serum (Surplus)	LABORATORY	2007
+OPD_E	Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine	LABORATORY	2007
+PHYTO_E	Phytoestrogens - Urine	LABORATORY	2007
+PAH_E	Polyaromatic Hydrocarbons (PAHs) - Urine	LABORATORY	2007
+FOLFMS_E	Folate Forms - Individual - Serum	LABORATORY	2007
+IHg_E	Mercury: Inorganic - Blood	LABORATORY	2007
+BFRPOL_E	Brominated Flame Retardants (BFRs) - Pooled Samples	LABORATORY	2007
+PCBPOL_E	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples	LABORATORY	2007
+PSTPOL_E	Pesticides - Organochlorine Pesticides - Pooled Samples	LABORATORY	2007
+HPVSER_E	"Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody – Serum: 4-plex CLIA"	LABORATORY	2007
+UPHOPM_E	"Pyrethroids, Herbicides, & OP Metabolites - Urine"	LABORATORY	2007
+DOXPOL_E	"Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs) - Pooled Samples"	LABORATORY	2007
+VIT_B6_E	Vitamin B6	LABORATORY	2007
+CARB_E	Pesticides - Carbamates & Organophosphorus Metabolites - Urine	LABORATORY	2007
+VOC_E	Volatile Organic Compounds - Water & Related Questionnaire Items	LABORATORY	2007
+DEET_E	DEET and Metabolites	LABORATORY	2007
+UAM_E	Atrazine and Metabolites	LABORATORY	2007
+VID_E	Vitamin D	LABORATORY	2007
+VOCWB_E	Volatile Organic Compounds - Blood & Related Questionnaire Items	LABORATORY	2007
+VOCMWB_E	Volatile Organic Compounds - Trihalomethanes/MTBE/Nitromethane - Blood	LABORATORY	2007
+SSKL_E	Klotho - Serum (Surplus)	LABORATORY	2007
+ALQ_E	Alcohol Use	QUESTIONNAIRE	2007
+BHQ_E	Bowel Health	QUESTIONNAIRE	2007
+BPQ_E	Blood Pressure & Cholesterol	QUESTIONNAIRE	2007
+CDQ_E	Cardiovascular Health	QUESTIONNAIRE	2007
+ECQ_E	Early Childhood	QUESTIONNAIRE	2007
+HSQ_E	Current Health Status	QUESTIONNAIRE	2007
+IMQ_E	Immunization	QUESTIONNAIRE	2007
+KIQ_P_E	Prostate Conditions	QUESTIONNAIRE	2007
+KIQ_U_E	Kidney Conditions - Urology	QUESTIONNAIRE	2007
+MCQ_E	Medical Conditions	QUESTIONNAIRE	2007
+OHQ_E	Oral Health	QUESTIONNAIRE	2007
+PAQ_E	Physical Activity	QUESTIONNAIRE	2007
+PFQ_E	Physical Functioning	QUESTIONNAIRE	2007
+PUQMEC_E	Pesticide Use	QUESTIONNAIRE	2007
+SMQFAM_E	Smoking - Household Smokers	QUESTIONNAIRE	2007
+SMQRTU_E	Smoking - Recent Tobacco Use	QUESTIONNAIRE	2007
+SSQ_E	Social Support	QUESTIONNAIRE	2007
+VIQ_E	Vision	QUESTIONNAIRE	2007
+WHQ_E	Weight History	QUESTIONNAIRE	2007
+WHQMEC_E	Weight History - Youth	QUESTIONNAIRE	2007
+HIQ_E	Health Insurance	QUESTIONNAIRE	2007
+OSQ_E	Osteoporosis	QUESTIONNAIRE	2007
+AUQ_E	Audiometry	QUESTIONNAIRE	2007
+RDQ_E	Respiratory Health	QUESTIONNAIRE	2007
+SXQ_E	Sexual Behavior	QUESTIONNAIRE	2007
+DIQ_E	Diabetes	QUESTIONNAIRE	2007
+HUQ_E	Hospital Utilization & Access to Care	QUESTIONNAIRE	2007
+SMQ_E	Smoking - Cigarette Use	QUESTIONNAIRE	2007
+SLQ_E	Sleep Disorders	QUESTIONNAIRE	2007
+ACQ_E	Acculturation	QUESTIONNAIRE	2007
+DPQ_E	Mental Health - Depression Screener	QUESTIONNAIRE	2007
+HOQ_E	Housing Characteristics	QUESTIONNAIRE	2007
+DUQ_E	Drug Use	QUESTIONNAIRE	2007
+RHQ_E	Reproductive Health	QUESTIONNAIRE	2007
+RXQ_RX_E	Prescription Medications	QUESTIONNAIRE	2007
+CBQ_E	Consumer Behavior	QUESTIONNAIRE	2007
+DBQ_E	Diet Behavior & Nutrition	QUESTIONNAIRE	2007
+HCQ_E	Hepatitis C Follow Up	QUESTIONNAIRE	2007
+INQ_E	Income	QUESTIONNAIRE	2007
+FSQ_E	Food Security	QUESTIONNAIRE	2007
+AQQ_E	Air Quality	QUESTIONNAIRE	2007
+OCQ_E	Occupation	QUESTIONNAIRE	2007
+CBQPFA_E	Consumer Behavior Phone Follow-up Module - Adult	QUESTIONNAIRE	2007
+CBQPFC_E	Consumer Behavior Phone Follow-up Module - Child	QUESTIONNAIRE	2007
+DEMO_F	Demographic Variables & Sample Weights	DEMOGRAPHICS	2009
+DS2TOT_F	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	DIETARY	2009
+DTQ_F	Dietary Screener Questionnaire	DIETARY	2009
+DS1IDS_F	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	DIETARY	2009
+DS2IDS_F	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	DIETARY	2009
+DSQIDS_F	Dietary Supplement Use 30 Day - Individual Dietary Supplements	DIETARY	2009
+DSQTOT_F	Dietary Supplement Use 30-Day - Total Dietary Supplements	DIETARY	2009
+DS1TOT_F	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	DIETARY	2009
+DR1IFF_F	"Dietary Interview - Individual Foods, First Day"	DIETARY	2009
+DR2IFF_F	"Dietary Interview - Individual Foods, Second Day"	DIETARY	2009
+DR1TOT_F	"Dietary Interview - Total Nutrient Intakes, First Day"	DIETARY	2009
+DR2TOT_F	"Dietary Interview - Total Nutrient Intakes, Second Day"	DIETARY	2009
+DRXFCD_F	Dietary Interview Technical Support File - Food Codes	DIETARY	2009
+DRXMCD_F	Dietary Interview Technical Support File - Modification Codes	DIETARY	2009
+ENX_F	Exhaled Nitric Oxide	EXAMINATION	2009
+ARX_F	Arthritis Body Measures	EXAMINATION	2009
+BMX_F	Body Measures	EXAMINATION	2009
+BPX_F	Blood Pressure	EXAMINATION	2009
+OHXDEN_F	Oral Health - Dentition	EXAMINATION	2009
+SPX_F	Spirometry - Pre and Post-Bronchodilator	EXAMINATION	2009
+SPXRAW_F	Spirometry - Raw Curve Data	EXAMINATION	2009
+OHXPER_F	Oral Health - Periodontal	EXAMINATION	2009
+OHXREF_F	Oral Health - Recommendation of Care	EXAMINATION	2009
+AUX_F	Audiometry	EXAMINATION	2009
+AUXTYM_F	Audiometry - Tympanometry	EXAMINATION	2009
+AUXAR_F	Audiometry - Acoustic Reflex	EXAMINATION	2009
+DXXSPN_F	Dual Energy X-ray Absorptiometry - Spine	EXAMINATION	2009
+DXXFEM_F	Dual Energy X-ray Absorptiometry - Femur	EXAMINATION	2009
+FLXCLN_F	Fluorosis - Clinical	EXAMINATION	2009
+UCPREG_F	Pregnancy Test - Urine	LABORATORY	2009
+HDL_F	Cholesterol - HDL	LABORATORY	2009
+FOLATE_F	Folate - RBC & Serum	LABORATORY	2009
+HEPA_F	Hepatitis A Antibody	LABORATORY	2009
+HEPBD_F	"Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody"	LABORATORY	2009
+HIV_F	HIV Antibody Test	LABORATORY	2009
+HSV_F	Herpes Simplex Virus Type-1 & Type-2	LABORATORY	2009
+MMRV_F	"Measles, Mumps, Rubella & Varicella"	LABORATORY	2009
+PbCd_F	"Cadmium, Lead, & Total Mercury - Blood"	LABORATORY	2009
+TCHOL_F	Cholesterol - Total	LABORATORY	2009
+TGEMA_F	Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA)	LABORATORY	2009
+UHG_F	Mercury: Inorganic - Urine	LABORATORY	2009
+CBC_F	Complete Blood Count with 5-part Differential - Whole Blood	LABORATORY	2009
+COTNAL_F	Cotinine - Serum & Total NNAL - Urine	LABORATORY	2009
+GHB_F	Glycohemoglobin	LABORATORY	2009
+ORHPV_F	Human Papillomavirus (HPV) - Oral Rinse	LABORATORY	2009
+IHg_F	Mercury: Inorganic - Blood	LABORATORY	2009
+BIOPRO_F	Standard Biochemistry Profile	LABORATORY	2009
+UAS_F	Arsenics - Total & Speciated - Urine	LABORATORY	2009
+UHM_F	Metals - Urine	LABORATORY	2009
+PSA_F	Prostate Specific Antigen (PSA)	LABORATORY	2009
+ALB_CR_F	Albumin & Creatinine - Urine	LABORATORY	2009
+CHLMDA_F	Chlamydia - Urine	LABORATORY	2009
+CRP_F	C-Reactive Protein (CRP)	LABORATORY	2009
+FASTQX_F	Fasting Questionnaire	LABORATORY	2009
+GLU_F	Plasma Fasting Glucose & Insulin	LABORATORY	2009
+HEPB_S_F	Hepatitis B Surface Antibody	LABORATORY	2009
+HEPC_F	"Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype"	LABORATORY	2009
+UIO_F	Iodine - Urine	LABORATORY	2009
+UCFLOW_F	Urine Flow Rate	LABORATORY	2009
+UCOSMO_F	Osmolality - Urine	LABORATORY	2009
+OGTT_F	Oral Glucose Tolerance Test	LABORATORY	2009
+TRIGLY_F	Cholesterol - LDL & Triglycerides	LABORATORY	2009
+THYROD_F	Thyroid Profile	LABORATORY	2009
+EPH_F	Environmental Phenols	LABORATORY	2009
+PP_F	Pesticides - Environmental - Urine	LABORATORY	2009
+PFC_F	Polyfluoroalkyl Chemicals	LABORATORY	2009
+HPVSWR_F	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array	LABORATORY	2009
+FERTIN_F	Ferritin	LABORATORY	2009
+TFR_F	Transferrin Receptor	LABORATORY	2009
+HEPE_F	Hepatitis E : IgG & IgM Antibodies	LABORATORY	2009
+ApoB_F	Apolipoprotein B	LABORATORY	2009
+SSEBV_F	Epstein-Barr Virus (VCA IgG) - Serum (Surplus)	LABORATORY	2009
+PHTHTE_F	Phthalates - Urine	LABORATORY	2009
+PHYTO_F	Phytoestrogens - Urine	LABORATORY	2009
+SSHPV_F	Human Papillomavirus (HPV) Viral Load - Oral Rinse - Oral High-Risk HPV Infections (Surplus)	LABORATORY	2009
+CAFE_F	Caffeine & Caffeine Metabolites - Urine	LABORATORY	2009
+SSTOXO_F	Toxoplasma Gondii Antibody - Serum (Surplus)	LABORATORY	2009
+HPVSER_F	"Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum"	LABORATORY	2009
+PERNT_F	"Perchlorate, Nitrate & Thiocyanate - Urine"	LABORATORY	2009
+SSPOLI_F	"Poliovirus Serotypes 1, 2, & 3 Antibodies - Serum (Surplus)"	LABORATORY	2009
+UPHOPM_F	"Pyrethroids, Herbicides, & OP Metabolites - Urine"	LABORATORY	2009
+TFA_F	Trans Fatty Acids	LABORATORY	2009
+DEET_F	DEET and Metabolites	LABORATORY	2009
+PAH_F	Polyaromatic Hydrocarbons -Urine	LABORATORY	2009
+VIT_B6_F	Vitamin B6	LABORATORY	2009
+VID_F	Vitamin D	LABORATORY	2009
+VOC_F	Volatile Organic Compounds (VOCs) - Water	LABORATORY	2009
+VOCMWB_F	Volatile Organic Compounds (VOCs) - Trihalomethanes/MTBE/Nitromethane - Blood	LABORATORY	2009
+DOXPOL_F	"Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs) - Pooled Samples"	LABORATORY	2009
+VOCWB_F	Volatile Organic Compounds (VOCs) - Blood	LABORATORY	2009
+PSTPOL_F	Pesticides - Organochlorine Pesticides - Pooled Samples	LABORATORY	2009
+BFRPOL_F	Brominated Flame Retardants (BFRs) - Pooled Samples	LABORATORY	2009
+PCBPOL_F	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples	LABORATORY	2009
+POOLTF_F	Pooled-Sample Technical Support File	LABORATORY	2009
+SSKL_F	Klotho - Serum (Surplus)	LABORATORY	2009
+CBQ_F	Consumer Behavior	QUESTIONNAIRE	2009
+SMQFAM_F	Smoking - Household Smokers	QUESTIONNAIRE	2009
+SMQRTU_F	Smoking - Recent Tobacco Use	QUESTIONNAIRE	2009
+BPQ_F	Blood Pressure & Cholesterol	QUESTIONNAIRE	2009
+RDQ_F	Respiratory Health	QUESTIONNAIRE	2009
+CDQ_F	Cardiovascular Health	QUESTIONNAIRE	2009
+ARQ_F	Arthritis	QUESTIONNAIRE	2009
+MCQ_F	Medical Conditions	QUESTIONNAIRE	2009
+DIQ_F	Diabetes	QUESTIONNAIRE	2009
+RHQ_F	Reproductive Health	QUESTIONNAIRE	2009
+DPQ_F	Mental Health - Depression Screener	QUESTIONNAIRE	2009
+PAQ_F	Physical Activity	QUESTIONNAIRE	2009
+AUQ_F	Audiometry	QUESTIONNAIRE	2009
+AQQ_F	Air Quality	QUESTIONNAIRE	2009
+PFQ_F	Physical Functioning	QUESTIONNAIRE	2009
+SMQ_F	Smoking - Cigarette Use	QUESTIONNAIRE	2009
+OHQ_F	Oral Health	QUESTIONNAIRE	2009
+HIQ_F	Health Insurance	QUESTIONNAIRE	2009
+SXQ_F	Sexual Behavior	QUESTIONNAIRE	2009
+INQ_F	Income	QUESTIONNAIRE	2009
+HUQ_F	Hospital Utilization & Access to Care	QUESTIONNAIRE	2009
+PUQMEC_F	Pesticide Use	QUESTIONNAIRE	2009
+IMQ_F	Immunization	QUESTIONNAIRE	2009
+OCQ_F	Occupation	QUESTIONNAIRE	2009
+ECQ_F	Early Childhood	QUESTIONNAIRE	2009
+SLQ_F	Sleep Disorders	QUESTIONNAIRE	2009
+WHQMEC_F	Weight History - Youth	QUESTIONNAIRE	2009
+BHQ_F	Bowel Health	QUESTIONNAIRE	2009
+OSQ_F	Osteoporosis	QUESTIONNAIRE	2009
+KIQ_U_F	Kidney Conditions - Urology	QUESTIONNAIRE	2009
+ALQ_F	Alcohol Use	QUESTIONNAIRE	2009
+ALQY_F	Alcohol Use (Ages 18-19)	QUESTIONNAIRE	2009
+DUQ_F	Drug Use	QUESTIONNAIRE	2009
+HCQ_F	Hepatitis C Follow Up	QUESTIONNAIRE	2009
+RXQ_RX_F	Prescription Medications	QUESTIONNAIRE	2009
+WHQ_F	Weight History	QUESTIONNAIRE	2009
+ACQ_F	Acculturation	QUESTIONNAIRE	2009
+HSQ_F	Current Health Status	QUESTIONNAIRE	2009
+DEQ_F	Dermatology	QUESTIONNAIRE	2009
+DBQ_F	Diet Behavior & Nutrition	QUESTIONNAIRE	2009
+HOQ_F	Housing Characteristics	QUESTIONNAIRE	2009
+CBQPFA_F	Consumer Behavior Phone Follow-up Module - Adult	QUESTIONNAIRE	2009
+CBQPFC_F	Consumer Behavior Phone Follow-up Module - Child	QUESTIONNAIRE	2009
+FSQ_F	Food Security	QUESTIONNAIRE	2009
+VTQ_F	Volatile Toxicant (Subsample)	QUESTIONNAIRE	2009
+DEMO_G	Demographic Variables & Sample Weights	DEMOGRAPHICS	2011
+DR1TOT_G	"Dietary Interview - Total Nutrient Intakes, First Day"	DIETARY	2011
+DR2TOT_G	"Dietary Interview - Total Nutrient Intakes, Second Day"	DIETARY	2011
+DR1IFF_G	"Dietary Interview - Individual Foods, First Day"	DIETARY	2011
+DR2IFF_G	"Dietary Interview - Individual Foods, Second Day"	DIETARY	2011
+DRXMCD_G	Dietary Interview Technical Support File - Modification Codes	DIETARY	2011
+DRXFCD_G	Dietary Interview Technical Support File - Food Codes	DIETARY	2011
+DSQIDS_G	Dietary Supplement Use 30 Day - Individual Dietary Supplements	DIETARY	2011
+DSQTOT_G	Dietary Supplement Use 30-Day - Total Dietary Supplements	DIETARY	2011
+DS1IDS_G	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	DIETARY	2011
+DS2IDS_G	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	DIETARY	2011
+DS1TOT_G	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	DIETARY	2011
+DS2TOT_G	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	DIETARY	2011
+TBX_G	Tuberculosis	EXAMINATION	2011
+BPX_G	Blood Pressure	EXAMINATION	2011
+ENX_G	Exhaled Nitric Oxide	EXAMINATION	2011
+SPX_G	Spirometry - Pre and Post-Bronchodilator	EXAMINATION	2011
+SPXRAW_G	Spirometry - Raw Curve Data	EXAMINATION	2011
+OHXPER_G	Oral Health - Periodontal	EXAMINATION	2011
+OHXREF_G	Oral Health - Recommendation of Care	EXAMINATION	2011
+MGX_G	Muscle Strength - Grip Test	EXAMINATION	2011
+BMX_G	Body Measures	EXAMINATION	2011
+AUX_G	Audiometry	EXAMINATION	2011
+AUXAR_G	Audiometry - Acoustic Reflex	EXAMINATION	2011
+AUXTYM_G	Audiometry - Tympanometry	EXAMINATION	2011
+FLXCLN_G	Fluorosis - Clinical	EXAMINATION	2011
+OHXDEN_G	Oral Health - Dentition	EXAMINATION	2011
+DXX_G	Dual-Energy X-ray Absorptiometry - Whole Body	EXAMINATION	2011
+DXXAG_G	Dual-Energy X-ray Absorptiometry - Android/Gynoid Measurements	EXAMINATION	2011
+PAXDAY_G	Physical Activity Monitor - Day	EXAMINATION	2011
+PAXHD_G	Physical Activity Monitor - Header	EXAMINATION	2011
+PAXHR_G	Physical Activity Monitor - Hour	EXAMINATION	2011
+PAXMIN_G	Physical Activity Monitor - Minute	EXAMINATION	2011
+TCHOL_G	Cholesterol - Total	LABORATORY	2011
+UHM_G	Metals - Urine	LABORATORY	2011
+HEPA_G	Hepatitis A Antibody	LABORATORY	2011
+HIV_G	HIV Antibody Test	LABORATORY	2011
+HSV_G	Herpes Simplex Virus Type-1 & Type-2	LABORATORY	2011
+PbCd_G	"Cadmium, Lead, Total Mercury, Selenium, & Manganese - Blood"	LABORATORY	2011
+ALB_CR_G	Albumin & Creatinine - Urine	LABORATORY	2011
+BIOPRO_G	Standard Biochemistry Profile	LABORATORY	2011
+IHgEM_G	"Mercury: Inorganic, Ethyl and Methyl - Blood"	LABORATORY	2011
+CBC_G	Complete Blood Count with 5-part Differential - Whole Blood	LABORATORY	2011
+TGEMA_G	Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA)	LABORATORY	2011
+ORHPV_G	Human Papillomavirus (HPV) - Oral Rinse	LABORATORY	2011
+COTNAL_G	Cotinine - Serum & Total NNAL - Urine	LABORATORY	2011
+UAS_G	Arsenics - Total & Speciated - Urine	LABORATORY	2011
+UHG_G	Mercury: Inorganic - Urine	LABORATORY	2011
+TB_G	Tuberculosis - Quantiferon_In_Gold	LABORATORY	2011
+HEPB_S_G	Hepatitis B Surface Antibody	LABORATORY	2011
+HEPBD_G	"Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody"	LABORATORY	2011
+HEPC_G	"Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype"	LABORATORY	2011
+HEPE_G	Hepatitis E : IgG & IgM Antibodies	LABORATORY	2011
+PHTHTE_G	Phthalates & Plasticizers Metabolites - Urine	LABORATORY	2011
+PP_G	Pesticides - Environmental - Urine	LABORATORY	2011
+THYROD_G	Thyroid Profile	LABORATORY	2011
+UCFLOW_G	Urine Flow Rate	LABORATORY	2011
+UCOSMO_G	Osmolality - Urine	LABORATORY	2011
+UCPREG_G	Pregnancy Test - Urine	LABORATORY	2011
+CUSEZN_G	"Copper, Selenium & Zinc - Serum"	LABORATORY	2011
+FOLATE_G	Folate - RBC	LABORATORY	2011
+MMA_G	Methylmalonic Acid	LABORATORY	2011
+VITB12_G	Vitamin B12	LABORATORY	2011
+CMV_G	Cytomegalovirus IgG & IgM Antibodies - Serum	LABORATORY	2011
+UHMS_G	Metals - Urine - Special Sample	LABORATORY	2011
+UASS_G	Arsenics - Total & Speciated - Urine - Special Sample	LABORATORY	2011
+HDL_G	Cholesterol - HDL	LABORATORY	2011
+TST_G	Total Testosterone	LABORATORY	2011
+GHB_G	Glycohemoglobin	LABORATORY	2011
+UIO_G	Iodine - Urine	LABORATORY	2011
+FASTQX_G	Fasting Questionnaire	LABORATORY	2011
+CHLMDA_G	Chlamydia - Urine	LABORATORY	2011
+PERNTS_G	"Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample"	LABORATORY	2011
+UVOC_G	Volatile Organic Compound (VOC) Metabolites - Urine	LABORATORY	2011
+UVOCS_G	Volatile Organic Compound (VOC) Metabolites - Urine - Special Sample	LABORATORY	2011
+EPH_G	Environmental Phenols & Parabens	LABORATORY	2011
+PERNT_G	"Perchlorate, Nitrate & Thiocyanate - Urine"	LABORATORY	2011
+GLU_G	Plasma Fasting Glucose & Insulin	LABORATORY	2011
+OGTT_G	Oral Glucose Tolerance Test	LABORATORY	2011
+ApoB_G	Apolipoprotein B	LABORATORY	2011
+TRIGLY_G	Cholesterol - LDL & Triglycerides	LABORATORY	2011
+PFC_G	Polyfluoroalkyl Chemicals	LABORATORY	2011
+PAH_G	Polyaromatic Hydrocarbons (PAHs) - Urine	LABORATORY	2011
+PAHS_G	Polyaromatic Hydrocarbons (PAHs)- Urine - Special Sample	LABORATORY	2011
+HPVSWR_G	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array	LABORATORY	2011
+SSTOXO_G	Toxoplasma gondii Antibody - Serum (Surplus)	LABORATORY	2011
+SSTOCA_G	Antibody to Toxocara spp. (Surplus)	LABORATORY	2011
+VOCWB_G	Volatile Organic Compounds (VOCs) - Blood	LABORATORY	2011
+DEET_G	DEET and Metabolites	LABORATORY	2011
+VID_G	Vitamin D	LABORATORY	2011
+VOCMWB_G	Volatile Organic Compounds (VOCs) - Trihalomethanes/MTBE/Nitromethane - Blood	LABORATORY	2011
+PCBPOL_G	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples	LABORATORY	2011
+POOLTF_G	Pooled-Sample Technical Support File	LABORATORY	2011
+PSTPOL_G	Pesticides - Organochlorine Pesticides - Pooled Samples	LABORATORY	2011
+BFRPOL_G	Brominated Flame Retardants (BFRs) - Pooled Samples	LABORATORY	2011
+FOLFMS_G	Folate Forms - Total & Individual - Serum	LABORATORY	2011
+FAS_G	Fatty Acids - Serum	LABORATORY	2011
+CAFE_G	Caffeine & Caffeine Metabolites - Urine	LABORATORY	2011
+SSANA2_G	Autoantibodies - Immunofluorescence Analyses (Surplus)	LABORATORY	2011
+SSFR_G	Flame Retardants - Urine  (Surplus)	LABORATORY	2011
+UPHOPM_G	"Pyrethroids, Herbicides, & Organophosphorus Metabolites - Urine"	LABORATORY	2011
+OPD_G	Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine	LABORATORY	2011
+SSDFS_G	Autoantibodies - Anti-DFS70 Autoantibody Analyses (Surplus)	LABORATORY	2011
+SSKL_G	Klotho - Serum (Surplus)	LABORATORY	2011
+TBQ_G	Tuberculosis	QUESTIONNAIRE	2011
+HIQ_G	Health Insurance	QUESTIONNAIRE	2011
+BPQ_G	Blood Pressure & Cholesterol	QUESTIONNAIRE	2011
+CDQ_G	Cardiovascular Health	QUESTIONNAIRE	2011
+RDQ_G	Respiratory Health	QUESTIONNAIRE	2011
+PAQ_G	Physical Activity	QUESTIONNAIRE	2011
+PFQ_G	Physical Functioning	QUESTIONNAIRE	2011
+RXQASA_G	Preventive Aspirin Use	QUESTIONNAIRE	2011
+CKQ_G	Creatine Kinase	QUESTIONNAIRE	2011
+CSQ_G	Taste & Smell	QUESTIONNAIRE	2011
+DIQ_G	Diabetes	QUESTIONNAIRE	2011
+HUQ_G	Hospital Utilization & Access to Care	QUESTIONNAIRE	2011
+OHQ_G	Oral Health	QUESTIONNAIRE	2011
+ECQ_G	Early Childhood	QUESTIONNAIRE	2011
+SXQ_G	Sexual Behavior	QUESTIONNAIRE	2011
+SMQRTU_G	Smoking - Recent Tobacco Use	QUESTIONNAIRE	2011
+SMQ_G	Smoking - Cigarette Use	QUESTIONNAIRE	2011
+SMQFAM_G	Smoking - Household Smokers	QUESTIONNAIRE	2011
+OCQ_G	Occupation	QUESTIONNAIRE	2011
+HOQ_G	Housing Characteristics	QUESTIONNAIRE	2011
+PUQMEC_G	Pesticide Use	QUESTIONNAIRE	2011
+MCQ_G	Medical Conditions	QUESTIONNAIRE	2011
+IMQ_G	Immunization	QUESTIONNAIRE	2011
+HSQ_G	Current Health Status	QUESTIONNAIRE	2011
+DUQ_G	Drug Use	QUESTIONNAIRE	2011
+DPQ_G	Mental Health - Depression Screener	QUESTIONNAIRE	2011
+SLQ_G	Sleep Disorders	QUESTIONNAIRE	2011
+ALQ_G	Alcohol Use	QUESTIONNAIRE	2011
+RHQ_G	Reproductive Health	QUESTIONNAIRE	2011
+AUQ_G	Audiometry	QUESTIONNAIRE	2011
+WHQMEC_G	Weight History - Youth	QUESTIONNAIRE	2011
+DEQ_G	Dermatology	QUESTIONNAIRE	2011
+ACQ_G	Acculturation	QUESTIONNAIRE	2011
+RXQ_RX_G	Prescription Medications	QUESTIONNAIRE	2011
+HCQ_G	Hepatitis C Follow Up	QUESTIONNAIRE	2011
+WHQ_G	Weight History	QUESTIONNAIRE	2011
+KIQ_U_G	Kidney Conditions - Urology	QUESTIONNAIRE	2011
+DBQ_G	Diet Behavior & Nutrition	QUESTIONNAIRE	2011
+INQ_G	Income	QUESTIONNAIRE	2011
+CBQ_G	Consumer Behavior	QUESTIONNAIRE	2011
+FSQ_G	Food Security	QUESTIONNAIRE	2011
+CFQ_G	Cognitive Functioning	QUESTIONNAIRE	2011
+VTQ_G	Volatile Toxicant (Subsample)	QUESTIONNAIRE	2011
+DEMO_H	Demographic Variables and Sample Weights	DEMOGRAPHICS	2013
+DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	DIETARY	2013
+DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	DIETARY	2013
+DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	DIETARY	2013
+DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	DIETARY	2013
+DRXFCD_H	Dietary Interview Technical Support File - Food Codes	DIETARY	2013
+DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	DIETARY	2013
+DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	DIETARY	2013
+DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	DIETARY	2013
+DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	DIETARY	2013
+DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	DIETARY	2013
+DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	DIETARY	2013
+BPX_H	Blood Pressure	EXAMINATION	2013
+DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	EXAMINATION	2013
+DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	EXAMINATION	2013
+DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	EXAMINATION	2013
+BMX_H	Body Measures	EXAMINATION	2013
+DXXFRX_H	Dual-Energy X-ray Absorptiometry - FRAX Score	EXAMINATION	2013
+CSX_H	Taste & Smell	EXAMINATION	2013
+MGX_H	Muscle Strength - Grip Test	EXAMINATION	2013
+OHXDEN_H	Oral Health - Dentition	EXAMINATION	2013
+OHXPER_H	Oral Health - Periodontal	EXAMINATION	2013
+OHXREF_H	Oral Health - Recommendation of Care	EXAMINATION	2013
+FLXCLN_H	Fluorosis - Clinical	EXAMINATION	2013
+DXXAAC_H	Dual-Energy X-ray Absorptiometry - Abdominal Aortic Calcification	EXAMINATION	2013
+DXXT4_H	Dual-Energy X-ray Absorptiometry - T4 Vertebrae Morphology	EXAMINATION	2013
+DXXT5_H	Dual-Energy X-ray Absorptiometry - T5 Vertebrae Morphology	EXAMINATION	2013
+DXXT6_H	Dual-Energy X-ray Absorptiometry - T6 Vertebrae Morphology	EXAMINATION	2013
+DXXT7_H	Dual-Energy X-ray Absorptiometry - T7 Vertebrae Morphology	EXAMINATION	2013
+DXXT8_H	Dual-Energy X-ray Absorptiometry - T8 Vertebrae Morphology	EXAMINATION	2013
+DXXT9_H	Dual-Energy X-ray Absorptiometry - T9 Vertebrae Morphology	EXAMINATION	2013
+DXXT10_H	Dual-Energy X-ray Absorptiometry - T10 Vertebrae Morphology	EXAMINATION	2013
+DXXT11_H	Dual-Energy X-ray Absorptiometry - T11 Vertebrae Morphology	EXAMINATION	2013
+DXXT12_H	Dual-Energy X-ray Absorptiometry - T12 Vertebrae Morphology	EXAMINATION	2013
+DXXL1_H	Dual-Energy X-ray Absorptiometry - L1 Vertebrae Morphology	EXAMINATION	2013
+DXXL2_H	Dual-Energy X-ray Absorptiometry - L2 Vertebrae Morphology	EXAMINATION	2013
+DXXL3_H	Dual-Energy X-ray Absorptiometry - L3 Vertebrae Morphology	EXAMINATION	2013
+DXXL4_H	Dual-Energy X-ray Absorptiometry - L4 Vertebrae Morphology	EXAMINATION	2013
+DXX_H	Dual-Energy X-ray Absorptiometry - Whole Body	EXAMINATION	2013
+PAXDAY_H	Physical Activity Monitor - Day	EXAMINATION	2013
+PAXHD_H	Physical Activity Monitor - Header	EXAMINATION	2013
+PAXHR_H	Physical Activity Monitor - Hour	EXAMINATION	2013
+PAXMIN_H	Physical Activity Monitor - Minute	EXAMINATION	2013
+DXXAG_H	Dual-Energy X-ray Absorptiometry - Android/Gynoid Measurements	EXAMINATION	2013
+ApoB_H	Apolipoprotein B	LABORATORY	2013
+CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	LABORATORY	2013
+HDL_H	Cholesterol - HDL	LABORATORY	2013
+TCHOL_H	Cholesterol - Total	LABORATORY	2013
+GHB_H	Glycohemoglobin	LABORATORY	2013
+BIOPRO_H	Standard Biochemistry Profile	LABORATORY	2013
+CUSEZN_H	"Copper, Selenium & Zinc - Serum"	LABORATORY	2013
+HEPA_H	Hepatitis A	LABORATORY	2013
+HEPB_S_H	Hepatitis B: Surface Antibody	LABORATORY	2013
+HEPBD_H	"Hepatitis B: core antibody, surface antigen, and Hepatitis D antibody"	LABORATORY	2013
+HIV_H	HIV Antibody Test	LABORATORY	2013
+HSV_H	Herpes Simplex Virus Type-1 & Type-2	LABORATORY	2013
+OGTT_H	Oral Glucose Tolerance Test	LABORATORY	2013
+PERNT_H	"Perchlorate, Nitrate & Thiocyanate - Urine"	LABORATORY	2013
+PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	LABORATORY	2013
+TGEMA_H	Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA)	LABORATORY	2013
+TRIGLY_H	Cholesterol - LDL & Triglycerides	LABORATORY	2013
+TST_H	Sex Steroid Hormone - Serum	LABORATORY	2013
+UCFLOW_H	Urine Flow Rate	LABORATORY	2013
+UCPREG_H	Pregnancy Test - Urine	LABORATORY	2013
+UHG_H	Mercury: Inorganic - Urine	LABORATORY	2013
+UM_H	Metals - Urine	LABORATORY	2013
+UIO_H	Iodine - Urine	LABORATORY	2013
+GLU_H	Plasma Fasting Glucose	LABORATORY	2013
+FLDEP_H	Fluoride - Plasma	LABORATORY	2013
+FLDEW_H	Fluoride - Water	LABORATORY	2013
+HEPC_H	Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype	LABORATORY	2013
+HEPE_H	Hepatitis E: IgG & IgM Antibodies	LABORATORY	2013
+IHGEM_H	"Mercury: Inorganic, Ethyl and Methyl - Blood"	LABORATORY	2013
+ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	LABORATORY	2013
+PBCD_H	"Lead, Cadmium, Total Mercury, Selenium, and Manganese - Blood"	LABORATORY	2013
+TRICH_H	Trichomonas - Urine	LABORATORY	2013
+UASS_H	Arsenics - Speciated - Urine - Special Sample	LABORATORY	2013
+UTAS_H	Arsenic - Total - Urine	LABORATORY	2013
+VITB12_H	Vitamin B12	LABORATORY	2013
+CHLMDA_H	Chlamydia - Urine	LABORATORY	2013
+UAS_H	Arsenics - Speciated - Urine	LABORATORY	2013
+UTASS_H	Arsenic - Total - Urine - Special Sample	LABORATORY	2013
+UMS_H	Metals - Urine - Special Sample	LABORATORY	2013
+FASTQX_H	Fasting Questionnaire	LABORATORY	2013
+INS_H	Insulin	LABORATORY	2013
+HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	LABORATORY	2013
+PERNTS_H	"Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample"	LABORATORY	2013
+HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	LABORATORY	2013
+SSPFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances - Linear and Branched PFOS and PFOA Isomers (Surplus)	LABORATORY	2013
+EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	LABORATORY	2013
+COT_H	Cotinine and Hydroxycotinine - Serum	LABORATORY	2013
+SSTOXO_H	Toxoplasma gondii Antibody - Serum (Surplus)	LABORATORY	2013
+SSTOCA_H	Antibody to Toxocara spp. (Surplus)	LABORATORY	2013
+PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	LABORATORY	2013
+ALB_CR_H	Albumin & Creatinine - Urine	LABORATORY	2013
+VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	LABORATORY	2013
+PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	LABORATORY	2013
+DEET_H	DEET and Metabolites	LABORATORY	2013
+SSPHTE_H	Phthalates and Plasticizers Metabolites - Urine (Surplus)	LABORATORY	2013
+VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	LABORATORY	2013
+PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	LABORATORY	2013
+SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	LABORATORY	2013
+SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	LABORATORY	2013
+HCAA_H	Heterocyclic Aromatic Amines - Urine	LABORATORY	2013
+HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	LABORATORY	2013
+SSHEPC_H	Hepatitis C: Confirmed Antibody (INNO-LIA)	LABORATORY	2013
+MMA_H	Methylmalonic Acid	LABORATORY	2013
+UVOC_H	Volatile Organic Compound (VOC) Metabolites - Urine	LABORATORY	2013
+UVOCS_H	Volatile Organic Compound (VOC) Metabolites - Urine - Special Sample	LABORATORY	2013
+VID_H	Vitamin D	LABORATORY	2013
+PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	LABORATORY	2013
+BFRPOL_H	Brominated Flame Retardants (BFRs) - Pooled Samples	LABORATORY	2013
+POOLTF_H	Pooled-Sample Technical Support File	LABORATORY	2013
+PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	LABORATORY	2013
+ALD_H	Aldehydes - Serum	LABORATORY	2013
+ALDS_H	Aldehydes - Serum - Special Sample	LABORATORY	2013
+FOLATE_H	Folate - RBC	LABORATORY	2013
+FOLFMS_H	Folate Forms - Total & Individual - Serum	LABORATORY	2013
+VNA_H	Volatile N-Nitrosamine Compounds (VNAs) - Urine	LABORATORY	2013
+VNAS_H	Volatile N-Nitrosamine Compounds (VNAs) - Urine - Special Sample	LABORATORY	2013
+SSPFSU_H	Perfluoroalkyl and Polyfluoroalkyl Substances	LABORATORY	2013
+UCOTS_H	"Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine - Special Sample"	LABORATORY	2013
+UCOT_H	"Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine"	LABORATORY	2013
+TSNA_H	Tobacco-specific Nitrosamines (TSNAs) - Urine	LABORATORY	2013
+AMDGYD_H	Acrylamide & Glycidamide	LABORATORY	2013
+ETHOX_H	Ethylene Oxide	LABORATORY	2013
+AMDGDS_H	Acrylamide & Glycidamide - Special Sample	LABORATORY	2013
+ETHOXS_H	Ethylene Oxide - Special Sample	LABORATORY	2013
+AA_H	Aromatic Amines - Urine	LABORATORY	2013
+AAS_H	Aromatic Amines - Urine - Special Sample	LABORATORY	2013
+FORMAS_H	Formaldehyde - Special Sample	LABORATORY	2013
+FORMAL_H	Formaldehyde	LABORATORY	2013
+SSCT_H	Chlamydia Pgp3 (plasmid gene product 3) ELISA (enzyme linked immunosorbent assay) and multiplex bead array (MBA) results	LABORATORY	2013
+CAFE_H	Caffeine & Caffeine Metabolites - Urine	LABORATORY	2013
+UPHOPM_H	"Pyrethroids, Herbicides, & Organophosphorus Metabolites - Urine"	LABORATORY	2013
+SSSNFL_H	Serum Neurofilament Light Chain - Serum	LABORATORY	2013
+SSGLYP_H	Glyphosate (GLYP) - Urine	LABORATORY	2013
+SSKL_H	Klotho - Serum (Surplus)	LABORATORY	2013
+FAS_H	Fatty Acids - Serum	LABORATORY	2013
+SSTERP_H	Terpenes – Serum (Surplus)	LABORATORY	2013
+DLQ_H	Disability	QUESTIONNAIRE	2013
+DEQ_H	Dermatology	QUESTIONNAIRE	2013
+OSQ_H	Osteoporosis	QUESTIONNAIRE	2013
+IMQ_H	Immunization	QUESTIONNAIRE	2013
+SXQ_H	Sexual Behavior	QUESTIONNAIRE	2013
+CDQ_H	Cardiovascular Health	QUESTIONNAIRE	2013
+BPQ_H	Blood Pressure & Cholesterol	QUESTIONNAIRE	2013
+MCQ_H	Medical Conditions	QUESTIONNAIRE	2013
+HIQ_H	Health Insurance	QUESTIONNAIRE	2013
+HUQ_H	Hospital Utilization & Access to Care	QUESTIONNAIRE	2013
+PAQ_H	Physical Activity	QUESTIONNAIRE	2013
+PFQ_H	Physical Functioning	QUESTIONNAIRE	2013
+HEQ_H	Hepatitis	QUESTIONNAIRE	2013
+ECQ_H	Early Childhood	QUESTIONNAIRE	2013
+DIQ_H	Diabetes	QUESTIONNAIRE	2013
+SMQFAM_H	Smoking - Household Smokers	QUESTIONNAIRE	2013
+SMQ_H	Smoking - Cigarette Use	QUESTIONNAIRE	2013
+SMQRTU_H	Smoking - Recent Tobacco Use	QUESTIONNAIRE	2013
+HOQ_H	Housing Characteristics	QUESTIONNAIRE	2013
+PUQMEC_H	Pesticide Use	QUESTIONNAIRE	2013
+SMQSHS_H	Smoking - Secondhand Smoke Exposure	QUESTIONNAIRE	2013
+INQ_H	Income	QUESTIONNAIRE	2013
+CSQ_H	Taste & Smell	QUESTIONNAIRE	2013
+DBQ_H	Diet Behavior & Nutrition	QUESTIONNAIRE	2013
+CBQ_H	Consumer Behavior	QUESTIONNAIRE	2013
+HSQ_H	Current Health Status	QUESTIONNAIRE	2013
+SLQ_H	Sleep Disorders	QUESTIONNAIRE	2013
+RXQASA_H	Preventive Aspirin Use	QUESTIONNAIRE	2013
+DUQ_H	Drug Use	QUESTIONNAIRE	2013
+WHQMEC_H	Weight History - Youth	QUESTIONNAIRE	2013
+ALQ_H	Alcohol Use	QUESTIONNAIRE	2013
+DPQ_H	Mental Health - Depression Screener	QUESTIONNAIRE	2013
+ACQ_H	Acculturation	QUESTIONNAIRE	2013
+WHQ_H	Weight History	QUESTIONNAIRE	2013
+RHQ_H	Reproductive Health	QUESTIONNAIRE	2013
+FSQ_H	Food Security	QUESTIONNAIRE	2013
+OHQ_H	Oral Health	QUESTIONNAIRE	2013
+OCQ_H	Occupation	QUESTIONNAIRE	2013
+RXQ_RX_H	Prescription Medications	QUESTIONNAIRE	2013
+KIQ_U_H	Kidney Conditions - Urology	QUESTIONNAIRE	2013
+CKQ_H	Creatine Kinase	QUESTIONNAIRE	2013
+VTQ_H	Volatile Toxicant (Subsample)	QUESTIONNAIRE	2013
+CFQ_H	Cognitive Functioning	QUESTIONNAIRE	2013
+DEMO_I	Demographic Variables and Sample Weights	DEMOGRAPHICS	2015
+DR1TOT_I	"Dietary Interview - Total Nutrient Intakes, First Day"	DIETARY	2015
+DR2TOT_I	"Dietary Interview - Total Nutrient Intakes, Second Day"	DIETARY	2015
+DR1IFF_I	"Dietary Interview - Individual Foods, First Day"	DIETARY	2015
+DR2IFF_I	"Dietary Interview - Individual Foods, Second Day"	DIETARY	2015
+DSQTOT_I	Dietary Supplement Use 30-Day - Total Dietary Supplements	DIETARY	2015
+DS1IDS_I	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	DIETARY	2015
+DS2IDS_I	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	DIETARY	2015
+DS1TOT_I	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	DIETARY	2015
+DS2TOT_I	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	DIETARY	2015
+DSQIDS_I	Dietary Supplement Use 30-Day - Individual Dietary Supplements	DIETARY	2015
+BPX_I	Blood Pressure	EXAMINATION	2015
+BMX_I	Body Measures	EXAMINATION	2015
+OHXDEN_I	Oral Health - Dentition	EXAMINATION	2015
+OHXREF_I	Oral Health - Recommendation of Care	EXAMINATION	2015
+FLXCLN_I	Fluorosis - Clinical	EXAMINATION	2015
+AUX_I	Audiometry	EXAMINATION	2015
+DXX_I	Dual-Energy X-ray Absorptiometry - Whole Body	EXAMINATION	2015
+AUXAR_I	Audiometry - Acoustic Reflex	EXAMINATION	2015
+AUXTYM_I	Audiometry - Tympanometry	EXAMINATION	2015
+AUXWBR_I	Audiometry – Wideband Reflectance	EXAMINATION	2015
+DXXAG_I	Dual-Energy X-ray Absorptiometry - Android/Gynoid Measurements	EXAMINATION	2015
+UCPREG_I	Pregnancy Test - Urine	LABORATORY	2015
+FLDEW_I	Fluoride - Water	LABORATORY	2015
+FLDEP_I	Fluoride - Plasma	LABORATORY	2015
+UCFLOW_I	Urine Flow Rate	LABORATORY	2015
+HSV_I	Herpes Simplex Virus Type-1 & Type-2	LABORATORY	2015
+CHLMDA_I	Chlamydia - Urine	LABORATORY	2015
+TRICH_I	Trichomonas - Urine	LABORATORY	2015
+GHB_I	Glycohemoglobin	LABORATORY	2015
+CBC_I	Complete Blood Count with 5-Part Differential - Whole Blood	LABORATORY	2015
+ALB_CR_I	Albumin & Creatinine - Urine	LABORATORY	2015
+FASTQX_I	Fasting Questionnaire	LABORATORY	2015
+HEPA_I	Hepatitis A	LABORATORY	2015
+HEPB_S_I	Hepatitis B: Surface Antibody	LABORATORY	2015
+HEPBD_I	"Hepatitis B: Core antibody, Surface antigen, and Hepatitis D antibody"	LABORATORY	2015
+HEPE_I	Hepatitis E: IgG & IgM Antibodies	LABORATORY	2015
+BIOPRO_I	Standard Biochemistry Profile	LABORATORY	2015
+HDL_I	Cholesterol - High-Density Lipoprotein (HDL)	LABORATORY	2015
+TCHOL_I	Cholesterol - Total	LABORATORY	2015
+HEPC_I	Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype	LABORATORY	2015
+HSCRP_I	High-Sensitivity C-Reactive Protein (hs-CRP)	LABORATORY	2015
+CRCO_I	Chromium & Cobalt	LABORATORY	2015
+HIV_I	HIV Antibody Test	LABORATORY	2015
+UMS_I	Metals - Urine - Special Sample	LABORATORY	2015
+UTASS_I	Arsenic - Total - Urine - Special Sample	LABORATORY	2015
+UASS_I	Speciated Arsenics - Urine - Special Sample	LABORATORY	2015
+IHGEM_I	"Mercury: Inorganic, Ethyl and Methyl - Blood"	LABORATORY	2015
+PBCD_I	"Lead, Cadmium, Total Mercury, Selenium & Manganese - Blood"	LABORATORY	2015
+GLU_I	Plasma Fasting Glucose	LABORATORY	2015
+INS_I	Insulin	LABORATORY	2015
+OGTT_I	Oral Glucose Tolerance Test	LABORATORY	2015
+ORHPV_I	Human Papillomavirus (HPV) - Oral Rinse	LABORATORY	2015
+SSMHHT_I	"Mono-2-ethyl-5-hydroxyhexyl terephthalate, mono-2-ethyl-5-carboxypentyl terephthalate, and monooxoisononyl phthalate - Urine (Su"	LABORATORY	2015
+CUSEZN_I	"Copper, Selenium & Zinc - Serum"	LABORATORY	2015
+UAS_I	Speciated Arsenics - Urine	LABORATORY	2015
+UTAS_I	Arsenic - Total - Urine	LABORATORY	2015
+UM_I	Metals - Urine	LABORATORY	2015
+UIO_I	Iodine - Urine	LABORATORY	2015
+UHG_I	Mercury: Inorganic - Urine	LABORATORY	2015
+VOCWB_I	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	LABORATORY	2015
+VOCWBS_I	Volatile Organic Compounds and Trihalomethanes/MTBE – Blood – Special Sample	LABORATORY	2015
+PHTHTE_I	Phthalates and Plasticizers Metabolites - Urine	LABORATORY	2015
+UVOC_I	Volatile Organic Compound (VOC) Metabolites - Urine	LABORATORY	2015
+UVOCS_I	Volatile Organic Compound (VOC) Metabolites - Urine - Special Sample	LABORATORY	2015
+PFAS_I	Perfluoroalkyl and Polyfluoroalkyl	LABORATORY	2015
+TRIGLY_I	Cholesterol - Low - Density Lipoprotein (LDL) & Triglycerides	LABORATORY	2015
+TST_I	Sex Steroid Hormone - Serum	LABORATORY	2015
+EPHPP_I	Personal Care and Consumer Product Chemicals and Metabolites	LABORATORY	2015
+UADM_I	Aromatic Diamines - Urine	LABORATORY	2015
+HPVSWC_I	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas High-Risk	LABORATORY	2015
+HPVSWR_I	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Linear Array	LABORATORY	2015
+FOLFMS_I	Folate Forms - Total & Individual - Serum	LABORATORY	2015
+FOLATE_I	Folate - RBC	LABORATORY	2015
+SSNEON_I	Neonicotinoids - Urine - Surplus	LABORATORY	2015
+APOB_I	Apolipoprotein B	LABORATORY	2015
+FERTIN_I	Ferritin	LABORATORY	2015
+TFR_I	Transferrin Receptor	LABORATORY	2015
+SSDEET_I	DEET Metabolites - Urine - Surplus	LABORATORY	2015
+COT_I	Cotinine and Hydroxycotinine - Serum	LABORATORY	2015
+UCOT_I	"Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine"	LABORATORY	2015
+UCOTS_I	"Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine - Special Sample"	LABORATORY	2015
+DEET_I	DEET Metabolite - Urine	LABORATORY	2015
+PCBPOL_I	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples	LABORATORY	2015
+PSTPOL_I	Pesticides - Organochlorine Pesticides - Pooled Samples	LABORATORY	2015
+BFRPOL_I	Brominated Flame Retardants (BFRs) - Pooled Samples	LABORATORY	2015
+HPVP_I	Human Papillomavirus (HPV) DNA - Penile Swabs: Roche Linear Array	LABORATORY	2015
+POOLTF_I	Pooled-Sample Technical Support File	LABORATORY	2015
+PERNT_I	"Perchlorate, Nitrate & Thiocyanate - Urine"	LABORATORY	2015
+PERNTS_I	"Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample"	LABORATORY	2015
+AMDGYD_I	Acrylamide & Glycidamide	LABORATORY	2015
+ETHOX_I	Ethylene Oxide	LABORATORY	2015
+FORMAL_I	Formaldehyde	LABORATORY	2015
+SSPT_I	Pertussis and tetanus – Serum (Surplus)	LABORATORY	2015
+SSCT_I	Chlamydia Pgp3 (plasmid gene product 3) ELISA (enzyme linked immunosorbent assay) and multiplex bead array (MBA) results	LABORATORY	2015
+SSFR_I	Flame Retardants - Urine (Surplus)	LABORATORY	2015
+PAH_I	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	LABORATORY	2015
+PAHS_I	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	LABORATORY	2015
+OPD_I	Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine	LABORATORY	2015
+VID_I	Vitamin D	LABORATORY	2015
+SSKL_I	Klotho - Serum (Surplus)	LABORATORY	2015
+UFLDE_I	Fluoride - Urine	LABORATORY	2015
+SSCLTY_I	Chlorinated Tyrosine – Serum (Surplus)	LABORATORY	2015
+SSGLYP_I	Glyphosate (GLYP) - Urine (Surplus)	LABORATORY	2015
+UPHOPM_I	"Pyrethroids, Herbicides, & Organophosphorus Metabolites"	LABORATORY	2015
+PFQ_I	Physical Functioning	QUESTIONNAIRE	2015
+CDQ_I	Cardiovascular Health	QUESTIONNAIRE	2015
+MCQ_I	Medical Conditions	QUESTIONNAIRE	2015
+BPQ_I	Blood Pressure & Cholesterol	QUESTIONNAIRE	2015
+HEQ_I	Hepatitis	QUESTIONNAIRE	2015
+DLQ_I	Disability	QUESTIONNAIRE	2015
+HIQ_I	Health Insurance	QUESTIONNAIRE	2015
+PAQ_I	Physical Activity	QUESTIONNAIRE	2015
+HUQ_I	Hospital Utilization & Access to Care	QUESTIONNAIRE	2015
+IMQ_I	Immunization	QUESTIONNAIRE	2015
+SMQSHS_I	Smoking - Secondhand Smoke Exposure	QUESTIONNAIRE	2015
+SMQRTU_I	Smoking - Recent Tobacco Use	QUESTIONNAIRE	2015
+SMQFAM_I	Smoking - Household Smokers	QUESTIONNAIRE	2015
+SMQ_I	Smoking - Cigarette Use	QUESTIONNAIRE	2015
+DIQ_I	Diabetes	QUESTIONNAIRE	2015
+OHQ_I	Oral Health	QUESTIONNAIRE	2015
+DEQ_I	Dermatology	QUESTIONNAIRE	2015
+HOQ_I	Housing Characteristics	QUESTIONNAIRE	2015
+DPQ_I	Mental Health - Depression Screener	QUESTIONNAIRE	2015
+HSQ_I	Current Health Status	QUESTIONNAIRE	2015
+SXQ_I	Sexual Behavior	QUESTIONNAIRE	2015
+INQ_I	Income	QUESTIONNAIRE	2015
+ACQ_I	Acculturation	QUESTIONNAIRE	2015
+ECQ_I	Early Childhood	QUESTIONNAIRE	2015
+OCQ_I	Occupation	QUESTIONNAIRE	2015
+PUQMEC_I	Pesticide Use	QUESTIONNAIRE	2015
+RHQ_I	Reproductive Health	QUESTIONNAIRE	2015
+WHQ_I	Weight History	QUESTIONNAIRE	2015
+WHQMEC_I	Weight History - Youth	QUESTIONNAIRE	2015
+SLQ_I	Sleep Disorders	QUESTIONNAIRE	2015
+AUQ_I	Audiometry	QUESTIONNAIRE	2015
+ALQ_I	Alcohol Use	QUESTIONNAIRE	2015
+KIQ_U_I	Kidney Conditions - Urology	QUESTIONNAIRE	2015
+DUQ_I	Drug Use	QUESTIONNAIRE	2015
+VTQ_I	Volatile Toxicant	QUESTIONNAIRE	2015
+RXQASA_I	Preventive Aspirin Use	QUESTIONNAIRE	2015
+CBQ_I	Consumer Behavior	QUESTIONNAIRE	2015
+DBQ_I	Diet Behavior & Nutrition	QUESTIONNAIRE	2015
+RXQ_RX_I	Prescription Medications	QUESTIONNAIRE	2015
+FSQ_I	Food Security	QUESTIONNAIRE	2015
+DEMO_J	Demographic Variables and Sample Weights	DEMOGRAPHICS	2017
+DR1TOT_J	"Dietary Interview - Total Nutrient Intakes, First Day"	DIETARY	2017
+DR2TOT_J	"Dietary Interview - Total Nutrient Intakes, Second Day"	DIETARY	2017
+DR1IFF_J	"Dietary Interview - Individual Foods, First Day"	DIETARY	2017
+DR2IFF_J	"Dietary Interview - Individual Foods, Second Day"	DIETARY	2017
+DS1IDS_J	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	DIETARY	2017
+DSQTOT_J	Dietary Supplement Use 30-Day - Total Dietary Supplements	DIETARY	2017
+DS2IDS_J	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	DIETARY	2017
+DS1TOT_J	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	DIETARY	2017
+DS2TOT_J	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	DIETARY	2017
+DSQIDS_J	Dietary Supplement Use 30-Day - Individual Dietary Supplements	DIETARY	2017
+BPX_J	Blood Pressure	EXAMINATION	2017
+BMX_J	Body Measures	EXAMINATION	2017
+OHXDEN_J	Oral Health - Dentition	EXAMINATION	2017
+OHXREF_J	Oral Health - Recommendation of Care	EXAMINATION	2017
+DXXFEM_J	Dual-Energy X-ray Absorptiometry - Femur	EXAMINATION	2017
+DXX_J	Dual-Energy X-ray Absorptiometry - Whole Body	EXAMINATION	2017
+DXXSPN_J	Dual-Energy X-ray Absorptiometry - Spine	EXAMINATION	2017
+LUX_J	Liver Ultrasound Transient Elastography	EXAMINATION	2017
+DXXAG_J	Dual-Energy X-ray Absorptiometry - Android/Gynoid Measurements	EXAMINATION	2017
+BPXO_J	Blood Pressure - Oscillometric Measurements	EXAMINATION	2017
+AUX_J	Audiometry	EXAMINATION	2017
+AUXAR_J	Audiometry - Acoustic Reflex	EXAMINATION	2017
+AUXTYM_J	Audiometry - Tympanometry	EXAMINATION	2017
+AUXWBR_J	Audiometry - Wideband Reflectance	EXAMINATION	2017
+UCFLOW_J	Urine Flow Rate	LABORATORY	2017
+FASTQX_J	Fasting Questionnaire	LABORATORY	2017
+GHB_J	Glycohemoglobin	LABORATORY	2017
+ALB_CR_J	Albumin & Creatinine - Urine	LABORATORY	2017
+UCPREG_J	Urine Pregnancy Test	LABORATORY	2017
+HIV_J	HIV Antibody Test	LABORATORY	2017
+HEPA_J	Hepatitis A	LABORATORY	2017
+HEPB_S_J	Hepatitis B: Surface Antibody	LABORATORY	2017
+HEPBD_J	"Hepatitis B: Core antibody, Surface antigen, and Hepatitis D antibody"	LABORATORY	2017
+HEPC_J	"Hepatitis C: RNA (HCV-RNA), Confirmed Antibody (INNO-LIA), & Genotype"	LABORATORY	2017
+HEPE_J	Hepatitis E: IgG & IgM Antibodies	LABORATORY	2017
+CBC_J	Complete Blood Count with 5-Part Differential	LABORATORY	2017
+HSCRP_J	High-Sensitivity C-Reactive Protein	LABORATORY	2017
+TCHOL_J	Cholesterol - Total	LABORATORY	2017
+HDL_J	Cholesterol - High - Density Lipoprotein (HDL)	LABORATORY	2017
+BIOPRO_J	Standard Biochemistry Profile	LABORATORY	2017
+FETIB_J	Iron Status - Serum	LABORATORY	2017
+PBCD_J	"Lead, Cadmium, Total Mercury, Selenium, & Manganese - Blood"	LABORATORY	2017
+CRCO_J	Chromium & Cobalt	LABORATORY	2017
+IHGEM_J	"Mercury: Inorganic, Ethyl and Methyl - Blood"	LABORATORY	2017
+CMV_J	Cytomegalovirus IgG & IgM Antibodies - Serum	LABORATORY	2017
+GLU_J	Plasma Fasting Glucose	LABORATORY	2017
+COT_J	Cotinine and Hydroxycotinine - Serum	LABORATORY	2017
+INS_J	Insulin	LABORATORY	2017
+FERTIN_J	Ferritin	LABORATORY	2017
+VIC_J	Vitamin C	LABORATORY	2017
+TRIGLY_J	Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides	LABORATORY	2017
+FOLATE_J	Folate - RBC	LABORATORY	2017
+FOLFMS_J	Folate Forms - Total & Individual - Serum	LABORATORY	2017
+UAS_J	Arsenics - Speciated - Urine	LABORATORY	2017
+UTAS_J	Arsenic - Total - Urine	LABORATORY	2017
+UM_J	Metals - Urine	LABORATORY	2017
+UCM_J	Chromium - Urine	LABORATORY	2017
+UHG_J	Mercury: Inorganic - Urine	LABORATORY	2017
+UNI_J	Nickel - Urine	LABORATORY	2017
+UIO_J	Iodine - Urine	LABORATORY	2017
+VOCWB_J	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	LABORATORY	2017
+PFAS_J	Perfluoroalkyl and Polyfluoroalkyl Substances	LABORATORY	2017
+PHTHTE_J	Phthalates and Plasticizers Metabolites - Urine	LABORATORY	2017
+SSPFAS_J	Perfluoroalkyl and Polyfluoroalkyl Substances (Surplus)	LABORATORY	2017
+TFR_J	Transferrin Receptor	LABORATORY	2017
+VITAEC_J	"Vitamin A, Vitamin E & Carotenoids"	LABORATORY	2017
+OPD_J	Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine	LABORATORY	2017
+FR_J	Flame Retardants - Urine	LABORATORY	2017
+UCOT_J	"Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine"	LABORATORY	2017
+VID_J	Vitamin D	LABORATORY	2017
+PERNT_J	"Perchlorate, Nitrate & Thiocyanate - Urine"	LABORATORY	2017
+UVOC_J	Volatile Organic Compound (VOC) Metabolites - Urine	LABORATORY	2017
+SSUVOC_J	Volatile Organic Compound (VOC) Metabolites II - Urine (Surplus)	LABORATORY	2017
+ETHOX_J	Ethylene Oxide	LABORATORY	2017
+SSFR_J	Flame Retardants - Urine (Surplus)	LABORATORY	2017
+BPQ_J	Blood Pressure & Cholesterol	QUESTIONNAIRE	2017
+HUQ_J	Hospital Utilization & Access to Care	QUESTIONNAIRE	2017
+HEQ_J	Hepatitis	QUESTIONNAIRE	2017
+CDQ_J	Cardiovascular Health	QUESTIONNAIRE	2017
+PAQY_J	Physical Activity - Youth	QUESTIONNAIRE	2017
+PAQ_J	Physical Activity	QUESTIONNAIRE	2017
+IMQ_J	Immunization	QUESTIONNAIRE	2017
+HIQ_J	Health Insurance	QUESTIONNAIRE	2017
+DLQ_J	Disability	QUESTIONNAIRE	2017
+DIQ_J	Diabetes	QUESTIONNAIRE	2017
+PFQ_J	Physical Functioning	QUESTIONNAIRE	2017
+SMQRTU_J	Smoking - Recent Tobacco Use	QUESTIONNAIRE	2017
+SMQFAM_J	Smoking - Household Smokers	QUESTIONNAIRE	2017
+SMQSHS_J	Smoking - Secondhand Smoke Exposure	QUESTIONNAIRE	2017
+SMQ_J	Smoking - Cigarette Use	QUESTIONNAIRE	2017
+MCQ_J	Medical Conditions	QUESTIONNAIRE	2017
+OHQ_J	Oral Health	QUESTIONNAIRE	2017
+HSQ_J	Current Health Status	QUESTIONNAIRE	2017
+HOQ_J	Housing Characteristics	QUESTIONNAIRE	2017
+DEQ_J	Dermatology	QUESTIONNAIRE	2017
+INQ_J	Income	QUESTIONNAIRE	2017
+ACQ_J	Acculturation	QUESTIONNAIRE	2017
+RHQ_J	Reproductive Health	QUESTIONNAIRE	2017
+SLQ_J	Sleep Disorders	QUESTIONNAIRE	2017
+OCQ_J	Occupation	QUESTIONNAIRE	2017
+DPQ_J	Mental Health - Depression Screener	QUESTIONNAIRE	2017
+DUQ_J	Drug Use	QUESTIONNAIRE	2017
+ECQ_J	Early Childhood	QUESTIONNAIRE	2017
+OSQ_J	Osteoporosis	QUESTIONNAIRE	2017
+KIQ_U_J	Kidney Conditions - Urology	QUESTIONNAIRE	2017
+CBQ_J	Consumer Behavior	QUESTIONNAIRE	2017
+DBQ_J	Diet Behavior & Nutrition	QUESTIONNAIRE	2017
+RXQ_RX_J	Prescription Medications	QUESTIONNAIRE	2017
+WHQ_J	Weight History	QUESTIONNAIRE	2017
+WHQMEC_J	Weight History - Youth	QUESTIONNAIRE	2017
+RXQASA_J	Preventive Aspirin Use	QUESTIONNAIRE	2017
+AUQ_J	Audiometry	QUESTIONNAIRE	2017
+PUQMEC_J	Pesticide Use	QUESTIONNAIRE	2017
+ALQ_J	Alcohol Use	QUESTIONNAIRE	2017
+VTQ_J	Volatile Toxicant	QUESTIONNAIRE	2017
+CBQPFC_J	Consumer Behavior Phone Follow-up Module - Child	QUESTIONNAIRE	2017
+CBQPFA_J	Consumer Behavior Phone Follow-up Module - Adult	QUESTIONNAIRE	2017
+FSQ_J	Food Security	QUESTIONNAIRE	2017
