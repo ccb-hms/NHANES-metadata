@@ -6,9 +6,8 @@ if __name__ == "__main__":
     mapping_counts_df = get_mapping_counts_to_ontologies(
         mappings_df=pd.read_csv("../ontology-mappings/nhanes_variables_mappings.tsv", sep="\t"),
         ontologies_df=pd.read_csv("resources/ontologies.csv"),
-        source_term_id_col="Variable",
-        source_term_secondary_id_col="Table")
-    mapping_counts_df.to_csv("../ontology-mappings/nhanes_variables_mapping_counts.tsv", sep="\t", index=False)
+        save_ontology=True)
+
     mapping_counts_df = mapping_counts_df.drop(columns=["Ontology"])
 
     labels_file = "../ontology-tables/ontology_labels.tsv"
