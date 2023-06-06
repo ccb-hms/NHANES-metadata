@@ -14,5 +14,5 @@ max_mappings=1,         # maximum number of mappings per input term (per ontolog
 ```
 
 The outputs are two tables:
-- `nhanes_tables_mappings.tsv` contains mappings of the table names that are specified in the `Table Name` column of the [metadata/nhanes_tables.csv](https://github.com/ccb-hms/NHANES-metadata/blob/master/metadata/nhanes_tables.csv) table.
-- `nhanes_variables_mappings.tsv` contains mappings of the variable labels that are specified in the `SAS Label` column of the [metadata/nhanes_variables.csv](https://github.com/ccb-hms/NHANES-metadata/blob/master/metadata/nhanes_variables.csv) table.
+- `nhanes_tables_mappings.tsv` contains mappings of the table names that are specified in the `TableName` column of the [metadata/nhanes_tables.tsv](https://github.com/ccb-hms/NHANES-metadata/blob/master/metadata/nhanes_tables.tsv) table.
+- `nhanes_variables_mappings.tsv` contains mappings of the variable labels that are specified in the `SASLabel` column of the [metadata/nhanes_variables.tsv](https://github.com/ccb-hms/NHANES-metadata/blob/master/metadata/nhanes_variables.tsv) table.
