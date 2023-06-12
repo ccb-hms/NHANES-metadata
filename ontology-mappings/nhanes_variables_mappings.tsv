@@ -339,15 +339,15 @@ CDQ009F	CDQ_G	CDQ009F-CDQ_G	Pain in left chest	Chest Pain	NCIT:C38665	http://pur
 CDQ009F	CDQ_H	CDQ009F-CDQ_H	Pain in left chest	Chest Pain	NCIT:C38665	http://purl.obolibrary.org/obo/NCIT_C38665	0.885		NCIT
 CDQ009F	CDQ_I	CDQ009F-CDQ_I	Pain in left chest	Chest Pain	NCIT:C38665	http://purl.obolibrary.org/obo/NCIT_C38665	0.885		NCIT
 CDQ009F	CDQ_J	CDQ009F-CDQ_J	Pain in left chest	Chest Pain	NCIT:C38665	http://purl.obolibrary.org/obo/NCIT_C38665	0.885		NCIT
-CDQ009G	CDQ_B	CDQ009G-CDQ_B	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.862		NCIT
-CDQ009G	CDQ_C	CDQ009G-CDQ_C	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.862		NCIT
-CDQ009G	CDQ_D	CDQ009G-CDQ_D	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.862		NCIT
-CDQ009G	CDQ_E	CDQ009G-CDQ_E	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.862		NCIT
-CDQ009G	CDQ_F	CDQ009G-CDQ_F	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.862		NCIT
-CDQ009G	CDQ_G	CDQ009G-CDQ_G	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.862		NCIT
-CDQ009G	CDQ_H	CDQ009G-CDQ_H	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.862		NCIT
-CDQ009G	CDQ_I	CDQ009G-CDQ_I	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.862		NCIT
-CDQ009G	CDQ_J	CDQ009G-CDQ_J	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.862		NCIT
+CDQ009G	CDQ_B	CDQ009G-CDQ_B	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.863		NCIT
+CDQ009G	CDQ_C	CDQ009G-CDQ_C	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.863		NCIT
+CDQ009G	CDQ_D	CDQ009G-CDQ_D	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.863		NCIT
+CDQ009G	CDQ_E	CDQ009G-CDQ_E	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.863		NCIT
+CDQ009G	CDQ_F	CDQ009G-CDQ_F	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.863		NCIT
+CDQ009G	CDQ_G	CDQ009G-CDQ_G	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.863		NCIT
+CDQ009G	CDQ_H	CDQ009G-CDQ_H	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.863		NCIT
+CDQ009G	CDQ_I	CDQ009G-CDQ_I	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.863		NCIT
+CDQ009G	CDQ_J	CDQ009G-CDQ_J	Pain in left arm	Arm Pain	NCIT:C34397	http://purl.obolibrary.org/obo/NCIT_C34397	0.863		NCIT
 CDQ009H	CDQ_B	CDQ009H-CDQ_B	Pain in epigastric area	Pain in Epigastrium	NCIT:C168379	http://purl.obolibrary.org/obo/NCIT_C168379	0.907		NCIT
 CDQ009H	CDQ_C	CDQ009H-CDQ_C	Pain in epigastric area	Pain in Epigastrium	NCIT:C168379	http://purl.obolibrary.org/obo/NCIT_C168379	0.907		NCIT
 CDQ009H	CDQ_D	CDQ009H-CDQ_D	Pain in epigastric area	Pain in Epigastrium	NCIT:C168379	http://purl.obolibrary.org/obo/NCIT_C168379	0.907		NCIT
@@ -378,9 +378,9 @@ CIQD015	CIQDEP_C	CIQD015-CIQDEP_C	Irritable frequency	How Often Feel Irritable	N
 CIQD016	CIQMDEP	CIQD016-CIQMDEP	Irritable duration	Irritability	HP:0000737	http://purl.obolibrary.org/obo/HP_0000737	0.808		EFO
 CIQD016	CIQDEP_B	CIQD016-CIQDEP_B	Irritable duration	Irritability	HP:0000737	http://purl.obolibrary.org/obo/HP_0000737	0.808		EFO
 CIQD016	CIQDEP_C	CIQD016-CIQDEP_C	Irritable duration	Irritability	HP:0000737	http://purl.obolibrary.org/obo/HP_0000737	0.808		EFO
-CIQD020	CIQMDEP	CIQD020-CIQMDEP	lose weight	Losing Weight	NCIT:C103833	http://purl.obolibrary.org/obo/NCIT_C103833	0.803		NCIT
-CIQD020	CIQDEP_B	CIQD020-CIQDEP_B	lose weight	Losing Weight	NCIT:C103833	http://purl.obolibrary.org/obo/NCIT_C103833	0.803		NCIT
-CIQD020	CIQDEP_C	CIQD020-CIQDEP_C	lose weight	Losing Weight	NCIT:C103833	http://purl.obolibrary.org/obo/NCIT_C103833	0.803		NCIT
+CIQD020	CIQMDEP	CIQD020-CIQMDEP	lose weight	Losing Weight	NCIT:C103833	http://purl.obolibrary.org/obo/NCIT_C103833	0.804		NCIT
+CIQD020	CIQDEP_B	CIQD020-CIQDEP_B	lose weight	Losing Weight	NCIT:C103833	http://purl.obolibrary.org/obo/NCIT_C103833	0.804		NCIT
+CIQD020	CIQDEP_C	CIQD020-CIQDEP_C	lose weight	Losing Weight	NCIT:C103833	http://purl.obolibrary.org/obo/NCIT_C103833	0.804		NCIT
 CIQD023	CIQMDEP	CIQD023-CIQMDEP	gain weight	Weight Gain, CTCAE	NCIT:C55338	http://purl.obolibrary.org/obo/NCIT_C55338	0.959		NCIT
 CIQD023	CIQDEP_B	CIQD023-CIQDEP_B	gain weight	Weight Gain, CTCAE	NCIT:C55338	http://purl.obolibrary.org/obo/NCIT_C55338	0.959		NCIT
 CIQD023	CIQDEP_C	CIQD023-CIQDEP_C	gain weight	Weight Gain, CTCAE	NCIT:C55338	http://purl.obolibrary.org/obo/NCIT_C55338	0.959		NCIT
@@ -414,9 +414,9 @@ CIQG17E	CIQGAD_C	CIQG17E-CIQGAD_C	trouble sleeping	Trouble Sleeping	NCIT:C104294
 CIQP13B	CIQPANIC	CIQP13B-CIQPANIC	sweat	Sweat	NCIT:C13280	http://purl.obolibrary.org/obo/NCIT_C13280	0.997		NCIT
 CIQP13B	CIQPAN_B	CIQP13B-CIQPAN_B	sweat	Sweat	NCIT:C13280	http://purl.obolibrary.org/obo/NCIT_C13280	0.997		NCIT
 CIQP13B	CIQPAN_C	CIQP13B-CIQPAN_C	sweat	Sweat	NCIT:C13280	http://purl.obolibrary.org/obo/NCIT_C13280	0.997		NCIT
-CIQP13D	CIQPANIC	CIQP13D-CIQPANIC	have dry mouth	Have Dry Mouth	NCIT:C104937	http://purl.obolibrary.org/obo/NCIT_C104937	0.992		NCIT
-CIQP13D	CIQPAN_B	CIQP13D-CIQPAN_B	have dry mouth	Have Dry Mouth	NCIT:C104937	http://purl.obolibrary.org/obo/NCIT_C104937	0.992		NCIT
-CIQP13D	CIQPAN_C	CIQP13D-CIQPAN_C	have dry mouth	Have Dry Mouth	NCIT:C104937	http://purl.obolibrary.org/obo/NCIT_C104937	0.992		NCIT
+CIQP13D	CIQPANIC	CIQP13D-CIQPANIC	have dry mouth	Have Dry Mouth	NCIT:C104937	http://purl.obolibrary.org/obo/NCIT_C104937	0.993		NCIT
+CIQP13D	CIQPAN_B	CIQP13D-CIQPAN_B	have dry mouth	Have Dry Mouth	NCIT:C104937	http://purl.obolibrary.org/obo/NCIT_C104937	0.993		NCIT
+CIQP13D	CIQPAN_C	CIQP13D-CIQPAN_C	have dry mouth	Have Dry Mouth	NCIT:C104937	http://purl.obolibrary.org/obo/NCIT_C104937	0.993		NCIT
 CIQP13E	CIQPANIC	CIQP13E-CIQPANIC	Were you short of breath	Have Shortness of Breath	NCIT:C99773	http://purl.obolibrary.org/obo/NCIT_C99773	0.989		NCIT
 CIQP13E	CIQPAN_B	CIQP13E-CIQPAN_B	Were you short of breath	Have Shortness of Breath	NCIT:C99773	http://purl.obolibrary.org/obo/NCIT_C99773	0.989		NCIT
 CIQP13E	CIQPAN_C	CIQP13E-CIQPAN_C	Were you short of breath	Have Shortness of Breath	NCIT:C99773	http://purl.obolibrary.org/obo/NCIT_C99773	0.989		NCIT
@@ -940,12 +940,6 @@ DR1IVC	DR1IFF_G	DR1IVC-DR1IFF_G	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl
 DR1IVC	DR1IFF_H	DR1IVC-DR1IFF_H	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DR1IVC	DR1IFF_I	DR1IVC-DR1IFF_I	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DR1IVC	DR1IFF_J	DR1IVC-DR1IFF_J	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
-DR1IVD	DR1IFF_E	DR1IVD-DR1IFF_E	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR1IVD	DR1IFF_F	DR1IVD-DR1IFF_F	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR1IVD	DR1IFF_G	DR1IVD-DR1IFF_G	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR1IVD	DR1IFF_H	DR1IVD-DR1IFF_H	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR1IVD	DR1IFF_I	DR1IVD-DR1IFF_I	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR1IVD	DR1IFF_J	DR1IVD-DR1IFF_J	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
 DR1IVK	DR1IFF_C	DR1IVK-DR1IFF_C	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DR1IVK	DR1IFF_D	DR1IVK-DR1IFF_D	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DR1IVK	DR1IFF_E	DR1IVK-DR1IFF_E	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
@@ -1191,12 +1185,6 @@ DR1TVC	DR1TOT_G	DR1TVC-DR1TOT_G	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl
 DR1TVC	DR1TOT_H	DR1TVC-DR1TOT_H	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DR1TVC	DR1TOT_I	DR1TVC-DR1TOT_I	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DR1TVC	DR1TOT_J	DR1TVC-DR1TOT_J	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
-DR1TVD	DR1TOT_E	DR1TVD-DR1TOT_E	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR1TVD	DR1TOT_F	DR1TVD-DR1TOT_F	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR1TVD	DR1TOT_G	DR1TVD-DR1TOT_G	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR1TVD	DR1TOT_H	DR1TVD-DR1TOT_H	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR1TVD	DR1TOT_I	DR1TVD-DR1TOT_I	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR1TVD	DR1TOT_J	DR1TVD-DR1TOT_J	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
 DR1TVK	DR1TOT_C	DR1TVK-DR1TOT_C	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DR1TVK	DR1TOT_D	DR1TVK-DR1TOT_D	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DR1TVK	DR1TOT_E	DR1TVK-DR1TOT_E	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
@@ -1473,12 +1461,6 @@ DR2IVC	DR2IFF_G	DR2IVC-DR2IFF_G	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl
 DR2IVC	DR2IFF_H	DR2IVC-DR2IFF_H	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DR2IVC	DR2IFF_I	DR2IVC-DR2IFF_I	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DR2IVC	DR2IFF_J	DR2IVC-DR2IFF_J	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
-DR2IVD	DR2IFF_E	DR2IVD-DR2IFF_E	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR2IVD	DR2IFF_F	DR2IVD-DR2IFF_F	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR2IVD	DR2IFF_G	DR2IVD-DR2IFF_G	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR2IVD	DR2IFF_H	DR2IVD-DR2IFF_H	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR2IVD	DR2IFF_I	DR2IVD-DR2IFF_I	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR2IVD	DR2IFF_J	DR2IVD-DR2IFF_J	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
 DR2IVK	DR2IFF_C	DR2IVK-DR2IFF_C	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DR2IVK	DR2IFF_D	DR2IVK-DR2IFF_D	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DR2IVK	DR2IFF_E	DR2IVK-DR2IFF_E	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
@@ -1724,12 +1706,6 @@ DR2TVC	DR2TOT_G	DR2TVC-DR2TOT_G	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl
 DR2TVC	DR2TOT_H	DR2TVC-DR2TOT_H	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DR2TVC	DR2TOT_I	DR2TVC-DR2TOT_I	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DR2TVC	DR2TOT_J	DR2TVC-DR2TOT_J	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
-DR2TVD	DR2TOT_E	DR2TVD-DR2TOT_E	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR2TVD	DR2TOT_F	DR2TVD-DR2TOT_F	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR2TVD	DR2TOT_G	DR2TVD-DR2TOT_G	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR2TVD	DR2TOT_H	DR2TVD-DR2TOT_H	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR2TVD	DR2TOT_I	DR2TVD-DR2TOT_I	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DR2TVD	DR2TOT_J	DR2TVD-DR2TOT_J	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
 DR2TVK	DR2TOT_C	DR2TVK-DR2TOT_C	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DR2TVK	DR2TOT_D	DR2TVK-DR2TOT_D	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DR2TVK	DR2TOT_E	DR2TVK-DR2TOT_E	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
@@ -2104,13 +2080,8 @@ DS1IVC	DS1IDS_G	DS1IVC-DS1IDS_G	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl
 DS1IVC	DS1IDS_H	DS1IVC-DS1IDS_H	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DS1IVC	DS1IDS_I	DS1IVC-DS1IDS_I	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DS1IVC	DS1IDS_J	DS1IVC-DS1IDS_J	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
-DS1IVD	DS1IDS_E	DS1IVD-DS1IDS_E	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS1IVD	DS1IDS_F	DS1IVD-DS1IDS_F	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS1IVD	DS1IDS_G	DS1IVD-DS1IDS_G	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS1IVD	DS1IDS_H	DS1IVD-DS1IDS_H	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS1IVD	DS1IDS_I	DS1IVD-DS1IDS_I	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS1IVD	DS1IDS_J	DS1IVD-DS1IDS_J	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
 DS1IVK	DS1IDS_E	DS1IVK-DS1IDS_E	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
+DS1IVK	DS1IDS_F	DS1IVK-DS1IDS_F	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DS1IVK	DS1IDS_G	DS1IVK-DS1IDS_G	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DS1IVK	DS1IDS_H	DS1IVK-DS1IDS_H	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DS1IVK	DS1IDS_I	DS1IVK-DS1IDS_I	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
@@ -2269,12 +2240,6 @@ DS1TVC	DS1TOT_G	DS1TVC-DS1TOT_G	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl
 DS1TVC	DS1TOT_H	DS1TVC-DS1TOT_H	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DS1TVC	DS1TOT_I	DS1TVC-DS1TOT_I	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DS1TVC	DS1TOT_J	DS1TVC-DS1TOT_J	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
-DS1TVD	DS1TOT_E	DS1TVD-DS1TOT_E	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS1TVD	DS1TOT_F	DS1TVD-DS1TOT_F	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS1TVD	DS1TOT_G	DS1TVD-DS1TOT_G	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS1TVD	DS1TOT_H	DS1TVD-DS1TOT_H	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS1TVD	DS1TOT_I	DS1TVD-DS1TOT_I	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS1TVD	DS1TOT_J	DS1TVD-DS1TOT_J	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
 DS1TVK	DS1TOT_E	DS1TVK-DS1TOT_E	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DS1TVK	DS1TOT_F	DS1TVK-DS1TOT_F	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DS1TVK	DS1TOT_G	DS1TVK-DS1TOT_G	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
@@ -2446,12 +2411,6 @@ DS2IVC	DS2IDS_G	DS2IVC-DS2IDS_G	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl
 DS2IVC	DS2IDS_H	DS2IVC-DS2IDS_H	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DS2IVC	DS2IDS_I	DS2IVC-DS2IDS_I	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DS2IVC	DS2IDS_J	DS2IVC-DS2IDS_J	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
-DS2IVD	DS2IDS_E	DS2IVD-DS2IDS_E	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS2IVD	DS2IDS_F	DS2IVD-DS2IDS_F	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS2IVD	DS2IDS_G	DS2IVD-DS2IDS_G	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS2IVD	DS2IDS_H	DS2IVD-DS2IDS_H	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS2IVD	DS2IDS_I	DS2IVD-DS2IDS_I	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS2IVD	DS2IDS_J	DS2IVD-DS2IDS_J	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
 DS2IVK	DS2IDS_E	DS2IVK-DS2IDS_E	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DS2IVK	DS2IDS_F	DS2IVK-DS2IDS_F	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DS2IVK	DS2IDS_G	DS2IVK-DS2IDS_G	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
@@ -2612,12 +2571,6 @@ DS2TVC	DS2TOT_G	DS2TVC-DS2TOT_G	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl
 DS2TVC	DS2TOT_H	DS2TVC-DS2TOT_H	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DS2TVC	DS2TOT_I	DS2TVC-DS2TOT_I	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DS2TVC	DS2TOT_J	DS2TVC-DS2TOT_J	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
-DS2TVD	DS2TOT_E	DS2TVD-DS2TOT_E	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS2TVD	DS2TOT_F	DS2TVD-DS2TOT_F	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS2TVD	DS2TOT_G	DS2TVD-DS2TOT_G	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS2TVD	DS2TOT_H	DS2TVD-DS2TOT_H	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS2TVD	DS2TOT_I	DS2TVD-DS2TOT_I	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DS2TVD	DS2TOT_J	DS2TVD-DS2TOT_J	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
 DS2TVK	DS2TOT_E	DS2TVK-DS2TOT_E	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DS2TVK	DS2TOT_F	DS2TVK-DS2TOT_F	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DS2TVK	DS2TOT_G	DS2TVK-DS2TOT_G	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
@@ -2793,6 +2746,7 @@ DSQIIODI	DSQIDS_G	DSQIIODI-DSQIDS_G	Iodine (mcg)	Dietary Iodine	NCIT:C68254	http
 DSQIIODI	DSQIDS_H	DSQIIODI-DSQIDS_H	Iodine (mcg)	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.829		NCIT
 DSQIIODI	DSQIDS_I	DSQIIODI-DSQIDS_I	Iodine (mcg)	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.829		NCIT
 DSQIIODI	DSQIDS_J	DSQIIODI-DSQIDS_J	Iodine (mcg)	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.829		NCIT
+DSQIIRON	DSQIDS_E	DSQIIRON-DSQIDS_E	Iron (mg)	Dietary Iron	NCIT:C68256	http://purl.obolibrary.org/obo/NCIT_C68256	0.872		NCIT
 DSQIIRON	DSQIDS_F	DSQIIRON-DSQIDS_F	Iron (mg)	Dietary Iron	NCIT:C68256	http://purl.obolibrary.org/obo/NCIT_C68256	0.872		NCIT
 DSQIIRON	DSQIDS_G	DSQIIRON-DSQIDS_G	Iron (mg)	Dietary Iron	NCIT:C68256	http://purl.obolibrary.org/obo/NCIT_C68256	0.872		NCIT
 DSQIIRON	DSQIDS_H	DSQIIRON-DSQIDS_H	Iron (mg)	Dietary Iron	NCIT:C68256	http://purl.obolibrary.org/obo/NCIT_C68256	0.872		NCIT
@@ -2888,12 +2842,6 @@ DSQIVC	DSQIDS_G	DSQIVC-DSQIDS_G	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl
 DSQIVC	DSQIDS_H	DSQIVC-DSQIDS_H	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DSQIVC	DSQIDS_I	DSQIVC-DSQIDS_I	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DSQIVC	DSQIDS_J	DSQIVC-DSQIDS_J	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
-DSQIVD	DSQIDS_E	DSQIVD-DSQIDS_E	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DSQIVD	DSQIDS_F	DSQIVD-DSQIDS_F	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DSQIVD	DSQIDS_G	DSQIVD-DSQIDS_G	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DSQIVD	DSQIDS_H	DSQIVD-DSQIDS_H	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DSQIVD	DSQIDS_I	DSQIVD-DSQIDS_I	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DSQIVD	DSQIDS_J	DSQIVD-DSQIDS_J	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
 DSQIVK	DSQIDS_E	DSQIVK-DSQIDS_E	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DSQIVK	DSQIDS_F	DSQIVK-DSQIDS_F	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DSQIVK	DSQIDS_G	DSQIVK-DSQIDS_G	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
@@ -3046,12 +2994,6 @@ DSQTVC	DSQTOT_G	DSQTVC-DSQTOT_G	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl
 DSQTVC	DSQTOT_H	DSQTVC-DSQTOT_H	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DSQTVC	DSQTOT_I	DSQTVC-DSQTOT_I	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
 DSQTVC	DSQTOT_J	DSQTVC-DSQTOT_J	Vitamin C (mg)	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.906		NCIT
-DSQTVD	DSQTOT_E	DSQTVD-DSQTOT_E	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DSQTVD	DSQTOT_F	DSQTVD-DSQTOT_F	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DSQTVD	DSQTOT_G	DSQTVD-DSQTOT_G	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DSQTVD	DSQTOT_H	DSQTVD-DSQTOT_H	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DSQTVD	DSQTOT_I	DSQTVD-DSQTOT_I	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
-DSQTVD	DSQTOT_J	DSQTVD-DSQTOT_J	Vitamin D (D2 + D3) (mcg)	Vitamin D2 and Vitamin D3 Measurement	NCIT:C179751	http://purl.obolibrary.org/obo/NCIT_C179751	0.8		NCIT
 DSQTVK	DSQTOT_E	DSQTVK-DSQTOT_E	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DSQTVK	DSQTOT_F	DSQTVK-DSQTOT_F	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DSQTVK	DSQTOT_G	DSQTVK-DSQTOT_G	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
@@ -3128,22 +3070,22 @@ DX2LLFAT	DXX_2_B	DX2LLFAT-DXX_2_B	Left Leg Fat (g)	Left Leg	NCIT:C176864	http://
 DX2LSA	DXX_2_B	DX2LSA-DXX_2_B	Lumbar Spine Area (cm^2)	Lumbar Spine	NCIT:C69314	http://purl.obolibrary.org/obo/NCIT_C69314	0.812		NCIT
 DX2LSBMC	DXX_2_B	DX2LSBMC-DXX_2_B	Lumbar Spine BMC (g)	Lumbar Spine	NCIT:C69314	http://purl.obolibrary.org/obo/NCIT_C69314	0.85		NCIT
 DX2PEBMC	DXX_2_B	DX2PEBMC-DXX_2_B	Pelvis BMC (g)	Pelvis	NCIT:C12767	http://purl.obolibrary.org/obo/NCIT_C12767	0.831		NCIT
-DX2STFAT	DXX_2_B	DX2STFAT-DXX_2_B	Subtotal Fat (g)	Subtotal	NCIT:C60760	http://purl.obolibrary.org/obo/NCIT_C60760	0.854		NCIT
-DX2TOBMC	DXX_2_B	DX2TOBMC-DXX_2_B	Total Bone Mineral Content (g)	Bone Mineral Content	NCIT:C147472	http://purl.obolibrary.org/obo/NCIT_C147472	0.889		NCIT
+DX2STFAT	DXX_2_B	DX2STFAT-DXX_2_B	Subtotal Fat (g)	Subtotal	NCIT:C60760	http://purl.obolibrary.org/obo/NCIT_C60760	0.855		NCIT
+DX2TOBMC	DXX_2_B	DX2TOBMC-DXX_2_B	Total Bone Mineral Content (g)	Bone Mineral Content	NCIT:C147472	http://purl.obolibrary.org/obo/NCIT_C147472	0.888		NCIT
 DX2TOBMD	DXX_2_B	DX2TOBMD-DXX_2_B	Total Bone Mineral Density (g/cm^2)	Bone Mineral Density	NCIT:C96950	http://purl.obolibrary.org/obo/NCIT_C96950	0.847		NCIT
 DX2TRFAT	DXX_2_B	DX2TRFAT-DXX_2_B	Trunk Fat (g)	Plant Trunk	NCIT:C79691	http://purl.obolibrary.org/obo/NCIT_C79691	0.836		NCIT
 DX2TRTOT	DXX_2_B	DX2TRTOT-DXX_2_B	Trunk Total (g)	Plant Trunk	NCIT:C79691	http://purl.obolibrary.org/obo/NCIT_C79691	0.808		NCIT
 DX2TSA	DXX_2_B	DX2TSA-DXX_2_B	Thoracic Spine Area (cm^2)	Thoracic Spine	NCIT:C69315	http://purl.obolibrary.org/obo/NCIT_C69315	0.817		NCIT
 DX2TSBMC	DXX_2_B	DX2TSBMC-DXX_2_B	Thoracic Spine BMC (g)	Thoracic Spine	NCIT:C69315	http://purl.obolibrary.org/obo/NCIT_C69315	0.854		NCIT
 DXDAACST	DXXAAC_H	DXDAACST-DXXAAC_H	Abdominal Aortic Calcification Status	abdominal aortic artery calcification	EFO:0004859	http://www.ebi.ac.uk/efo/EFO_0004859	0.842		EFO
-DXDSTFAT	DXX_G	DXDSTFAT-DXX_G	Subtotal Fat (g)	Subtotal	NCIT:C60760	http://purl.obolibrary.org/obo/NCIT_C60760	0.854		NCIT
-DXDSTFAT	DXX_H	DXDSTFAT-DXX_H	Subtotal Fat (g)	Subtotal	NCIT:C60760	http://purl.obolibrary.org/obo/NCIT_C60760	0.854		NCIT
-DXDSTFAT	DXX_I	DXDSTFAT-DXX_I	Subtotal Fat (g)	Subtotal	NCIT:C60760	http://purl.obolibrary.org/obo/NCIT_C60760	0.854		NCIT
-DXDSTFAT	DXX_J	DXDSTFAT-DXX_J	Subtotal Fat (g)	Subtotal	NCIT:C60760	http://purl.obolibrary.org/obo/NCIT_C60760	0.854		NCIT
-DXDTOBMC	DXX_G	DXDTOBMC-DXX_G	Total Bone Mineral Content (g)	Bone Mineral Content	NCIT:C147472	http://purl.obolibrary.org/obo/NCIT_C147472	0.889		NCIT
-DXDTOBMC	DXX_H	DXDTOBMC-DXX_H	Total Bone Mineral Content (g)	Bone Mineral Content	NCIT:C147472	http://purl.obolibrary.org/obo/NCIT_C147472	0.889		NCIT
-DXDTOBMC	DXX_I	DXDTOBMC-DXX_I	Total Bone Mineral Content (g)	Bone Mineral Content	NCIT:C147472	http://purl.obolibrary.org/obo/NCIT_C147472	0.889		NCIT
-DXDTOBMC	DXX_J	DXDTOBMC-DXX_J	Total Bone Mineral Content (g)	Bone Mineral Content	NCIT:C147472	http://purl.obolibrary.org/obo/NCIT_C147472	0.889		NCIT
+DXDSTFAT	DXX_G	DXDSTFAT-DXX_G	Subtotal Fat (g)	Subtotal	NCIT:C60760	http://purl.obolibrary.org/obo/NCIT_C60760	0.855		NCIT
+DXDSTFAT	DXX_H	DXDSTFAT-DXX_H	Subtotal Fat (g)	Subtotal	NCIT:C60760	http://purl.obolibrary.org/obo/NCIT_C60760	0.855		NCIT
+DXDSTFAT	DXX_I	DXDSTFAT-DXX_I	Subtotal Fat (g)	Subtotal	NCIT:C60760	http://purl.obolibrary.org/obo/NCIT_C60760	0.855		NCIT
+DXDSTFAT	DXX_J	DXDSTFAT-DXX_J	Subtotal Fat (g)	Subtotal	NCIT:C60760	http://purl.obolibrary.org/obo/NCIT_C60760	0.855		NCIT
+DXDTOBMC	DXX_G	DXDTOBMC-DXX_G	Total Bone Mineral Content (g)	Bone Mineral Content	NCIT:C147472	http://purl.obolibrary.org/obo/NCIT_C147472	0.888		NCIT
+DXDTOBMC	DXX_H	DXDTOBMC-DXX_H	Total Bone Mineral Content (g)	Bone Mineral Content	NCIT:C147472	http://purl.obolibrary.org/obo/NCIT_C147472	0.888		NCIT
+DXDTOBMC	DXX_I	DXDTOBMC-DXX_I	Total Bone Mineral Content (g)	Bone Mineral Content	NCIT:C147472	http://purl.obolibrary.org/obo/NCIT_C147472	0.888		NCIT
+DXDTOBMC	DXX_J	DXDTOBMC-DXX_J	Total Bone Mineral Content (g)	Bone Mineral Content	NCIT:C147472	http://purl.obolibrary.org/obo/NCIT_C147472	0.888		NCIT
 DXDTOBMD	DXX_G	DXDTOBMD-DXX_G	Total Bone Mineral Density (g/cm^2)	Bone Mineral Density	NCIT:C96950	http://purl.obolibrary.org/obo/NCIT_C96950	0.847		NCIT
 DXDTOBMD	DXX_H	DXDTOBMD-DXX_H	Total Bone Mineral Density (g/cm^2)	Bone Mineral Density	NCIT:C96950	http://purl.obolibrary.org/obo/NCIT_C96950	0.847		NCIT
 DXDTOBMD	DXX_I	DXDTOBMD-DXX_I	Total Bone Mineral Density (g/cm^2)	Bone Mineral Density	NCIT:C96950	http://purl.obolibrary.org/obo/NCIT_C96950	0.847		NCIT
@@ -3285,10 +3227,10 @@ FCX09DI	FLXCLN_F	FCX09DI-FLXCLN_F	Fluorosis DI: #9	Dental Fluorosis	NCIT:C85059	
 FCX09DI	FLXCLN_G	FCX09DI-FLXCLN_G	Fluorosis DI: #9	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.841		NCIT
 FCX09DI	FLXCLN_H	FCX09DI-FLXCLN_H	Fluorosis DI: #9	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.841		NCIT
 FCX09DI	FLXCLN_I	FCX09DI-FLXCLN_I	Fluorosis DI: #9	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.841		NCIT
-FCX10DI	FLXCLN_F	FCX10DI-FLXCLN_F	Fluorosis DI: #10	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.814		NCIT
-FCX10DI	FLXCLN_G	FCX10DI-FLXCLN_G	Fluorosis DI: #10	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.814		NCIT
-FCX10DI	FLXCLN_H	FCX10DI-FLXCLN_H	Fluorosis DI: #10	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.814		NCIT
-FCX10DI	FLXCLN_I	FCX10DI-FLXCLN_I	Fluorosis DI: #10	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.814		NCIT
+FCX10DI	FLXCLN_F	FCX10DI-FLXCLN_F	Fluorosis DI: #10	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.815		NCIT
+FCX10DI	FLXCLN_G	FCX10DI-FLXCLN_G	Fluorosis DI: #10	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.815		NCIT
+FCX10DI	FLXCLN_H	FCX10DI-FLXCLN_H	Fluorosis DI: #10	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.815		NCIT
+FCX10DI	FLXCLN_I	FCX10DI-FLXCLN_I	Fluorosis DI: #10	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.815		NCIT
 FCX11DI	FLXCLN_F	FCX11DI-FLXCLN_F	Fluorosis DI: #11	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.807		NCIT
 FCX11DI	FLXCLN_G	FCX11DI-FLXCLN_G	Fluorosis DI: #11	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.807		NCIT
 FCX11DI	FLXCLN_H	FCX11DI-FLXCLN_H	Fluorosis DI: #11	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.807		NCIT
@@ -3489,7 +3431,7 @@ LB2LHSI	L40_2_B	LB2LHSI-L40_2_B	Luteinizing hormone (IU/L)	Luteinizing Hormone M
 LB2LYPCT	l25_2_b	LB2LYPCT-l25_2_b	Lymphocyte percent (%)	Percent of Lymphocytes	NCIT:C70462	http://purl.obolibrary.org/obo/NCIT_C70462	0.919		NCIT
 LB2MC	l25_2_b	LB2MC-l25_2_b	MCHC (g/dL)	mean corpuscular hemoglobin concentration	EFO:0004528	http://www.ebi.ac.uk/efo/EFO_0004528	0.893		EFO
 LB2MCVSI	l25_2_b	LB2MCVSI-l25_2_b	Mean cell volume (fL)	mean corpuscular volume	EFO:0004526	http://www.ebi.ac.uk/efo/EFO_0004526	0.891		EFO
-LB2ME	L19_2_B	LB2ME-L19_2_B	Measles	measles	EFO:1002025	http://www.ebi.ac.uk/efo/EFO_1002025	0.993		EFO
+LB2ME	L19_2_B	LB2ME-L19_2_B	Measles	measles	EFO:1002025	http://www.ebi.ac.uk/efo/EFO_1002025	0.994		EFO
 LB2MMA	L06_2_B	LB2MMA-L06_2_B	Methylmalonic acid (umol/L)	Methylmalonic Acid Measurement	NCIT:C96690	http://purl.obolibrary.org/obo/NCIT_C96690	0.892		NCIT
 LB2MOPCT	l25_2_b	LB2MOPCT-l25_2_b	Monocyte percent (%)	Percent of Monocytes	NCIT:C159480	http://purl.obolibrary.org/obo/NCIT_C159480	0.911		NCIT
 LB2MPSI	l25_2_b	LB2MPSI-l25_2_b	Mean platelet volume (fL)	Mean Platelet Volume Measurement	NCIT:C74730	http://purl.obolibrary.org/obo/NCIT_C74730	0.915		NCIT
@@ -3512,9 +3454,9 @@ LB2SCH	L40_2_B	LB2SCH-L40_2_B	Cholesterol (mg/dL)	Cholesterol	NCIT:C369	http://p
 LB2SCHSI	L40_2_B	LB2SCHSI-L40_2_B	Cholesterol (mmol/L)	Cholesterol	NCIT:C369	http://purl.obolibrary.org/obo/NCIT_C369	0.862		NCIT
 LB2SCR	L40_2_B	LB2SCR-L40_2_B	Creatinine (mg/dL)	Creatinine, CTCAE	NCIT:C55148	http://purl.obolibrary.org/obo/NCIT_C55148	0.846		NCIT
 LB2SGL	L40_2_B	LB2SGL-L40_2_B	Glucose (mg/dL)	Glucose	NCIT:C2831	http://purl.obolibrary.org/obo/NCIT_C2831	0.864		NCIT
-LB2SGTSI	L40_2_B	LB2SGTSI-L40_2_B	GGT (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.888		NCIT
+LB2SGTSI	L40_2_B	LB2SGTSI-L40_2_B	GGT (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.887		NCIT
 LB2SKSI	L40_2_B	LB2SKSI-L40_2_B	Potassium (mmol/L)	Potassium	NCIT:C765	http://purl.obolibrary.org/obo/NCIT_C765	0.83		NCIT
-LB2SLDSI	L40_2_B	LB2SLDSI-L40_2_B	LDH (U/L)	Lactate Dehydrogenase Measurement	NCIT:C64855	http://purl.obolibrary.org/obo/NCIT_C64855	0.861		NCIT
+LB2SLDSI	L40_2_B	LB2SLDSI-L40_2_B	LDH (U/L)	Lactate Dehydrogenase Measurement	NCIT:C64855	http://purl.obolibrary.org/obo/NCIT_C64855	0.86		NCIT
 LB2SNASI	L40_2_B	LB2SNASI-L40_2_B	Sodium (mmol/L)	Sodium	NCIT:C830	http://purl.obolibrary.org/obo/NCIT_C830	0.8		NCIT
 LB2SPH	L40_2_B	LB2SPH-L40_2_B	Phosphorus (mg/dL)	Dietary Phosphorus	NCIT:C68277	http://purl.obolibrary.org/obo/NCIT_C68277	0.905		NCIT
 LB2SPHSI	L40_2_B	LB2SPHSI-L40_2_B	Phosphorus (mmol/L)	Dietary Phosphorus	NCIT:C68277	http://purl.obolibrary.org/obo/NCIT_C68277	0.879		NCIT
@@ -3916,10 +3858,10 @@ LBDSF2LC	FOLFMS_G	LBDSF2LC-FOLFMS_G	Folic acid cmt	Folic Acid Measurement	NCIT:C
 LBDSF2LC	FOLFMS_H	LBDSF2LC-FOLFMS_H	Folic acid cmt	Folic Acid Measurement	NCIT:C74676	http://purl.obolibrary.org/obo/NCIT_C74676	0.801		NCIT
 LBDSF2LC	FOLFMS_I	LBDSF2LC-FOLFMS_I	Folic acid cmt	Folic Acid Measurement	NCIT:C74676	http://purl.obolibrary.org/obo/NCIT_C74676	0.801		NCIT
 LBDSF2LC	FOLFMS_J	LBDSF2LC-FOLFMS_J	Folic acid cmt	Folic Acid Measurement	NCIT:C74676	http://purl.obolibrary.org/obo/NCIT_C74676	0.801		NCIT
-LBDSF3LC	FOLFMS_G	LBDSF3LC-FOLFMS_G	5-Formyl-tetrahydrofolate cmt	Leucovorin Calcium	NCIT:C607	http://purl.obolibrary.org/obo/NCIT_C607	0.807		NCIT
-LBDSF3LC	FOLFMS_H	LBDSF3LC-FOLFMS_H	5-Formyl-tetrahydrofolate cmt	Leucovorin Calcium	NCIT:C607	http://purl.obolibrary.org/obo/NCIT_C607	0.807		NCIT
-LBDSF3LC	FOLFMS_I	LBDSF3LC-FOLFMS_I	5-Formyl-tetrahydrofolate cmt	Leucovorin Calcium	NCIT:C607	http://purl.obolibrary.org/obo/NCIT_C607	0.807		NCIT
-LBDSF3LC	FOLFMS_J	LBDSF3LC-FOLFMS_J	5-Formyl-tetrahydrofolate cmt	Leucovorin Calcium	NCIT:C607	http://purl.obolibrary.org/obo/NCIT_C607	0.807		NCIT
+LBDSF3LC	FOLFMS_G	LBDSF3LC-FOLFMS_G	5-Formyl-tetrahydrofolate cmt	Leucovorin Calcium	NCIT:C607	http://purl.obolibrary.org/obo/NCIT_C607	0.806		NCIT
+LBDSF3LC	FOLFMS_H	LBDSF3LC-FOLFMS_H	5-Formyl-tetrahydrofolate cmt	Leucovorin Calcium	NCIT:C607	http://purl.obolibrary.org/obo/NCIT_C607	0.806		NCIT
+LBDSF3LC	FOLFMS_I	LBDSF3LC-FOLFMS_I	5-Formyl-tetrahydrofolate cmt	Leucovorin Calcium	NCIT:C607	http://purl.obolibrary.org/obo/NCIT_C607	0.806		NCIT
+LBDSF3LC	FOLFMS_J	LBDSF3LC-FOLFMS_J	5-Formyl-tetrahydrofolate cmt	Leucovorin Calcium	NCIT:C607	http://purl.obolibrary.org/obo/NCIT_C607	0.806		NCIT
 LBDSGBSI	LAB18	LBDSGBSI-LAB18	Globulin (g/L)	Serum Globulin	NCIT:C17125	http://purl.obolibrary.org/obo/NCIT_C17125	0.949		NCIT
 LBDSGBSI	L40_B	LBDSGBSI-L40_B	Globulin (g/L)	Serum Globulin	NCIT:C17125	http://purl.obolibrary.org/obo/NCIT_C17125	0.949		NCIT
 LBDSGBSI	L40_C	LBDSGBSI-L40_C	Globulin (g/L)	Serum Globulin	NCIT:C17125	http://purl.obolibrary.org/obo/NCIT_C17125	0.949		NCIT
@@ -3936,7 +3878,7 @@ LBDSHGLC	TST_H	LBDSHGLC-TST_H	SHBG	sex hormone-binding globulin	EFO:0003941	http
 LBDSHGLC	TST_H	LBDSHGLC-TST_H	SHBG	Sex Hormone Binding Protein Measurement	NCIT:C74745	http://purl.obolibrary.org/obo/NCIT_C74745	0.999	comment	NCIT
 LBDSHGLC	TST_I	LBDSHGLC-TST_I	SHBG	sex hormone-binding globulin	EFO:0003941	http://www.ebi.ac.uk/efo/EFO_0003941	0.999	comment	EFO
 LBDSHGLC	TST_I	LBDSHGLC-TST_I	SHBG	Sex Hormone Binding Protein Measurement	NCIT:C74745	http://purl.obolibrary.org/obo/NCIT_C74745	0.999	comment	NCIT
-LBDSLDSI	L40_B	LBDSLDSI-L40_B	LDH (U/L)	Lactate Dehydrogenase Measurement	NCIT:C64855	http://purl.obolibrary.org/obo/NCIT_C64855	0.861		NCIT
+LBDSLDSI	L40_B	LBDSLDSI-L40_B	LDH (U/L)	Lactate Dehydrogenase Measurement	NCIT:C64855	http://purl.obolibrary.org/obo/NCIT_C64855	0.86		NCIT
 LBDSPH	L40_B	LBDSPH-L40_B	Phosphorus (mg/dL)	Dietary Phosphorus	NCIT:C68277	http://purl.obolibrary.org/obo/NCIT_C68277	0.905		NCIT
 LBDSPHSI	LAB18	LBDSPHSI-LAB18	Phosphorus (mmol/L)	Dietary Phosphorus	NCIT:C68277	http://purl.obolibrary.org/obo/NCIT_C68277	0.879		NCIT
 LBDSPHSI	L40_B	LBDSPHSI-L40_B	Phosphorus (mmol/L)	Dietary Phosphorus	NCIT:C68277	http://purl.obolibrary.org/obo/NCIT_C68277	0.879		NCIT
@@ -4532,7 +4474,7 @@ LBXHSCRP	HSCRP_I	LBXHSCRP-HSCRP_I	HS C-Reactive Protein (mg/L)	C-Reactive Protei
 LBXHSCRP	HSCRP_J	LBXHSCRP-HSCRP_J	HS C-Reactive Protein (mg/L)	C-Reactive Protein Measurement	NCIT:C64548	http://purl.obolibrary.org/obo/NCIT_C64548	0.812		NCIT
 LBXID1	AL_IGE_D	LBXID1-AL_IGE_D	D. Pteronyssinus IgE antibody (kU/L)	Dermatophagoides pteronyssinus Antigen IgE Antibody Measurement	NCIT:C130134	http://purl.obolibrary.org/obo/NCIT_C130134	0.803		NCIT
 LBXIGG	CMV_G	LBXIGG-CMV_G	Cytomegalovirus (IgG)	Cytomegalovirus Measurement	NCIT:C184672	http://purl.obolibrary.org/obo/NCIT_C184672	0.899		NCIT
-LBXIGG	CMV_J	LBXIGG-CMV_J	Cytomegalovirus (CMV) IgG	Cytomegalovirus Measurement	NCIT:C184672	http://purl.obolibrary.org/obo/NCIT_C184672	0.823		NCIT
+LBXIGG	CMV_J	LBXIGG-CMV_J	Cytomegalovirus (CMV) IgG	Cytomegalovirus Measurement	NCIT:C184672	http://purl.obolibrary.org/obo/NCIT_C184672	0.822		NCIT
 LBXIGM	CMV_G	LBXIGM-CMV_G	Cytomegalovirus (IgM)	Cytomegalovirus Measurement	NCIT:C184672	http://purl.obolibrary.org/obo/NCIT_C184672	0.92		NCIT
 LBXIGM	CMV_J	LBXIGM-CMV_J	Cytomegalovirus (CMV) IgM	Cytomegalovirus Measurement	NCIT:C184672	http://purl.obolibrary.org/obo/NCIT_C184672	0.839		NCIT
 LBXII6	AL_IGE_D	LBXII6-AL_IGE_D	Cockroach IgE antibody (kU/L)	German Cockroach Antigen IgE Antibody Measurement	NCIT:C130140	http://purl.obolibrary.org/obo/NCIT_C130140	0.812		NCIT
@@ -4579,9 +4521,9 @@ LBXMCVSI	CBC_I	LBXMCVSI-CBC_I	Mean cell volume (fL)	mean corpuscular volume	EFO:
 LBXMCVSI	CBC_J	LBXMCVSI-CBC_J	Mean cell volume (fL)	mean corpuscular volume	EFO:0004526	http://www.ebi.ac.uk/efo/EFO_0004526	0.891		EFO
 LBXMD1	L35_B	LBXMD1-L35_B	Ciprofloxacin 1	Ciprofloxacin	NCIT:C375	http://purl.obolibrary.org/obo/NCIT_C375	0.964		NCIT
 LBXMD2	L35_B	LBXMD2-L35_B	Ciprofloxacin 2	Ciprofloxacin	NCIT:C375	http://purl.obolibrary.org/obo/NCIT_C375	0.968		NCIT
-LBXME	LAB19	LBXME-LAB19	Measles	measles	EFO:1002025	http://www.ebi.ac.uk/efo/EFO_1002025	0.993		EFO
-LBXME	L19_B	LBXME-L19_B	Measles	measles	EFO:1002025	http://www.ebi.ac.uk/efo/EFO_1002025	0.993		EFO
-LBXME	L19_C	LBXME-L19_C	Measles	measles	EFO:1002025	http://www.ebi.ac.uk/efo/EFO_1002025	0.993		EFO
+LBXME	LAB19	LBXME-LAB19	Measles	measles	EFO:1002025	http://www.ebi.ac.uk/efo/EFO_1002025	0.994		EFO
+LBXME	L19_B	LBXME-L19_B	Measles	measles	EFO:1002025	http://www.ebi.ac.uk/efo/EFO_1002025	0.994		EFO
+LBXME	L19_C	LBXME-L19_C	Measles	measles	EFO:1002025	http://www.ebi.ac.uk/efo/EFO_1002025	0.994		EFO
 LBXME1	L35_B	LBXME1-L35_B	Erythromycin 1	Erythromycin	NCIT:C476	http://purl.obolibrary.org/obo/NCIT_C476	0.975		NCIT
 LBXME1	L35_C	LBXME1-L35_C	Erythromycin 1	Erythromycin	NCIT:C476	http://purl.obolibrary.org/obo/NCIT_C476	0.975		NCIT
 LBXME2	L35_B	LBXME2-L35_B	Erythromycin 2	Erythromycin	NCIT:C476	http://purl.obolibrary.org/obo/NCIT_C476	0.978		NCIT
@@ -4642,8 +4584,8 @@ LBXMR2	L35_C	LBXMR2-L35_C	Rifampin 2	Rifampin	NCIT:C811	http://purl.obolibrary.o
 LBXMT1	L35_B	LBXMT1-L35_B	Tetracycline 1	Tetracycline	NCIT:C865	http://purl.obolibrary.org/obo/NCIT_C865	0.95		NCIT
 LBXMT1	L35_C	LBXMT1-L35_C	Tetracycline 1	Tetracycline	NCIT:C865	http://purl.obolibrary.org/obo/NCIT_C865	0.95		NCIT
 LBXMUM	MMRV_F	LBXMUM-MMRV_F	Mumps antibody (IgG)	Mumps Virus IgG Antibody Measurement	NCIT:C122136	http://purl.obolibrary.org/obo/NCIT_C122136	0.893		NCIT
-LBXMV1	L35_B	LBXMV1-L35_B	Vancomycin 1	Vancomycin	NCIT:C925	http://purl.obolibrary.org/obo/NCIT_C925	0.968		NCIT
-LBXMV1	L35_C	LBXMV1-L35_C	Vancomycin 1	Vancomycin	NCIT:C925	http://purl.obolibrary.org/obo/NCIT_C925	0.968		NCIT
+LBXMV1	L35_B	LBXMV1-L35_B	Vancomycin 1	Vancomycin	NCIT:C925	http://purl.obolibrary.org/obo/NCIT_C925	0.969		NCIT
+LBXMV1	L35_C	LBXMV1-L35_C	Vancomycin 1	Vancomycin	NCIT:C925	http://purl.obolibrary.org/obo/NCIT_C925	0.969		NCIT
 LBXMV2	L35_B	LBXMV2-L35_B	Vancomycin 2	Vancomycin	NCIT:C925	http://purl.obolibrary.org/obo/NCIT_C925	0.972		NCIT
 LBXMV2	L35_C	LBXMV2-L35_C	Vancomycin 2	Vancomycin	NCIT:C925	http://purl.obolibrary.org/obo/NCIT_C925	0.972		NCIT
 LBXMZ1	L35_B	LBXMZ1-L35_B	Trimethoprim/Sulfamethoxazole 1	Trimethoprim-Sulfamethoxazole	NCIT:C909	http://purl.obolibrary.org/obo/NCIT_C909	0.862		NCIT
@@ -4781,13 +4723,13 @@ LBXSGB	BIOPRO_H	LBXSGB-BIOPRO_H	Globulin (g/dL)	Serum Globulin	NCIT:C17125	http:
 LBXSGB	BIOPRO_I	LBXSGB-BIOPRO_I	Globulin (g/dL)	Serum Globulin	NCIT:C17125	http://purl.obolibrary.org/obo/NCIT_C17125	0.907		NCIT
 LBXSGB	BIOPRO_J	LBXSGB-BIOPRO_J	Globulin (g/dL)	Serum Globulin	NCIT:C17125	http://purl.obolibrary.org/obo/NCIT_C17125	0.907		NCIT
 LBXSGL	LAB18	LBXSGL-LAB18	Glucose (mg/dL)	Glucose	NCIT:C2831	http://purl.obolibrary.org/obo/NCIT_C2831	0.864		NCIT
-LBXSGTSI	L40_C	LBXSGTSI-L40_C	Gamma glutamyl transferase (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.957		NCIT
-LBXSGTSI	BIOPRO_D	LBXSGTSI-BIOPRO_D	Gamma glutamyl transferase (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.957		NCIT
-LBXSGTSI	BIOPRO_E	LBXSGTSI-BIOPRO_E	Gamma glutamyl transferase (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.957		NCIT
-LBXSGTSI	BIOPRO_F	LBXSGTSI-BIOPRO_F	Gamma glutamyl transferase (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.957		NCIT
-LBXSGTSI	BIOPRO_G	LBXSGTSI-BIOPRO_G	Gamma glutamyl transferase (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.957		NCIT
-LBXSGTSI	BIOPRO_H	LBXSGTSI-BIOPRO_H	Gamma glutamyl transferase (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.957		NCIT
-LBXSGTSI	LAB18	LBXSGTSI-LAB18	GGT (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.888		NCIT
+LBXSGTSI	L40_C	LBXSGTSI-L40_C	Gamma glutamyl transferase (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.956		NCIT
+LBXSGTSI	BIOPRO_D	LBXSGTSI-BIOPRO_D	Gamma glutamyl transferase (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.956		NCIT
+LBXSGTSI	BIOPRO_E	LBXSGTSI-BIOPRO_E	Gamma glutamyl transferase (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.956		NCIT
+LBXSGTSI	BIOPRO_F	LBXSGTSI-BIOPRO_F	Gamma glutamyl transferase (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.956		NCIT
+LBXSGTSI	BIOPRO_G	LBXSGTSI-BIOPRO_G	Gamma glutamyl transferase (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.956		NCIT
+LBXSGTSI	BIOPRO_H	LBXSGTSI-BIOPRO_H	Gamma glutamyl transferase (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.956		NCIT
+LBXSGTSI	LAB18	LBXSGTSI-LAB18	GGT (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.887		NCIT
 LBXSGTSI	BIOPRO_I	LBXSGTSI-BIOPRO_I	Gamma Glutamyl Transferase (GGT) (U/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.856		NCIT
 LBXSGTSI	BIOPRO_J	LBXSGTSI-BIOPRO_J	Gamma Glutamyl Transferase (GGT) (IU/L)	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	0.836		NCIT
 LBXSHBG	TST_H	LBXSHBG-TST_H	SHBG (nmol/L)	sex hormone-binding globulin	EFO:0003941	http://www.ebi.ac.uk/efo/EFO_0003941	0.833		EFO
@@ -4806,7 +4748,7 @@ LBXSKSI	BIOPRO_J	LBXSKSI-BIOPRO_J	Potassium (mmol/L)	Potassium	NCIT:C765	http://
 LBXSLDSI	BIOPRO_F	LBXSLDSI-BIOPRO_F	Lactate dehydrogenase (U/L)	Lactate Dehydrogenase Measurement	NCIT:C64855	http://purl.obolibrary.org/obo/NCIT_C64855	0.937		NCIT
 LBXSLDSI	BIOPRO_G	LBXSLDSI-BIOPRO_G	Lactate dehydrogenase (U/L)	Lactate Dehydrogenase Measurement	NCIT:C64855	http://purl.obolibrary.org/obo/NCIT_C64855	0.937		NCIT
 LBXSLDSI	BIOPRO_H	LBXSLDSI-BIOPRO_H	Lactate dehydrogenase (U/L)	Lactate Dehydrogenase Measurement	NCIT:C64855	http://purl.obolibrary.org/obo/NCIT_C64855	0.937		NCIT
-LBXSLDSI	LAB18	LBXSLDSI-LAB18	LDH (U/L)	Lactate Dehydrogenase Measurement	NCIT:C64855	http://purl.obolibrary.org/obo/NCIT_C64855	0.861		NCIT
+LBXSLDSI	LAB18	LBXSLDSI-LAB18	LDH (U/L)	Lactate Dehydrogenase Measurement	NCIT:C64855	http://purl.obolibrary.org/obo/NCIT_C64855	0.86		NCIT
 LBXSLDSI	L40_C	LBXSLDSI-L40_C	Lactate dehydrogenase LDH (U/L)	Lactate Dehydrogenase Measurement	NCIT:C64855	http://purl.obolibrary.org/obo/NCIT_C64855	0.816		NCIT
 LBXSLDSI	BIOPRO_D	LBXSLDSI-BIOPRO_D	Lactate dehydrogenase LDH (U/L)	Lactate Dehydrogenase Measurement	NCIT:C64855	http://purl.obolibrary.org/obo/NCIT_C64855	0.816		NCIT
 LBXSLDSI	BIOPRO_E	LBXSLDSI-BIOPRO_E	Lactate dehydrogenase LDH (U/L)	Lactate Dehydrogenase Measurement	NCIT:C64855	http://purl.obolibrary.org/obo/NCIT_C64855	0.816		NCIT
@@ -4870,9 +4812,9 @@ LBXSTR	BIOPRO_G	LBXSTR-BIOPRO_G	Triglycerides (mg/dL)	Triglycerides	NCIT:C906	ht
 LBXT3F	THYROD_E	LBXT3F-THYROD_E	Triiodothyronine (T3) free (pg/mL)	Free Triiodothyronine Measurement	NCIT:C74787	http://purl.obolibrary.org/obo/NCIT_C74787	0.817		NCIT
 LBXT3F	THYROD_F	LBXT3F-THYROD_F	Triiodothyronine (T3) free (pg/mL)	Free Triiodothyronine Measurement	NCIT:C74787	http://purl.obolibrary.org/obo/NCIT_C74787	0.817		NCIT
 LBXT3F	THYROD_G	LBXT3F-THYROD_G	Triiodothyronine (T3) free (pg/mL)	Free Triiodothyronine Measurement	NCIT:C74787	http://purl.obolibrary.org/obo/NCIT_C74787	0.817		NCIT
-LBXT4F	THYROD_E	LBXT4F-THYROD_E	Thyroxine free (ng/dL)	Free Thyroxine Measurement	NCIT:C74786	http://purl.obolibrary.org/obo/NCIT_C74786	0.829		NCIT
-LBXT4F	THYROD_F	LBXT4F-THYROD_F	Thyroxine free (ng/dL)	Free Thyroxine Measurement	NCIT:C74786	http://purl.obolibrary.org/obo/NCIT_C74786	0.829		NCIT
-LBXT4F	THYROD_G	LBXT4F-THYROD_G	Thyroxine free (ng/dL)	Free Thyroxine Measurement	NCIT:C74786	http://purl.obolibrary.org/obo/NCIT_C74786	0.829		NCIT
+LBXT4F	THYROD_E	LBXT4F-THYROD_E	Thyroxine free (ng/dL)	Free Thyroxine Measurement	NCIT:C74786	http://purl.obolibrary.org/obo/NCIT_C74786	0.83		NCIT
+LBXT4F	THYROD_F	LBXT4F-THYROD_F	Thyroxine free (ng/dL)	Free Thyroxine Measurement	NCIT:C74786	http://purl.obolibrary.org/obo/NCIT_C74786	0.83		NCIT
+LBXT4F	THYROD_G	LBXT4F-THYROD_G	Thyroxine free (ng/dL)	Free Thyroxine Measurement	NCIT:C74786	http://purl.obolibrary.org/obo/NCIT_C74786	0.83		NCIT
 LBXTC	Lab13	LBXTC-Lab13	Total cholesterol (mg/dL)	Serum Total Cholesterol Measurement	NCIT:C61032	http://purl.obolibrary.org/obo/NCIT_C61032	0.891		NCIT
 LBXTC	l13_b	LBXTC-l13_b	Total cholesterol (mg/dL)	Serum Total Cholesterol Measurement	NCIT:C61032	http://purl.obolibrary.org/obo/NCIT_C61032	0.891		NCIT
 LBXTC	l13_c	LBXTC-l13_c	Total Cholesterol (mg/dL)	Serum Total Cholesterol Measurement	NCIT:C61032	http://purl.obolibrary.org/obo/NCIT_C61032	0.891		NCIT
@@ -5137,12 +5079,12 @@ MCQ160D	MCQ_C	MCQ160D-MCQ_C	Ever told you had angina/angina pectoris	Angina	NCIT
 MCQ160D	MCQ_D	MCQ160D-MCQ_D	Ever told you had angina/angina pectoris	Angina	NCIT:C51221	http://purl.obolibrary.org/obo/NCIT_C51221	0.83		NCIT
 MCQ160D	MCQ_E	MCQ160D-MCQ_E	Ever told you had angina/angina pectoris	Angina	NCIT:C51221	http://purl.obolibrary.org/obo/NCIT_C51221	0.83		NCIT
 MCQ160D	MCQ_F	MCQ160D-MCQ_F	Ever told you had angina/angina pectoris	Angina	NCIT:C51221	http://purl.obolibrary.org/obo/NCIT_C51221	0.83		NCIT
-MCQ160K	MCQ	MCQ160K-MCQ	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.815		NCIT
-MCQ160K	MCQ_B	MCQ160K-MCQ_B	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.815		NCIT
-MCQ160K	MCQ_C	MCQ160K-MCQ_C	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.815		NCIT
-MCQ160K	MCQ_D	MCQ160K-MCQ_D	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.815		NCIT
-MCQ160K	MCQ_E	MCQ160K-MCQ_E	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.815		NCIT
-MCQ160K	MCQ_F	MCQ160K-MCQ_F	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.815		NCIT
+MCQ160K	MCQ	MCQ160K-MCQ	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.814		NCIT
+MCQ160K	MCQ_B	MCQ160K-MCQ_B	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.814		NCIT
+MCQ160K	MCQ_C	MCQ160K-MCQ_C	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.814		NCIT
+MCQ160K	MCQ_D	MCQ160K-MCQ_D	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.814		NCIT
+MCQ160K	MCQ_E	MCQ160K-MCQ_E	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.814		NCIT
+MCQ160K	MCQ_F	MCQ160K-MCQ_F	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.814		NCIT
 MCQ160b	MCQ_G	MCQ160b-MCQ_G	congestive heart failure	Congestive Heart Failure	NCIT:C3080	http://purl.obolibrary.org/obo/NCIT_C3080	0.993		NCIT
 MCQ160b	MCQ_H	MCQ160b-MCQ_H	congestive heart failure	Congestive Heart Failure	NCIT:C3080	http://purl.obolibrary.org/obo/NCIT_C3080	0.993		NCIT
 MCQ160b	MCQ_I	MCQ160b-MCQ_I	congestive heart failure	Congestive Heart Failure	NCIT:C3080	http://purl.obolibrary.org/obo/NCIT_C3080	0.993		NCIT
@@ -5151,14 +5093,15 @@ MCQ160d	MCQ_G	MCQ160d-MCQ_G	Ever told you had angina/angina pectoris	Angina	NCIT
 MCQ160d	MCQ_H	MCQ160d-MCQ_H	Ever told you had angina/angina pectoris	Angina	NCIT:C51221	http://purl.obolibrary.org/obo/NCIT_C51221	0.83		NCIT
 MCQ160d	MCQ_I	MCQ160d-MCQ_I	Ever told you had angina/angina pectoris	Angina	NCIT:C51221	http://purl.obolibrary.org/obo/NCIT_C51221	0.83		NCIT
 MCQ160d	MCQ_J	MCQ160d-MCQ_J	Ever told you had angina/angina pectoris	Angina	NCIT:C51221	http://purl.obolibrary.org/obo/NCIT_C51221	0.83		NCIT
-MCQ160k	MCQ_G	MCQ160k-MCQ_G	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.815		NCIT
-MCQ160k	MCQ_H	MCQ160k-MCQ_H	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.815		NCIT
-MCQ160k	MCQ_I	MCQ160k-MCQ_I	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.815		NCIT
-MCQ160k	MCQ_J	MCQ160k-MCQ_J	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.815		NCIT
+MCQ160k	MCQ_G	MCQ160k-MCQ_G	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.814		NCIT
+MCQ160k	MCQ_H	MCQ160k-MCQ_H	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.814		NCIT
+MCQ160k	MCQ_I	MCQ160k-MCQ_I	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.814		NCIT
+MCQ160k	MCQ_J	MCQ160k-MCQ_J	Ever told you had chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.814		NCIT
 MCQ170H	MCQ	MCQ170H-MCQ	 goiter	Goiter	NCIT:C26785	http://purl.obolibrary.org/obo/NCIT_C26785	0.996		NCIT
 MCQ170I	MCQ	MCQ170I-MCQ	thyroid disease	thyroid disease	EFO:1000627	http://www.ebi.ac.uk/efo/EFO_1000627	0.985	age	EFO
 MCQ170K	MCQ	MCQ170K-MCQ	chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.991		NCIT
 MCQ170K	MCQ_B	MCQ170K-MCQ_B	chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.991		NCIT
+MCQ170K	MCQ_C	MCQ170K-MCQ_C	chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.991		NCIT
 MCQ170K	MCQ_D	MCQ170K-MCQ_D	chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.991		NCIT
 MCQ170K	MCQ_E	MCQ170K-MCQ_E	chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.991		NCIT
 MCQ170K	MCQ_F	MCQ170K-MCQ_F	chronic bronchitis	Chronic Bronchitis	NCIT:C26722	http://purl.obolibrary.org/obo/NCIT_C26722	0.991		NCIT
@@ -5417,9 +5360,9 @@ MGD130	MGX_G	MGD130-MGX_G	Dominant hand	Dominant Hand	NCIT:C114182	http://purl.o
 MGD130	MGX_H	MGD130-MGX_H	Dominant hand	Dominant Hand	NCIT:C114182	http://purl.obolibrary.org/obo/NCIT_C114182	0.988		NCIT
 MGDCGSZ	MGX_G	MGDCGSZ-MGX_G	Combined grip strength (kg)	Grip Strength	NCIT:C139210	http://purl.obolibrary.org/obo/NCIT_C139210	0.876		NCIT
 MGDCGSZ	MGX_H	MGDCGSZ-MGX_H	Combined grip strength (kg)	Grip Strength	NCIT:C139210	http://purl.obolibrary.org/obo/NCIT_C139210	0.876		NCIT
-MPQ010	MPQ	MPQ010-MPQ	Joint pain/aching/stiffness	Joint Stiffness	NCIT:C79603	http://purl.obolibrary.org/obo/NCIT_C79603	0.816		NCIT
-MPQ010	MPQ_B	MPQ010-MPQ_B	Joint pain/aching/stiffness	Joint Stiffness	NCIT:C79603	http://purl.obolibrary.org/obo/NCIT_C79603	0.816		NCIT
-MPQ010	MPQ_C	MPQ010-MPQ_C	Joint pain/aching/stiffness	Joint Stiffness	NCIT:C79603	http://purl.obolibrary.org/obo/NCIT_C79603	0.816		NCIT
+MPQ010	MPQ	MPQ010-MPQ	Joint pain/aching/stiffness	Joint Stiffness	NCIT:C79603	http://purl.obolibrary.org/obo/NCIT_C79603	0.817		NCIT
+MPQ010	MPQ_B	MPQ010-MPQ_B	Joint pain/aching/stiffness	Joint Stiffness	NCIT:C79603	http://purl.obolibrary.org/obo/NCIT_C79603	0.817		NCIT
+MPQ010	MPQ_C	MPQ010-MPQ_C	Joint pain/aching/stiffness	Joint Stiffness	NCIT:C79603	http://purl.obolibrary.org/obo/NCIT_C79603	0.817		NCIT
 MPQ070	MPQ	MPQ070-MPQ	Low back pain	Low back pain	HP:0003419	http://purl.obolibrary.org/obo/HP_0003419	0.99		EFO
 MPQ070	MPQ_B	MPQ070-MPQ_B	Low back pain	Low back pain	HP:0003419	http://purl.obolibrary.org/obo/HP_0003419	0.99		EFO
 MPQ070	MPQ_C	MPQ070-MPQ_C	Low back pain	Low back pain	HP:0003419	http://purl.obolibrary.org/obo/HP_0003419	0.99		EFO
@@ -5530,9 +5473,9 @@ OHX08DI	OHXDEN_C	OHX08DI-OHXDEN_C	Fluorosis DI: #8	Dental Fluorosis	NCIT:C85059	
 OHX09DI	OHXDENT	OHX09DI-OHXDENT	Fluorosis DI: #9	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.841		NCIT
 OHX09DI	OHXDEN_B	OHX09DI-OHXDEN_B	Fluorosis DI: #9	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.841		NCIT
 OHX09DI	OHXDEN_C	OHX09DI-OHXDEN_C	Fluorosis DI: #9	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.841		NCIT
-OHX10DI	OHXDENT	OHX10DI-OHXDENT	Fluorosis DI: #10	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.814		NCIT
-OHX10DI	OHXDEN_B	OHX10DI-OHXDEN_B	Fluorosis DI: #10	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.814		NCIT
-OHX10DI	OHXDEN_C	OHX10DI-OHXDEN_C	Fluorosis DI: #10	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.814		NCIT
+OHX10DI	OHXDENT	OHX10DI-OHXDENT	Fluorosis DI: #10	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.815		NCIT
+OHX10DI	OHXDEN_B	OHX10DI-OHXDEN_B	Fluorosis DI: #10	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.815		NCIT
+OHX10DI	OHXDEN_C	OHX10DI-OHXDEN_C	Fluorosis DI: #10	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.815		NCIT
 OHX11DI	OHXDENT	OHX11DI-OHXDENT	Fluorosis DI: #11	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.807		NCIT
 OHX11DI	OHXDEN_B	OHX11DI-OHXDEN_B	Fluorosis DI: #11	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.807		NCIT
 OHX11DI	OHXDEN_C	OHX11DI-OHXDEN_C	Fluorosis DI: #11	Dental Fluorosis	NCIT:C85059	http://purl.obolibrary.org/obo/NCIT_C85059	0.807		NCIT
@@ -6074,8 +6017,8 @@ SLQ070D	SLQ_D	SLQ070D-SLQ_D	Sleep disorder: Other	Sleep Disorder	NCIT:C3376	http
 SLQ070D	SLQ_E	SLQ070D-SLQ_E	Sleep disorder: Other	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.99		NCIT
 SLQ080	SLQ_D	SLQ080-SLQ_D	have trouble falling asleep?	Have Trouble Going To Sleep	NCIT:C136371	http://purl.obolibrary.org/obo/NCIT_C136371	0.994		NCIT
 SLQ080	SLQ_E	SLQ080-SLQ_E	have trouble falling asleep?	Have Trouble Going To Sleep	NCIT:C136371	http://purl.obolibrary.org/obo/NCIT_C136371	0.994		NCIT
-SLQ170	SLQ_D	SLQ170-SLQ_D	Difficulty concentrating when tired	Bothered by Difficulty Concentrating	NCIT:C125677	http://purl.obolibrary.org/obo/NCIT_C125677	0.826		NCIT
-SLQ170	SLQ_E	SLQ170-SLQ_E	Difficulty concentrating when tired	Bothered by Difficulty Concentrating	NCIT:C125677	http://purl.obolibrary.org/obo/NCIT_C125677	0.826		NCIT
+SLQ170	SLQ_D	SLQ170-SLQ_D	Difficulty concentrating when tired	Bothered by Difficulty Concentrating	NCIT:C125677	http://purl.obolibrary.org/obo/NCIT_C125677	0.825		NCIT
+SLQ170	SLQ_E	SLQ170-SLQ_E	Difficulty concentrating when tired	Bothered by Difficulty Concentrating	NCIT:C125677	http://purl.obolibrary.org/obo/NCIT_C125677	0.825		NCIT
 SMD030	SMQ_C	SMD030-SMQ_C	smoking cigarettes regularly	Never Smoked Cigarettes Regularly	NCIT:C127062	http://purl.obolibrary.org/obo/NCIT_C127062	0.805	age	NCIT
 SMD030	SMQ_D	SMD030-SMQ_D	smoking cigarettes regularly	Never Smoked Cigarettes Regularly	NCIT:C127062	http://purl.obolibrary.org/obo/NCIT_C127062	0.805	age	NCIT
 SMD030	SMQ_E	SMD030-SMQ_E	smoking cigarettes regularly	Never Smoked Cigarettes Regularly	NCIT:C127062	http://purl.obolibrary.org/obo/NCIT_C127062	0.805	age	NCIT
@@ -6236,9 +6179,9 @@ SMQ930	SMQ_I	SMQ930-SMQ_I	Age smoked first cigarette	Age When First Smoked a Cig
 SPATTYPE	SPXRAW_E	SPATTYPE-SPXRAW_E	Pre or Post Bronchodilator Test	Bronchodilator	NCIT:C319	http://purl.obolibrary.org/obo/NCIT_C319	0.836		NCIT
 SPATTYPE	SPXRAW_F	SPATTYPE-SPXRAW_F	Pre or Post Bronchodilator Test	Bronchodilator	NCIT:C319	http://purl.obolibrary.org/obo/NCIT_C319	0.836		NCIT
 SPATTYPE	SPXRAW_G	SPATTYPE-SPXRAW_G	Pre or Post Bronchodilator Test	Bronchodilator	NCIT:C319	http://purl.obolibrary.org/obo/NCIT_C319	0.836		NCIT
-SPDBRONC	SPX_E	SPDBRONC-SPX_E	Selected for Bronchodilator	Bronchodilator	NCIT:C319	http://purl.obolibrary.org/obo/NCIT_C319	0.829		NCIT
-SPDBRONC	SPX_F	SPDBRONC-SPX_F	Selected for Bronchodilator	Bronchodilator	NCIT:C319	http://purl.obolibrary.org/obo/NCIT_C319	0.829		NCIT
-SPDBRONC	SPX_G	SPDBRONC-SPX_G	Selected for Bronchodilator	Bronchodilator	NCIT:C319	http://purl.obolibrary.org/obo/NCIT_C319	0.829		NCIT
+SPDBRONC	SPX_E	SPDBRONC-SPX_E	Selected for Bronchodilator	Bronchodilator	NCIT:C319	http://purl.obolibrary.org/obo/NCIT_C319	0.828		NCIT
+SPDBRONC	SPX_F	SPDBRONC-SPX_F	Selected for Bronchodilator	Bronchodilator	NCIT:C319	http://purl.obolibrary.org/obo/NCIT_C319	0.828		NCIT
+SPDBRONC	SPX_G	SPDBRONC-SPX_G	Selected for Bronchodilator	Bronchodilator	NCIT:C319	http://purl.obolibrary.org/obo/NCIT_C319	0.828		NCIT
 SPQ060	SPX_E	SPQ060-SPX_E	Tuberculosis in last year	Tuberculosis	NCIT:C3423	http://purl.obolibrary.org/obo/NCIT_C3423	0.872		NCIT
 SPQ060	SPX_F	SPQ060-SPX_F	Tuberculosis in last year	Tuberculosis	NCIT:C3423	http://purl.obolibrary.org/obo/NCIT_C3423	0.872		NCIT
 SPQ060	SPX_G	SPQ060-SPX_G	Tuberculosis in last year	Tuberculosis	NCIT:C3423	http://purl.obolibrary.org/obo/NCIT_C3423	0.872		NCIT
@@ -6322,9 +6265,9 @@ SSKLOTH	SSKL_F	SSKLOTH-SSKL_F	Klotho (pg/ml)	Klotho	NCIT:C98116	http://purl.obol
 SSKLOTH	SSKL_G	SSKLOTH-SSKL_G	Klotho (pg/ml)	Klotho	NCIT:C98116	http://purl.obolibrary.org/obo/NCIT_C98116	0.889		NCIT
 SSKLOTH	SSKL_H	SSKLOTH-SSKL_H	Klotho (pg/ml)	Klotho	NCIT:C98116	http://purl.obolibrary.org/obo/NCIT_C98116	0.889		NCIT
 SSKLOTH	SSKL_I	SSKLOTH-SSKL_I	Klotho (pg/ml)	Klotho	NCIT:C98116	http://purl.obolibrary.org/obo/NCIT_C98116	0.889		NCIT
-SSKL_R	SSOL_A	SSKL_R-SSOL_A	K/L Ratio	Ratio Result Type	NCIT:C179809	http://purl.obolibrary.org/obo/NCIT_C179809	0.829		NCIT
-SSKL_R	SSOL_B	SSKL_R-SSOL_B	K/L Ratio	Ratio Result Type	NCIT:C179809	http://purl.obolibrary.org/obo/NCIT_C179809	0.829		NCIT
-SSKL_R	SSOL_C	SSKL_R-SSOL_C	K/L Ratio	Ratio Result Type	NCIT:C179809	http://purl.obolibrary.org/obo/NCIT_C179809	0.829		NCIT
+SSKL_R	SSOL_A	SSKL_R-SSOL_A	K/L Ratio	Ratio Result Type	NCIT:C179809	http://purl.obolibrary.org/obo/NCIT_C179809	0.83		NCIT
+SSKL_R	SSOL_B	SSKL_R-SSOL_B	K/L Ratio	Ratio Result Type	NCIT:C179809	http://purl.obolibrary.org/obo/NCIT_C179809	0.83		NCIT
+SSKL_R	SSOL_C	SSKL_R-SSOL_C	K/L Ratio	Ratio Result Type	NCIT:C179809	http://purl.obolibrary.org/obo/NCIT_C179809	0.83		NCIT
 SSK_FLC	SSOL_A	SSK_FLC-SSOL_A	Kappa FLC	SARS Coronavirus 2 B.1.617.1	NCIT:C179585	http://purl.obolibrary.org/obo/NCIT_C179585	0.814		NCIT
 SSK_FLC	SSOL_B	SSK_FLC-SSOL_B	Kappa FLC	SARS Coronavirus 2 B.1.617.1	NCIT:C179585	http://purl.obolibrary.org/obo/NCIT_C179585	0.814		NCIT
 SSK_FLC	SSOL_C	SSK_FLC-SSOL_C	Kappa FLC	SARS Coronavirus 2 B.1.617.1	NCIT:C179585	http://purl.obolibrary.org/obo/NCIT_C179585	0.814		NCIT
@@ -6333,7 +6276,6 @@ SSL_FLC	SSOL_B	SSL_FLC-SSOL_B	Lambda FLC	Lambda Sutural Junction	NCIT:C86944	htt
 SSL_FLC	SSOL_C	SSL_FLC-SSOL_C	Lambda FLC	Lambda Sutural Junction	NCIT:C86944	http://purl.obolibrary.org/obo/NCIT_C86944	0.817		NCIT
 SSMEL	SSMEL_C	SSMEL-SSMEL_C	Melamine	Pentamethylmelamine	NCIT:C1189	http://purl.obolibrary.org/obo/NCIT_C1189	0.995		NCIT
 SSMET	SSFOL_A	SSMET-SSFOL_A	Methyltetrahydrofolate ng/ml	L-methylfolate	NCIT:C107240	http://purl.obolibrary.org/obo/NCIT_C107240	0.85		NCIT
-SSMICHP	SSANA2_G	SSMICHP-SSANA2_G	mitotic chromosomes positive	Mitotic Chromosome	NCIT:C13430	http://purl.obolibrary.org/obo/NCIT_C13430	0.8		NCIT
 SSMIR	SSPST_B	SSMIR-SSPST_B	MIREX	Mirex	NCIT:C44404	http://purl.obolibrary.org/obo/NCIT_C44404	0.973		NCIT
 SSMUCAL	SSUVOC_J	SSMUCAL-SSUVOC_J	trans trans-Muconic acid	Transition Rule	NCIT:C82567	http://purl.obolibrary.org/obo/NCIT_C82567	0.805	comment	NCIT
 SSNUENVP	SSANA2_G	SSNUENVP-SSANA2_G	nuclear envelope positive	Nuclear Membrane	NCIT:C13265	http://purl.obolibrary.org/obo/NCIT_C13265	0.856		NCIT
@@ -6475,10 +6417,10 @@ URDNNNLC	TSNA_H	URDNNNLC-TSNA_H	N'-Nitrosonornicotine (NNN)	Nitrosonornicotine	N
 URDNO3LC	PERNT_I	URDNO3LC-PERNT_I	Nitrate urine	Nitrate	NCIT:C80487	http://purl.obolibrary.org/obo/NCIT_C80487	0.837	comment	NCIT
 URDNO3LC	PERNTS_I	URDNO3LC-PERNTS_I	Nitrate urine	Nitrate	NCIT:C80487	http://purl.obolibrary.org/obo/NCIT_C80487	0.837	comment	NCIT
 URDNO3LC	PERNT_J	URDNO3LC-PERNT_J	Nitrate urine	Nitrate	NCIT:C80487	http://purl.obolibrary.org/obo/NCIT_C80487	0.837	comment	NCIT
-URDOPPLC	L24PP_C	URDOPPLC-L24PP_C	O-Phenyl phenol	Phenol	NCIT:C1191	http://purl.obolibrary.org/obo/NCIT_C1191	0.811	comment	NCIT
-URDOPPLC	PP_D	URDOPPLC-PP_D	O-Phenyl phenol	Phenol	NCIT:C1191	http://purl.obolibrary.org/obo/NCIT_C1191	0.811	comment	NCIT
-URDOPPLC	PP_E	URDOPPLC-PP_E	O-Phenyl phenol	Phenol	NCIT:C1191	http://purl.obolibrary.org/obo/NCIT_C1191	0.811	comment	NCIT
-URDOPPLC	PP_F	URDOPPLC-PP_F	O-Phenyl phenol	Phenol	NCIT:C1191	http://purl.obolibrary.org/obo/NCIT_C1191	0.811	comment	NCIT
+URDOPPLC	L24PP_C	URDOPPLC-L24PP_C	O-Phenyl phenol	Phenol	NCIT:C1191	http://purl.obolibrary.org/obo/NCIT_C1191	0.812	comment	NCIT
+URDOPPLC	PP_D	URDOPPLC-PP_D	O-Phenyl phenol	Phenol	NCIT:C1191	http://purl.obolibrary.org/obo/NCIT_C1191	0.812	comment	NCIT
+URDOPPLC	PP_E	URDOPPLC-PP_E	O-Phenyl phenol	Phenol	NCIT:C1191	http://purl.obolibrary.org/obo/NCIT_C1191	0.812	comment	NCIT
+URDOPPLC	PP_F	URDOPPLC-PP_F	O-Phenyl phenol	Phenol	NCIT:C1191	http://purl.obolibrary.org/obo/NCIT_C1191	0.812	comment	NCIT
 URDP01LC	PAH_D	URDP01LC-PAH_D	1-hydroxynaphthalene	Betanaphthol	NCIT:C81517	http://purl.obolibrary.org/obo/NCIT_C81517	0.817	comment	NCIT
 URDP01LC	PAH_E	URDP01LC-PAH_E	1-hydroxynaphthalene	Betanaphthol	NCIT:C81517	http://purl.obolibrary.org/obo/NCIT_C81517	0.817	comment	NCIT
 URDP01LC	PAH_F	URDP01LC-PAH_F	1-hydroxynaphthalene	Betanaphthol	NCIT:C81517	http://purl.obolibrary.org/obo/NCIT_C81517	0.817	comment	NCIT
@@ -6631,11 +6573,11 @@ URXANBT	UCOT_H	URXANBT-UCOT_H	Anabasine urine (ng/mL)	Anabasine Measurement	NCIT
 URXANBT	UCOT_I	URXANBT-UCOT_I	Anabasine urine (ng/mL)	Anabasine Measurement	NCIT:C147298	http://purl.obolibrary.org/obo/NCIT_C147298	0.864		NCIT
 URXANBT	UCOTS_I	URXANBT-UCOTS_I	Anabasine urine (ng/mL)	Anabasine Measurement	NCIT:C147298	http://purl.obolibrary.org/obo/NCIT_C147298	0.864		NCIT
 URXANBT	UCOT_J	URXANBT-UCOT_J	Anabasine urine (ng/mL)	Anabasine Measurement	NCIT:C147298	http://purl.obolibrary.org/obo/NCIT_C147298	0.864		NCIT
-URXANTT	UCOTS_H	URXANTT-UCOTS_H	Anatabine urine (ng/mL)	Anatabine	NCIT:C114277	http://purl.obolibrary.org/obo/NCIT_C114277	0.813		NCIT
-URXANTT	UCOT_H	URXANTT-UCOT_H	Anatabine urine (ng/mL)	Anatabine	NCIT:C114277	http://purl.obolibrary.org/obo/NCIT_C114277	0.813		NCIT
-URXANTT	UCOT_I	URXANTT-UCOT_I	Anatabine urine (ng/mL)	Anatabine	NCIT:C114277	http://purl.obolibrary.org/obo/NCIT_C114277	0.813		NCIT
-URXANTT	UCOTS_I	URXANTT-UCOTS_I	Anatabine urine (ng/mL)	Anatabine	NCIT:C114277	http://purl.obolibrary.org/obo/NCIT_C114277	0.813		NCIT
-URXANTT	UCOT_J	URXANTT-UCOT_J	Anatabine urine (ng/mL)	Anatabine	NCIT:C114277	http://purl.obolibrary.org/obo/NCIT_C114277	0.813		NCIT
+URXANTT	UCOTS_H	URXANTT-UCOTS_H	Anatabine urine (ng/mL)	Anatabine	NCIT:C114277	http://purl.obolibrary.org/obo/NCIT_C114277	0.812		NCIT
+URXANTT	UCOT_H	URXANTT-UCOT_H	Anatabine urine (ng/mL)	Anatabine	NCIT:C114277	http://purl.obolibrary.org/obo/NCIT_C114277	0.812		NCIT
+URXANTT	UCOT_I	URXANTT-UCOT_I	Anatabine urine (ng/mL)	Anatabine	NCIT:C114277	http://purl.obolibrary.org/obo/NCIT_C114277	0.812		NCIT
+URXANTT	UCOTS_I	URXANTT-UCOTS_I	Anatabine urine (ng/mL)	Anatabine	NCIT:C114277	http://purl.obolibrary.org/obo/NCIT_C114277	0.812		NCIT
+URXANTT	UCOT_J	URXANTT-UCOT_J	Anatabine urine (ng/mL)	Anatabine	NCIT:C114277	http://purl.obolibrary.org/obo/NCIT_C114277	0.812		NCIT
 URXAPE	L26UPP_C	URXAPE-L26UPP_C	Acephate (ug/L)	Acephate	NCIT:C163577	http://purl.obolibrary.org/obo/NCIT_C163577	0.874		NCIT
 URXAPE	CARB_D	URXAPE-CARB_D	Acephate (ug/L)	Acephate	NCIT:C163577	http://purl.obolibrary.org/obo/NCIT_C163577	0.874		NCIT
 URXAPE	CARB_E	URXAPE-CARB_E	Acephate (ug/L)	Acephate	NCIT:C163577	http://purl.obolibrary.org/obo/NCIT_C163577	0.874		NCIT
@@ -6911,5 +6853,5 @@ WHQ510U	WHQMEC_F	WHQ510U-WHQMEC_F	Other reason	Reason	NCIT:C25638	http://purl.ob
 WHQ510U	WHQMEC_G	WHQ510U-WHQMEC_G	Other reason	Reason	NCIT:C25638	http://purl.obolibrary.org/obo/NCIT_C25638	0.995		NCIT
 WTFOL2YR	FOLATE_J	WTFOL2YR-FOLATE_J	Folate and Folate Forms Weight	Folate	NCIT:C1444	http://purl.obolibrary.org/obo/NCIT_C1444	0.825		NCIT
 WTFOL2YR	FOLFMS_J	WTFOL2YR-FOLFMS_J	Folate and Folate Forms Weight	Folate	NCIT:C1444	http://purl.obolibrary.org/obo/NCIT_C1444	0.825		NCIT
-WTSC2YR	DEET_E	WTSC2YR-DEET_E	Environmental C Weights	Environmental	NCIT:C149494	http://purl.obolibrary.org/obo/NCIT_C149494	0.851		NCIT
-WTSC2YR	DEET_F	WTSC2YR-DEET_F	Environmental C Weights	Environmental	NCIT:C149494	http://purl.obolibrary.org/obo/NCIT_C149494	0.851		NCIT
+WTSC2YR	DEET_E	WTSC2YR-DEET_E	Environmental C Weights	Environmental	NCIT:C149494	http://purl.obolibrary.org/obo/NCIT_C149494	0.85		NCIT
+WTSC2YR	DEET_F	WTSC2YR-DEET_F	Environmental C Weights	Environmental	NCIT:C149494	http://purl.obolibrary.org/obo/NCIT_C149494	0.85		NCIT
