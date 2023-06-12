@@ -90,10 +90,13 @@ get_variables_in_table <- function(table_name, nhanes_data_group) {
           variable_details <- nhanesCodebook(nh_table=table_name, variable_name)
           label <- clean(variable_details['SAS Label:'])
           text <- clean(variable_details['English Text:'])
-          target <- clean(variable_details['Target:'])
-          variable_details_vector <- c(variable_name, table_name, label, text, target)
-          all_variables[nrow(all_variables) + 1, ] <- variable_details_vector
-          
+          for (i in seq_along(variable_details)) {
+            if (names(variable_details[i])=='Target:') {
+              target <- clean(variable_details[[i]])
+              variable_details_vector <- c(variable_name, table_name, label, text, target)
+              all_variables[nrow(all_variables) + 1, ] <- variable_details_vector
+            }
+          }
           variable_codebook <- variable_details[variable_name][[1]]
           variable_codebook[["ValueDescription"]] <- clean(variable_codebook[["Value Description"]])
           variable_codebook <- cbind('Table'=table_name, variable_codebook)
