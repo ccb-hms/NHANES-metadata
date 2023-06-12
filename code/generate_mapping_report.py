@@ -119,7 +119,9 @@ def _create_instances(ontology, mappings_df, source_term_id_col, source_term_sec
             else:
                 print("Null ontology term for IRI " + str(ontology_term_iri))
         if save_ontology:
-            ontology.save("mappings-owl/" + ontology.name + "_mappings.owl")
+            output_file = "mappings-owl/" + ontology.name + "_mappings.owl"
+            os.makedirs(os.path.dirname(output_file), exist_ok=True)
+            ontology.save(output_file)
 
         if use_reasoning:
             print("...reasoning over ontology...")
