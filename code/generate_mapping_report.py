@@ -1,7 +1,7 @@
 import pandas as pd
 from owlready2 import *
 
-__version__ = "0.7.0"
+__version__ = "0.7.1"
 
 BASE_IRI = "https://computationalbiomed.hms.harvard.edu/ontology/"
 
@@ -119,7 +119,7 @@ def _create_instances(ontology, mappings_df, source_term_id_col, source_term_sec
             else:
                 print("Null ontology term for IRI " + str(ontology_term_iri))
         if save_ontology:
-            ontology.save(ontology.name + "_mappings.owl")
+            ontology.save("mappings-owl/" + ontology.name + "_mappings.owl")
 
         if use_reasoning:
             print("...reasoning over ontology...")
