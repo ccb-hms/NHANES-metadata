@@ -16,7 +16,13 @@ Similarly, there are two blocklist files that denote which terms and tables are 
 `generate_ontology_tables.py` retrieves [SemanticSQL](https://github.com/INCATools/semantic-sql)-based SQL builds of ontologies and then extracts tables of interest to support ontology-based search of the mapped metadata. The tables are saved in the [ontology-tables](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-tables) folder.
 
 ## Perform Ontology-based Search of Mapped Metadata
-`ontology_annotated_data_search_py` provides a prototype search interface over the mapped NHANES metadata. It uses the ontology mappings table (generated in **2.**) and the ontology tables (generated in **3.**) to enable searching for NHANES variables that have been annotated with a given search term, or with more specific terms according to the respective ontology's class hierarchy structure. For example, search for variables annotated with _infectious disease_`EFO:0005741` and its subclasses in the EFO ontology. 
+`ontology_annotated_data_search_py` provides a prototype search interface over the mapped NHANES metadata. It uses the ontology mappings table (generated in **2.**) and the ontology tables (generated in **3.**) to enable searching for NHANES variables that have been annotated with a given search term, or with more specific terms according to the respective ontology's class hierarchy structure. For example, search for variables annotated with _infectious disease_`EFO:0005741` and its subclasses in the EFO ontology.
 
-## Other Utilities
-`run_nhanes_utilities.sh` installs the Python dependencies listed in `requirements.txt`, which are necessary to run the Python utilities described. It then executes both `generate_ontology_mappings.py` and `generate_ontology_tables.py` to obtain the _ontology-mappings_ and _ontology-tables_ folders, respectively.
+## Creating a New Release
+
+The steps to create a new release of the 'NHANES-metadata' resource:
+1. Execute `get_nhanes_metadata.Rmd` to retrieve the metadata from NHANES.
+2. Execute `run_nhanes_utilities.sh` to retrieve ontology tables, ontology mappings and their counts. 
+3. Create new release with the updated tables and file an issue in [NHANES repository](https://github.com/ccb-hms/NHANES). 
+
+The `run_nhanes_utilities.sh` script installs the Python dependencies listed in `requirements.txt`. It then executes the modules `generate_ontology_tables.py` and `generate_ontology_mappings.py` to obtain the _ontology-tables_ and _ontology-mappings_ folders, respectively.
