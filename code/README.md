@@ -25,4 +25,4 @@ The steps to create a new release of the 'NHANES-metadata' resource:
 2. Execute `run_nhanes_utilities.sh` to retrieve ontology tables, ontology mappings and their counts. 
 3. Create new release with the updated tables and file an issue in [NHANES repository](https://github.com/ccb-hms/NHANES). 
 
-The `run_nhanes_utilities.sh` script installs the Python dependencies listed in `requirements.txt`. It then executes the modules `generate_ontology_tables.py` and `generate_ontology_mappings.py` to obtain the _ontology-tables_ and _ontology-mappings_ folders, respectively.
+`run_nhanes_utilities.sh` installs the Python dependencies listed in `requirements.txt`. It then executes the modules `generate_ontology_tables.py` and `generate_ontology_mappings.py` to obtain the _ontology-tables_ and _ontology-mappings_ folders, respectively.
