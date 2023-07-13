@@ -1,4 +1,43 @@
-This folder contains NHANES metadata extracted via [code/get_nhanes_metadata.Rmd](https://github.com/ccb-hms/NHANES-metadata/blob/master/code/get_nhanes_metadata.Rmd), using the [nhanesA](https://github.com/cjendres1/nhanes) package. The outputs are three files with the extracted metadata:
-* `nhanes_tables.tsv` contains _**table**_ identifiers, descriptions, years,...
-* `nhanes_variables.tsv` contains _**variable**_ identifiers, labels, full text of questions,...
-* `nhanes_variables_codebooks.tsv` contains _**codebooks**_, which specify possible responses to questions (represented by the variables).
+This folder contains NHANES metadata tables extracted via [code/get_nhanes_metadata.Rmd](https://github.com/ccb-hms/NHANES-metadata/blob/master/code/get_nhanes_metadata.Rmd), using the [nhanesA](https://github.com/cjendres1/nhanes) package.
+
+## nhanes_tables.tsv
+
+| Table | TableName | BeginYear | EndYear | DataGroup | UseConstraints |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+
+- `Table` contains table identifiers, e.g., `BPX_I`.
+- `TableName` contains table names, e.g., `Blood Pressure`.
+- `BeginYear` and `EndYear` provide the start and end years of the survey/table.
+
+---
+
+## nhanes_variables.tsv
+
+| Variable | Table | SASLabel | EnglishText | Target | UseConstraints |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+
+- `Variable` contains variable identifiers, e.g., `BPXPTY`.
+- `Table` contains table identifiers, e.g., `BPX_I`.
+- `SASLabel` contains variable labels, e.g., `Pulse type`.
+
+---
+
+## nhanes_variables_codebooks.tsv 
+contains _**variable codebooks**_ which specify possible responses to questions (represented by the variables).
+
+| Variable | Table | CodeOrValue | ValueDescription | Count | Cumulative | SkipToItem |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+
+Similar to `nhanes_variables.tsv`:
+- `Variable` contains variable identifiers.
+- `Table` contains table identifiers.
+
+---
+
+## missing_codebooks.tsv
+contains variables that are listed by `nhanesTableVars()` but that do not have a corresponding codebook obtainable via the `nhanesCodebook()` function in nhanesA.
+
+--- 
+
+### log.txt
+contains the date/time when the metadata was downloaded, along with any errors or warning that may have occurred.
