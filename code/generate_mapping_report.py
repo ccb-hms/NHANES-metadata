@@ -1,7 +1,7 @@
 import pandas as pd
 from owlready2 import *
 
-__version__ = "0.7.1"
+__version__ = "0.7.2"
 
 BASE_IRI = "https://computationalbiomed.hms.harvard.edu/ontology/"
 
@@ -53,7 +53,6 @@ def get_mapping_counts(mappings_df, ontology_iri,
                        use_reasoning=USE_REASONING,
                        ontology_term_blocklist=TERM_BLOCKLIST):
     print(f"Computing mapping counts for {ontology_iri}...")
-    mappings_df.columns = mappings_df.columns.str.replace(' ', '')  # remove spaces from column names
     start = time.time()
     ontology_world = World()
     ontology = ontology_world.get_ontology(ontology_iri).load()
@@ -103,7 +102,10 @@ def _create_instances(ontology, mappings_df, source_term_id_col, source_term_sec
                     source_term_secondary_id = row[source_term_secondary_id_col]
                     new_instance_iri = BASE_IRI + source_term_secondary_id + "-" + source_term_id
                 else:
-                    new_instance_iri = BASE_IRI + source_term_id
+                    if "http://" in source_term_id or "https://" in source_term_id:
+                        new_instance_iri = source_term_id
+                    else:
+                        new_instance_iri = BASE_IRI + source_term_id
 
                 if ontology.world[new_instance_iri] is not None:
                     labels = ontology.world[new_instance_iri].label
@@ -119,7 +121,7 @@ def _create_instances(ontology, mappings_df, source_term_id_col, source_term_sec
             else:
                 print("Null ontology term for IRI " + str(ontology_term_iri))
         if save_ontology:
-            output_file = "mappings-owl/" + ontology.name + "_mappings.owl"
+            output_file = "mappings/" + ontology.name + "_mappings.owl"
             os.makedirs(os.path.dirname(output_file), exist_ok=True)
             ontology.save(output_file)
 
