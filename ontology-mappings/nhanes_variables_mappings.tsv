@@ -135,16 +135,16 @@ BMDAVSAD	BMX_I	BMDAVSAD-BMX_I	Average Sagittal Abdominal Diameter (cm)	Sagittal 
 BMDSADCM	BMX_G	BMDSADCM-BMX_G	Sagittal Abdominal Diameter	Sagittal Abdominal Diameter	NCIT:C87054	http://purl.obolibrary.org/obo/NCIT_C87054	0.983	comment	NCIT
 BMDSADCM	BMX_H	BMDSADCM-BMX_H	Sagittal Abdominal Diameter	Sagittal Abdominal Diameter	NCIT:C87054	http://purl.obolibrary.org/obo/NCIT_C87054	0.983	comment	NCIT
 BMDSADCM	BMX_I	BMDSADCM-BMX_I	Sagittal Abdominal Diameter	Sagittal Abdominal Diameter	NCIT:C87054	http://purl.obolibrary.org/obo/NCIT_C87054	0.983	comment	NCIT
-BMIARMC	BMX	BMIARMC-BMX	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.928	comment	EFO
-BMIARMC	BMX_B	BMIARMC-BMX_B	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.928	comment	EFO
-BMIARMC	BMX_C	BMIARMC-BMX_C	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.928	comment	EFO
-BMIARMC	BMX_D	BMIARMC-BMX_D	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.928	comment	EFO
-BMIARMC	BMX_E	BMIARMC-BMX_E	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.928	comment	EFO
-BMIARMC	BMX_F	BMIARMC-BMX_F	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.928	comment	EFO
-BMIARMC	BMX_G	BMIARMC-BMX_G	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.928	comment	EFO
-BMIARMC	BMX_H	BMIARMC-BMX_H	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.928	comment	EFO
-BMIARMC	BMX_I	BMIARMC-BMX_I	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.928	comment	EFO
-BMIARMC	BMX_J	BMIARMC-BMX_J	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.928	comment	EFO
+BMIARMC	BMX	BMIARMC-BMX	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.927	comment	EFO
+BMIARMC	BMX_B	BMIARMC-BMX_B	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.927	comment	EFO
+BMIARMC	BMX_C	BMIARMC-BMX_C	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.927	comment	EFO
+BMIARMC	BMX_D	BMIARMC-BMX_D	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.927	comment	EFO
+BMIARMC	BMX_E	BMIARMC-BMX_E	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.927	comment	EFO
+BMIARMC	BMX_F	BMIARMC-BMX_F	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.927	comment	EFO
+BMIARMC	BMX_G	BMIARMC-BMX_G	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.927	comment	EFO
+BMIARMC	BMX_H	BMIARMC-BMX_H	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.927	comment	EFO
+BMIARMC	BMX_I	BMIARMC-BMX_I	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.927	comment	EFO
+BMIARMC	BMX_J	BMIARMC-BMX_J	Arm Circumference	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.927	comment	EFO
 BMIHEAD	BMX	BMIHEAD-BMX	Head Circumference	Head Circumference	NCIT:C81255	http://purl.obolibrary.org/obo/NCIT_C81255	0.991	comment	NCIT
 BMIHEAD	BMX_B	BMIHEAD-BMX_B	Head Circumference	Head Circumference	NCIT:C81255	http://purl.obolibrary.org/obo/NCIT_C81255	0.991	comment	NCIT
 BMIHEAD	BMX_C	BMIHEAD-BMX_C	Head Circumference	Head Circumference	NCIT:C81255	http://purl.obolibrary.org/obo/NCIT_C81255	0.991	comment	NCIT
@@ -176,26 +176,26 @@ BMIWAIST	BMX_G	BMIWAIST-BMX_G	Waist Circumference	Waist Circumference	NCIT:C1009
 BMIWAIST	BMX_H	BMIWAIST-BMX_H	Waist Circumference	Waist Circumference	NCIT:C100948	http://purl.obolibrary.org/obo/NCIT_C100948	0.992	comment	NCIT
 BMIWAIST	BMX_I	BMIWAIST-BMX_I	Waist Circumference	Waist Circumference	NCIT:C100948	http://purl.obolibrary.org/obo/NCIT_C100948	0.992	comment	NCIT
 BMIWAIST	BMX_J	BMIWAIST-BMX_J	Waist Circumference	Waist Circumference	NCIT:C100948	http://purl.obolibrary.org/obo/NCIT_C100948	0.992	comment	NCIT
-BMIWT	BMX	BMIWT-BMX	Weight	Body Weight	NCIT:C81328	http://purl.obolibrary.org/obo/NCIT_C81328	0.996	comment	NCIT
-BMIWT	BMX_B	BMIWT-BMX_B	Weight	Body Weight	NCIT:C81328	http://purl.obolibrary.org/obo/NCIT_C81328	0.996	comment	NCIT
-BMIWT	BMX_C	BMIWT-BMX_C	Weight	Body Weight	NCIT:C81328	http://purl.obolibrary.org/obo/NCIT_C81328	0.996	comment	NCIT
-BMIWT	BMX_D	BMIWT-BMX_D	Weight	Body Weight	NCIT:C81328	http://purl.obolibrary.org/obo/NCIT_C81328	0.996	comment	NCIT
-BMIWT	BMX_E	BMIWT-BMX_E	Weight	Body Weight	NCIT:C81328	http://purl.obolibrary.org/obo/NCIT_C81328	0.996	comment	NCIT
-BMIWT	BMX_F	BMIWT-BMX_F	Weight	Body Weight	NCIT:C81328	http://purl.obolibrary.org/obo/NCIT_C81328	0.996	comment	NCIT
-BMIWT	BMX_G	BMIWT-BMX_G	Weight	Body Weight	NCIT:C81328	http://purl.obolibrary.org/obo/NCIT_C81328	0.996	comment	NCIT
-BMIWT	BMX_H	BMIWT-BMX_H	Weight	Body Weight	NCIT:C81328	http://purl.obolibrary.org/obo/NCIT_C81328	0.996	comment	NCIT
-BMIWT	BMX_I	BMIWT-BMX_I	Weight	Body Weight	NCIT:C81328	http://purl.obolibrary.org/obo/NCIT_C81328	0.996	comment	NCIT
-BMIWT	BMX_J	BMIWT-BMX_J	Weight	Body Weight	NCIT:C81328	http://purl.obolibrary.org/obo/NCIT_C81328	0.996	comment	NCIT
-BMXARMC	BMX	BMXARMC-BMX	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.875		EFO
-BMXARMC	BMX_B	BMXARMC-BMX_B	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.875		EFO
-BMXARMC	BMX_C	BMXARMC-BMX_C	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.875		EFO
-BMXARMC	BMX_D	BMXARMC-BMX_D	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.875		EFO
-BMXARMC	BMX_E	BMXARMC-BMX_E	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.875		EFO
-BMXARMC	BMX_F	BMXARMC-BMX_F	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.875		EFO
-BMXARMC	BMX_G	BMXARMC-BMX_G	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.875		EFO
-BMXARMC	BMX_H	BMXARMC-BMX_H	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.875		EFO
-BMXARMC	BMX_I	BMXARMC-BMX_I	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.875		EFO
-BMXARMC	BMX_J	BMXARMC-BMX_J	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.875		EFO
+BMIWT	BMX	BMIWT-BMX	Weight	Weight	NCIT:C25208	http://purl.obolibrary.org/obo/NCIT_C25208	0.996	comment	NCIT
+BMIWT	BMX_B	BMIWT-BMX_B	Weight	Weight	NCIT:C25208	http://purl.obolibrary.org/obo/NCIT_C25208	0.996	comment	NCIT
+BMIWT	BMX_C	BMIWT-BMX_C	Weight	Weight	NCIT:C25208	http://purl.obolibrary.org/obo/NCIT_C25208	0.996	comment	NCIT
+BMIWT	BMX_D	BMIWT-BMX_D	Weight	Weight	NCIT:C25208	http://purl.obolibrary.org/obo/NCIT_C25208	0.996	comment	NCIT
+BMIWT	BMX_E	BMIWT-BMX_E	Weight	Weight	NCIT:C25208	http://purl.obolibrary.org/obo/NCIT_C25208	0.996	comment	NCIT
+BMIWT	BMX_F	BMIWT-BMX_F	Weight	Weight	NCIT:C25208	http://purl.obolibrary.org/obo/NCIT_C25208	0.996	comment	NCIT
+BMIWT	BMX_G	BMIWT-BMX_G	Weight	Weight	NCIT:C25208	http://purl.obolibrary.org/obo/NCIT_C25208	0.996	comment	NCIT
+BMIWT	BMX_H	BMIWT-BMX_H	Weight	Weight	NCIT:C25208	http://purl.obolibrary.org/obo/NCIT_C25208	0.996	comment	NCIT
+BMIWT	BMX_I	BMIWT-BMX_I	Weight	Weight	NCIT:C25208	http://purl.obolibrary.org/obo/NCIT_C25208	0.996	comment	NCIT
+BMIWT	BMX_J	BMIWT-BMX_J	Weight	Weight	NCIT:C25208	http://purl.obolibrary.org/obo/NCIT_C25208	0.996	comment	NCIT
+BMXARMC	BMX	BMXARMC-BMX	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.874		EFO
+BMXARMC	BMX_B	BMXARMC-BMX_B	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.874		EFO
+BMXARMC	BMX_C	BMXARMC-BMX_C	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.874		EFO
+BMXARMC	BMX_D	BMXARMC-BMX_D	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.874		EFO
+BMXARMC	BMX_E	BMXARMC-BMX_E	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.874		EFO
+BMXARMC	BMX_F	BMXARMC-BMX_F	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.874		EFO
+BMXARMC	BMX_G	BMXARMC-BMX_G	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.874		EFO
+BMXARMC	BMX_H	BMXARMC-BMX_H	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.874		EFO
+BMXARMC	BMX_I	BMXARMC-BMX_I	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.874		EFO
+BMXARMC	BMX_J	BMXARMC-BMX_J	Arm Circumference (cm)	brachial circumference	EFO:0004589	http://www.ebi.ac.uk/efo/EFO_0004589	0.874		EFO
 BMXBMI	BMX	BMXBMI-BMX	Body Mass Index (kg/m**2)	body mass index	EFO:0004340	http://www.ebi.ac.uk/efo/EFO_0004340	0.831		EFO
 BMXBMI	BMX_B	BMXBMI-BMX_B	Body Mass Index (kg/m**2)	body mass index	EFO:0004340	http://www.ebi.ac.uk/efo/EFO_0004340	0.831		EFO
 BMXBMI	BMX_C	BMXBMI-BMX_C	Body Mass Index (kg/m**2)	body mass index	EFO:0004340	http://www.ebi.ac.uk/efo/EFO_0004340	0.831		EFO
@@ -420,9 +420,9 @@ CIQP13D	CIQPAN_C	CIQP13D-CIQPAN_C	have dry mouth	Have Dry Mouth	NCIT:C104937	htt
 CIQP13E	CIQPANIC	CIQP13E-CIQPANIC	Were you short of breath	Have Shortness of Breath	NCIT:C99773	http://purl.obolibrary.org/obo/NCIT_C99773	0.989		NCIT
 CIQP13E	CIQPAN_B	CIQP13E-CIQPAN_B	Were you short of breath	Have Shortness of Breath	NCIT:C99773	http://purl.obolibrary.org/obo/NCIT_C99773	0.989		NCIT
 CIQP13E	CIQPAN_C	CIQP13E-CIQPAN_C	Were you short of breath	Have Shortness of Breath	NCIT:C99773	http://purl.obolibrary.org/obo/NCIT_C99773	0.989		NCIT
-CIQP13G	CIQPANIC	CIQP13G-CIQPANIC	Pain or discomfort in chest	Chest pain	HP:0100749	http://purl.obolibrary.org/obo/HP_0100749	0.9		EFO
-CIQP13G	CIQPAN_B	CIQP13G-CIQPAN_B	Pain or discomfort in chest	Chest pain	HP:0100749	http://purl.obolibrary.org/obo/HP_0100749	0.9		EFO
-CIQP13G	CIQPAN_C	CIQP13G-CIQPAN_C	Pain or discomfort in chest	Chest pain	HP:0100749	http://purl.obolibrary.org/obo/HP_0100749	0.9		EFO
+CIQP13G	CIQPANIC	CIQP13G-CIQPANIC	Pain or discomfort in chest	Chest pain	HP:0100749	http://purl.obolibrary.org/obo/HP_0100749	0.899		EFO
+CIQP13G	CIQPAN_B	CIQP13G-CIQPAN_B	Pain or discomfort in chest	Chest pain	HP:0100749	http://purl.obolibrary.org/obo/HP_0100749	0.899		EFO
+CIQP13G	CIQPAN_C	CIQP13G-CIQPAN_C	Pain or discomfort in chest	Chest pain	HP:0100749	http://purl.obolibrary.org/obo/HP_0100749	0.899		EFO
 CIQP13O	CIQPANIC	CIQP13O-CIQPANIC	hot flashes or chills	Hot Flashes	NCIT:C3109	http://purl.obolibrary.org/obo/NCIT_C3109	0.806		NCIT
 CIQP13O	CIQPAN_B	CIQP13O-CIQPAN_B	hot flashes or chills	Hot Flashes	NCIT:C3109	http://purl.obolibrary.org/obo/NCIT_C3109	0.806		NCIT
 CIQP13O	CIQPAN_C	CIQP13O-CIQPAN_C	hot flashes or chills	Hot Flashes	NCIT:C3109	http://purl.obolibrary.org/obo/NCIT_C3109	0.806		NCIT
@@ -432,9 +432,9 @@ CIQP13P	CIQPAN_C	CIQP13P-CIQPAN_C	numbness or tingling	Numbness or Tingling Ques
 CIQP21I	CIQPANIC	CIQP21I-CIQPANIC	Fear: Animals	animal phobia	EFO:1001876	http://www.ebi.ac.uk/efo/EFO_1001876	0.946		EFO
 CIQP21I	CIQPAN_B	CIQP21I-CIQPAN_B	Fear: Animals	animal phobia	EFO:1001876	http://www.ebi.ac.uk/efo/EFO_1001876	0.946		EFO
 CIQP21I	CIQPAN_C	CIQP21I-CIQPAN_C	Fear: Animals	animal phobia	EFO:1001876	http://www.ebi.ac.uk/efo/EFO_1001876	0.946		EFO
-CIQP21L	CIQPANIC	CIQP21L-CIQPANIC	Fear: Flying	flying phobia	EFO:1001889	http://www.ebi.ac.uk/efo/EFO_1001889	0.974		EFO
-CIQP21L	CIQPAN_B	CIQP21L-CIQPAN_B	Fear: Flying	flying phobia	EFO:1001889	http://www.ebi.ac.uk/efo/EFO_1001889	0.974		EFO
-CIQP21L	CIQPAN_C	CIQP21L-CIQPAN_C	Fear: Flying	flying phobia	EFO:1001889	http://www.ebi.ac.uk/efo/EFO_1001889	0.974		EFO
+CIQP21L	CIQPANIC	CIQP21L-CIQPANIC	Fear: Flying	flying phobia	EFO:1001889	http://www.ebi.ac.uk/efo/EFO_1001889	0.975		EFO
+CIQP21L	CIQPAN_B	CIQP21L-CIQPAN_B	Fear: Flying	flying phobia	EFO:1001889	http://www.ebi.ac.uk/efo/EFO_1001889	0.975		EFO
+CIQP21L	CIQPAN_C	CIQP21L-CIQPAN_C	Fear: Flying	flying phobia	EFO:1001889	http://www.ebi.ac.uk/efo/EFO_1001889	0.975		EFO
 CIQP21R	CIQPANIC	CIQP21R-CIQPANIC	Fear: Other 1	Fear	NCIT:C77960	http://purl.obolibrary.org/obo/NCIT_C77960	0.883		NCIT
 CIQP21R	CIQPAN_B	CIQP21R-CIQPAN_B	Fear: Other 1	Fear	NCIT:C77960	http://purl.obolibrary.org/obo/NCIT_C77960	0.883		NCIT
 CIQP21R	CIQPAN_C	CIQP21R-CIQPAN_C	Fear: Other 1	Fear	NCIT:C77960	http://purl.obolibrary.org/obo/NCIT_C77960	0.883		NCIT
@@ -469,9 +469,9 @@ CSQ270	CSX_H	CSQ270-CSX_H	Type of Nasal Blockage	Nasal congestion	HP:0001742	htt
 CVDEXCL2	CVX	CVDEXCL2-CVX	cardiovascular conditions	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.828		NCIT
 CVDEXCL2	CVX_B	CVDEXCL2-CVX_B	cardiovascular conditions	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.828		NCIT
 CVDEXCL2	CVX_C	CVDEXCL2-CVX_C	cardiovascular conditions	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.828		NCIT
-CVDEXCL4	CVX	CVDEXCL4-CVX	asthma symptoms	asthma symptoms measurement	EFO:0010049	http://www.ebi.ac.uk/efo/EFO_0010049	0.857		EFO
-CVDEXCL4	CVX_B	CVDEXCL4-CVX_B	asthma symptoms	asthma symptoms measurement	EFO:0010049	http://www.ebi.ac.uk/efo/EFO_0010049	0.857		EFO
-CVDEXCL4	CVX_C	CVDEXCL4-CVX_C	asthma symptoms	asthma symptoms measurement	EFO:0010049	http://www.ebi.ac.uk/efo/EFO_0010049	0.857		EFO
+CVDEXCL4	CVX	CVDEXCL4-CVX	asthma symptoms	asthma symptoms measurement	EFO:0010049	http://www.ebi.ac.uk/efo/EFO_0010049	0.852		EFO
+CVDEXCL4	CVX_B	CVDEXCL4-CVX_B	asthma symptoms	asthma symptoms measurement	EFO:0010049	http://www.ebi.ac.uk/efo/EFO_0010049	0.852		EFO
+CVDEXCL4	CVX_C	CVDEXCL4-CVX_C	asthma symptoms	asthma symptoms measurement	EFO:0010049	http://www.ebi.ac.uk/efo/EFO_0010049	0.852		EFO
 CVDEXCL5	CVX	CVDEXCL5-CVX	medications	History of Medication	NCIT:C168253	http://purl.obolibrary.org/obo/NCIT_C168253	0.994		NCIT
 CVDEXCL5	CVX_B	CVDEXCL5-CVX_B	medications	History of Medication	NCIT:C168253	http://purl.obolibrary.org/obo/NCIT_C168253	0.994		NCIT
 CVDEXCL5	CVX_C	CVDEXCL5-CVX_C	medications	History of Medication	NCIT:C168253	http://purl.obolibrary.org/obo/NCIT_C168253	0.994		NCIT
@@ -485,16 +485,18 @@ CVXWRPE	CVX	CVXWRPE-CVX	Warm-up rating of perceived exertion	Rating of Perceived
 CVXWRPE	CVX_B	CVXWRPE-CVX_B	Warm-up rating of perceived exertion	Rating of Perceived Exertion	NCIT:C122028	http://purl.obolibrary.org/obo/NCIT_C122028	0.849		NCIT
 CVXWRPE	CVX_C	CVXWRPE-CVX_C	Warm-up rating of perceived exertion	Rating of Perceived Exertion	NCIT:C122028	http://purl.obolibrary.org/obo/NCIT_C122028	0.849		NCIT
 DBD055	DBQ_J	DBD055-DBQ_J	other food/beverage	Beverage	NCIT:C85058	http://purl.obolibrary.org/obo/NCIT_C85058	0.876	age	NCIT
-DBD222D	DBQ_D	DBD222D-DBQ_D	You drink fat-free or skim milk	skim milk drink	FOODON:03305161	http://purl.obolibrary.org/obo/FOODON_03305161	0.807		FOODON
-DBD222D	DBQ_E	DBD222D-DBQ_E	You drink fat free/skim milk	skim milk drink	FOODON:03305161	http://purl.obolibrary.org/obo/FOODON_03305161	0.807		FOODON
+DBD222D	DBQ_D	DBD222D-DBQ_D	You drink fat-free or skim milk	skim milk drink	FOODON:03305161	http://purl.obolibrary.org/obo/FOODON_03305161	0.806		FOODON
+DBD222D	DBQ_E	DBD222D-DBQ_E	You drink fat free/skim milk	skim milk drink	FOODON:03305161	http://purl.obolibrary.org/obo/FOODON_03305161	0.806		FOODON
 DBD229	DBQ_B	DBD229-DBQ_B	Regular milk drinker	Drinker	NCIT:C126383	http://purl.obolibrary.org/obo/NCIT_C126383	0.876		NCIT
-DBQ223D	DBQ_F	DBQ223D-DBQ_F	You drink fat free/skim milk	skim milk drink	FOODON:03305161	http://purl.obolibrary.org/obo/FOODON_03305161	0.807		FOODON
-DBQ223D	DBQ_G	DBQ223D-DBQ_G	You drink fat free/skim milk	skim milk drink	FOODON:03305161	http://purl.obolibrary.org/obo/FOODON_03305161	0.807		FOODON
-DBQ223D	DBQ_H	DBQ223D-DBQ_H	You drink fat free/skim milk	skim milk drink	FOODON:03305161	http://purl.obolibrary.org/obo/FOODON_03305161	0.807		FOODON
-DBQ223D	DBQ_I	DBQ223D-DBQ_I	You drink fat free/skim milk	skim milk drink	FOODON:03305161	http://purl.obolibrary.org/obo/FOODON_03305161	0.807		FOODON
-DBQ223D	DBQ_J	DBQ223D-DBQ_J	You drink fat free/skim milk	skim milk drink	FOODON:03305161	http://purl.obolibrary.org/obo/FOODON_03305161	0.807		FOODON
+DBQ223D	DBQ_F	DBQ223D-DBQ_F	You drink fat free/skim milk	skim milk drink	FOODON:03305161	http://purl.obolibrary.org/obo/FOODON_03305161	0.806		FOODON
+DBQ223D	DBQ_G	DBQ223D-DBQ_G	You drink fat free/skim milk	skim milk drink	FOODON:03305161	http://purl.obolibrary.org/obo/FOODON_03305161	0.806		FOODON
+DBQ223D	DBQ_H	DBQ223D-DBQ_H	You drink fat free/skim milk	skim milk drink	FOODON:03305161	http://purl.obolibrary.org/obo/FOODON_03305161	0.806		FOODON
+DBQ223D	DBQ_I	DBQ223D-DBQ_I	You drink fat free/skim milk	skim milk drink	FOODON:03305161	http://purl.obolibrary.org/obo/FOODON_03305161	0.806		FOODON
+DBQ223D	DBQ_J	DBQ223D-DBQ_J	You drink fat free/skim milk	skim milk drink	FOODON:03305161	http://purl.obolibrary.org/obo/FOODON_03305161	0.806		FOODON
 DBQ229	DBQ_C	DBQ229-DBQ_C	Regular milk drinker	Drinker	NCIT:C126383	http://purl.obolibrary.org/obo/NCIT_C126383	0.876		NCIT
+DBQ925a	DBQ_E	DBQ925a-DBQ_E	Allergic to wheat	atopic eczema	EFO:0000274	http://www.ebi.ac.uk/efo/EFO_0000274	0.824		EFO
 DBQ925a	DBQ_E	DBQ925a-DBQ_E	Allergic to wheat	Allergic	NCIT:C37910	http://purl.obolibrary.org/obo/NCIT_C37910	0.824		NCIT
+DBQ925a	DBQ_F	DBQ925a-DBQ_F	Allergic to wheat	atopic eczema	EFO:0000274	http://www.ebi.ac.uk/efo/EFO_0000274	0.824		EFO
 DBQ925a	DBQ_F	DBQ925a-DBQ_F	Allergic to wheat	Allergic	NCIT:C37910	http://purl.obolibrary.org/obo/NCIT_C37910	0.824		NCIT
 DBQ925d	DBQ_E	DBQ925d-DBQ_E	Allergic to fish	atopic eczema	EFO:0000274	http://www.ebi.ac.uk/efo/EFO_0000274	0.809		EFO
 DBQ925d	DBQ_E	DBQ925d-DBQ_E	Allergic to fish	Allergic	NCIT:C37910	http://purl.obolibrary.org/obo/NCIT_C37910	0.809		NCIT
@@ -510,8 +512,10 @@ DBQ925j	DBQ_E	DBQ925j-DBQ_E	Allergic to other foods	atopic eczema	EFO:0000274	ht
 DBQ925j	DBQ_E	DBQ925j-DBQ_E	Allergic to other foods	Allergic	NCIT:C37910	http://purl.obolibrary.org/obo/NCIT_C37910	0.81		NCIT
 DBQ925j	DBQ_F	DBQ925j-DBQ_F	Allergic to other foods	atopic eczema	EFO:0000274	http://www.ebi.ac.uk/efo/EFO_0000274	0.81		EFO
 DBQ925j	DBQ_F	DBQ925j-DBQ_F	Allergic to other foods	Allergic	NCIT:C37910	http://purl.obolibrary.org/obo/NCIT_C37910	0.81		NCIT
-DED051	DEQ_B	DED051-DEQ_B	melanoma	Melanoma Pathway	NCIT:C91477	http://purl.obolibrary.org/obo/NCIT_C91477	0.967	age	NCIT
-DED051	DEQ_C	DED051-DEQ_C	melanoma	Melanoma Pathway	NCIT:C91477	http://purl.obolibrary.org/obo/NCIT_C91477	0.967	age	NCIT
+DED051	DEQ_B	DED051-DEQ_B	melanoma	melanoma	EFO:0000756	http://www.ebi.ac.uk/efo/EFO_0000756	0.967	age	EFO
+DED051	DEQ_B	DED051-DEQ_B	melanoma	NCI CTEP SDC Melanoma Sub-Category Terminology	NCIT:C103113	http://purl.obolibrary.org/obo/NCIT_C103113	0.967	age	NCIT
+DED051	DEQ_C	DED051-DEQ_C	melanoma	melanoma	EFO:0000756	http://www.ebi.ac.uk/efo/EFO_0000756	0.967	age	EFO
+DED051	DEQ_C	DED051-DEQ_C	melanoma	NCI CTEP SDC Melanoma Sub-Category Terminology	NCIT:C103113	http://purl.obolibrary.org/obo/NCIT_C103113	0.967	age	NCIT
 DED100A	DEQ	DED100A-DEQ	1st Chemical/substance listed	Chemical Substance Excluding Protein or Nucleic Acid	NCIT:C103205	http://purl.obolibrary.org/obo/NCIT_C103205	0.807		NCIT
 DED100B	DEQ	DED100B-DEQ	2nd Chemical/substance listed	Chemical Substance Excluding Protein or Nucleic Acid	NCIT:C103205	http://purl.obolibrary.org/obo/NCIT_C103205	0.814		NCIT
 DED1PSDX	DEX_C	DED1PSDX-DEX_C	Reader 1 psoriasis	Psoriasis	NCIT:C3346	http://purl.obolibrary.org/obo/NCIT_C3346	0.82		NCIT
@@ -524,7 +528,8 @@ DEQ034D	DEQ_G	DEQ034D-DEQ_G	Use sunscreen	Sunscreen	NCIT:C851	http://purl.obolib
 DEQ034D	DEQ_H	DEQ034D-DEQ_H	Use sunscreen	Sunscreen	NCIT:C851	http://purl.obolibrary.org/obo/NCIT_C851	0.913		NCIT
 DEQ034D	DEQ_I	DEQ034D-DEQ_I	Use sunscreen	Sunscreen	NCIT:C851	http://purl.obolibrary.org/obo/NCIT_C851	0.913		NCIT
 DEQ034D	DEQ_J	DEQ034D-DEQ_J	Use sunscreen	Sunscreen	NCIT:C851	http://purl.obolibrary.org/obo/NCIT_C851	0.913		NCIT
-DEQ050	DEQ	DEQ050-DEQ	melanoma	Melanoma Pathway	NCIT:C91477	http://purl.obolibrary.org/obo/NCIT_C91477	0.967	age	NCIT
+DEQ050	DEQ	DEQ050-DEQ	melanoma	melanoma	EFO:0000756	http://www.ebi.ac.uk/efo/EFO_0000756	0.967	age	EFO
+DEQ050	DEQ	DEQ050-DEQ	melanoma	NCI CTEP SDC Melanoma Sub-Category Terminology	NCIT:C103113	http://purl.obolibrary.org/obo/NCIT_C103113	0.967	age	NCIT
 DEQ053	DEQ_C	DEQ053-DEQ_C	Psoriasis?	Psoriasis	NCIT:C3346	http://purl.obolibrary.org/obo/NCIT_C3346	0.99		NCIT
 DEQ053	DEQ_D	DEQ053-DEQ_D	Psoriasis?	Psoriasis	NCIT:C3346	http://purl.obolibrary.org/obo/NCIT_C3346	0.99		NCIT
 DEX1COMM	DEX_C	DEX1COMM-DEX_C	Reader 1	Reader 1	NCIT:C94532	http://purl.obolibrary.org/obo/NCIT_C94532	0.986	comment	NCIT
@@ -595,17 +600,17 @@ DIQ175R	DIQ_G	DIQ175R-DIQ_G	Other specify	Specify	NCIT:C25685	http://purl.obolib
 DIQ175R	DIQ_H	DIQ175R-DIQ_H	Other specify	Specify	NCIT:C25685	http://purl.obolibrary.org/obo/NCIT_C25685	0.996		NCIT
 DIQ175R	DIQ_I	DIQ175R-DIQ_I	Other specify	Specify	NCIT:C25685	http://purl.obolibrary.org/obo/NCIT_C25685	0.996		NCIT
 DIQ175R	DIQ_J	DIQ175R-DIQ_J	Other specify	Specify	NCIT:C25685	http://purl.obolibrary.org/obo/NCIT_C25685	0.996		NCIT
-DIQ175S	DIQ_G	DIQ175S-DIQ_G	Gestational diabetes	gestational diabetes	EFO:0004593	http://www.ebi.ac.uk/efo/EFO_0004593	0.988		EFO
-DIQ175S	DIQ_H	DIQ175S-DIQ_H	Gestational diabetes	gestational diabetes	EFO:0004593	http://www.ebi.ac.uk/efo/EFO_0004593	0.988		EFO
-DIQ175S	DIQ_I	DIQ175S-DIQ_I	Gestational diabetes	gestational diabetes	EFO:0004593	http://www.ebi.ac.uk/efo/EFO_0004593	0.988		EFO
-DIQ175S	DIQ_J	DIQ175S-DIQ_J	Gestational diabetes	gestational diabetes	EFO:0004593	http://www.ebi.ac.uk/efo/EFO_0004593	0.988		EFO
+DIQ175S	DIQ_G	DIQ175S-DIQ_G	Gestational diabetes	gestational diabetes	EFO:0004593	http://www.ebi.ac.uk/efo/EFO_0004593	0.987		EFO
+DIQ175S	DIQ_H	DIQ175S-DIQ_H	Gestational diabetes	gestational diabetes	EFO:0004593	http://www.ebi.ac.uk/efo/EFO_0004593	0.987		EFO
+DIQ175S	DIQ_I	DIQ175S-DIQ_I	Gestational diabetes	gestational diabetes	EFO:0004593	http://www.ebi.ac.uk/efo/EFO_0004593	0.987		EFO
+DIQ175S	DIQ_J	DIQ175S-DIQ_J	Gestational diabetes	gestational diabetes	EFO:0004593	http://www.ebi.ac.uk/efo/EFO_0004593	0.987		EFO
 DIQ175W	DIQ_G	DIQ175W-DIQ_G	Medication	Concomitant Agent	NCIT:C70902	http://purl.obolibrary.org/obo/NCIT_C70902	0.994		NCIT
 DIQ175W	DIQ_H	DIQ175W-DIQ_H	Medication	Concomitant Agent	NCIT:C70902	http://purl.obolibrary.org/obo/NCIT_C70902	0.994		NCIT
 DIQ175W	DIQ_I	DIQ175W-DIQ_I	Medication	Concomitant Agent	NCIT:C70902	http://purl.obolibrary.org/obo/NCIT_C70902	0.994		NCIT
 DIQ175W	DIQ_J	DIQ175W-DIQ_J	Medication	Concomitant Agent	NCIT:C70902	http://purl.obolibrary.org/obo/NCIT_C70902	0.994		NCIT
-DIQ175X	DIQ_H	DIQ175X-DIQ_H	Polycystic ovarian syndrome	polycystic ovary syndrome	EFO:0000660	http://www.ebi.ac.uk/efo/EFO_0000660	0.945		EFO
-DIQ175X	DIQ_I	DIQ175X-DIQ_I	Polycystic ovarian syndrome	polycystic ovary syndrome	EFO:0000660	http://www.ebi.ac.uk/efo/EFO_0000660	0.945		EFO
-DIQ175X	DIQ_J	DIQ175X-DIQ_J	Polycystic ovarian syndrome	polycystic ovary syndrome	EFO:0000660	http://www.ebi.ac.uk/efo/EFO_0000660	0.945		EFO
+DIQ175X	DIQ_H	DIQ175X-DIQ_H	Polycystic ovarian syndrome	polycystic ovary syndrome	EFO:0000660	http://www.ebi.ac.uk/efo/EFO_0000660	0.944		EFO
+DIQ175X	DIQ_I	DIQ175X-DIQ_I	Polycystic ovarian syndrome	polycystic ovary syndrome	EFO:0000660	http://www.ebi.ac.uk/efo/EFO_0000660	0.944		EFO
+DIQ175X	DIQ_J	DIQ175X-DIQ_J	Polycystic ovarian syndrome	polycystic ovary syndrome	EFO:0000660	http://www.ebi.ac.uk/efo/EFO_0000660	0.944		EFO
 DLQ040	DLQ_H	DLQ040-DLQ_H	serious difficulty concentrating 	Bothered by Difficulty Concentrating	NCIT:C125677	http://purl.obolibrary.org/obo/NCIT_C125677	0.85		NCIT
 DLQ040	DLQ_I	DLQ040-DLQ_I	serious difficulty concentrating	Bothered by Difficulty Concentrating	NCIT:C125677	http://purl.obolibrary.org/obo/NCIT_C125677	0.85		NCIT
 DLQ040	DLQ_J	DLQ040-DLQ_J	serious difficulty concentrating	Bothered by Difficulty Concentrating	NCIT:C125677	http://purl.obolibrary.org/obo/NCIT_C125677	0.85		NCIT
@@ -956,11 +961,11 @@ DR1IZINC	DR1IFF_G	DR1IZINC-DR1IFF_G	Zinc (mg)	Zinc	NCIT:C948	http://purl.obolibr
 DR1IZINC	DR1IFF_H	DR1IZINC-DR1IFF_H	Zinc (mg)	Zinc	NCIT:C948	http://purl.obolibrary.org/obo/NCIT_C948	0.907		NCIT
 DR1IZINC	DR1IFF_I	DR1IZINC-DR1IFF_I	Zinc (mg)	Zinc	NCIT:C948	http://purl.obolibrary.org/obo/NCIT_C948	0.907		NCIT
 DR1IZINC	DR1IFF_J	DR1IZINC-DR1IFF_J	Zinc (mg)	Zinc	NCIT:C948	http://purl.obolibrary.org/obo/NCIT_C948	0.907		NCIT
-DR1MC	DR1IFF_C	DR1MC-DR1IFF_C	Modification code	Change	NCIT:C25446	http://purl.obolibrary.org/obo/NCIT_C25446	0.893		NCIT
-DR1MC	DR1IFF_D	DR1MC-DR1IFF_D	Modification code	Change	NCIT:C25446	http://purl.obolibrary.org/obo/NCIT_C25446	0.893		NCIT
-DR1MC	DR1IFF_E	DR1MC-DR1IFF_E	Modification code	Change	NCIT:C25446	http://purl.obolibrary.org/obo/NCIT_C25446	0.893		NCIT
-DR1MC	DR1IFF_F	DR1MC-DR1IFF_F	Modification code	Change	NCIT:C25446	http://purl.obolibrary.org/obo/NCIT_C25446	0.893		NCIT
-DR1MC	DR1IFF_G	DR1MC-DR1IFF_G	Modification code	Change	NCIT:C25446	http://purl.obolibrary.org/obo/NCIT_C25446	0.893		NCIT
+DR1MC	DR1IFF_C	DR1MC-DR1IFF_C	Modification code	Data Change Date	NCIT:C114550	http://purl.obolibrary.org/obo/NCIT_C114550	0.893		NCIT
+DR1MC	DR1IFF_D	DR1MC-DR1IFF_D	Modification code	Data Change Date	NCIT:C114550	http://purl.obolibrary.org/obo/NCIT_C114550	0.893		NCIT
+DR1MC	DR1IFF_E	DR1MC-DR1IFF_E	Modification code	Data Change Date	NCIT:C114550	http://purl.obolibrary.org/obo/NCIT_C114550	0.893		NCIT
+DR1MC	DR1IFF_F	DR1MC-DR1IFF_F	Modification code	Data Change Date	NCIT:C114550	http://purl.obolibrary.org/obo/NCIT_C114550	0.893		NCIT
+DR1MC	DR1IFF_G	DR1MC-DR1IFF_G	Modification code	Data Change Date	NCIT:C114550	http://purl.obolibrary.org/obo/NCIT_C114550	0.893		NCIT
 DR1TALCO	DR1TOT_C	DR1TALCO-DR1TOT_C	Alcohol (gm)	Ethanol Measurement	NCIT:C74693	http://purl.obolibrary.org/obo/NCIT_C74693	0.925		NCIT
 DR1TALCO	DR1TOT_D	DR1TALCO-DR1TOT_D	Alcohol (gm)	Ethanol Measurement	NCIT:C74693	http://purl.obolibrary.org/obo/NCIT_C74693	0.925		NCIT
 DR1TALCO	DR1TOT_E	DR1TALCO-DR1TOT_E	Alcohol (gm)	Ethanol Measurement	NCIT:C74693	http://purl.obolibrary.org/obo/NCIT_C74693	0.925		NCIT
@@ -1477,11 +1482,11 @@ DR2IZINC	DR2IFF_G	DR2IZINC-DR2IFF_G	Zinc (mg)	Zinc	NCIT:C948	http://purl.obolibr
 DR2IZINC	DR2IFF_H	DR2IZINC-DR2IFF_H	Zinc (mg)	Zinc	NCIT:C948	http://purl.obolibrary.org/obo/NCIT_C948	0.907		NCIT
 DR2IZINC	DR2IFF_I	DR2IZINC-DR2IFF_I	Zinc (mg)	Zinc	NCIT:C948	http://purl.obolibrary.org/obo/NCIT_C948	0.907		NCIT
 DR2IZINC	DR2IFF_J	DR2IZINC-DR2IFF_J	Zinc (mg)	Zinc	NCIT:C948	http://purl.obolibrary.org/obo/NCIT_C948	0.907		NCIT
-DR2MC	DR2IFF_C	DR2MC-DR2IFF_C	Modification code	Change	NCIT:C25446	http://purl.obolibrary.org/obo/NCIT_C25446	0.893		NCIT
-DR2MC	DR2IFF_D	DR2MC-DR2IFF_D	Modification code	Change	NCIT:C25446	http://purl.obolibrary.org/obo/NCIT_C25446	0.893		NCIT
-DR2MC	DR2IFF_E	DR2MC-DR2IFF_E	Modification code	Change	NCIT:C25446	http://purl.obolibrary.org/obo/NCIT_C25446	0.893		NCIT
-DR2MC	DR2IFF_F	DR2MC-DR2IFF_F	Modification code	Change	NCIT:C25446	http://purl.obolibrary.org/obo/NCIT_C25446	0.893		NCIT
-DR2MC	DR2IFF_G	DR2MC-DR2IFF_G	Modification code	Change	NCIT:C25446	http://purl.obolibrary.org/obo/NCIT_C25446	0.893		NCIT
+DR2MC	DR2IFF_C	DR2MC-DR2IFF_C	Modification code	Data Change Date	NCIT:C114550	http://purl.obolibrary.org/obo/NCIT_C114550	0.893		NCIT
+DR2MC	DR2IFF_D	DR2MC-DR2IFF_D	Modification code	Data Change Date	NCIT:C114550	http://purl.obolibrary.org/obo/NCIT_C114550	0.893		NCIT
+DR2MC	DR2IFF_E	DR2MC-DR2IFF_E	Modification code	Data Change Date	NCIT:C114550	http://purl.obolibrary.org/obo/NCIT_C114550	0.893		NCIT
+DR2MC	DR2IFF_F	DR2MC-DR2IFF_F	Modification code	Data Change Date	NCIT:C114550	http://purl.obolibrary.org/obo/NCIT_C114550	0.893		NCIT
+DR2MC	DR2IFF_G	DR2MC-DR2IFF_G	Modification code	Data Change Date	NCIT:C114550	http://purl.obolibrary.org/obo/NCIT_C114550	0.893		NCIT
 DR2TALCO	DR2TOT_C	DR2TALCO-DR2TOT_C	Alcohol (gm)	Ethanol Measurement	NCIT:C74693	http://purl.obolibrary.org/obo/NCIT_C74693	0.925		NCIT
 DR2TALCO	DR2TOT_D	DR2TALCO-DR2TOT_D	Alcohol (gm)	Ethanol Measurement	NCIT:C74693	http://purl.obolibrary.org/obo/NCIT_C74693	0.925		NCIT
 DR2TALCO	DR2TOT_E	DR2TALCO-DR2TOT_E	Alcohol (gm)	Ethanol Measurement	NCIT:C74693	http://purl.obolibrary.org/obo/NCIT_C74693	0.925		NCIT
@@ -1749,8 +1754,8 @@ DRQ370BQ	DRXTOT	DRQ370BQ-DRXTOT	tuna	tuna	FOODON:03411269	http://purl.obolibrary
 DRQ370CQ	DRXTOT	DRQ370CQ-DRXTOT	bass	Basolateral Sorting Signal	NCIT:C14083	http://purl.obolibrary.org/obo/NCIT_C14083	0.998		NCIT
 DRQ370DQ	DRXTOT	DRQ370DQ-DRXTOT	catfish	Catfish	NCIT:C71919	http://purl.obolibrary.org/obo/NCIT_C71919	0.995		NCIT
 DRQ370EQ	DRXTOT	DRQ370EQ-DRXTOT	cod	Cod	NCIT:C71921	http://purl.obolibrary.org/obo/NCIT_C71921	0.999		NCIT
-DRQ370FQ	DRXTOT	DRQ370FQ-DRXTOT	flatfish	flatfish (raw)	FOODON:03308783	http://purl.obolibrary.org/obo/FOODON_03308783	0.841		FOODON
-DRQ370GQ	DRXTOT	DRQ370GQ-DRXTOT	haddock	haddock (raw)	FOODON:03308024	http://purl.obolibrary.org/obo/FOODON_03308024	0.863		FOODON
+DRQ370FQ	DRXTOT	DRQ370FQ-DRXTOT	flatfish	flatfish (raw)	FOODON:03308783	http://purl.obolibrary.org/obo/FOODON_03308783	0.845		FOODON
+DRQ370GQ	DRXTOT	DRQ370GQ-DRXTOT	haddock	haddock (raw)	FOODON:03308024	http://purl.obolibrary.org/obo/FOODON_03308024	0.866		FOODON
 DRQ370HQ	DRXTOT	DRQ370HQ-DRXTOT	mackerel	Mackerel	NCIT:C71641	http://purl.obolibrary.org/obo/NCIT_C71641	0.994		NCIT
 DRQ370IQ	DRXTOT	DRQ370IQ-DRXTOT	perch	Perch	NCIT:C71924	http://purl.obolibrary.org/obo/NCIT_C71924	0.995		NCIT
 DRQ370JQ	DRXTOT	DRQ370JQ-DRXTOT	pike	pike	FOODON:03411293	http://purl.obolibrary.org/obo/FOODON_03411293	0.998		FOODON
@@ -1758,10 +1763,10 @@ DRQ370KQ	DRXTOT	DRQ370KQ-DRXTOT	pollock	pollock	FOODON:03413876	http://purl.obol
 DRQ370LQ	DRXTOT	DRQ370LQ-DRXTOT	porgy	porgy	FOODON:03411234	http://purl.obolibrary.org/obo/FOODON_03411234	0.996		FOODON
 DRQ370MQ	DRXTOT	DRQ370MQ-DRXTOT	salmon	Salmon	NCIT:C71905	http://purl.obolibrary.org/obo/NCIT_C71905	0.995		NCIT
 DRQ370NQ	DRXTOT	DRQ370NQ-DRXTOT	sardines	Sardine	NCIT:C72060	http://purl.obolibrary.org/obo/NCIT_C72060	0.839		NCIT
-DRQ370OQ	DRXTOT	DRQ370OQ-DRXTOT	sea bass	sea bass	FOODON:03412180	http://purl.obolibrary.org/obo/FOODON_03412180	0.993		FOODON
+DRQ370OQ	DRXTOT	DRQ370OQ-DRXTOT	sea bass	sea bass	FOODON:03412180	http://purl.obolibrary.org/obo/FOODON_03412180	0.994		FOODON
 DRQ370PQ	DRXTOT	DRQ370PQ-DRXTOT	shark	shark	FOODON:03411342	http://purl.obolibrary.org/obo/FOODON_03411342	0.997		FOODON
 DRQ370RQ	DRXTOT	DRQ370RQ-DRXTOT	trout	Trout	NCIT:C71910	http://purl.obolibrary.org/obo/NCIT_C71910	0.983		NCIT
-DRQ370SQ	DRXTOT	DRQ370SQ-DRXTOT	walleye	walleye (raw)	FOODON:03307399	http://purl.obolibrary.org/obo/FOODON_03307399	0.855		FOODON
+DRQ370SQ	DRXTOT	DRQ370SQ-DRXTOT	walleye	walleye (raw)	FOODON:03307399	http://purl.obolibrary.org/obo/FOODON_03307399	0.857		FOODON
 DRQSDIET	DR1TOT_C	DRQSDIET-DR1TOT_C	On special diet	Special	NCIT:C25684	http://purl.obolibrary.org/obo/NCIT_C25684	0.824		NCIT
 DRQSDIET	DR1TOT_D	DRQSDIET-DR1TOT_D	On special diet	Special	NCIT:C25684	http://purl.obolibrary.org/obo/NCIT_C25684	0.824		NCIT
 DRQSDIET	DR1TOT_E	DRQSDIET-DR1TOT_E	On special diet	Special	NCIT:C25684	http://purl.obolibrary.org/obo/NCIT_C25684	0.824		NCIT
@@ -1770,12 +1775,12 @@ DRQSDIET	DR1TOT_G	DRQSDIET-DR1TOT_G	On special diet	Special	NCIT:C25684	http://p
 DRQSDIET	DR1TOT_H	DRQSDIET-DR1TOT_H	On special diet	Special	NCIT:C25684	http://purl.obolibrary.org/obo/NCIT_C25684	0.824		NCIT
 DRQSDIET	DR1TOT_I	DRQSDIET-DR1TOT_I	On special diet	Special	NCIT:C25684	http://purl.obolibrary.org/obo/NCIT_C25684	0.824		NCIT
 DRQSDIET	DR1TOT_J	DRQSDIET-DR1TOT_J	On special diet	Special	NCIT:C25684	http://purl.obolibrary.org/obo/NCIT_C25684	0.824		NCIT
-DRQSDT10	DR1TOT_E	DRQSDT10-DR1TOT_E	High protein diet	high protein food	FOODON:03510203	http://purl.obolibrary.org/obo/FOODON_03510203	0.827		FOODON
-DRQSDT10	DR1TOT_F	DRQSDT10-DR1TOT_F	High protein diet	high protein food	FOODON:03510203	http://purl.obolibrary.org/obo/FOODON_03510203	0.827		FOODON
-DRQSDT10	DR1TOT_G	DRQSDT10-DR1TOT_G	High protein diet	high protein food	FOODON:03510203	http://purl.obolibrary.org/obo/FOODON_03510203	0.827		FOODON
-DRQSDT10	DR1TOT_H	DRQSDT10-DR1TOT_H	High protein diet	high protein food	FOODON:03510203	http://purl.obolibrary.org/obo/FOODON_03510203	0.827		FOODON
-DRQSDT10	DR1TOT_I	DRQSDT10-DR1TOT_I	High protein diet	high protein food	FOODON:03510203	http://purl.obolibrary.org/obo/FOODON_03510203	0.827		FOODON
-DRQSDT10	DR1TOT_J	DRQSDT10-DR1TOT_J	High protein diet	high protein food	FOODON:03510203	http://purl.obolibrary.org/obo/FOODON_03510203	0.827		FOODON
+DRQSDT10	DR1TOT_E	DRQSDT10-DR1TOT_E	High protein diet	high protein food	FOODON:03510203	http://purl.obolibrary.org/obo/FOODON_03510203	0.828		FOODON
+DRQSDT10	DR1TOT_F	DRQSDT10-DR1TOT_F	High protein diet	high protein food	FOODON:03510203	http://purl.obolibrary.org/obo/FOODON_03510203	0.828		FOODON
+DRQSDT10	DR1TOT_G	DRQSDT10-DR1TOT_G	High protein diet	high protein food	FOODON:03510203	http://purl.obolibrary.org/obo/FOODON_03510203	0.828		FOODON
+DRQSDT10	DR1TOT_H	DRQSDT10-DR1TOT_H	High protein diet	high protein food	FOODON:03510203	http://purl.obolibrary.org/obo/FOODON_03510203	0.828		FOODON
+DRQSDT10	DR1TOT_I	DRQSDT10-DR1TOT_I	High protein diet	high protein food	FOODON:03510203	http://purl.obolibrary.org/obo/FOODON_03510203	0.828		FOODON
+DRQSDT10	DR1TOT_J	DRQSDT10-DR1TOT_J	High protein diet	high protein food	FOODON:03510203	http://purl.obolibrary.org/obo/FOODON_03510203	0.828		FOODON
 DRQSDT4	DR1TOT_C	DRQSDT4-DR1TOT_C	Sugar free/ low sugar diet	Sugar	NCIT:C71939	http://purl.obolibrary.org/obo/NCIT_C71939	0.805		NCIT
 DRQSDT4	DR1TOT_D	DRQSDT4-DR1TOT_D	Sugar free/Low sugar diet	Sugar	NCIT:C71939	http://purl.obolibrary.org/obo/NCIT_C71939	0.805		NCIT
 DRQSDT4	DR1TOT_E	DRQSDT4-DR1TOT_E	Sugar free/Low sugar diet	Sugar	NCIT:C71939	http://purl.obolibrary.org/obo/NCIT_C71939	0.805		NCIT
@@ -1861,11 +1866,11 @@ DRXIVE	DRXIFF	DRXIVE-DRXIFF	Vitamin E (ATE) (mg)	Vitamin E Compound	NCIT:C942	ht
 DRXIVK	DRXIFF_B	DRXIVK-DRXIFF_B	Vitamin K (mcg)	Vitamin K Measurement	NCIT:C74907	http://purl.obolibrary.org/obo/NCIT_C74907	0.853		NCIT
 DRXIZINC	DRXIFF	DRXIZINC-DRXIFF	Zinc (mg)	Zinc	NCIT:C948	http://purl.obolibrary.org/obo/NCIT_C948	0.907		NCIT
 DRXIZINC	DRXIFF_B	DRXIZINC-DRXIFF_B	Zinc (mg)	Zinc	NCIT:C948	http://purl.obolibrary.org/obo/NCIT_C948	0.907		NCIT
-DRXMC	DRXMCD_C	DRXMC-DRXMCD_C	Modification code	Change	NCIT:C25446	http://purl.obolibrary.org/obo/NCIT_C25446	0.893		NCIT
-DRXMC	DRXMCD_D	DRXMC-DRXMCD_D	Modification Code	Change	NCIT:C25446	http://purl.obolibrary.org/obo/NCIT_C25446	0.893		NCIT
-DRXMC	DRXMCD_E	DRXMC-DRXMCD_E	Modification Code	Change	NCIT:C25446	http://purl.obolibrary.org/obo/NCIT_C25446	0.893		NCIT
-DRXMC	DRXMCD_F	DRXMC-DRXMCD_F	Modification Code	Change	NCIT:C25446	http://purl.obolibrary.org/obo/NCIT_C25446	0.893		NCIT
-DRXMC	DRXMCD_G	DRXMC-DRXMCD_G	Modification Code	Change	NCIT:C25446	http://purl.obolibrary.org/obo/NCIT_C25446	0.893		NCIT
+DRXMC	DRXMCD_C	DRXMC-DRXMCD_C	Modification code	Data Change Date	NCIT:C114550	http://purl.obolibrary.org/obo/NCIT_C114550	0.893		NCIT
+DRXMC	DRXMCD_D	DRXMC-DRXMCD_D	Modification Code	Data Change Date	NCIT:C114550	http://purl.obolibrary.org/obo/NCIT_C114550	0.893		NCIT
+DRXMC	DRXMCD_E	DRXMC-DRXMCD_E	Modification Code	Data Change Date	NCIT:C114550	http://purl.obolibrary.org/obo/NCIT_C114550	0.893		NCIT
+DRXMC	DRXMCD_F	DRXMC-DRXMCD_F	Modification Code	Data Change Date	NCIT:C114550	http://purl.obolibrary.org/obo/NCIT_C114550	0.893		NCIT
+DRXMC	DRXMCD_G	DRXMC-DRXMCD_G	Modification Code	Data Change Date	NCIT:C114550	http://purl.obolibrary.org/obo/NCIT_C114550	0.893		NCIT
 DRXTALCO	DRXTOT	DRXTALCO-DRXTOT	Alcohol (gm)	Ethanol Measurement	NCIT:C74693	http://purl.obolibrary.org/obo/NCIT_C74693	0.925		NCIT
 DRXTALCO	DRXTOT_B	DRXTALCO-DRXTOT_B	Alcohol (gm)	Ethanol Measurement	NCIT:C74693	http://purl.obolibrary.org/obo/NCIT_C74693	0.925		NCIT
 DRXTBCAR	DRXTOT_B	DRXTBCAR-DRXTOT_B	Beta-carotene (mcg)	Beta-Carotene	NCIT:C1016	http://purl.obolibrary.org/obo/NCIT_C1016	0.881		NCIT
@@ -2252,11 +2257,6 @@ DS1TZINC	DS1TOT_G	DS1TZINC-DS1TOT_G	Zinc (mg)	Zinc	NCIT:C948	http://purl.obolibr
 DS1TZINC	DS1TOT_H	DS1TZINC-DS1TOT_H	Zinc (mg)	Zinc	NCIT:C948	http://purl.obolibrary.org/obo/NCIT_C948	0.907		NCIT
 DS1TZINC	DS1TOT_I	DS1TZINC-DS1TOT_I	Zinc (mg)	Zinc	NCIT:C948	http://purl.obolibrary.org/obo/NCIT_C948	0.907		NCIT
 DS1TZINC	DS1TOT_J	DS1TZINC-DS1TOT_J	Zinc (mg)	Zinc	NCIT:C948	http://purl.obolibrary.org/obo/NCIT_C948	0.907		NCIT
-DS2ACTSS	DS2IDS_E	DS2ACTSS-DS2IDS_E	Reported serving size/label serving size	serving size	FOODON:00003334	http://purl.obolibrary.org/obo/FOODON_00003334	0.879		FOODON
-DS2ACTSS	DS2IDS_F	DS2ACTSS-DS2IDS_F	Reported serving size/label serving size	serving size	FOODON:00003334	http://purl.obolibrary.org/obo/FOODON_00003334	0.879		FOODON
-DS2ACTSS	DS2IDS_G	DS2ACTSS-DS2IDS_G	Reported serving size/label serving size	serving size	FOODON:00003334	http://purl.obolibrary.org/obo/FOODON_00003334	0.879		FOODON
-DS2ACTSS	DS2IDS_H	DS2ACTSS-DS2IDS_H	Reported serving size/label serving size	serving size	FOODON:00003334	http://purl.obolibrary.org/obo/FOODON_00003334	0.879		FOODON
-DS2ACTSS	DS2IDS_I	DS2ACTSS-DS2IDS_I	Reported serving size/label serving size	serving size	FOODON:00003334	http://purl.obolibrary.org/obo/FOODON_00003334	0.879		FOODON
 DS2ACTSS	DS2IDS_J	DS2ACTSS-DS2IDS_J	Reported serving size/label serving size	serving size	FOODON:00003334	http://purl.obolibrary.org/obo/FOODON_00003334	0.879		FOODON
 DS2DS	DS2TOT_E	DS2DS-DS2TOT_E	Any Dietary Supplements taken	Dietary Supplement	NCIT:C1505	http://purl.obolibrary.org/obo/NCIT_C1505	0.855		NCIT
 DS2DS	DS2TOT_F	DS2DS-DS2TOT_F	Any Dietary Supplements taken	Dietary Supplement	NCIT:C1505	http://purl.obolibrary.org/obo/NCIT_C1505	0.855		NCIT
@@ -2627,10 +2627,10 @@ DSD128JJ	DSQIDS_G	DSD128JJ-DSQIDS_G	For weight gain	Weight Gain, CTCAE	NCIT:C553
 DSD128JJ	DSQIDS_H	DSD128JJ-DSQIDS_H	For weight gain	Weight Gain, CTCAE	NCIT:C55338	http://purl.obolibrary.org/obo/NCIT_C55338	0.959		NCIT
 DSD128JJ	DSQIDS_I	DSD128JJ-DSQIDS_I	For weight gain	Weight Gain, CTCAE	NCIT:C55338	http://purl.obolibrary.org/obo/NCIT_C55338	0.959		NCIT
 DSD128JJ	DSQIDS_J	DSD128JJ-DSQIDS_J	For weight gain	Weight Gain, CTCAE	NCIT:C55338	http://purl.obolibrary.org/obo/NCIT_C55338	0.959		NCIT
-DSD128KK	DSQIDS_G	DSD128KK-DSQIDS_G	Low levels in blood	Hypomagnesemia	HP:0002917	http://purl.obolibrary.org/obo/HP_0002917	0.865		EFO
-DSD128KK	DSQIDS_H	DSD128KK-DSQIDS_H	Low levels in blood	Hypomagnesemia	HP:0002917	http://purl.obolibrary.org/obo/HP_0002917	0.865		EFO
-DSD128KK	DSQIDS_I	DSD128KK-DSQIDS_I	Low levels in blood	Hypomagnesemia	HP:0002917	http://purl.obolibrary.org/obo/HP_0002917	0.865		EFO
-DSD128KK	DSQIDS_J	DSD128KK-DSQIDS_J	Low levels in blood	Hypomagnesemia	HP:0002917	http://purl.obolibrary.org/obo/HP_0002917	0.865		EFO
+DSD128KK	DSQIDS_G	DSD128KK-DSQIDS_G	Low levels in blood	Hypocalcemia	HP:0002901	http://purl.obolibrary.org/obo/HP_0002901	0.814		EFO
+DSD128KK	DSQIDS_H	DSD128KK-DSQIDS_H	Low levels in blood	Hypocalcemia	HP:0002901	http://purl.obolibrary.org/obo/HP_0002901	0.814		EFO
+DSD128KK	DSQIDS_I	DSD128KK-DSQIDS_I	Low levels in blood	Hypocalcemia	HP:0002901	http://purl.obolibrary.org/obo/HP_0002901	0.814		EFO
+DSD128KK	DSQIDS_J	DSD128KK-DSQIDS_J	Low levels in blood	Hypocalcemia	HP:0002901	http://purl.obolibrary.org/obo/HP_0002901	0.814		EFO
 DSD128OO	DSQIDS_J	DSD128OO-DSQIDS_J	For inflammation	Inflammation	NCIT:C3137	http://purl.obolibrary.org/obo/NCIT_C3137	0.994		NCIT
 DSD128X	DSQIDS_E	DSD128X-DSQIDS_E	For allergies	Allergic Reaction	NCIT:C114476	http://purl.obolibrary.org/obo/NCIT_C114476	0.978		NCIT
 DSD128X	DSQIDS_F	DSD128X-DSQIDS_F	For allergies	Allergic Reaction	NCIT:C114476	http://purl.obolibrary.org/obo/NCIT_C114476	0.978		NCIT
@@ -3015,7 +3015,7 @@ DSXCF1LD	ALDUST_D	DSXCF1LD-ALDUST_D	Can f 1 Limit Of Detection (ng/mL)	Detection
 DSXDF1LD	ALDUST_D	DSXDF1LD-ALDUST_D	Der f 1 Limit of Detection (ng/mL)	Detection Limit	NCIT:C105701	http://purl.obolibrary.org/obo/NCIT_C105701	0.843		NCIT
 DSXDP1LD	ALDUST_D	DSXDP1LD-ALDUST_D	Der p 1 Limit Of Detection (ng/mL)	Detection Limit	NCIT:C105701	http://purl.obolibrary.org/obo/NCIT_C105701	0.836		NCIT
 DSXRN1LD	ALDUST_D	DSXRN1LD-ALDUST_D	Rat n 1 Limit Of Detection (ng/mL)	Detection Limit	NCIT:C105701	http://purl.obolibrary.org/obo/NCIT_C105701	0.834		NCIT
-DTD050Q	DTQ_F	DTD050Q-DTQ_F	drink 100% fruit juice?	fruit juice drink	FOODON:03302186	http://purl.obolibrary.org/obo/FOODON_03302186	0.897		FOODON
+DTD050Q	DTQ_F	DTD050Q-DTQ_F	drink 100% fruit juice?	fruit juice drink	FOODON:03302186	http://purl.obolibrary.org/obo/FOODON_03302186	0.898		FOODON
 DTD080Q	DTQ_F	DTD080Q-DTQ_F	eat fruit?	Fruit Flavor	NCIT:C73389	http://purl.obolibrary.org/obo/NCIT_C73389	0.907		NCIT
 DTD090Q	DTQ_F	DTD090Q-DTQ_F	eat leafy/lettuce salad?	How Often Eat Leafy Green or Lettuce Salad	NCIT:C188093	http://purl.obolibrary.org/obo/NCIT_C188093	0.803		NCIT
 DTD100Q	DTQ_F	DTD100Q-DTQ_F	eat fried potatoes?	How Often Eat Fried Potatoes	NCIT:C188094	http://purl.obolibrary.org/obo/NCIT_C188094	0.82		NCIT
@@ -3025,11 +3025,11 @@ DTD160Q	DTQ_F	DTD160Q-DTQ_F	eat tomato sauce?	tomato sauce	FOODON:03301217	http:
 DTD170Q	DTQ_F	DTD170Q-DTQ_F	eat red meat?	Meat Flavor	NCIT:C73402	http://purl.obolibrary.org/obo/NCIT_C73402	0.833		NCIT
 DTD180Q	DTQ_F	DTD180Q-DTQ_F	eat processed meat?	Processed Meat	NCIT:C126483	http://purl.obolibrary.org/obo/NCIT_C126483	0.963		NCIT
 DTD190Q	DTQ_F	DTD190Q-DTQ_F	eat cheese?	Cheese Flavor	NCIT:C73374	http://purl.obolibrary.org/obo/NCIT_C73374	0.911		NCIT
-DTD200Q	DTQ_F	DTD200Q-DTQ_F	eat whole grain bread?	whole grain bread	FOODON:00003923	http://purl.obolibrary.org/obo/FOODON_00003923	0.942		FOODON
+DTD200Q	DTQ_F	DTD200Q-DTQ_F	eat whole grain bread?	whole grain bread	FOODON:00003923	http://purl.obolibrary.org/obo/FOODON_00003923	0.94		FOODON
 DTD220Q	DTQ_F	DTD220Q-DTQ_F	eat chocolate or candy?	chocolate candy	FOODON:03400288	http://purl.obolibrary.org/obo/FOODON_03400288	0.939		FOODON
 DTD250Q	DTQ_F	DTD250Q-DTQ_F	eat ice cream?	ice cream food product	FOODON:00001045	http://purl.obolibrary.org/obo/FOODON_00001045	0.923		FOODON
 DTD260Q	DTQ_F	DTD260Q-DTQ_F	eat popcorn?	Popcorn	NCIT:C71946	http://purl.obolibrary.org/obo/NCIT_C71946	0.941		NCIT
-DTQ050U	DTQ_F	DTQ050U-DTQ_F	drink 100% fruit juice?	fruit juice drink	FOODON:03302186	http://purl.obolibrary.org/obo/FOODON_03302186	0.897		FOODON
+DTQ050U	DTQ_F	DTQ050U-DTQ_F	drink 100% fruit juice?	fruit juice drink	FOODON:03302186	http://purl.obolibrary.org/obo/FOODON_03302186	0.898		FOODON
 DTQ080U	DTQ_F	DTQ080U-DTQ_F	eat fruit?	Fruit Flavor	NCIT:C73389	http://purl.obolibrary.org/obo/NCIT_C73389	0.907		NCIT
 DTQ090U	DTQ_F	DTQ090U-DTQ_F	eat leafy/lettuce salad?	How Often Eat Leafy Green or Lettuce Salad	NCIT:C188093	http://purl.obolibrary.org/obo/NCIT_C188093	0.803		NCIT
 DTQ100U	DTQ_F	DTQ100U-DTQ_F	eat fried potatoes?	How Often Eat Fried Potatoes	NCIT:C188094	http://purl.obolibrary.org/obo/NCIT_C188094	0.82		NCIT
@@ -3039,7 +3039,7 @@ DTQ160U	DTQ_F	DTQ160U-DTQ_F	eat tomato sauce?	tomato sauce	FOODON:03301217	http:
 DTQ170U	DTQ_F	DTQ170U-DTQ_F	eat red meat?	Meat Flavor	NCIT:C73402	http://purl.obolibrary.org/obo/NCIT_C73402	0.833		NCIT
 DTQ180U	DTQ_F	DTQ180U-DTQ_F	eat processed meat?	Processed Meat	NCIT:C126483	http://purl.obolibrary.org/obo/NCIT_C126483	0.963		NCIT
 DTQ190U	DTQ_F	DTQ190U-DTQ_F	eat cheese?	Cheese Flavor	NCIT:C73374	http://purl.obolibrary.org/obo/NCIT_C73374	0.911		NCIT
-DTQ200U	DTQ_F	DTQ200U-DTQ_F	eat whole grain bread?	whole grain bread	FOODON:00003923	http://purl.obolibrary.org/obo/FOODON_00003923	0.942		FOODON
+DTQ200U	DTQ_F	DTQ200U-DTQ_F	eat whole grain bread?	whole grain bread	FOODON:00003923	http://purl.obolibrary.org/obo/FOODON_00003923	0.94		FOODON
 DTQ220U	DTQ_F	DTQ220U-DTQ_F	eat chocolate or candy?	chocolate candy	FOODON:03400288	http://purl.obolibrary.org/obo/FOODON_03400288	0.939		FOODON
 DTQ250U	DTQ_F	DTQ250U-DTQ_F	eat ice cream?	ice cream food product	FOODON:00001045	http://purl.obolibrary.org/obo/FOODON_00001045	0.923		FOODON
 DTQ260U	DTQ_F	DTQ260U-DTQ_F	eat popcorn?	Popcorn	NCIT:C71946	http://purl.obolibrary.org/obo/NCIT_C71946	0.941		NCIT
@@ -3174,14 +3174,14 @@ DXXTSBMC	DXX_G	DXXTSBMC-DXX_G	Thoracic Spine BMC (g)	Thoracic Spine	NCIT:C69315	
 DXXTSBMC	DXX_H	DXXTSBMC-DXX_H	Thoracic Spine BMC (g)	Thoracic Spine	NCIT:C69315	http://purl.obolibrary.org/obo/NCIT_C69315	0.854		NCIT
 DXXTSBMC	DXX_I	DXXTSBMC-DXX_I	Thoracic Spine BMC (g)	Thoracic Spine	NCIT:C69315	http://purl.obolibrary.org/obo/NCIT_C69315	0.854		NCIT
 DXXTSBMC	DXX_J	DXXTSBMC-DXX_J	Thoracic Spine BMC (g)	Thoracic Spine	NCIT:C69315	http://purl.obolibrary.org/obo/NCIT_C69315	0.854		NCIT
-DXXVFATA	DXXAG_G	DXXVFATA-DXXAG_G	Visceral adipose tissue area	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.828		EFO
-DXXVFATA	DXXAG_H	DXXVFATA-DXXAG_H	Visceral adipose tissue area	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.828		EFO
-DXXVFATA	DXXAG_I	DXXVFATA-DXXAG_I	Visceral adipose tissue area	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.828		EFO
-DXXVFATA	DXXAG_J	DXXVFATA-DXXAG_J	Visceral adipose tissue area	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.828		EFO
-DXXVFATM	DXXAG_G	DXXVFATM-DXXAG_G	Visceral adipose tissue mass	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.81		EFO
-DXXVFATM	DXXAG_H	DXXVFATM-DXXAG_H	Visceral adipose tissue mass	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.81		EFO
-DXXVFATM	DXXAG_I	DXXVFATM-DXXAG_I	Visceral adipose tissue mass	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.81		EFO
-DXXVFATM	DXXAG_J	DXXVFATM-DXXAG_J	Visceral adipose tissue mass	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.81		EFO
+DXXVFATA	DXXAG_G	DXXVFATA-DXXAG_G	Visceral adipose tissue area	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.823		EFO
+DXXVFATA	DXXAG_H	DXXVFATA-DXXAG_H	Visceral adipose tissue area	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.823		EFO
+DXXVFATA	DXXAG_I	DXXVFATA-DXXAG_I	Visceral adipose tissue area	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.823		EFO
+DXXVFATA	DXXAG_J	DXXVFATA-DXXAG_J	Visceral adipose tissue area	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.823		EFO
+DXXVFATM	DXXAG_G	DXXVFATM-DXXAG_G	Visceral adipose tissue mass	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.806		EFO
+DXXVFATM	DXXAG_H	DXXVFATM-DXXAG_H	Visceral adipose tissue mass	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.806		EFO
+DXXVFATM	DXXAG_I	DXXVFATM-DXXAG_I	Visceral adipose tissue mass	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.806		EFO
+DXXVFATM	DXXAG_J	DXXVFATM-DXXAG_J	Visceral adipose tissue mass	visceral adipose tissue measurement	EFO:0004765	http://www.ebi.ac.uk/efo/EFO_0004765	0.806		EFO
 DXXWDA	DXXFEM_F	DXXWDA-DXXFEM_F	Wards triangle area	Ward's Triangle	NCIT:C122161	http://purl.obolibrary.org/obo/NCIT_C122161	0.915		NCIT
 DXXWDA	DXXFEM_H	DXXWDA-DXXFEM_H	Wards triangle area	Ward's Triangle	NCIT:C122161	http://purl.obolibrary.org/obo/NCIT_C122161	0.915		NCIT
 DXXWDA	DXXFEM_J	DXXWDA-DXXFEM_J	Wards triangle area	Ward's Triangle	NCIT:C122161	http://purl.obolibrary.org/obo/NCIT_C122161	0.915		NCIT
@@ -3282,14 +3282,14 @@ FFQ0014	FFQRAW_C	FFQ0014-FFQRAW_C	Q.14 How often eat cold cereal	How Often Eat H
 FFQ0014	FFQRAW_D	FFQ0014-FFQRAW_D	Q.14 How often eat cold cereal	How Often Eat Hot or Cold Cereal	NCIT:C188084	http://purl.obolibrary.org/obo/NCIT_C188084	0.809		NCIT
 FFQ0015	FFQRAW_C	FFQ0015-FFQRAW_C	Q.15 Did you eat applesauce	Applesauce	NCIT:C65148	http://purl.obolibrary.org/obo/NCIT_C65148	0.805		NCIT
 FFQ0015	FFQRAW_D	FFQ0015-FFQRAW_D	Q.15 Did you eat applesauce	Applesauce	NCIT:C65148	http://purl.obolibrary.org/obo/NCIT_C65148	0.805		NCIT
-FFQ0030	FFQRAW_C	FFQ0030-FFQRAW_C	Q.30 Did you eat coleslaw	coleslaw	FOODON:03304707	http://purl.obolibrary.org/obo/FOODON_03304707	0.818		FOODON
-FFQ0030	FFQRAW_D	FFQ0030-FFQRAW_D	Q.30 Did you eat coleslaw	coleslaw	FOODON:03304707	http://purl.obolibrary.org/obo/FOODON_03304707	0.818		FOODON
-FFQ0031	FFQRAW_C	FFQ0031-FFQRAW_C	Q.31 Did you eat sauerkraut	sauerkraut	FOODON:03301397	http://purl.obolibrary.org/obo/FOODON_03301397	0.849		FOODON
-FFQ0031	FFQRAW_D	FFQ0031-FFQRAW_D	Q.31 Did you eat sauerkraut	sauerkraut	FOODON:03301397	http://purl.obolibrary.org/obo/FOODON_03301397	0.849		FOODON
+FFQ0030	FFQRAW_C	FFQ0030-FFQRAW_C	Q.30 Did you eat coleslaw	coleslaw	FOODON:03304707	http://purl.obolibrary.org/obo/FOODON_03304707	0.817		FOODON
+FFQ0030	FFQRAW_D	FFQ0030-FFQRAW_D	Q.30 Did you eat coleslaw	coleslaw	FOODON:03304707	http://purl.obolibrary.org/obo/FOODON_03304707	0.817		FOODON
+FFQ0031	FFQRAW_C	FFQ0031-FFQRAW_C	Q.31 Did you eat sauerkraut	sauerkraut	FOODON:03301397	http://purl.obolibrary.org/obo/FOODON_03301397	0.85		FOODON
+FFQ0031	FFQRAW_D	FFQ0031-FFQRAW_D	Q.31 Did you eat sauerkraut	sauerkraut	FOODON:03301397	http://purl.obolibrary.org/obo/FOODON_03301397	0.85		FOODON
 FFQ0038	FFQRAW_C	FFQ0038-FFQRAW_C	Q.38 Did you eat mixed veggies	mixed vegetables	FOODON:00002683	http://purl.obolibrary.org/obo/FOODON_00002683	0.814		FOODON
 FFQ0038	FFQRAW_D	FFQ0038-FFQRAW_D	Q.38 Did you eat mixed veggies	mixed vegetables	FOODON:00002683	http://purl.obolibrary.org/obo/FOODON_00002683	0.814		FOODON
-FFQ0043	FFQRAW_C	FFQ0043-FFQRAW_C	Q.43 Did you eat summer squash	summer squash (whole, raw)	FOODON:03310107	http://purl.obolibrary.org/obo/FOODON_03310107	0.812		FOODON
-FFQ0043	FFQRAW_D	FFQ0043-FFQRAW_D	Q.43 Did you eat summer squash	summer squash (whole, raw)	FOODON:03310107	http://purl.obolibrary.org/obo/FOODON_03310107	0.812		FOODON
+FFQ0043	FFQRAW_C	FFQ0043-FFQRAW_C	Q.43 Did you eat summer squash	summer squash (whole, raw)	FOODON:03310107	http://purl.obolibrary.org/obo/FOODON_03310107	0.81		FOODON
+FFQ0043	FFQRAW_D	FFQ0043-FFQRAW_D	Q.43 Did you eat summer squash	summer squash (whole, raw)	FOODON:03310107	http://purl.obolibrary.org/obo/FOODON_03310107	0.81		FOODON
 FFQ0061	FFQRAW_C	FFQ0061-FFQRAW_C	Q.61 Did you eat macaroni and cheese	macaroni and cheese	FOODON:00002960	http://purl.obolibrary.org/obo/FOODON_00002960	0.8		FOODON
 FFQ0061	FFQRAW_D	FFQ0061-FFQRAW_D	Q.61 Did you eat macaroni and cheese	macaroni and cheese	FOODON:00002960	http://purl.obolibrary.org/obo/FOODON_00002960	0.8		FOODON
 FFQ0063A	FFQRAW_C	FFQ0063A-FFQRAW_C	Q.63A Did you eat spaghetti sauce	spaghetti sauce	FOODON:03303886	http://purl.obolibrary.org/obo/FOODON_03303886	0.803		FOODON
@@ -3383,7 +3383,7 @@ KIQ026	KIQ_U_I	KIQ026-KIQ_U_I	kidney stones?	nephrolithiasis	EFO:0004253	http://
 KIQ026	KIQ_U_J	KIQ026-KIQ_U_J	kidney stones?	nephrolithiasis	EFO:0004253	http://www.ebi.ac.uk/efo/EFO_0004253	0.994		EFO
 KIQ121	KIQ_P_D	KIQ121-KIQ_P_D	enlarged prostate?	benign prostatic hyperplasia	EFO:0000284	http://www.ebi.ac.uk/efo/EFO_0000284	0.851		EFO
 KIQ121	KIQ_P_E	KIQ121-KIQ_P_E	enlarged prostate?	benign prostatic hyperplasia	EFO:0000284	http://www.ebi.ac.uk/efo/EFO_0000284	0.851		EFO
-KIQ160	KIQ	KIQ160-KIQ	benign enlargement	benign prostatic hyperplasia	EFO:0000284	http://www.ebi.ac.uk/efo/EFO_0000284	0.845	age	EFO
+KIQ160	KIQ	KIQ160-KIQ	benign enlargement	benign prostatic hyperplasia	EFO:0000284	http://www.ebi.ac.uk/efo/EFO_0000284	0.847	age	EFO
 KIQ190	L11PSA_B	KIQ190-L11PSA_B	Prostate biopsy in the last 4 weeks	Biopsy of Prostate	NCIT:C51701	http://purl.obolibrary.org/obo/NCIT_C51701	0.81		NCIT
 KIQ190	L11PSA_C	KIQ190-L11PSA_C	Prostate biopsy in the last 4 weeks	Biopsy of Prostate	NCIT:C51701	http://purl.obolibrary.org/obo/NCIT_C51701	0.81		NCIT
 KIQ221	L11PSA_B	KIQ221-L11PSA_B	Age at diagnosis of prostate cancer	Prostate Carcinoma	NCIT:C4863	http://purl.obolibrary.org/obo/NCIT_C4863	0.844		NCIT
@@ -3421,11 +3421,11 @@ LB2GTC	VIT_2_B	LB2GTC-VIT_2_B	gamma-tocopherol(ug/dL)	Gamma Tocopherol Measureme
 LB2GTCSI	VIT_2_B	LB2GTCSI-VIT_2_B	gamma-tocopherol(umol/L)	Gamma Tocopherol Measurement	NCIT:C116211	http://purl.obolibrary.org/obo/NCIT_C116211	0.907		NCIT
 LB2HCT	l25_2_b	LB2HCT-l25_2_b	Hematocrit (%)	Hematocrit Measurement	NCIT:C64796	http://purl.obolibrary.org/obo/NCIT_C64796	0.991		NCIT
 LB2HCY	L06_2_B	LB2HCY-L06_2_B	Homocysteine (umol/L)	Homocysteine Acid Measurement	NCIT:C74741	http://purl.obolibrary.org/obo/NCIT_C74741	0.857		NCIT
-LB2HDL	l13_2_b	LB2HDL-l13_2_b	HDL-cholesterol (mg/dL)	Serum HDL Cholesterol Measurement	NCIT:C61041	http://purl.obolibrary.org/obo/NCIT_C61041	0.935		NCIT
-LB2HDLSI	l13_2_b	LB2HDLSI-l13_2_b	HDL-cholesterol (mmol/L)	Serum HDL Cholesterol Measurement	NCIT:C61041	http://purl.obolibrary.org/obo/NCIT_C61041	0.892		NCIT
+LB2HDL	l13_2_b	LB2HDL-l13_2_b	HDL-cholesterol (mg/dL)	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.935		NCIT
+LB2HDLSI	l13_2_b	LB2HDLSI-l13_2_b	HDL-cholesterol (mmol/L)	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.892		NCIT
 LB2HGB	l25_2_b	LB2HGB-l25_2_b	Hemoglobin (g/dL)	Hemoglobin Measurement	NCIT:C64848	http://purl.obolibrary.org/obo/NCIT_C64848	0.929		NCIT
-LB2LDL	l13_2_b	LB2LDL-l13_2_b	LDL-cholesterol (mg/dL)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.933		NCIT
-LB2LDLSI	l13_2_b	LB2LDLSI-l13_2_b	LDL-cholesterol (mmol/L)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.889		NCIT
+LB2LDL	l13_2_b	LB2LDL-l13_2_b	LDL-cholesterol (mg/dL)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.933		NCIT
+LB2LDLSI	l13_2_b	LB2LDLSI-l13_2_b	LDL-cholesterol (mmol/L)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.889		NCIT
 LB2LH	L40_2_B	LB2LH-L40_2_B	Luteinizing hormone (mIU/mL)	Luteinizing Hormone Measurement	NCIT:C74790	http://purl.obolibrary.org/obo/NCIT_C74790	0.885		NCIT
 LB2LHSI	L40_2_B	LB2LHSI-L40_2_B	Luteinizing hormone (IU/L)	Luteinizing Hormone Measurement	NCIT:C74790	http://purl.obolibrary.org/obo/NCIT_C74790	0.902		NCIT
 LB2LYPCT	l25_2_b	LB2LYPCT-l25_2_b	Lymphocyte percent (%)	Percent of Lymphocytes	NCIT:C70462	http://purl.obolibrary.org/obo/NCIT_C70462	0.919		NCIT
@@ -3439,9 +3439,9 @@ LB2NEPCT	l25_2_b	LB2NEPCT-l25_2_b	Segmented neutrophils percent (%)	Segmented Ne
 LB2P1	l11p_2_b	LB2P1-l11p_2_b	PSA. total (ng/mL)	Total PSA	NCIT:C94597	http://purl.obolibrary.org/obo/NCIT_C94597	0.877		NCIT
 LB2P2	l11p_2_b	LB2P2-l11p_2_b	PSA free (ng/mL)	Percent Free Prostate-Specific Antigen	NCIT:C20042	http://purl.obolibrary.org/obo/NCIT_C20042	0.898		NCIT
 LB2P3	l11p_2_b	LB2P3-l11p_2_b	Prostate specific antigen ratio (%)	Prostate Specific Antigen Measurement	NCIT:C17634	http://purl.obolibrary.org/obo/NCIT_C17634	0.9		NCIT
-LB2RBF	L06_2_B	LB2RBF-L06_2_B	Folate RBC (ng/mL RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.935		EFO
-LB2RBFSI	L06_2_B	LB2RBFSI-L06_2_B	Folate RBC (nmol/L RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.897		EFO
-LB2RDW	l25_2_b	LB2RDW-l25_2_b	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.981		EFO
+LB2RBF	L06_2_B	LB2RBF-L06_2_B	Folate RBC (ng/mL RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.937		EFO
+LB2RBFSI	L06_2_B	LB2RBFSI-L06_2_B	Folate RBC (nmol/L RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.899		EFO
+LB2RDW	l25_2_b	LB2RDW-l25_2_b	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.98		EFO
 LB2RPL	VIT_2_B	LB2RPL-VIT_2_B	Retinyl palmitate(ug/dL)	Retinyl Palmitate Measurement	NCIT:C135442	http://purl.obolibrary.org/obo/NCIT_C135442	0.909		NCIT
 LB2RPLSI	VIT_2_B	LB2RPLSI-VIT_2_B	Retinyl palmitate(umol/L)	Retinyl Palmitate Measurement	NCIT:C135442	http://purl.obolibrary.org/obo/NCIT_C135442	0.888		NCIT
 LB2RU	L19_2_B	LB2RU-L19_2_B	Rubella	Rubella Infection	NCIT:C85051	http://purl.obolibrary.org/obo/NCIT_C85051	0.989		NCIT
@@ -3507,14 +3507,14 @@ LBCMIR	PSTPOL_F	LBCMIR-PSTPOL_F	Mirex (pg/g)	Mirex	NCIT:C44404	http://purl.oboli
 LBCMIR	PSTPOL_G	LBCMIR-PSTPOL_G	Mirex (pg/g)	Mirex	NCIT:C44404	http://purl.obolibrary.org/obo/NCIT_C44404	0.828		NCIT
 LBCMIR	PSTPOL_H	LBCMIR-PSTPOL_H	Mirex (pg/g)	Mirex	NCIT:C44404	http://purl.obolibrary.org/obo/NCIT_C44404	0.828		NCIT
 LBCMIR	PSTPOL_I	LBCMIR-PSTPOL_I	Mirex (pg/g)	Mirex	NCIT:C44404	http://purl.obolibrary.org/obo/NCIT_C44404	0.828		NCIT
-LBD066LC	LAB28POC	LBD066LC-LAB28POC	PCB66	CB66	EFO:0004073	http://www.ebi.ac.uk/efo/EFO_0004073	0.839	comment	EFO
-LBD066LC	L28POC_B	LBD066LC-L28POC_B	PCB66	CB66	EFO:0004073	http://www.ebi.ac.uk/efo/EFO_0004073	0.839	comment	EFO
-LBD066LC	L28DFP_C	LBD066LC-L28DFP_C	PCB66	CB66	EFO:0004073	http://www.ebi.ac.uk/efo/EFO_0004073	0.839	comment	EFO
+LBD066LC	LAB28POC	LBD066LC-LAB28POC	PCB66	CB66	EFO:0004073	http://www.ebi.ac.uk/efo/EFO_0004073	0.84	comment	EFO
+LBD066LC	L28POC_B	LBD066LC-L28POC_B	PCB66	CB66	EFO:0004073	http://www.ebi.ac.uk/efo/EFO_0004073	0.84	comment	EFO
+LBD066LC	L28DFP_C	LBD066LC-L28DFP_C	PCB66	CB66	EFO:0004073	http://www.ebi.ac.uk/efo/EFO_0004073	0.84	comment	EFO
 LBD101LC	PCBPOL_D	LBD101LC-PCBPOL_D	PCB 101	101 Mouse	NCIT:C14567	http://purl.obolibrary.org/obo/NCIT_C14567	0.801	comment	NCIT
 LBD101LC	PCBPOL_E	LBD101LC-PCBPOL_E	PCB 101	101 Mouse	NCIT:C14567	http://purl.obolibrary.org/obo/NCIT_C14567	0.801	comment	NCIT
-LBD128LC	LAB28POC	LBD128LC-LAB28POC	PCB128	CB128	EFO:0004046	http://www.ebi.ac.uk/efo/EFO_0004046	0.818	comment	EFO
-LBD128LC	L28POC_B	LBD128LC-L28POC_B	PCB128	CB128	EFO:0004046	http://www.ebi.ac.uk/efo/EFO_0004046	0.818	comment	EFO
-LBD128LC	L28NPB_C	LBD128LC-L28NPB_C	PCB128	CB128	EFO:0004046	http://www.ebi.ac.uk/efo/EFO_0004046	0.818	comment	EFO
+LBD128LC	LAB28POC	LBD128LC-LAB28POC	PCB128	CB128	EFO:0004046	http://www.ebi.ac.uk/efo/EFO_0004046	0.819	comment	EFO
+LBD128LC	L28POC_B	LBD128LC-L28POC_B	PCB128	CB128	EFO:0004046	http://www.ebi.ac.uk/efo/EFO_0004046	0.819	comment	EFO
+LBD128LC	L28NPB_C	LBD128LC-L28NPB_C	PCB128	CB128	EFO:0004046	http://www.ebi.ac.uk/efo/EFO_0004046	0.819	comment	EFO
 LBD156LC	PCBPOL_D	LBD156LC-PCBPOL_D	PCB 156	China	NCIT:C16428	http://purl.obolibrary.org/obo/NCIT_C16428	0.802	comment	NCIT
 LBD156LC	PCBPOL_E	LBD156LC-PCBPOL_E	PCB 156	China	NCIT:C16428	http://purl.obolibrary.org/obo/NCIT_C16428	0.802	comment	NCIT
 LBD156LC	PCBPOL_F	LBD156LC-PCBPOL_F	PCB 156	China	NCIT:C16428	http://purl.obolibrary.org/obo/NCIT_C16428	0.802	comment	NCIT
@@ -3562,11 +3562,11 @@ LBDBANO	LAB25	LBDBANO-LAB25	Basophils number	Total Basophil Count	NCIT:C64470	ht
 LBDBANO	L25_B	LBDBANO-L25_B	Basophils number	Total Basophil Count	NCIT:C64470	http://purl.obolibrary.org/obo/NCIT_C64470	0.833		NCIT
 LBDBANO	L25_C	LBDBANO-L25_C	Basophils number	Total Basophil Count	NCIT:C64470	http://purl.obolibrary.org/obo/NCIT_C64470	0.833		NCIT
 LBDBAP	L11_B	LBDBAP-L11_B	Bone alkaline phosphotase (ug/L)	Bone Specific Alkaline Phosphatase	NCIT:C113515	http://purl.obolibrary.org/obo/NCIT_C113515	0.833		NCIT
-LBDBCDLC	PbCd_F	LBDBCDLC-PbCd_F	Blood cadmium	blood cadmium measurement	EFO:0007576	http://www.ebi.ac.uk/efo/EFO_0007576	0.875	comment	EFO
-LBDBCDLC	PbCd_G	LBDBCDLC-PbCd_G	Blood cadmium	blood cadmium measurement	EFO:0007576	http://www.ebi.ac.uk/efo/EFO_0007576	0.875	comment	EFO
-LBDBCDLC	PBCD_H	LBDBCDLC-PBCD_H	Blood cadmium	blood cadmium measurement	EFO:0007576	http://www.ebi.ac.uk/efo/EFO_0007576	0.875	comment	EFO
-LBDBCDLC	PBCD_I	LBDBCDLC-PBCD_I	Blood cadmium	blood cadmium measurement	EFO:0007576	http://www.ebi.ac.uk/efo/EFO_0007576	0.875	comment	EFO
-LBDBCDLC	PBCD_J	LBDBCDLC-PBCD_J	Blood cadmium	blood cadmium measurement	EFO:0007576	http://www.ebi.ac.uk/efo/EFO_0007576	0.875	comment	EFO
+LBDBCDLC	PbCd_F	LBDBCDLC-PbCd_F	Blood cadmium	blood cadmium measurement	EFO:0007576	http://www.ebi.ac.uk/efo/EFO_0007576	0.872	comment	EFO
+LBDBCDLC	PbCd_G	LBDBCDLC-PbCd_G	Blood cadmium	blood cadmium measurement	EFO:0007576	http://www.ebi.ac.uk/efo/EFO_0007576	0.872	comment	EFO
+LBDBCDLC	PBCD_H	LBDBCDLC-PBCD_H	Blood cadmium	blood cadmium measurement	EFO:0007576	http://www.ebi.ac.uk/efo/EFO_0007576	0.872	comment	EFO
+LBDBCDLC	PBCD_I	LBDBCDLC-PBCD_I	Blood cadmium	blood cadmium measurement	EFO:0007576	http://www.ebi.ac.uk/efo/EFO_0007576	0.872	comment	EFO
+LBDBCDLC	PBCD_J	LBDBCDLC-PBCD_J	Blood cadmium	blood cadmium measurement	EFO:0007576	http://www.ebi.ac.uk/efo/EFO_0007576	0.872	comment	EFO
 LBDBCOLC	CRCO_I	LBDBCOLC-CRCO_I	Cobalt	Dietary Cobalt	NCIT:C68247	http://purl.obolibrary.org/obo/NCIT_C68247	0.998	comment	NCIT
 LBDBCOLC	CRCO_J	LBDBCOLC-CRCO_J	Cobalt	Dietary Cobalt	NCIT:C68247	http://purl.obolibrary.org/obo/NCIT_C68247	0.998	comment	NCIT
 LBDBCRLC	CRCO_I	LBDBCRLC-CRCO_I	Chromium	Dietary Chromium	NCIT:C68245	http://purl.obolibrary.org/obo/NCIT_C68245	0.98	comment	NCIT
@@ -3597,11 +3597,11 @@ LBDBMNLC	PbCd_G	LBDBMNLC-PbCd_G	Blood manganese	Dietary Manganese	NCIT:C68266	ht
 LBDBMNLC	PBCD_H	LBDBMNLC-PBCD_H	Blood manganese	Dietary Manganese	NCIT:C68266	http://purl.obolibrary.org/obo/NCIT_C68266	0.878	comment	NCIT
 LBDBMNLC	PBCD_I	LBDBMNLC-PBCD_I	Blood manganese	Dietary Manganese	NCIT:C68266	http://purl.obolibrary.org/obo/NCIT_C68266	0.878	comment	NCIT
 LBDBMNLC	PBCD_J	LBDBMNLC-PBCD_J	Blood manganese	Dietary Manganese	NCIT:C68266	http://purl.obolibrary.org/obo/NCIT_C68266	0.878	comment	NCIT
-LBDBPBLC	PbCd_F	LBDBPBLC-PbCd_F	Blood lead	blood lead measurement	EFO:0007040	http://www.ebi.ac.uk/efo/EFO_0007040	0.822	comment	EFO
-LBDBPBLC	PbCd_G	LBDBPBLC-PbCd_G	Blood lead	blood lead measurement	EFO:0007040	http://www.ebi.ac.uk/efo/EFO_0007040	0.822	comment	EFO
-LBDBPBLC	PBCD_H	LBDBPBLC-PBCD_H	Blood lead	blood lead measurement	EFO:0007040	http://www.ebi.ac.uk/efo/EFO_0007040	0.822	comment	EFO
-LBDBPBLC	PBCD_I	LBDBPBLC-PBCD_I	Blood lead	blood lead measurement	EFO:0007040	http://www.ebi.ac.uk/efo/EFO_0007040	0.822	comment	EFO
-LBDBPBLC	PBCD_J	LBDBPBLC-PBCD_J	Blood lead	blood lead measurement	EFO:0007040	http://www.ebi.ac.uk/efo/EFO_0007040	0.822	comment	EFO
+LBDBPBLC	PbCd_F	LBDBPBLC-PbCd_F	Blood lead	blood lead measurement	EFO:0007040	http://www.ebi.ac.uk/efo/EFO_0007040	0.816	comment	EFO
+LBDBPBLC	PbCd_G	LBDBPBLC-PbCd_G	Blood lead	blood lead measurement	EFO:0007040	http://www.ebi.ac.uk/efo/EFO_0007040	0.816	comment	EFO
+LBDBPBLC	PBCD_H	LBDBPBLC-PBCD_H	Blood lead	blood lead measurement	EFO:0007040	http://www.ebi.ac.uk/efo/EFO_0007040	0.816	comment	EFO
+LBDBPBLC	PBCD_I	LBDBPBLC-PBCD_I	Blood lead	blood lead measurement	EFO:0007040	http://www.ebi.ac.uk/efo/EFO_0007040	0.816	comment	EFO
+LBDBPBLC	PBCD_J	LBDBPBLC-PBCD_J	Blood lead	blood lead measurement	EFO:0007040	http://www.ebi.ac.uk/efo/EFO_0007040	0.816	comment	EFO
 LBDBSELC	PbCd_G	LBDBSELC-PbCd_G	Blood selenium	Dietary Selenium	NCIT:C68281	http://purl.obolibrary.org/obo/NCIT_C68281	0.841	comment	NCIT
 LBDBSELC	PBCD_H	LBDBSELC-PBCD_H	Blood selenium	Dietary Selenium	NCIT:C68281	http://purl.obolibrary.org/obo/NCIT_C68281	0.841	comment	NCIT
 LBDBSELC	PBCD_I	LBDBSELC-PBCD_I	Blood selenium	Dietary Selenium	NCIT:C68281	http://purl.obolibrary.org/obo/NCIT_C68281	0.841	comment	NCIT
@@ -3689,10 +3689,10 @@ LBDHCV	HEPC_E	LBDHCV-HEPC_E	Hepatitis C antibody (confirmed)	Hepatitis C Antibod
 LBDHCV	HEPC_F	LBDHCV-HEPC_F	Hepatitis C antibody (confirmed)	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.991		NCIT
 LBDHCV	HEPC_G	LBDHCV-HEPC_G	Hepatitis C antibody (confirmed)	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.991		NCIT
 LBDHCY	L06_B	LBDHCY-L06_B	Homocysteine (umol/L)	Homocysteine Acid Measurement	NCIT:C74741	http://purl.obolibrary.org/obo/NCIT_C74741	0.857		NCIT
-LBDHDL	Lab13	LBDHDL-Lab13	HDL-cholesterol (mg/dL)	Serum HDL Cholesterol Measurement	NCIT:C61041	http://purl.obolibrary.org/obo/NCIT_C61041	0.935		NCIT
-LBDHDL	l13_b	LBDHDL-l13_b	HDL-cholesterol (mg/dL)	Serum HDL Cholesterol Measurement	NCIT:C61041	http://purl.obolibrary.org/obo/NCIT_C61041	0.935		NCIT
-LBDHDLSI	Lab13	LBDHDLSI-Lab13	HDL-cholesterol (mmol/L)	Serum HDL Cholesterol Measurement	NCIT:C61041	http://purl.obolibrary.org/obo/NCIT_C61041	0.892		NCIT
-LBDHDLSI	l13_b	LBDHDLSI-l13_b	HDL-cholesterol (mmol/L)	Serum HDL Cholesterol Measurement	NCIT:C61041	http://purl.obolibrary.org/obo/NCIT_C61041	0.892		NCIT
+LBDHDL	Lab13	LBDHDL-Lab13	HDL-cholesterol (mg/dL)	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.935		NCIT
+LBDHDL	l13_b	LBDHDL-l13_b	HDL-cholesterol (mg/dL)	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.935		NCIT
+LBDHDLSI	Lab13	LBDHDLSI-Lab13	HDL-cholesterol (mmol/L)	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.892		NCIT
+LBDHDLSI	l13_b	LBDHDLSI-l13_b	HDL-cholesterol (mmol/L)	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.892		NCIT
 LBDHDTLC	TFA_A	LBDHDTLC-TFA_A	Trans 9-hexadecenoic acid	Hexadecenoic Acid trans	NCIT:C68383	http://purl.obolibrary.org/obo/NCIT_C68383	0.948	comment	NCIT
 LBDHDTLC	TFA_F	LBDHDTLC-TFA_F	trans 9-Hexadecenoic acid	Hexadecenoic Acid trans	NCIT:C68383	http://purl.obolibrary.org/obo/NCIT_C68383	0.948	comment	NCIT
 LBDHI	HIV_E	LBDHI-HIV_E	HIV Result (western blot)	HIV Western Blot	NCIT:C95524	http://purl.obolibrary.org/obo/NCIT_C95524	0.897		NCIT
@@ -3718,24 +3718,24 @@ LBDINLC	INS_I	LBDINLC-INS_I	Insulin	Insulin	NCIT:C2271	http://purl.obolibrary.or
 LBDINLC	INS_J	LBDINLC-INS_J	Insulin	Insulin	NCIT:C2271	http://purl.obolibrary.org/obo/NCIT_C2271	0.991	comment	NCIT
 LBDIW1LC	AL_IGE_D	LBDIW1LC-AL_IGE_D	Ragweed IgE antibody	Common Ragweed Pollen IgE Antibody Measurement	NCIT:C147285	http://purl.obolibrary.org/obo/NCIT_C147285	0.817	comment	NCIT
 LBDLCCLC	VITAEC_J	LBDLCCLC-VITAEC_J	Total Lycopene	Lycopene	NCIT:C2226	http://purl.obolibrary.org/obo/NCIT_C2226	0.868	comment	NCIT
-LBDLDL	LAB13AM	LBDLDL-LAB13AM	LDL-cholesterol (mg/dL)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.933		NCIT
-LBDLDL	L13AM_B	LBDLDL-L13AM_B	LDL-cholesterol (mg/dL)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.933		NCIT
-LBDLDL	L13AM_C	LBDLDL-L13AM_C	LDL-cholesterol (mg/dL)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.933		NCIT
-LBDLDL	TRIGLY_D	LBDLDL-TRIGLY_D	LDL-cholesterol (mg/dL)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.933		NCIT
-LBDLDL	TRIGLY_E	LBDLDL-TRIGLY_E	LDL-cholesterol (mg/dL)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.933		NCIT
-LBDLDL	TRIGLY_F	LBDLDL-TRIGLY_F	LDL-cholesterol (mg/dL)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.933		NCIT
-LBDLDL	TRIGLY_G	LBDLDL-TRIGLY_G	LDL-cholesterol (mg/dL)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.933		NCIT
-LBDLDL	TRIGLY_H	LBDLDL-TRIGLY_H	LDL-cholesterol (mg/dL)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.933		NCIT
-LBDLDL	TRIGLY_I	LBDLDL-TRIGLY_I	LDL-cholesterol (mg/dL)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.933		NCIT
-LBDLDLSI	LAB13AM	LBDLDLSI-LAB13AM	LDL-cholesterol (mmol/L)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.889		NCIT
-LBDLDLSI	L13AM_B	LBDLDLSI-L13AM_B	LDL-cholesterol (mmol/L)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.889		NCIT
-LBDLDLSI	L13AM_C	LBDLDLSI-L13AM_C	LDL-cholesterol (mmol/L)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.889		NCIT
-LBDLDLSI	TRIGLY_D	LBDLDLSI-TRIGLY_D	LDL-cholesterol (mmol/L)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.889		NCIT
-LBDLDLSI	TRIGLY_E	LBDLDLSI-TRIGLY_E	LDL-cholesterol (mmol/L)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.889		NCIT
-LBDLDLSI	TRIGLY_F	LBDLDLSI-TRIGLY_F	LDL-cholesterol (mmol/L)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.889		NCIT
-LBDLDLSI	TRIGLY_G	LBDLDLSI-TRIGLY_G	LDL-cholesterol (mmol/L)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.889		NCIT
-LBDLDLSI	TRIGLY_H	LBDLDLSI-TRIGLY_H	LDL-cholesterol (mmol/L)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.889		NCIT
-LBDLDLSI	TRIGLY_I	LBDLDLSI-TRIGLY_I	LDL-cholesterol (mmol/L)	Serum LDL Cholesterol Measurement	NCIT:C61042	http://purl.obolibrary.org/obo/NCIT_C61042	0.889		NCIT
+LBDLDL	LAB13AM	LBDLDL-LAB13AM	LDL-cholesterol (mg/dL)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.933		NCIT
+LBDLDL	L13AM_B	LBDLDL-L13AM_B	LDL-cholesterol (mg/dL)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.933		NCIT
+LBDLDL	L13AM_C	LBDLDL-L13AM_C	LDL-cholesterol (mg/dL)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.933		NCIT
+LBDLDL	TRIGLY_D	LBDLDL-TRIGLY_D	LDL-cholesterol (mg/dL)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.933		NCIT
+LBDLDL	TRIGLY_E	LBDLDL-TRIGLY_E	LDL-cholesterol (mg/dL)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.933		NCIT
+LBDLDL	TRIGLY_F	LBDLDL-TRIGLY_F	LDL-cholesterol (mg/dL)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.933		NCIT
+LBDLDL	TRIGLY_G	LBDLDL-TRIGLY_G	LDL-cholesterol (mg/dL)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.933		NCIT
+LBDLDL	TRIGLY_H	LBDLDL-TRIGLY_H	LDL-cholesterol (mg/dL)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.933		NCIT
+LBDLDL	TRIGLY_I	LBDLDL-TRIGLY_I	LDL-cholesterol (mg/dL)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.933		NCIT
+LBDLDLSI	LAB13AM	LBDLDLSI-LAB13AM	LDL-cholesterol (mmol/L)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.889		NCIT
+LBDLDLSI	L13AM_B	LBDLDLSI-L13AM_B	LDL-cholesterol (mmol/L)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.889		NCIT
+LBDLDLSI	L13AM_C	LBDLDLSI-L13AM_C	LDL-cholesterol (mmol/L)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.889		NCIT
+LBDLDLSI	TRIGLY_D	LBDLDLSI-TRIGLY_D	LDL-cholesterol (mmol/L)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.889		NCIT
+LBDLDLSI	TRIGLY_E	LBDLDLSI-TRIGLY_E	LDL-cholesterol (mmol/L)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.889		NCIT
+LBDLDLSI	TRIGLY_F	LBDLDLSI-TRIGLY_F	LDL-cholesterol (mmol/L)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.889		NCIT
+LBDLDLSI	TRIGLY_G	LBDLDLSI-TRIGLY_G	LDL-cholesterol (mmol/L)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.889		NCIT
+LBDLDLSI	TRIGLY_H	LBDLDLSI-TRIGLY_H	LDL-cholesterol (mmol/L)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.889		NCIT
+LBDLDLSI	TRIGLY_I	LBDLDLSI-TRIGLY_I	LDL-cholesterol (mmol/L)	Low Density Lipoprotein Cholesterol Measurement	NCIT:C105588	http://purl.obolibrary.org/obo/NCIT_C105588	0.889		NCIT
 LBDLG1LC	FAS_G	LBDLG1LC-FAS_G	Lignoceric acid (24:0)	Lignoceric Acid	NCIT:C68387	http://purl.obolibrary.org/obo/NCIT_C68387	0.883	comment	NCIT
 LBDLG1LC	FAS_H	LBDLG1LC-FAS_H	Lignoceric acid (24:0)	Lignoceric Acid	NCIT:C68387	http://purl.obolibrary.org/obo/NCIT_C68387	0.883	comment	NCIT
 LBDLHSI	LAB18	LBDLHSI-LAB18	Luteinizing hormone (IU/L)	Luteinizing Hormone Measurement	NCIT:C74790	http://purl.obolibrary.org/obo/NCIT_C74790	0.902		NCIT
@@ -3805,10 +3805,10 @@ LBDR18	HPVSWR_I	LBDR18-HPVSWR_I	HPV type 18	Human Papillomavirus-18	NCIT:C14377	
 LBDR18	HPVP_I	LBDR18-HPVP_I	HPV type 18	Human Papillomavirus-18	NCIT:C14377	http://purl.obolibrary.org/obo/NCIT_C14377	0.812		NCIT
 LBDRBF	FOLATE_E	LBDRBF-FOLATE_E	RBC folate (ng/mL)	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.912		NCIT
 LBDRBF	FOLATE_F	LBDRBF-FOLATE_F	RBC folate (ng/mL)	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.912		NCIT
-LBDRBFSI	LAB06	LBDRBFSI-LAB06	Folate RBC (nmol/L RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.897		EFO
-LBDRBFSI	L06_B	LBDRBFSI-L06_B	Folate RBC (nmol/L RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.897		EFO
-LBDRBFSI	L06NB_C	LBDRBFSI-L06NB_C	Folate RBC (nmol/L RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.897		EFO
-LBDRBFSI	FOLATE_D	LBDRBFSI-FOLATE_D	Folate RBC(nmol/L RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.897		EFO
+LBDRBFSI	LAB06	LBDRBFSI-LAB06	Folate RBC (nmol/L RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.899		EFO
+LBDRBFSI	L06_B	LBDRBFSI-L06_B	Folate RBC (nmol/L RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.899		EFO
+LBDRBFSI	L06NB_C	LBDRBFSI-L06NB_C	Folate RBC (nmol/L RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.899		EFO
+LBDRBFSI	FOLATE_D	LBDRBFSI-FOLATE_D	Folate RBC(nmol/L RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.899		EFO
 LBDRFO	FOLATE_G	LBDRFO-FOLATE_G	RBC folate (ng/mL)	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.912		NCIT
 LBDRFO	FOLATE_H	LBDRFO-FOLATE_H	RBC folate (ng/mL)	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.912		NCIT
 LBDRFO	FOLATE_I	LBDRFO-FOLATE_I	RBC folate (ng/mL)	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.912		NCIT
@@ -3874,9 +3874,7 @@ LBDSGBSI	BIOPRO_I	LBDSGBSI-BIOPRO_I	Globulin (g/L)	Serum Globulin	NCIT:C17125	ht
 LBDSGBSI	BIOPRO_J	LBDSGBSI-BIOPRO_J	Globulin (g/L)	Serum Globulin	NCIT:C17125	http://purl.obolibrary.org/obo/NCIT_C17125	0.949		NCIT
 LBDSGLSI	LAB18	LBDSGLSI-LAB18	Glucose (mmol/L)	Glucose	NCIT:C2831	http://purl.obolibrary.org/obo/NCIT_C2831	0.828		NCIT
 LBDSGTLC	BIOPRO_J	LBDSGTLC-BIOPRO_J	GGT	Gamma-Glutamyl Transpeptidase	NCIT:C37959	http://purl.obolibrary.org/obo/NCIT_C37959	1.0	comment	NCIT
-LBDSHGLC	TST_H	LBDSHGLC-TST_H	SHBG	sex hormone-binding globulin	EFO:0003941	http://www.ebi.ac.uk/efo/EFO_0003941	0.999	comment	EFO
 LBDSHGLC	TST_H	LBDSHGLC-TST_H	SHBG	Sex Hormone Binding Protein Measurement	NCIT:C74745	http://purl.obolibrary.org/obo/NCIT_C74745	0.999	comment	NCIT
-LBDSHGLC	TST_I	LBDSHGLC-TST_I	SHBG	sex hormone-binding globulin	EFO:0003941	http://www.ebi.ac.uk/efo/EFO_0003941	0.999	comment	EFO
 LBDSHGLC	TST_I	LBDSHGLC-TST_I	SHBG	Sex Hormone Binding Protein Measurement	NCIT:C74745	http://purl.obolibrary.org/obo/NCIT_C74745	0.999	comment	NCIT
 LBDSLDSI	L40_B	LBDSLDSI-L40_B	LDH (U/L)	Lactate Dehydrogenase Measurement	NCIT:C64855	http://purl.obolibrary.org/obo/NCIT_C64855	0.86		NCIT
 LBDSPH	L40_B	LBDSPH-L40_B	Phosphorus (mg/dL)	Dietary Phosphorus	NCIT:C68277	http://purl.obolibrary.org/obo/NCIT_C68277	0.905		NCIT
@@ -3939,7 +3937,7 @@ LBDTGNSI	THYROD_G	LBDTGNSI-THYROD_G	Thyroglobulin (ug/L)	Recombinant Thyroglobul
 LBDTHGLC	PbCd_D	LBDTHGLC-PbCd_D	Mercury total	Dietary Mercury	NCIT:C68269	http://purl.obolibrary.org/obo/NCIT_C68269	0.842	comment	NCIT
 LBDTHGLC	PbCd_E	LBDTHGLC-PbCd_E	Mercury total	Dietary Mercury	NCIT:C68269	http://purl.obolibrary.org/obo/NCIT_C68269	0.842	comment	NCIT
 LBDTHGLC	PbCd_F	LBDTHGLC-PbCd_F	Mercury total	Dietary Mercury	NCIT:C68269	http://purl.obolibrary.org/obo/NCIT_C68269	0.842	comment	NCIT
-LBDTIB	L40FE_B	LBDTIB-L40FE_B	Total iron binding capacity (ug/dL)	total iron binding capacity	EFO:0006334	http://www.ebi.ac.uk/efo/EFO_0006334	0.923		EFO
+LBDTIB	L40FE_B	LBDTIB-L40FE_B	Total iron binding capacity (ug/dL)	total iron binding capacity	EFO:0006334	http://www.ebi.ac.uk/efo/EFO_0006334	0.922		EFO
 LBDTIB	FETIB_J	LBDTIB-FETIB_J	Total Iron Binding Capacity TIBC (ug/dL)	total iron binding capacity	EFO:0006334	http://www.ebi.ac.uk/efo/EFO_0006334	0.825		EFO
 LBDTIBSI	L40FE_B	LBDTIBSI-L40FE_B	Total iron binding capacity (umol/L)	total iron binding capacity	EFO:0006334	http://www.ebi.ac.uk/efo/EFO_0006334	0.907		EFO
 LBDTO1	L17_B	LBDTO1-L17_B	Toxoplasma (IgG)	Toxoplasma	NCIT:C75538	http://purl.obolibrary.org/obo/NCIT_C75538	0.841		NCIT
@@ -4627,22 +4625,22 @@ LBXQD1	L35_C	LBXQD1-L35_C	Quinupristin-dalfopristin 1	Quinupristin	NCIT:C47701	h
 LBXQD2	L35_C	LBXQD2-L35_C	Quinupristin-dalfopristin	Quinupristin	NCIT:C47701	http://purl.obolibrary.org/obo/NCIT_C47701	0.821		NCIT
 LBXRBCSI	LAB25	LBXRBCSI-LAB25	Red cell count SI	Erythrocyte Count	NCIT:C51946	http://purl.obolibrary.org/obo/NCIT_C51946	0.835		NCIT
 LBXRBCSI	L25_B	LBXRBCSI-L25_B	Red cell count SI	Erythrocyte Count	NCIT:C51946	http://purl.obolibrary.org/obo/NCIT_C51946	0.835		NCIT
-LBXRBF	LAB06	LBXRBF-LAB06	Folate RBC (ng/mL RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.935		EFO
-LBXRBF	L06_B	LBXRBF-L06_B	Folate RBC (ng/mL RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.935		EFO
-LBXRBF	L06NB_C	LBXRBF-L06NB_C	Folate RBC (ng/mL RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.935		EFO
-LBXRBF	FOLATE_D	LBXRBF-FOLATE_D	Folate RBC (ng/mL RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.935		EFO
+LBXRBF	LAB06	LBXRBF-LAB06	Folate RBC (ng/mL RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.937		EFO
+LBXRBF	L06_B	LBXRBF-L06_B	Folate RBC (ng/mL RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.937		EFO
+LBXRBF	L06NB_C	LBXRBF-L06NB_C	Folate RBC (ng/mL RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.937		EFO
+LBXRBF	FOLATE_D	LBXRBF-FOLATE_D	Folate RBC (ng/mL RBC)	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.937		EFO
 LBXRBFSI	FOLATE_E	LBXRBFSI-FOLATE_E	RBC folate (nmol/L)	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.828		NCIT
 LBXRBFSI	FOLATE_F	LBXRBFSI-FOLATE_F	RBC folate (nmol/L)	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.828		NCIT
-LBXRDW	LAB25	LBXRDW-LAB25	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.981		EFO
-LBXRDW	L25_B	LBXRDW-L25_B	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.981		EFO
-LBXRDW	L25_C	LBXRDW-L25_C	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.981		EFO
-LBXRDW	CBC_D	LBXRDW-CBC_D	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.981		EFO
-LBXRDW	CBC_E	LBXRDW-CBC_E	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.981		EFO
-LBXRDW	CBC_F	LBXRDW-CBC_F	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.981		EFO
-LBXRDW	CBC_G	LBXRDW-CBC_G	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.981		EFO
-LBXRDW	CBC_H	LBXRDW-CBC_H	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.981		EFO
-LBXRDW	CBC_I	LBXRDW-CBC_I	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.981		EFO
-LBXRDW	CBC_J	LBXRDW-CBC_J	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.981		EFO
+LBXRDW	LAB25	LBXRDW-LAB25	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.98		EFO
+LBXRDW	L25_B	LBXRDW-L25_B	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.98		EFO
+LBXRDW	L25_C	LBXRDW-L25_C	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.98		EFO
+LBXRDW	CBC_D	LBXRDW-CBC_D	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.98		EFO
+LBXRDW	CBC_E	LBXRDW-CBC_E	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.98		EFO
+LBXRDW	CBC_F	LBXRDW-CBC_F	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.98		EFO
+LBXRDW	CBC_G	LBXRDW-CBC_G	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.98		EFO
+LBXRDW	CBC_H	LBXRDW-CBC_H	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.98		EFO
+LBXRDW	CBC_I	LBXRDW-CBC_I	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.98		EFO
+LBXRDW	CBC_J	LBXRDW-CBC_J	Red cell distribution width (%)	Red cell distribution width	EFO:0009188	http://www.ebi.ac.uk/efo/EFO_0009188	0.98		EFO
 LBXRPL	LAB06	LBXRPL-LAB06	Retinyl palmitate (ug/dL)	Retinyl Palmitate Measurement	NCIT:C135442	http://purl.obolibrary.org/obo/NCIT_C135442	0.909		NCIT
 LBXRPL	L06VIT_B	LBXRPL-L06VIT_B	Retinyl palmitate(ug/dL)	Retinyl Palmitate Measurement	NCIT:C135442	http://purl.obolibrary.org/obo/NCIT_C135442	0.909		NCIT
 LBXRPL	L45VIT_C	LBXRPL-L45VIT_C	Retinyl palmitate(ug/dL)	Retinyl Palmitate Measurement	NCIT:C135442	http://purl.obolibrary.org/obo/NCIT_C135442	0.909		NCIT
@@ -4780,9 +4778,9 @@ LBXSPH	BIOPRO_G	LBXSPH-BIOPRO_G	Phosphorus (mg/dL)	Dietary Phosphorus	NCIT:C6827
 LBXSPH	BIOPRO_H	LBXSPH-BIOPRO_H	Phosphorus (mg/dL)	Dietary Phosphorus	NCIT:C68277	http://purl.obolibrary.org/obo/NCIT_C68277	0.905		NCIT
 LBXSPH	BIOPRO_I	LBXSPH-BIOPRO_I	Phosphorus (mg/dL)	Dietary Phosphorus	NCIT:C68277	http://purl.obolibrary.org/obo/NCIT_C68277	0.905		NCIT
 LBXSPH	BIOPRO_J	LBXSPH-BIOPRO_J	Phosphorus (mg/dL)	Dietary Phosphorus	NCIT:C68277	http://purl.obolibrary.org/obo/NCIT_C68277	0.905		NCIT
-LBXSSE	CUSEZN_G	LBXSSE-CUSEZN_G	Serum Selenium (ug/L)	serum selenium measurement	EFO:0005266	http://www.ebi.ac.uk/efo/EFO_0005266	0.817		EFO
-LBXSSE	CUSEZN_H	LBXSSE-CUSEZN_H	Serum Selenium (ug/L)	serum selenium measurement	EFO:0005266	http://www.ebi.ac.uk/efo/EFO_0005266	0.817		EFO
-LBXSSE	CUSEZN_I	LBXSSE-CUSEZN_I	Serum Selenium (ug/L)	serum selenium measurement	EFO:0005266	http://www.ebi.ac.uk/efo/EFO_0005266	0.817		EFO
+LBXSSE	CUSEZN_G	LBXSSE-CUSEZN_G	Serum Selenium (ug/L)	serum selenium measurement	EFO:0005266	http://www.ebi.ac.uk/efo/EFO_0005266	0.813		EFO
+LBXSSE	CUSEZN_H	LBXSSE-CUSEZN_H	Serum Selenium (ug/L)	serum selenium measurement	EFO:0005266	http://www.ebi.ac.uk/efo/EFO_0005266	0.813		EFO
+LBXSSE	CUSEZN_I	LBXSSE-CUSEZN_I	Serum Selenium (ug/L)	serum selenium measurement	EFO:0005266	http://www.ebi.ac.uk/efo/EFO_0005266	0.813		EFO
 LBXSTB	LAB18	LBXSTB-LAB18	Bilirubin total (mg/dL)	Total Bilirubin Measurement	NCIT:C38037	http://purl.obolibrary.org/obo/NCIT_C38037	0.911		NCIT
 LBXSTB	L40_C	LBXSTB-L40_C	Total bilirubin (mg/dL)	Total Bilirubin Measurement	NCIT:C38037	http://purl.obolibrary.org/obo/NCIT_C38037	0.911		NCIT
 LBXSTB	BIOPRO_D	LBXSTB-BIOPRO_D	Total bilirubin (mg/dL)	Total Bilirubin Measurement	NCIT:C38037	http://purl.obolibrary.org/obo/NCIT_C38037	0.911		NCIT
@@ -5193,12 +5191,12 @@ MCQ203	MCQ_H	MCQ203-MCQ_H	jaundice?	Jaundice	NCIT:C3143	http://purl.obolibrary.o
 MCQ203	MCQ_I	MCQ203-MCQ_I	jaundice?	Jaundice	NCIT:C3143	http://purl.obolibrary.org/obo/NCIT_C3143	0.989		NCIT
 MCQ203	MCQ_J	MCQ203-MCQ_J	jaundice?	Jaundice	NCIT:C3143	http://purl.obolibrary.org/obo/NCIT_C3143	0.989		NCIT
 MCQ210	MCQ	MCQ210-MCQ	Had ulcer	Ulceration	NCIT:C25757	http://purl.obolibrary.org/obo/NCIT_C25757	0.835		NCIT
-MCQ240A	MCQ	MCQ240A-MCQ	bladder cancer	Bladder Cancer Pathway	NCIT:C91458	http://purl.obolibrary.org/obo/NCIT_C91458	0.99	age	NCIT
-MCQ240A	MCQ_B	MCQ240A-MCQ_B	bladder cancer	Bladder Cancer Pathway	NCIT:C91458	http://purl.obolibrary.org/obo/NCIT_C91458	0.99	age	NCIT
-MCQ240A	MCQ_C	MCQ240A-MCQ_C	bladder cancer	Bladder Cancer Pathway	NCIT:C91458	http://purl.obolibrary.org/obo/NCIT_C91458	0.99	age	NCIT
-MCQ240A	MCQ_D	MCQ240A-MCQ_D	bladder cancer	Bladder Cancer Pathway	NCIT:C91458	http://purl.obolibrary.org/obo/NCIT_C91458	0.99	age	NCIT
-MCQ240A	MCQ_E	MCQ240A-MCQ_E	bladder cancer	Bladder Cancer Pathway	NCIT:C91458	http://purl.obolibrary.org/obo/NCIT_C91458	0.99	age	NCIT
-MCQ240A	MCQ_F	MCQ240A-MCQ_F	bladder cancer	Bladder Cancer Pathway	NCIT:C91458	http://purl.obolibrary.org/obo/NCIT_C91458	0.99	age	NCIT
+MCQ240A	MCQ	MCQ240A-MCQ	bladder cancer	Childhood Bladder Carcinoma	NCIT:C118816	http://purl.obolibrary.org/obo/NCIT_C118816	0.99	age	NCIT
+MCQ240A	MCQ_B	MCQ240A-MCQ_B	bladder cancer	Childhood Bladder Carcinoma	NCIT:C118816	http://purl.obolibrary.org/obo/NCIT_C118816	0.99	age	NCIT
+MCQ240A	MCQ_C	MCQ240A-MCQ_C	bladder cancer	Childhood Bladder Carcinoma	NCIT:C118816	http://purl.obolibrary.org/obo/NCIT_C118816	0.99	age	NCIT
+MCQ240A	MCQ_D	MCQ240A-MCQ_D	bladder cancer	Childhood Bladder Carcinoma	NCIT:C118816	http://purl.obolibrary.org/obo/NCIT_C118816	0.99	age	NCIT
+MCQ240A	MCQ_E	MCQ240A-MCQ_E	bladder cancer	Childhood Bladder Carcinoma	NCIT:C118816	http://purl.obolibrary.org/obo/NCIT_C118816	0.99	age	NCIT
+MCQ240A	MCQ_F	MCQ240A-MCQ_F	bladder cancer	Childhood Bladder Carcinoma	NCIT:C118816	http://purl.obolibrary.org/obo/NCIT_C118816	0.99	age	NCIT
 MCQ240B	MCQ	MCQ240B-MCQ	blood cancer	Liquid Tumor	NCIT:C116915	http://purl.obolibrary.org/obo/NCIT_C116915	0.982	age	NCIT
 MCQ240B	MCQ_B	MCQ240B-MCQ_B	blood cancer	Liquid Tumor	NCIT:C116915	http://purl.obolibrary.org/obo/NCIT_C116915	0.982	age	NCIT
 MCQ240B	MCQ_C	MCQ240B-MCQ_C	blood cancer	Liquid Tumor	NCIT:C116915	http://purl.obolibrary.org/obo/NCIT_C116915	0.982	age	NCIT
@@ -5241,12 +5239,12 @@ MCQ240F	MCQ_C	MCQ240F-MCQ_C	cervical cancer	NCI CTEP SDC Cervical Cancer Sub-Cat
 MCQ240F	MCQ_D	MCQ240F-MCQ_D	cervical cancer	NCI CTEP SDC Cervical Cancer Sub-Category Terminology	NCIT:C103098	http://purl.obolibrary.org/obo/NCIT_C103098	0.993	age	NCIT
 MCQ240F	MCQ_E	MCQ240F-MCQ_E	cervical cancer	NCI CTEP SDC Cervical Cancer Sub-Category Terminology	NCIT:C103098	http://purl.obolibrary.org/obo/NCIT_C103098	0.993	age	NCIT
 MCQ240F	MCQ_F	MCQ240F-MCQ_F	cervical cancer	NCI CTEP SDC Cervical Cancer Sub-Category Terminology	NCIT:C103098	http://purl.obolibrary.org/obo/NCIT_C103098	0.993	age	NCIT
-MCQ240G	MCQ	MCQ240G-MCQ	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.982	age	EFO
-MCQ240G	MCQ_B	MCQ240G-MCQ_B	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.982	age	EFO
-MCQ240G	MCQ_C	MCQ240G-MCQ_C	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.982	age	EFO
-MCQ240G	MCQ_D	MCQ240G-MCQ_D	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.982	age	EFO
-MCQ240G	MCQ_E	MCQ240G-MCQ_E	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.982	age	EFO
-MCQ240G	MCQ_F	MCQ240G-MCQ_F	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.982	age	EFO
+MCQ240G	MCQ	MCQ240G-MCQ	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.983	age	EFO
+MCQ240G	MCQ_B	MCQ240G-MCQ_B	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.983	age	EFO
+MCQ240G	MCQ_C	MCQ240G-MCQ_C	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.983	age	EFO
+MCQ240G	MCQ_D	MCQ240G-MCQ_D	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.983	age	EFO
+MCQ240G	MCQ_E	MCQ240G-MCQ_E	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.983	age	EFO
+MCQ240G	MCQ_F	MCQ240G-MCQ_F	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.983	age	EFO
 MCQ240J	MCQ	MCQ240J-MCQ	kidney cancer	Kidney Carcinoma	NCIT:C9384	http://purl.obolibrary.org/obo/NCIT_C9384	0.997	age	NCIT
 MCQ240J	MCQ_B	MCQ240J-MCQ_B	kidney cancer	Kidney Carcinoma	NCIT:C9384	http://purl.obolibrary.org/obo/NCIT_C9384	0.997	age	NCIT
 MCQ240J	MCQ_C	MCQ240J-MCQ_C	kidney cancer	Kidney Carcinoma	NCIT:C9384	http://purl.obolibrary.org/obo/NCIT_C9384	0.997	age	NCIT
@@ -5277,12 +5275,18 @@ MCQ240O	MCQ_C	MCQ240O-MCQ_C	Age lymphoma/Hodgkin's diagnosed	HL Project Terminol
 MCQ240O	MCQ_D	MCQ240O-MCQ_D	Age lymphoma/Hodgkin's diagnosed	HL Project Terminology	NCIT:C181832	http://purl.obolibrary.org/obo/NCIT_C181832	0.812		NCIT
 MCQ240O	MCQ_E	MCQ240O-MCQ_E	Age lymphoma/Hodgkin's diagnosed	HL Project Terminology	NCIT:C181832	http://purl.obolibrary.org/obo/NCIT_C181832	0.812		NCIT
 MCQ240O	MCQ_F	MCQ240O-MCQ_F	Age lymphoma/Hodgkin's diagnosed	HL Project Terminology	NCIT:C181832	http://purl.obolibrary.org/obo/NCIT_C181832	0.812		NCIT
-MCQ240P	MCQ	MCQ240P-MCQ	melanoma	Melanoma Pathway	NCIT:C91477	http://purl.obolibrary.org/obo/NCIT_C91477	0.967	age	NCIT
-MCQ240P	MCQ_B	MCQ240P-MCQ_B	melanoma	Melanoma Pathway	NCIT:C91477	http://purl.obolibrary.org/obo/NCIT_C91477	0.967	age	NCIT
-MCQ240P	MCQ_C	MCQ240P-MCQ_C	melanoma	Melanoma Pathway	NCIT:C91477	http://purl.obolibrary.org/obo/NCIT_C91477	0.967	age	NCIT
-MCQ240P	MCQ_D	MCQ240P-MCQ_D	melanoma	Melanoma Pathway	NCIT:C91477	http://purl.obolibrary.org/obo/NCIT_C91477	0.967	age	NCIT
-MCQ240P	MCQ_E	MCQ240P-MCQ_E	melanoma	Melanoma Pathway	NCIT:C91477	http://purl.obolibrary.org/obo/NCIT_C91477	0.967	age	NCIT
-MCQ240P	MCQ_F	MCQ240P-MCQ_F	melanoma	Melanoma Pathway	NCIT:C91477	http://purl.obolibrary.org/obo/NCIT_C91477	0.967	age	NCIT
+MCQ240P	MCQ	MCQ240P-MCQ	melanoma	melanoma	EFO:0000756	http://www.ebi.ac.uk/efo/EFO_0000756	0.967	age	EFO
+MCQ240P	MCQ	MCQ240P-MCQ	melanoma	NCI CTEP SDC Melanoma Sub-Category Terminology	NCIT:C103113	http://purl.obolibrary.org/obo/NCIT_C103113	0.967	age	NCIT
+MCQ240P	MCQ_B	MCQ240P-MCQ_B	melanoma	melanoma	EFO:0000756	http://www.ebi.ac.uk/efo/EFO_0000756	0.967	age	EFO
+MCQ240P	MCQ_B	MCQ240P-MCQ_B	melanoma	NCI CTEP SDC Melanoma Sub-Category Terminology	NCIT:C103113	http://purl.obolibrary.org/obo/NCIT_C103113	0.967	age	NCIT
+MCQ240P	MCQ_C	MCQ240P-MCQ_C	melanoma	melanoma	EFO:0000756	http://www.ebi.ac.uk/efo/EFO_0000756	0.967	age	EFO
+MCQ240P	MCQ_C	MCQ240P-MCQ_C	melanoma	NCI CTEP SDC Melanoma Sub-Category Terminology	NCIT:C103113	http://purl.obolibrary.org/obo/NCIT_C103113	0.967	age	NCIT
+MCQ240P	MCQ_D	MCQ240P-MCQ_D	melanoma	melanoma	EFO:0000756	http://www.ebi.ac.uk/efo/EFO_0000756	0.967	age	EFO
+MCQ240P	MCQ_D	MCQ240P-MCQ_D	melanoma	NCI CTEP SDC Melanoma Sub-Category Terminology	NCIT:C103113	http://purl.obolibrary.org/obo/NCIT_C103113	0.967	age	NCIT
+MCQ240P	MCQ_E	MCQ240P-MCQ_E	melanoma	melanoma	EFO:0000756	http://www.ebi.ac.uk/efo/EFO_0000756	0.967	age	EFO
+MCQ240P	MCQ_E	MCQ240P-MCQ_E	melanoma	NCI CTEP SDC Melanoma Sub-Category Terminology	NCIT:C103113	http://purl.obolibrary.org/obo/NCIT_C103113	0.967	age	NCIT
+MCQ240P	MCQ_F	MCQ240P-MCQ_F	melanoma	melanoma	EFO:0000756	http://www.ebi.ac.uk/efo/EFO_0000756	0.967	age	EFO
+MCQ240P	MCQ_F	MCQ240P-MCQ_F	melanoma	NCI CTEP SDC Melanoma Sub-Category Terminology	NCIT:C103113	http://purl.obolibrary.org/obo/NCIT_C103113	0.967	age	NCIT
 MCQ240S	MCQ	MCQ240S-MCQ	ovarian cancer	Ovarian Carcinoma	NCIT:C4908	http://purl.obolibrary.org/obo/NCIT_C4908	0.993	age	NCIT
 MCQ240S	MCQ_B	MCQ240S-MCQ_B	ovarian cancer	Ovarian Carcinoma	NCIT:C4908	http://purl.obolibrary.org/obo/NCIT_C4908	0.993	age	NCIT
 MCQ240S	MCQ_C	MCQ240S-MCQ_C	ovarian cancer	Ovarian Carcinoma	NCIT:C4908	http://purl.obolibrary.org/obo/NCIT_C4908	0.993	age	NCIT
@@ -5295,9 +5299,9 @@ MCQ240V	MCQ_C	MCQ240V-MCQ_C	rectal cancer	Childhood Rectal Carcinoma	NCIT:C11882
 MCQ240V	MCQ_D	MCQ240V-MCQ_D	rectal cancer	Childhood Rectal Carcinoma	NCIT:C118823	http://purl.obolibrary.org/obo/NCIT_C118823	0.993	age	NCIT
 MCQ240V	MCQ_E	MCQ240V-MCQ_E	rectal cancer	Childhood Rectal Carcinoma	NCIT:C118823	http://purl.obolibrary.org/obo/NCIT_C118823	0.993	age	NCIT
 MCQ240V	MCQ_F	MCQ240V-MCQ_F	rectal cancer	Childhood Rectal Carcinoma	NCIT:C118823	http://purl.obolibrary.org/obo/NCIT_C118823	0.993	age	NCIT
-MCQ240a	MCQ_G	MCQ240a-MCQ_G	bladder cancer	Bladder Cancer Pathway	NCIT:C91458	http://purl.obolibrary.org/obo/NCIT_C91458	0.99	age	NCIT
-MCQ240a	MCQ_H	MCQ240a-MCQ_H	bladder cancer	Bladder Cancer Pathway	NCIT:C91458	http://purl.obolibrary.org/obo/NCIT_C91458	0.99	age	NCIT
-MCQ240a	MCQ_I	MCQ240a-MCQ_I	bladder cancer	Bladder Cancer Pathway	NCIT:C91458	http://purl.obolibrary.org/obo/NCIT_C91458	0.99	age	NCIT
+MCQ240a	MCQ_G	MCQ240a-MCQ_G	bladder cancer	Childhood Bladder Carcinoma	NCIT:C118816	http://purl.obolibrary.org/obo/NCIT_C118816	0.99	age	NCIT
+MCQ240a	MCQ_H	MCQ240a-MCQ_H	bladder cancer	Childhood Bladder Carcinoma	NCIT:C118816	http://purl.obolibrary.org/obo/NCIT_C118816	0.99	age	NCIT
+MCQ240a	MCQ_I	MCQ240a-MCQ_I	bladder cancer	Childhood Bladder Carcinoma	NCIT:C118816	http://purl.obolibrary.org/obo/NCIT_C118816	0.99	age	NCIT
 MCQ240b	MCQ_G	MCQ240b-MCQ_G	blood cancer	Liquid Tumor	NCIT:C116915	http://purl.obolibrary.org/obo/NCIT_C116915	0.982	age	NCIT
 MCQ240b	MCQ_H	MCQ240b-MCQ_H	blood cancer	Liquid Tumor	NCIT:C116915	http://purl.obolibrary.org/obo/NCIT_C116915	0.982	age	NCIT
 MCQ240b	MCQ_I	MCQ240b-MCQ_I	blood cancer	Liquid Tumor	NCIT:C116915	http://purl.obolibrary.org/obo/NCIT_C116915	0.982	age	NCIT
@@ -5319,9 +5323,9 @@ MCQ240e	MCQ_I	MCQ240e-MCQ_I	breast cancer	Childhood Breast Carcinoma	NCIT:C11880
 MCQ240f	MCQ_G	MCQ240f-MCQ_G	cervical cancer	NCI CTEP SDC Cervical Cancer Sub-Category Terminology	NCIT:C103098	http://purl.obolibrary.org/obo/NCIT_C103098	0.993	age	NCIT
 MCQ240f	MCQ_H	MCQ240f-MCQ_H	cervical cancer	NCI CTEP SDC Cervical Cancer Sub-Category Terminology	NCIT:C103098	http://purl.obolibrary.org/obo/NCIT_C103098	0.993	age	NCIT
 MCQ240f	MCQ_I	MCQ240f-MCQ_I	cervical cancer	NCI CTEP SDC Cervical Cancer Sub-Category Terminology	NCIT:C103098	http://purl.obolibrary.org/obo/NCIT_C103098	0.993	age	NCIT
-MCQ240g	MCQ_G	MCQ240g-MCQ_G	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.982	age	EFO
-MCQ240g	MCQ_H	MCQ240g-MCQ_H	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.982	age	EFO
-MCQ240g	MCQ_I	MCQ240g-MCQ_I	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.982	age	EFO
+MCQ240g	MCQ_G	MCQ240g-MCQ_G	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.983	age	EFO
+MCQ240g	MCQ_H	MCQ240g-MCQ_H	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.983	age	EFO
+MCQ240g	MCQ_I	MCQ240g-MCQ_I	colon cancer	colon carcinoma	EFO:1001950	http://www.ebi.ac.uk/efo/EFO_1001950	0.983	age	EFO
 MCQ240j	MCQ_G	MCQ240j-MCQ_G	kidney cancer	Kidney Carcinoma	NCIT:C9384	http://purl.obolibrary.org/obo/NCIT_C9384	0.997	age	NCIT
 MCQ240j	MCQ_H	MCQ240j-MCQ_H	kidney cancer	Kidney Carcinoma	NCIT:C9384	http://purl.obolibrary.org/obo/NCIT_C9384	0.997	age	NCIT
 MCQ240j	MCQ_I	MCQ240j-MCQ_I	kidney cancer	Kidney Carcinoma	NCIT:C9384	http://purl.obolibrary.org/obo/NCIT_C9384	0.997	age	NCIT
@@ -5337,9 +5341,12 @@ MCQ240n	MCQ_I	MCQ240n-MCQ_I	lung cancer	Lung Carcinoma	NCIT:C4878	http://purl.ob
 MCQ240o	MCQ_G	MCQ240o-MCQ_G	Age lymphoma/Hodgkins' diagnosed	Hodgkins lymphoma	EFO:0000183	http://www.ebi.ac.uk/efo/EFO_0000183	0.818		EFO
 MCQ240o	MCQ_H	MCQ240o-MCQ_H	Age lymphoma/Hodgkins' diagnosed	Hodgkins lymphoma	EFO:0000183	http://www.ebi.ac.uk/efo/EFO_0000183	0.818		EFO
 MCQ240o	MCQ_I	MCQ240o-MCQ_I	Age lymphoma/Hodgkins' diagnosed	Hodgkins lymphoma	EFO:0000183	http://www.ebi.ac.uk/efo/EFO_0000183	0.818		EFO
-MCQ240p	MCQ_G	MCQ240p-MCQ_G	melanoma	Melanoma Pathway	NCIT:C91477	http://purl.obolibrary.org/obo/NCIT_C91477	0.967	age	NCIT
-MCQ240p	MCQ_H	MCQ240p-MCQ_H	melanoma	Melanoma Pathway	NCIT:C91477	http://purl.obolibrary.org/obo/NCIT_C91477	0.967	age	NCIT
-MCQ240p	MCQ_I	MCQ240p-MCQ_I	melanoma	Melanoma Pathway	NCIT:C91477	http://purl.obolibrary.org/obo/NCIT_C91477	0.967	age	NCIT
+MCQ240p	MCQ_G	MCQ240p-MCQ_G	melanoma	melanoma	EFO:0000756	http://www.ebi.ac.uk/efo/EFO_0000756	0.967	age	EFO
+MCQ240p	MCQ_G	MCQ240p-MCQ_G	melanoma	NCI CTEP SDC Melanoma Sub-Category Terminology	NCIT:C103113	http://purl.obolibrary.org/obo/NCIT_C103113	0.967	age	NCIT
+MCQ240p	MCQ_H	MCQ240p-MCQ_H	melanoma	melanoma	EFO:0000756	http://www.ebi.ac.uk/efo/EFO_0000756	0.967	age	EFO
+MCQ240p	MCQ_H	MCQ240p-MCQ_H	melanoma	NCI CTEP SDC Melanoma Sub-Category Terminology	NCIT:C103113	http://purl.obolibrary.org/obo/NCIT_C103113	0.967	age	NCIT
+MCQ240p	MCQ_I	MCQ240p-MCQ_I	melanoma	melanoma	EFO:0000756	http://www.ebi.ac.uk/efo/EFO_0000756	0.967	age	EFO
+MCQ240p	MCQ_I	MCQ240p-MCQ_I	melanoma	NCI CTEP SDC Melanoma Sub-Category Terminology	NCIT:C103113	http://purl.obolibrary.org/obo/NCIT_C103113	0.967	age	NCIT
 MCQ240s	MCQ_G	MCQ240s-MCQ_G	ovarian cancer	Ovarian Carcinoma	NCIT:C4908	http://purl.obolibrary.org/obo/NCIT_C4908	0.993	age	NCIT
 MCQ240s	MCQ_H	MCQ240s-MCQ_H	ovarian cancer	Ovarian Carcinoma	NCIT:C4908	http://purl.obolibrary.org/obo/NCIT_C4908	0.993	age	NCIT
 MCQ240s	MCQ_I	MCQ240s-MCQ_I	ovarian cancer	Ovarian Carcinoma	NCIT:C4908	http://purl.obolibrary.org/obo/NCIT_C4908	0.993	age	NCIT
@@ -5403,12 +5410,12 @@ OHD19TC	OHXDEN_B	OHD19TC-OHXDEN_B	Tooth Count: #19	Tooth 19	NCIT:C60728	http://p
 OHD30TC	OHXDEN_B	OHD30TC-OHXDEN_B	Tooth Count: #30	Tooth 30	NCIT:C52667	http://purl.obolibrary.org/obo/NCIT_C52667	0.806		NCIT
 OHD31TC	OHXDEN_B	OHD31TC-OHXDEN_B	Tooth Count: #31	Tooth 31	NCIT:C94585	http://purl.obolibrary.org/obo/NCIT_C94585	0.838		NCIT
 OHD32TC	OHXDEN_B	OHD32TC-OHXDEN_B	Tooth Count: #32	Tooth 32	NCIT:C94586	http://purl.obolibrary.org/obo/NCIT_C94586	0.847		NCIT
-OHQ100	OHQ	OHQ100-OHQ	Difficulties swallowing foods	Dysphagia	HP:0002015	http://purl.obolibrary.org/obo/HP_0002015	0.917		EFO
-OHQ105	OHQ_B	OHQ105-OHQ_B	Difficulties swallowing foods	Dysphagia	HP:0002015	http://purl.obolibrary.org/obo/HP_0002015	0.917		EFO
+OHQ100	OHQ	OHQ100-OHQ	Difficulties swallowing foods	Dysphagia	HP:0002015	http://purl.obolibrary.org/obo/HP_0002015	0.916		EFO
+OHQ105	OHQ_B	OHQ105-OHQ_B	Difficulties swallowing foods	Dysphagia	HP:0002015	http://purl.obolibrary.org/obo/HP_0002015	0.916		EFO
 OHQ130	OHXREF	OHQ130-OHXREF	Must take antibiotics	Antibiotic	NCIT:C258	http://purl.obolibrary.org/obo/NCIT_C258	0.836		NCIT
-OHQ134	OHXREF	OHQ134-OHXREF	congenital heart murmurs	Heart murmur	HP:0030148	http://purl.obolibrary.org/obo/HP_0030148	0.835		EFO
-OHQ134	OHXREF_B	OHQ134-OHXREF_B	congenital heart murmurs	Heart murmur	HP:0030148	http://purl.obolibrary.org/obo/HP_0030148	0.835		EFO
-OHQ134	OHXREF_C	OHQ134-OHXREF_C	congenital heart murmurs	Heart murmur	HP:0030148	http://purl.obolibrary.org/obo/HP_0030148	0.835		EFO
+OHQ134	OHXREF	OHQ134-OHXREF	congenital heart murmurs	Heart murmur	HP:0030148	http://purl.obolibrary.org/obo/HP_0030148	0.834		EFO
+OHQ134	OHXREF_B	OHQ134-OHXREF_B	congenital heart murmurs	Heart murmur	HP:0030148	http://purl.obolibrary.org/obo/HP_0030148	0.834		EFO
+OHQ134	OHXREF_C	OHQ134-OHXREF_C	congenital heart murmurs	Heart murmur	HP:0030148	http://purl.obolibrary.org/obo/HP_0030148	0.834		EFO
 OHQ138	OHXREF	OHQ138-OHXREF	congenital heart disease	Congenital Heart Disease	NCIT:C95834	http://purl.obolibrary.org/obo/NCIT_C95834	0.985		NCIT
 OHQ138	OHXREF_B	OHQ138-OHXREF_B	congenital heart disease	Congenital Heart Disease	NCIT:C95834	http://purl.obolibrary.org/obo/NCIT_C95834	0.985		NCIT
 OHQ138	OHXREF_C	OHQ138-OHXREF_C	congenital heart disease	Congenital Heart Disease	NCIT:C95834	http://purl.obolibrary.org/obo/NCIT_C95834	0.985		NCIT
@@ -5436,7 +5443,7 @@ OHQ148	OHXREF_C	OHQ148-OHXREF_C	a hip bone or joint replacement	Joint Replacemen
 OHQ490a	OHXREF_C	OHQ490a-OHXREF_C	Toothache	toothache	EFO:0010072	http://www.ebi.ac.uk/efo/EFO_0010072	0.988		EFO
 OHQ490b	OHXREF_C	OHQ490b-OHXREF_C	Sensitivity	Sensitivity	NCIT:C68816	http://purl.obolibrary.org/obo/NCIT_C68816	0.995		NCIT
 OHQ490c	OHXREF_C	OHQ490c-OHXREF_C	Cavities/Caries	Caries	NCIT:C52593	http://purl.obolibrary.org/obo/NCIT_C52593	0.898		NCIT
-OHQ490i	OHXREF_C	OHQ490i-OHXREF_C	Missing teeth	Tooth agenesis	HP:0009804	http://purl.obolibrary.org/obo/HP_0009804	0.906		EFO
+OHQ490i	OHXREF_C	OHQ490i-OHXREF_C	Missing teeth	Tooth agenesis	HP:0009804	http://purl.obolibrary.org/obo/HP_0009804	0.907		EFO
 OHQ555G	OHQ_H	OHQ555G-OHQ_H	brushing teeth	Ability to Brush Your Teeth	NCIT:C121249	http://purl.obolibrary.org/obo/NCIT_C121249	0.872	age	NCIT
 OHQ555G	OHQ_I	OHQ555G-OHQ_I	brushing teeth	Ability to Brush Your Teeth	NCIT:C121249	http://purl.obolibrary.org/obo/NCIT_C121249	0.872	age	NCIT
 OHQ555G	OHQ_J	OHQ555G-OHQ_J	brushing teeth	Ability to Brush Your Teeth	NCIT:C121249	http://purl.obolibrary.org/obo/NCIT_C121249	0.872	age	NCIT
@@ -5622,7 +5629,7 @@ OHXRCAR	OHXDEN_C	OHXRCAR-OHXDEN_C	Root Caries: yes / no	root caries	EFO:1001163	
 OHXREST	OHX_D	OHXREST-OHX_D	Dental restoration present	Dental Restoration	NCIT:C60718	http://purl.obolibrary.org/obo/NCIT_C60718	0.855		NCIT
 OHXREST	OHX_E	OHXREST-OHX_E	Dental restoration present	Dental Restoration	NCIT:C60718	http://purl.obolibrary.org/obo/NCIT_C60718	0.855		NCIT
 OHXREST	OHXDEN_F	OHXREST-OHXDEN_F	Dental restoration present	Dental Restoration	NCIT:C60718	http://purl.obolibrary.org/obo/NCIT_C60718	0.855		NCIT
-OHXULGIN	OHXPERIO	OHXULGIN-OHXPERIO	Gingival bleeding: ULQ	Gingival bleeding	HP:0000225	http://purl.obolibrary.org/obo/HP_0000225	0.803		EFO
+OHXULGIN	OHXPERIO	OHXULGIN-OHXPERIO	Gingival bleeding: ULQ	Gingival bleeding	HP:0000225	http://purl.obolibrary.org/obo/HP_0000225	0.802		EFO
 OHXURGIN	OHXPERIO	OHXURGIN-OHXPERIO	Gingival bleeding: URQ	Gingival bleeding	HP:0000225	http://purl.obolibrary.org/obo/HP_0000225	0.815		EFO
 OPDDAGA	OPXRET_D	OPDDAGA-OPXRET_D	Any geographic atrophy right eye	atrophic macular degeneration	EFO:1001492	http://www.ebi.ac.uk/efo/EFO_1001492	0.908		EFO
 OPDDAGA	OPXRET_E	OPDDAGA-OPXRET_E	Any geographic atrophy right eye	atrophic macular degeneration	EFO:1001492	http://www.ebi.ac.uk/efo/EFO_1001492	0.908		EFO
@@ -5674,12 +5681,12 @@ OPDSPHVH	OPXRET_D	OPDSPHVH-OPXRET_D	Pre-ret./ vitreous hemorrhage left eye	Vitre
 OPDSPHVH	OPXRET_E	OPDSPHVH-OPXRET_E	Pre-ret./ vitreous hemorrhage left eye	Vitreous Hemorrhage, CTCAE 3.0	NCIT:C55921	http://purl.obolibrary.org/obo/NCIT_C55921	0.858		NCIT
 OPDSRDET	OPXRET_D	OPDSRDET-OPXRET_D	Retinal detachment left eye	Retinal Detachment, CTCAE 3.0	NCIT:C55886	http://purl.obolibrary.org/obo/NCIT_C55886	0.882		NCIT
 OPDSRDET	OPXRET_E	OPDSRDET-OPXRET_E	Retinal detachment left eye	Retinal Detachment, CTCAE 3.0	NCIT:C55886	http://purl.obolibrary.org/obo/NCIT_C55886	0.882		NCIT
-OPDUAGA	OPXRET_D	OPDUAGA-OPXRET_D	Any geographic atrophy worse eye	atrophic macular degeneration	EFO:1001492	http://www.ebi.ac.uk/efo/EFO_1001492	0.867		EFO
-OPDUAGA	OPXRET_E	OPDUAGA-OPXRET_E	Any geographic atrophy worse eye	atrophic macular degeneration	EFO:1001492	http://www.ebi.ac.uk/efo/EFO_1001492	0.867		EFO
+OPDUAGA	OPXRET_D	OPDUAGA-OPXRET_D	Any geographic atrophy worse eye	atrophic macular degeneration	EFO:1001492	http://www.ebi.ac.uk/efo/EFO_1001492	0.866		EFO
+OPDUAGA	OPXRET_E	OPDUAGA-OPXRET_E	Any geographic atrophy worse eye	atrophic macular degeneration	EFO:1001492	http://www.ebi.ac.uk/efo/EFO_1001492	0.866		EFO
 OPDUBCO	OPXRET_D	OPDUBCO-OPXRET_D	Retinal artery occlusion worse eye	retinal artery occlusion	EFO:1001154	http://www.ebi.ac.uk/efo/EFO_1001154	0.843		EFO
 OPDUBCO	OPXRET_E	OPDUBCO-OPXRET_E	Retinal artery occlusion worse eye	retinal artery occlusion	EFO:1001154	http://www.ebi.ac.uk/efo/EFO_1001154	0.843		EFO
-OPDUGA	OPXRET_D	OPDUGA-OPXRET_D	Geographic atrophy worse eye	atrophic macular degeneration	EFO:1001492	http://www.ebi.ac.uk/efo/EFO_1001492	0.867		EFO
-OPDUGA	OPXRET_E	OPDUGA-OPXRET_E	Geographic atrophy worse eye	atrophic macular degeneration	EFO:1001492	http://www.ebi.ac.uk/efo/EFO_1001492	0.867		EFO
+OPDUGA	OPXRET_D	OPDUGA-OPXRET_D	Geographic atrophy worse eye	atrophic macular degeneration	EFO:1001492	http://www.ebi.ac.uk/efo/EFO_1001492	0.866		EFO
+OPDUGA	OPXRET_E	OPDUGA-OPXRET_E	Geographic atrophy worse eye	atrophic macular degeneration	EFO:1001492	http://www.ebi.ac.uk/efo/EFO_1001492	0.866		EFO
 OPDUME	OPXRET_D	OPDUME-OPXRET_D	Macular edema worse eye	Macular Edema	NCIT:C35468	http://purl.obolibrary.org/obo/NCIT_C35468	0.81		NCIT
 OPDUME	OPXRET_E	OPDUME-OPXRET_E	Macular edema worse eye	Macular Edema	NCIT:C35468	http://purl.obolibrary.org/obo/NCIT_C35468	0.81		NCIT
 OPDUPHVH	OPXRET_D	OPDUPHVH-OPXRET_D	Pre-ret./ vitreous hemorrhage worse eye	Vitreous Hemorrhage, CTCAE 3.0	NCIT:C55921	http://purl.obolibrary.org/obo/NCIT_C55921	0.82		NCIT
@@ -5688,10 +5695,8 @@ OPDURDET	OPXRET_D	OPDURDET-OPXRET_D	Retinal detachment worse eye	Retinal Detachm
 OPDURDET	OPXRET_E	OPDURDET-OPXRET_E	Retinal detachment worse eye	Retinal Detachment, CTCAE 3.0	NCIT:C55886	http://purl.obolibrary.org/obo/NCIT_C55886	0.821		NCIT
 OPXDCOMP	OPXRET_D	OPXDCOMP-OPXRET_D	Are field 1 & field 2 present right eye	Field	NCIT:C70773	http://purl.obolibrary.org/obo/NCIT_C70773	0.825		NCIT
 OPXDCOMP	OPXRET_E	OPXDCOMP-OPXRET_E	Are field 1 & field 2 present right eye	Field	NCIT:C70773	http://purl.obolibrary.org/obo/NCIT_C70773	0.825		NCIT
-OPXDGLAU	OPXRET_D	OPXDGLAU-OPXRET_D	Glaucoma right eye	glaucoma	EFO:0000516	http://www.ebi.ac.uk/efo/EFO_0000516	0.842		EFO
-OPXDGLAU	OPXRET_D	OPXDGLAU-OPXRET_D	Glaucoma right eye	Glaucoma, CTCAE	NCIT:C55842	http://purl.obolibrary.org/obo/NCIT_C55842	0.842		NCIT
-OPXDGLAU	OPXRET_E	OPXDGLAU-OPXRET_E	Glaucoma right eye	glaucoma	EFO:0000516	http://www.ebi.ac.uk/efo/EFO_0000516	0.842		EFO
-OPXDGLAU	OPXRET_E	OPXDGLAU-OPXRET_E	Glaucoma right eye	Glaucoma, CTCAE	NCIT:C55842	http://purl.obolibrary.org/obo/NCIT_C55842	0.842		NCIT
+OPXDGLAU	OPXRET_D	OPXDGLAU-OPXRET_D	Glaucoma right eye	glaucoma	EFO:0000516	http://www.ebi.ac.uk/efo/EFO_0000516	0.843		EFO
+OPXDGLAU	OPXRET_E	OPXDGLAU-OPXRET_E	Glaucoma right eye	glaucoma	EFO:0000516	http://www.ebi.ac.uk/efo/EFO_0000516	0.843		EFO
 OPXSCOMP	OPXRET_D	OPXSCOMP-OPXRET_D	Are field 1 & field 2 present left eye	Field	NCIT:C70773	http://purl.obolibrary.org/obo/NCIT_C70773	0.827		NCIT
 OPXSCOMP	OPXRET_E	OPXSCOMP-OPXRET_E	Are field 1 & field 2 present left eye	Field	NCIT:C70773	http://purl.obolibrary.org/obo/NCIT_C70773	0.827		NCIT
 OPXSGLAU	OPXRET_D	OPXSGLAU-OPXRET_D	Glaucoma left eye	glaucoma	EFO:0000516	http://www.ebi.ac.uk/efo/EFO_0000516	0.849		EFO
@@ -5772,8 +5777,8 @@ PAQ670	PAQ_G	PAQ670-PAQ_G	Days moderate recreational activities	Extent Breast Ca
 PAQ670	PAQ_H	PAQ670-PAQ_H	Days moderate recreational activities	Extent Breast Cancer Treatment Disrupted Recreational Activities	NCIT:C148226	http://purl.obolibrary.org/obo/NCIT_C148226	0.81		NCIT
 PAQ670	PAQ_I	PAQ670-PAQ_I	Days moderate recreational activities	Extent Breast Cancer Treatment Disrupted Recreational Activities	NCIT:C148226	http://purl.obolibrary.org/obo/NCIT_C148226	0.81		NCIT
 PAQ670	PAQ_J	PAQ670-PAQ_J	Days moderate recreational activities	Extent Breast Cancer Treatment Disrupted Recreational Activities	NCIT:C148226	http://purl.obolibrary.org/obo/NCIT_C148226	0.81		NCIT
-PAQ690b	AQQ_E	PAQ690b-AQQ_E	Spent less time outdoors	time spent outdoors measurement	EFO:0600081	http://www.ebi.ac.uk/efo/EFO_0600081	0.829		EFO
-PAQ690b	AQQ_F	PAQ690b-AQQ_F	Spent less time outdoors	time spent outdoors measurement	EFO:0600081	http://www.ebi.ac.uk/efo/EFO_0600081	0.829		EFO
+PAQ690b	AQQ_E	PAQ690b-AQQ_E	Spent less time outdoors	time spent outdoors measurement	EFO:0600081	http://www.ebi.ac.uk/efo/EFO_0600081	0.826		EFO
+PAQ690b	AQQ_F	PAQ690b-AQQ_F	Spent less time outdoors	time spent outdoors measurement	EFO:0600081	http://www.ebi.ac.uk/efo/EFO_0600081	0.826		EFO
 PAQ722	PAQ_H	PAQ722-PAQ_H	Any physical activities past 7 days	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.854		EFO
 PAQ722	PAQ_I	PAQ722-PAQ_I	Any physical activities past 7 days	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.854		EFO
 PAQ724aa	PAQ_H	PAQ724aa-PAQ_H	Physical activity walking	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.804		NCIT
@@ -6011,8 +6016,8 @@ SLQ030	SLQ_D	SLQ030-SLQ_D	do you snore?	Snoring	HP:0025267	http://purl.obolibrar
 SLQ030	SLQ_E	SLQ030-SLQ_E	do you snore?	Snoring	HP:0025267	http://purl.obolibrary.org/obo/HP_0025267	0.802		EFO
 SLQ030	SLQ_I	SLQ030-SLQ_I	do you snore?	Snoring	HP:0025267	http://purl.obolibrary.org/obo/HP_0025267	0.802		EFO
 SLQ030	SLQ_J	SLQ030-SLQ_J	do you snore?	Snoring	HP:0025267	http://purl.obolibrary.org/obo/HP_0025267	0.802		EFO
-SLQ070A	SLQ_D	SLQ070A-SLQ_D	Sleep disorder: Sleep Apnea	sleep apnea	EFO:0003877	http://www.ebi.ac.uk/efo/EFO_0003877	0.894		EFO
-SLQ070A	SLQ_E	SLQ070A-SLQ_E	Sleep disorder: Sleep Apnea	sleep apnea	EFO:0003877	http://www.ebi.ac.uk/efo/EFO_0003877	0.894		EFO
+SLQ070A	SLQ_D	SLQ070A-SLQ_D	Sleep disorder: Sleep Apnea	sleep apnea	EFO:0003877	http://www.ebi.ac.uk/efo/EFO_0003877	0.895		EFO
+SLQ070A	SLQ_E	SLQ070A-SLQ_E	Sleep disorder: Sleep Apnea	sleep apnea	EFO:0003877	http://www.ebi.ac.uk/efo/EFO_0003877	0.895		EFO
 SLQ070D	SLQ_D	SLQ070D-SLQ_D	Sleep disorder: Other	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.99		NCIT
 SLQ070D	SLQ_E	SLQ070D-SLQ_E	Sleep disorder: Other	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.99		NCIT
 SLQ080	SLQ_D	SLQ080-SLQ_D	have trouble falling asleep?	Have Trouble Going To Sleep	NCIT:C136371	http://purl.obolibrary.org/obo/NCIT_C136371	0.994		NCIT
@@ -6200,8 +6205,8 @@ SPQ070d	SPX_G	SPQ070d-SPX_G	a stroke?	stroke	EFO:0000712	http://www.ebi.ac.uk/ef
 SPQ070e	SPX_E	SPQ070e-SPX_E	a heart attack?	Myocardial Infarction	NCIT:C27996	http://purl.obolibrary.org/obo/NCIT_C27996	0.945		NCIT
 SPQ070e	SPX_F	SPQ070e-SPX_F	a heart attack?	Myocardial Infarction	NCIT:C27996	http://purl.obolibrary.org/obo/NCIT_C27996	0.945		NCIT
 SPQ070e	SPX_G	SPQ070e-SPX_G	a heart attack?	Myocardial Infarction	NCIT:C27996	http://purl.obolibrary.org/obo/NCIT_C27996	0.945		NCIT
-SS066	SSPCB_B	SS066-SSPCB_B	PCB66	CB66	EFO:0004073	http://www.ebi.ac.uk/efo/EFO_0004073	0.839	comment	EFO
-SS128	SSPCB_B	SS128-SSPCB_B	PCB128	CB128	EFO:0004046	http://www.ebi.ac.uk/efo/EFO_0004046	0.818	comment	EFO
+SS066	SSPCB_B	SS066-SSPCB_B	PCB66	CB66	EFO:0004073	http://www.ebi.ac.uk/efo/EFO_0004073	0.84	comment	EFO
+SS128	SSPCB_B	SS128-SSPCB_B	PCB128	CB128	EFO:0004046	http://www.ebi.ac.uk/efo/EFO_0004046	0.819	comment	EFO
 SSA1	SSOL_A	SSA1-SSOL_A	Alpha1	Alpha1 Significance	NCIT:C67050	http://purl.obolibrary.org/obo/NCIT_C67050	0.991		NCIT
 SSA1	SSOL_B	SSA1-SSOL_B	Alpha1	Alpha1 Significance	NCIT:C67050	http://purl.obolibrary.org/obo/NCIT_C67050	0.991		NCIT
 SSA1	SSOL_C	SSA1-SSOL_C	Alpha1	Alpha1 Significance	NCIT:C67050	http://purl.obolibrary.org/obo/NCIT_C67050	0.991		NCIT
@@ -6331,10 +6336,10 @@ URD2MHLC	UVOCS_H	URD2MHLC-UVOCS_H	2-methylhippuric acid	2-Methylhippuric Acid	NC
 URD2MHLC	UVOC_I	URD2MHLC-UVOC_I	2-methylhippuric acid	2-Methylhippuric Acid	NCIT:C173416	http://purl.obolibrary.org/obo/NCIT_C173416	0.884	comment	NCIT
 URD2MHLC	UVOCS_I	URD2MHLC-UVOCS_I	2-methylhippuric acid	2-Methylhippuric Acid	NCIT:C173416	http://purl.obolibrary.org/obo/NCIT_C173416	0.884	comment	NCIT
 URD2MHLC	UVOC_J	URD2MHLC-UVOC_J	2-methylhippuric acid	2-Methylhippuric Acid	NCIT:C173416	http://purl.obolibrary.org/obo/NCIT_C173416	0.884	comment	NCIT
-URDACT	ALB_CR_G	URDACT-ALB_CR_G	Albumin creatinine ratio (mg/g)	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.843		EFO
-URDACT	ALB_CR_H	URDACT-ALB_CR_H	Albumin creatinine ratio (mg/g)	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.843		EFO
-URDACT	ALB_CR_I	URDACT-ALB_CR_I	Albumin creatinine ratio (mg/g)	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.843		EFO
-URDACT	ALB_CR_J	URDACT-ALB_CR_J	Albumin creatinine ratio (mg/g)	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.843		EFO
+URDACT	ALB_CR_G	URDACT-ALB_CR_G	Albumin creatinine ratio (mg/g)	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.845		EFO
+URDACT	ALB_CR_H	URDACT-ALB_CR_H	Albumin creatinine ratio (mg/g)	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.845		EFO
+URDACT	ALB_CR_I	URDACT-ALB_CR_I	Albumin creatinine ratio (mg/g)	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.845		EFO
+URDACT	ALB_CR_J	URDACT-ALB_CR_J	Albumin creatinine ratio (mg/g)	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.845		EFO
 URDANBLC	UCOTS_H	URDANBLC-UCOTS_H	Anabasine urine	Anabasine Measurement	NCIT:C147298	http://purl.obolibrary.org/obo/NCIT_C147298	0.921	comment	NCIT
 URDANBLC	UCOT_H	URDANBLC-UCOT_H	Anabasine urine	Anabasine Measurement	NCIT:C147298	http://purl.obolibrary.org/obo/NCIT_C147298	0.921	comment	NCIT
 URDANBLC	UCOT_I	URDANBLC-UCOT_I	Anabasine urine	Anabasine Measurement	NCIT:C147298	http://purl.obolibrary.org/obo/NCIT_C147298	0.921	comment	NCIT
@@ -6494,9 +6499,9 @@ URDUA3LC	UAS_H	URDUA3LC-UAS_H	Urinary Arsenous acid	Arsenic Trioxide	NCIT:C1005	
 URDUA3LC	UASS_I	URDUA3LC-UASS_I	Urinary Arsenous acid	Arsenic Trioxide	NCIT:C1005	http://purl.obolibrary.org/obo/NCIT_C1005	0.813	comment	NCIT
 URDUA3LC	UAS_I	URDUA3LC-UAS_I	Urinary Arsenous acid	Arsenic Trioxide	NCIT:C1005	http://purl.obolibrary.org/obo/NCIT_C1005	0.813	comment	NCIT
 URDUA3LC	UAS_J	URDUA3LC-UAS_J	Urinary Arsenous acid	Arsenic Trioxide	NCIT:C1005	http://purl.obolibrary.org/obo/NCIT_C1005	0.813	comment	NCIT
-URDUASLC	UAS_D	URDUASLC-UAS_D	Urinary Arsenic	urinary arsenic measurement	EFO:0004880	http://www.ebi.ac.uk/efo/EFO_0004880	0.812	comment	EFO
-URDUASLC	UAS_E	URDUASLC-UAS_E	Urinary Arsenic	urinary arsenic measurement	EFO:0004880	http://www.ebi.ac.uk/efo/EFO_0004880	0.812	comment	EFO
-URDUASLC	UAS_F	URDUASLC-UAS_F	Urinary Arsenic	urinary arsenic measurement	EFO:0004880	http://www.ebi.ac.uk/efo/EFO_0004880	0.812	comment	EFO
+URDUASLC	UAS_D	URDUASLC-UAS_D	Urinary Arsenic	urinary arsenic measurement	EFO:0004880	http://www.ebi.ac.uk/efo/EFO_0004880	0.805	comment	EFO
+URDUASLC	UAS_E	URDUASLC-UAS_E	Urinary Arsenic	urinary arsenic measurement	EFO:0004880	http://www.ebi.ac.uk/efo/EFO_0004880	0.805	comment	EFO
+URDUASLC	UAS_F	URDUASLC-UAS_F	Urinary Arsenic	urinary arsenic measurement	EFO:0004880	http://www.ebi.ac.uk/efo/EFO_0004880	0.805	comment	EFO
 URDUBELC	L06HM_C	URDUBELC-L06HM_C	Urinary beryllium	Beryllium Compound	NCIT:C45558	http://purl.obolibrary.org/obo/NCIT_C45558	0.862	comment	NCIT
 URDUBELC	UHM_D	URDUBELC-UHM_D	Urinary Beryllium	Beryllium Compound	NCIT:C45558	http://purl.obolibrary.org/obo/NCIT_C45558	0.862	comment	NCIT
 URDUBELC	UHM_E	URDUBELC-UHM_E	Urinary Beryllium	Beryllium Compound	NCIT:C45558	http://purl.obolibrary.org/obo/NCIT_C45558	0.862	comment	NCIT
@@ -6792,7 +6797,9 @@ VIQ050D	VIQ_B	VIQ050D-VIQ_B	Difficulty noticing objects to side	VFQ25-Self Admin
 VIQ051D	VIQ_C	VIQ051D-VIQ_C	Difficulty noticing objects to side	VFQ25-Self Administered Format - Difficulty Noticing Objects Off to the Side While Walking	NCIT:C112780	http://purl.obolibrary.org/obo/NCIT_C112780	0.811		NCIT
 VIQ051D	VIQ_D	VIQ051D-VIQ_D	Difficulty noticing objects to side	VFQ25-Self Administered Format - Difficulty Noticing Objects Off to the Side While Walking	NCIT:C112780	http://purl.obolibrary.org/obo/NCIT_C112780	0.811		NCIT
 VIQ051D	VIQ_E	VIQ051D-VIQ_E	Difficulty noticing objects to side	VFQ25-Self Administered Format - Difficulty Noticing Objects Off to the Side While Walking	NCIT:C112780	http://purl.obolibrary.org/obo/NCIT_C112780	0.811		NCIT
+VIQ090	VIQ_D	VIQ090-VIQ_D	glaucoma	glaucoma	EFO:0000516	http://www.ebi.ac.uk/efo/EFO_0000516	0.984		EFO
 VIQ090	VIQ_D	VIQ090-VIQ_D	glaucoma	Glaucoma, CTCAE	NCIT:C55842	http://purl.obolibrary.org/obo/NCIT_C55842	0.984		NCIT
+VIQ090	VIQ_E	VIQ090-VIQ_E	glaucoma	glaucoma	EFO:0000516	http://www.ebi.ac.uk/efo/EFO_0000516	0.984		EFO
 VIQ090	VIQ_E	VIQ090-VIQ_E	glaucoma	Glaucoma, CTCAE	NCIT:C55842	http://purl.obolibrary.org/obo/NCIT_C55842	0.984		NCIT
 VIQ200	VIX	VIQ200-VIX	Eye surgery for cataracts	Cataract Surgery	NCIT:C157809	http://purl.obolibrary.org/obo/NCIT_C157809	0.821		NCIT
 VIQ200	VIX_B	VIQ200-VIX_B	Eye surgery for cataracts	Cataract Surgery	NCIT:C157809	http://purl.obolibrary.org/obo/NCIT_C157809	0.821		NCIT
@@ -6826,10 +6833,10 @@ WHD100D	WHQ_D	WHD100D-WHQ_D	Exercised	Exercise Pain Management	NCIT:C26387	http:
 WHD100D	WHQ_E	WHD100D-WHQ_E	Exercised	Exercise Pain Management	NCIT:C26387	http://purl.obolibrary.org/obo/NCIT_C26387	0.908		NCIT
 WHD100D	WHQ_F	WHD100D-WHQ_F	Exercised	Exercise Pain Management	NCIT:C26387	http://purl.obolibrary.org/obo/NCIT_C26387	0.908		NCIT
 WHD100D	WHQ_G	WHD100D-WHQ_G	Exercised	Exercise Pain Management	NCIT:C26387	http://purl.obolibrary.org/obo/NCIT_C26387	0.908		NCIT
-WHD100G	WHQ_D	WHD100G-WHQ_D	liquid diet formula	formulated liquid diets	FOODON:03315667	http://purl.obolibrary.org/obo/FOODON_03315667	0.802		FOODON
-WHD100G	WHQ_E	WHD100G-WHQ_E	liquid diet formula	formulated liquid diets	FOODON:03315667	http://purl.obolibrary.org/obo/FOODON_03315667	0.802		FOODON
-WHD100G	WHQ_F	WHD100G-WHQ_F	liquid diet formula	formulated liquid diets	FOODON:03315667	http://purl.obolibrary.org/obo/FOODON_03315667	0.802		FOODON
-WHD100G	WHQ_G	WHD100G-WHQ_G	liquid diet formula	formulated liquid diets	FOODON:03315667	http://purl.obolibrary.org/obo/FOODON_03315667	0.802		FOODON
+WHD100G	WHQ_D	WHD100G-WHQ_D	liquid diet formula	formulated liquid diets	FOODON:03315667	http://purl.obolibrary.org/obo/FOODON_03315667	0.801		FOODON
+WHD100G	WHQ_E	WHD100G-WHQ_E	liquid diet formula	formulated liquid diets	FOODON:03315667	http://purl.obolibrary.org/obo/FOODON_03315667	0.801		FOODON
+WHD100G	WHQ_F	WHD100G-WHQ_F	liquid diet formula	formulated liquid diets	FOODON:03315667	http://purl.obolibrary.org/obo/FOODON_03315667	0.801		FOODON
+WHD100G	WHQ_G	WHD100G-WHQ_G	liquid diet formula	formulated liquid diets	FOODON:03315667	http://purl.obolibrary.org/obo/FOODON_03315667	0.801		FOODON
 WHD100d	WHQ	WHD100d-WHQ	Exercised	Exercise Pain Management	NCIT:C26387	http://purl.obolibrary.org/obo/NCIT_C26387	0.908		NCIT
 WHQ280B	WHQ_D	WHQ280B-WHQ_D	Dietitian	Dietitian	NCIT:C28248	http://purl.obolibrary.org/obo/NCIT_C28248	0.983		NCIT
 WHQ280B	WHQ_E	WHQ280B-WHQ_E	Dietitian	Dietitian	NCIT:C28248	http://purl.obolibrary.org/obo/NCIT_C28248	0.983		NCIT

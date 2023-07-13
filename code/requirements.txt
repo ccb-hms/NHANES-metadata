@@ -1,3 +1,2 @@
-pandas~=2.0.2
 Owlready2==0.40
 text2term~=2.3.2
