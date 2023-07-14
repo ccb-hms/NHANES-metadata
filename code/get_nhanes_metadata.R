@@ -126,7 +126,7 @@ clean <- function(text) {
 }
 
 # Get the metadata about the tables and the variables in NHANES surveys 1999-2017.
-output_folder <- "../metadata_newR/"
+output_folder <- "../metadata/"
 dir.create(file.path(".", output_folder), showWarnings=FALSE, recursive=TRUE)
 log_file <- paste(output_folder, "log.txt", sep="")
 missing_codebooks_file <- paste(output_folder, "missing_codebooks.tsv", sep="")
