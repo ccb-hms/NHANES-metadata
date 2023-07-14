@@ -1,17 +1,7 @@
----
-title: "NHANES Metadata"
-output:
-  html_notebook
----
-
-Load the *nhanesA* library (v0.7.3).
-```{r}
 library(nhanesA)
 library(progress)
-```
 
-Get metadata about NHANES tables from all survey years and data groups.
-```{r}
+# Get metadata about NHANES tables from all survey years and data groups.
 get_tables_metadata <- function() {
   data_groups <- c("DEMOGRAPHICS", "DIETARY", "EXAMINATION", "LABORATORY", "QUESTIONNAIRE")
   survey_years <- c(1999, 2001, 2003, 2005, 2007, 2009, 2011, 2013, 2015, 2017)
@@ -35,10 +25,8 @@ get_tables <- function(data_group, year) {
   }
   return(tables)
 }
-```
 
-Get metadata about all variables in the given collection of NHANES tables.
-```{r}
+# Get metadata about all variables in the given collection of NHANES tables.
 get_variables_metadata <- function(tables) {
   # Write a table containing metadata about all variables
   all_variables <- data.frame(matrix(ncol=6, nrow = 0))
@@ -67,10 +55,8 @@ get_variables_metadata <- function(tables) {
                 append=TRUE, col.names=FALSE, row.names=FALSE)
   }
 }
-```
 
-Get metadata about the variables in the given NHANES table (specified by the table name) and data group.
-```{r}
+# Get metadata about the variables in the given NHANES table (specified by the table name) and data group.
 get_variables_in_table <- function(table_name, nhanes_data_group) {
   all_variables <- data.frame(matrix(ncol=6, nrow=0))
   all_variable_codebooks <- data.frame(matrix(ncol=7, nrow=0))
@@ -138,11 +124,9 @@ clean <- function(text) {
   text <- gsub("[\r\n,\\\"]", "", text)
   return(text)
 }
-```
 
-Get the metadata about the tables and the variables in NHANES surveys 1999-2017.
-```{r}
-output_folder <- "../metadata/"
+# Get the metadata about the tables and the variables in NHANES surveys 1999-2017.
+output_folder <- "../metadata_newR/"
 dir.create(file.path(".", output_folder), showWarnings=FALSE, recursive=TRUE)
 log_file <- paste(output_folder, "log.txt", sep="")
 missing_codebooks_file <- paste(output_folder, "missing_codebooks.tsv", sep="")
@@ -158,4 +142,3 @@ get_variables_metadata(all_tables)
 # Write out to log file the date when metadata finished downloading
 cat(paste("Downloaded on:", format(Sys.time(), format="%m-%d-%YT%H:%M:%S")), file=log_file, append=TRUE)
 print("finished")
-```
