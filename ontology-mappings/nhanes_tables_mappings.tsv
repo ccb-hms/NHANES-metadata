@@ -1,908 +1,967 @@
 SourceTermID	SourceTerm	MappedTermLabel	MappedTermCURIE	MappedTermIRI	MappingScore	Ontology
-BPX	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.983	EFO
-BMX	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.956	EFO
+BPX	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.984	EFO
+BMX	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.955	EFO
 TB	Tuberculosis	Tuberculosis	ORPHANET.ORDO:3389	http://www.orpha.net/ORDO/Orphanet_3389	0.974	EFO
-UC	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.909	EFO
-LAB16	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.837	EFO
-SSOL_A	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	benign monoclonal gammopathy	EFO:1000836	http://www.ebi.ac.uk/efo/EFO_1000836	0.901	EFO
-CIQGAD	Mental Health - Generalized Anxiety Disorder	generalized anxiety disorder	EFO:1001892	http://www.ebi.ac.uk/efo/EFO_1001892	0.887	EFO
-CIQMDEP	Mental Health - Depression	depressive disorder	MONDO:0002050	http://purl.obolibrary.org/obo/MONDO_0002050	0.882	EFO
-ALQ	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.868	EFO
-CDQ	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815	EFO
+UC	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.907	EFO
+LAB16	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.838	EFO
+SSOL_A	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	benign monoclonal gammopathy	EFO:1000836	http://www.ebi.ac.uk/efo/EFO_1000836	0.902	EFO
+CIQGAD	Mental Health - Generalized Anxiety Disorder	generalized anxiety disorder	EFO:1001892	http://www.ebi.ac.uk/efo/EFO_1001892	0.892	EFO
+CIQMDEP	Mental Health - Depression	depressive disorder	MONDO:0002050	http://purl.obolibrary.org/obo/MONDO_0002050	0.881	EFO
+ALQ	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.87	EFO
+CDQ	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.821	EFO
 CFQ	Cognitive Functioning	cognition	EFO:0003925	http://www.ebi.ac.uk/efo/EFO_0003925	0.9	EFO
-DIQ	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991	EFO
-DUQ	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.945	EFO
-ECQ	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.871	EFO
-IMQ	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.868	EFO
-MCQ	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913	EFO
-OCQ	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.802	EFO
-OSQ	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983	EFO
-PAQ	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.99	EFO
+DIQ	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.992	EFO
+DUQ	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.946	EFO
+ECQ	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.872	EFO
+IMQ	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.869	EFO
+MCQ	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.911	EFO
+OCQ	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.801	EFO
+OSQ	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.984	EFO
+PAQ	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.992	EFO
 PAQIAF	Physical Activity - Individual Activities	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.833	EFO
-SXQ	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.99	EFO
+SXQ	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.989	EFO
 TBQ	Tuberculosis	Tuberculosis	ORPHANET.ORDO:3389	http://www.orpha.net/ORDO/Orphanet_3389	0.974	EFO
-BMX_B	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.956	EFO
-BPX_B	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.983	EFO
-UC_B	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.909	EFO
+SXQYTH	Sexual Behavior - Youth	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.887	EFO
+BMX_B	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.955	EFO
+BPX_B	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.984	EFO
+UC_B	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.907	EFO
 L06VID_B	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.871	EFO
-L16_B	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.837	EFO
-L35_B	Methicillin - Resistant Staphylococcus aureus (MRSA)	Methicillin-Resistant Staphylococcus Aureus Infection	EFO:0008555	http://www.ebi.ac.uk/efo/EFO_0008555	0.828	EFO
-SSOL_B	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	benign monoclonal gammopathy	EFO:1000836	http://www.ebi.ac.uk/efo/EFO_1000836	0.901	EFO
+L16_B	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.838	EFO
+L35_B	Methicillin - Resistant Staphylococcus aureus (MRSA)	Methicillin-Resistant Staphylococcus Aureus Infection	EFO:0008555	http://www.ebi.ac.uk/efo/EFO_0008555	0.826	EFO
+SSOL_B	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	benign monoclonal gammopathy	EFO:1000836	http://www.ebi.ac.uk/efo/EFO_1000836	0.902	EFO
 VID_B	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.871	EFO
-ALQ_B	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.868	EFO
-CDQ_B	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815	EFO
+ALQ_B	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.87	EFO
+CDQ_B	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.821	EFO
 CFQ_B	Cognitive Functioning	cognition	EFO:0003925	http://www.ebi.ac.uk/efo/EFO_0003925	0.9	EFO
-DIQ_B	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991	EFO
-DUQ_B	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.945	EFO
-ECQ_B	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.871	EFO
-IMQ_B	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.868	EFO
-MCQ_B	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913	EFO
-OCQ_B	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.802	EFO
-OSQ_B	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983	EFO
-PAQ_B	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.99	EFO
+DIQ_B	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.992	EFO
+DUQ_B	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.946	EFO
+ECQ_B	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.872	EFO
+IMQ_B	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.869	EFO
+MCQ_B	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.911	EFO
+OCQ_B	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.801	EFO
+OSQ_B	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.984	EFO
+PAQ_B	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.992	EFO
 PAQIAF_B	Physical Activity - Individual Activities	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.833	EFO
-SXQ_B	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.99	EFO
-CIQGAD_B	Mental Health - Generalized Anxiety Disorder	generalized anxiety disorder	EFO:1001892	http://www.ebi.ac.uk/efo/EFO_1001892	0.887	EFO
-CIQDEP_B	Mental Health - Depression	depressive disorder	MONDO:0002050	http://purl.obolibrary.org/obo/MONDO_0002050	0.882	EFO
-BPX_C	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.983	EFO
-BMX_C	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.956	EFO
-L16_C	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.837	EFO
-L35_C	Methicillin - Resistant Staphylococcus aureus (MRSA)	Methicillin-Resistant Staphylococcus Aureus Infection	EFO:0008555	http://www.ebi.ac.uk/efo/EFO_0008555	0.828	EFO
-L43_C	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.82	EFO
-UC_C	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.909	EFO
-SSQFEV_C	Coxiella Burnetii (Q Fever) Antibodies - Serum (Surplus)	Q fever	EFO:0005224	http://www.ebi.ac.uk/efo/EFO_0005224	0.83	EFO
+SXQ_B	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.989	EFO
+CIQGAD_B	Mental Health - Generalized Anxiety Disorder	generalized anxiety disorder	EFO:1001892	http://www.ebi.ac.uk/efo/EFO_1001892	0.892	EFO
+CIQDEP_B	Mental Health - Depression	depressive disorder	MONDO:0002050	http://purl.obolibrary.org/obo/MONDO_0002050	0.881	EFO
+SXQYTH_B	Sexual Behavior - Youth	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.887	EFO
+BPX_C	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.984	EFO
+BMX_C	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.955	EFO
+L16_C	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.838	EFO
+L35_C	Methicillin - Resistant Staphylococcus aureus (MRSA)	Methicillin-Resistant Staphylococcus Aureus Infection	EFO:0008555	http://www.ebi.ac.uk/efo/EFO_0008555	0.826	EFO
+L43_C	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.821	EFO
+UC_C	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.907	EFO
+SSQFEV_C	Coxiella Burnetii (Q Fever) Antibodies - Serum (Surplus)	Q fever	EFO:0005224	http://www.ebi.ac.uk/efo/EFO_0005224	0.832	EFO
 L06VID_C	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.871	EFO
-SSOL_C	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	benign monoclonal gammopathy	EFO:1000836	http://www.ebi.ac.uk/efo/EFO_1000836	0.901	EFO
+SSOL_C	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	benign monoclonal gammopathy	EFO:1000836	http://www.ebi.ac.uk/efo/EFO_1000836	0.902	EFO
 VID_C	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.871	EFO
-CDQ_C	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815	EFO
-ALQ_C	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.868	EFO
-DIQ_C	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991	EFO
-DUQ_C	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.945	EFO
-ECQ_C	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.871	EFO
-IMQ_C	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.868	EFO
-MCQ_C	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913	EFO
-OCQ_C	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.802	EFO
-OSQ_C	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983	EFO
-PAQ_C	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.99	EFO
+CDQ_C	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.821	EFO
+ALQ_C	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.87	EFO
+DIQ_C	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.992	EFO
+DUQ_C	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.946	EFO
+ECQ_C	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.872	EFO
+IMQ_C	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.869	EFO
+MCQ_C	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.911	EFO
+OCQ_C	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.801	EFO
+OSQ_C	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.984	EFO
+PAQ_C	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.992	EFO
 PAQIAF_C	Physical Activity - Individual Activities	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.833	EFO
-SXQ_C	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.99	EFO
-CIQGAD_C	Mental Health - Generalized Anxiety Disorder	generalized anxiety disorder	EFO:1001892	http://www.ebi.ac.uk/efo/EFO_1001892	0.887	EFO
-CIQDEP_C	Mental Health - Depression	depressive disorder	MONDO:0002050	http://purl.obolibrary.org/obo/MONDO_0002050	0.882	EFO
-BPX_D	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.983	EFO
-BMX_D	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.956	EFO
-TCHOL_D	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.829	EFO
-VIT_B6_D	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.82	EFO
-FOLATE_D	Folate - RBC & Serum	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.852	EFO
-PTH_D	Parathyroid Hormone	parathyroid hormone measurement	EFO:0004752	http://www.ebi.ac.uk/efo/EFO_0004752	0.831	EFO
-GLU_D	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.848	EFO
-OGTT_D	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.93	EFO
-ALB_CR_D	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.837	EFO
-UCPREG_D	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.909	EFO
+SXQ_C	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.989	EFO
+CIQGAD_C	Mental Health - Generalized Anxiety Disorder	generalized anxiety disorder	EFO:1001892	http://www.ebi.ac.uk/efo/EFO_1001892	0.892	EFO
+CIQDEP_C	Mental Health - Depression	depressive disorder	MONDO:0002050	http://purl.obolibrary.org/obo/MONDO_0002050	0.881	EFO
+SXQYTH_C	Sexual Behavior - Youth	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.887	EFO
+BPX_D	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.984	EFO
+BMX_D	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.955	EFO
+TCHOL_D	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.83	EFO
+VIT_B6_D	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.821	EFO
+FOLATE_D	Folate - RBC & Serum	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.854	EFO
+PTH_D	Parathyroid Hormone	parathyroid hormone measurement	EFO:0004752	http://www.ebi.ac.uk/efo/EFO_0004752	0.83	EFO
+GLU_D	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.853	EFO
+OGTT_D	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.931	EFO
+ALB_CR_D	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.838	EFO
+UCPREG_D	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.907	EFO
 B12_D	Vitamin B12	vitamin B12 deficiency	EFO:0000734	http://www.ebi.ac.uk/efo/EFO_0000734	0.912	EFO
 VID_D	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.871	EFO
-ALQ_D	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.868	EFO
-AGQ_D	Allergy	allergic disease	MONDO:0005271	http://purl.obolibrary.org/obo/MONDO_0005271	0.94	EFO
-CDQ_D	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815	EFO
-DIQ_D	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991	EFO
-DUQ_D	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.945	EFO
-ECQ_D	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.871	EFO
-IMQ_D	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.868	EFO
-MCQ_D	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913	EFO
-OSQ_D	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983	EFO
-PAQ_D	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.99	EFO
+ALQ_D	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.87	EFO
+AGQ_D	Allergy	allergic disease	MONDO:0005271	http://purl.obolibrary.org/obo/MONDO_0005271	0.949	EFO
+CDQ_D	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.821	EFO
+SXQYTH_D	Sexual Behavior - Youth	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.887	EFO
+DIQ_D	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.992	EFO
+DUQ_D	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.946	EFO
+ECQ_D	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.872	EFO
+IMQ_D	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.869	EFO
+MCQ_D	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.911	EFO
+OSQ_D	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.984	EFO
+PAQ_D	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.992	EFO
 PAQIAF_D	Physical Activity - Individual Activities	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.833	EFO
-SXQ_D	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.99	EFO
-SLQ_D	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.975	EFO
-SMQ_D	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.944	EFO
-SMQRTU_D	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.81	EFO
-OCQ_D	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.802	EFO
-BPX_E	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.983	EFO
-BMX_E	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.956	EFO
-ENX_E	Exhaled Nitric Oxide	nitric oxide exhalation measurement	EFO:0005536	http://www.ebi.ac.uk/efo/EFO_0005536	0.871	EFO
-GLU_E	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.848	EFO
-UCPREG_E	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.909	EFO
-ALB_CR_E	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.837	EFO
-TCHOL_E	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.829	EFO
-OGTT_E	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.93	EFO
+SXQ_D	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.989	EFO
+SLQ_D	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.977	EFO
+SMQ_D	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.946	EFO
+SMQRTU_D	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.812	EFO
+OCQ_D	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.801	EFO
+BPX_E	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.984	EFO
+BMX_E	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.955	EFO
+ENX_E	Exhaled Nitric Oxide	nitric oxide exhalation measurement	EFO:0005536	http://www.ebi.ac.uk/efo/EFO_0005536	0.872	EFO
+GLU_E	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.853	EFO
+UCPREG_E	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.907	EFO
+ALB_CR_E	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.838	EFO
+TCHOL_E	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.83	EFO
+OGTT_E	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.931	EFO
 ApoB_E	Apolipoprotein B	abetalipoproteinemia	MONDO:0008692	http://purl.obolibrary.org/obo/MONDO_0008692	0.865	EFO
-SSUSG_E	Urine Specific Gravity Measurement (Surplus)	urine specific gravity measurement	EFO:0010135	http://www.ebi.ac.uk/efo/EFO_0010135	0.91	EFO
-FOLATE_E	Folate - RBC & Serum	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.852	EFO
-VIT_B6_E	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.82	EFO
+SSUSG_E	Urine Specific Gravity Measurement (Surplus)	urine specific gravity measurement	EFO:0010135	http://www.ebi.ac.uk/efo/EFO_0010135	0.908	EFO
+FOLATE_E	Folate - RBC & Serum	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.854	EFO
+VIT_B6_E	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.821	EFO
 VID_E	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.871	EFO
-ALQ_E	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.868	EFO
-CDQ_E	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815	EFO
-ECQ_E	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.871	EFO
-IMQ_E	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.868	EFO
-MCQ_E	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913	EFO
-PAQ_E	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.99	EFO
-SMQRTU_E	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.81	EFO
-OSQ_E	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983	EFO
-SXQ_E	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.99	EFO
-DIQ_E	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991	EFO
-SMQ_E	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.944	EFO
-SLQ_E	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.975	EFO
-DUQ_E	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.945	EFO
-OCQ_E	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.802	EFO
-ENX_F	Exhaled Nitric Oxide	nitric oxide exhalation measurement	EFO:0005536	http://www.ebi.ac.uk/efo/EFO_0005536	0.871	EFO
-BMX_F	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.956	EFO
-BPX_F	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.983	EFO
-UCPREG_F	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.909	EFO
-FOLATE_F	Folate - RBC & Serum	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.852	EFO
-TCHOL_F	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.829	EFO
-ALB_CR_F	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.837	EFO
-CHLMDA_F	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.897	EFO
-GLU_F	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.848	EFO
-OGTT_F	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.93	EFO
+ALQ_E	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.87	EFO
+CDQ_E	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.821	EFO
+ECQ_E	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.872	EFO
+IMQ_E	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.869	EFO
+MCQ_E	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.911	EFO
+PAQ_E	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.992	EFO
+SMQRTU_E	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.812	EFO
+OSQ_E	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.984	EFO
+SXQ_E	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.989	EFO
+DIQ_E	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.992	EFO
+SMQ_E	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.946	EFO
+SLQ_E	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.977	EFO
+DUQ_E	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.946	EFO
+SXQYTH_E	Sexual Behavior - Youth	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.887	EFO
+OCQ_E	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.801	EFO
+ENX_F	Exhaled Nitric Oxide	nitric oxide exhalation measurement	EFO:0005536	http://www.ebi.ac.uk/efo/EFO_0005536	0.872	EFO
+BMX_F	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.955	EFO
+BPX_F	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.984	EFO
+UCPREG_F	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.907	EFO
+FOLATE_F	Folate - RBC & Serum	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.854	EFO
+TCHOL_F	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.83	EFO
+ALB_CR_F	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.838	EFO
+CHLMDA_F	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.887	EFO
+GLU_F	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.853	EFO
+OGTT_F	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.931	EFO
 ApoB_F	Apolipoprotein B	abetalipoproteinemia	MONDO:0008692	http://purl.obolibrary.org/obo/MONDO_0008692	0.865	EFO
-VIT_B6_F	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.82	EFO
+VIT_B6_F	Vitamin B6	vitamin B6 measurement	EFO:0004621	http://www.ebi.ac.uk/efo/EFO_0004621	0.821	EFO
 VID_F	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.871	EFO
-SMQRTU_F	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.81	EFO
-CDQ_F	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815	EFO
-ARQ_F	Arthritis	arthritis	EFO:0005856	http://www.ebi.ac.uk/efo/EFO_0005856	0.993	EFO
-MCQ_F	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913	EFO
-DIQ_F	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991	EFO
-PAQ_F	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.99	EFO
-SMQ_F	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.944	EFO
-SXQ_F	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.99	EFO
-IMQ_F	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.868	EFO
-OCQ_F	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.802	EFO
-ECQ_F	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.871	EFO
-SLQ_F	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.975	EFO
-OSQ_F	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983	EFO
-ALQ_F	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.868	EFO
-DUQ_F	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.945	EFO
+SMQRTU_F	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.812	EFO
+CDQ_F	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.821	EFO
+ARQ_F	Arthritis	arthritis	EFO:0005856	http://www.ebi.ac.uk/efo/EFO_0005856	0.992	EFO
+MCQ_F	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.911	EFO
+DIQ_F	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.992	EFO
+PAQ_F	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.992	EFO
+SMQ_F	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.946	EFO
+SXQ_F	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.989	EFO
+IMQ_F	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.869	EFO
+OCQ_F	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.801	EFO
+ECQ_F	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.872	EFO
+SLQ_F	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.977	EFO
+OSQ_F	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.984	EFO
+ALQ_F	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.87	EFO
+SXQY_F_R	Sexual Behavior - Youth	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.887	EFO
+DUQ_F	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.946	EFO
 TBX_G	Tuberculosis	Tuberculosis	ORPHANET.ORDO:3389	http://www.orpha.net/ORDO/Orphanet_3389	0.974	EFO
-BPX_G	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.983	EFO
-ENX_G	Exhaled Nitric Oxide	nitric oxide exhalation measurement	EFO:0005536	http://www.ebi.ac.uk/efo/EFO_0005536	0.871	EFO
-BMX_G	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.956	EFO
-TCHOL_G	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.829	EFO
-ALB_CR_G	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.837	EFO
-UCPREG_G	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.909	EFO
+BPX_G	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.984	EFO
+ENX_G	Exhaled Nitric Oxide	nitric oxide exhalation measurement	EFO:0005536	http://www.ebi.ac.uk/efo/EFO_0005536	0.872	EFO
+BMX_G	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.955	EFO
+TCHOL_G	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.83	EFO
+ALB_CR_G	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.838	EFO
+UCPREG_G	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.907	EFO
 FOLATE_G	Folate - RBC	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.987	EFO
-MMA_G	Methylmalonic Acid	methylmalonic acidemia	MONDO:0002012	http://purl.obolibrary.org/obo/MONDO_0002012	0.846	EFO
+MMA_G	Methylmalonic Acid	methylmalonic acidemia	MONDO:0002012	http://purl.obolibrary.org/obo/MONDO_0002012	0.848	EFO
 VITB12_G	Vitamin B12	vitamin B12 deficiency	EFO:0000734	http://www.ebi.ac.uk/efo/EFO_0000734	0.912	EFO
-CHLMDA_G	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.897	EFO
-GLU_G	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.848	EFO
-OGTT_G	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.93	EFO
+CHLMDA_G	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.887	EFO
+GLU_G	Plasma Fasting Glucose & Insulin	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.853	EFO
+OGTT_G	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.931	EFO
 ApoB_G	Apolipoprotein B	abetalipoproteinemia	MONDO:0008692	http://purl.obolibrary.org/obo/MONDO_0008692	0.865	EFO
+ALCR_G_R	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.838	EFO
 VID_G	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.871	EFO
 TBQ_G	Tuberculosis	Tuberculosis	ORPHANET.ORDO:3389	http://www.orpha.net/ORDO/Orphanet_3389	0.974	EFO
-CDQ_G	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815	EFO
-PAQ_G	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.99	EFO
-CKQ_G	Creatine Kinase	Elevated circulating creatine kinase concentration	HP:0003236	http://purl.obolibrary.org/obo/HP_0003236	0.845	EFO
-DIQ_G	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991	EFO
-ECQ_G	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.871	EFO
-SXQ_G	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.99	EFO
-SMQRTU_G	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.81	EFO
-SMQ_G	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.944	EFO
-OCQ_G	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.802	EFO
-MCQ_G	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913	EFO
-IMQ_G	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.868	EFO
-DUQ_G	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.945	EFO
-SLQ_G	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.975	EFO
-ALQ_G	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.868	EFO
+CDQ_G	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.821	EFO
+PAQ_G	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.992	EFO
+CKQ_G	Creatine Kinase	Elevated circulating creatine kinase concentration	HP:0003236	http://purl.obolibrary.org/obo/HP_0003236	0.844	EFO
+DIQ_G	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.992	EFO
+ECQ_G	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.872	EFO
+SXQ_G	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.989	EFO
+SXQY_G_R	Sexual Behavior - Youth	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.887	EFO
+SMQRTU_G	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.812	EFO
+SMQ_G	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.946	EFO
+OCQ_G	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.801	EFO
+MCQ_G	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.911	EFO
+IMQ_G	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.869	EFO
+DUQ_G	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.946	EFO
+SLQ_G	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.977	EFO
+ALQ_G	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.87	EFO
 CFQ_G	Cognitive Functioning	cognition	EFO:0003925	http://www.ebi.ac.uk/efo/EFO_0003925	0.9	EFO
-BPX_H	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.983	EFO
-BMX_H	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.956	EFO
+BPX_H	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.984	EFO
+BMX_H	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.955	EFO
 ApoB_H	Apolipoprotein B	abetalipoproteinemia	MONDO:0008692	http://purl.obolibrary.org/obo/MONDO_0008692	0.865	EFO
-TCHOL_H	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.829	EFO
+TCHOL_H	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.83	EFO
 HEPA_H	Hepatitis A	hepatitis A virus infection	EFO:0007305	http://www.ebi.ac.uk/efo/EFO_0007305	0.989	EFO
-OGTT_H	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.93	EFO
-UCPREG_H	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.909	EFO
-GLU_H	Plasma Fasting Glucose	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.98	EFO
+OGTT_H	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.931	EFO
+UCPREG_H	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.907	EFO
+GLU_H	Plasma Fasting Glucose	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.981	EFO
 VITB12_H	Vitamin B12	vitamin B12 deficiency	EFO:0000734	http://www.ebi.ac.uk/efo/EFO_0000734	0.912	EFO
-CHLMDA_H	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.897	EFO
+CHLMDA_H	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.887	EFO
 INS_H	Insulin	insulinoma	EFO:0000549	http://www.ebi.ac.uk/efo/EFO_0000549	0.835	EFO
-ALB_CR_H	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.837	EFO
-MMA_H	Methylmalonic Acid	methylmalonic acidemia	MONDO:0002012	http://purl.obolibrary.org/obo/MONDO_0002012	0.846	EFO
+ALB_CR_H	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.838	EFO
+MMA_H	Methylmalonic Acid	methylmalonic acidemia	MONDO:0002012	http://purl.obolibrary.org/obo/MONDO_0002012	0.848	EFO
 VID_H	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.871	EFO
 FOLATE_H	Folate - RBC	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.987	EFO
-OSQ_H	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983	EFO
-IMQ_H	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.868	EFO
-SXQ_H	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.99	EFO
-CDQ_H	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815	EFO
-MCQ_H	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913	EFO
-PAQ_H	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.99	EFO
+OSQ_H	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.984	EFO
+IMQ_H	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.869	EFO
+SXQ_H	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.989	EFO
+SXQY_H_R	Sexual Behavior - Youth	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.887	EFO
+CDQ_H	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.821	EFO
+MCQ_H	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.911	EFO
+PAQ_H	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.992	EFO
 HEQ_H	Hepatitis	Hepatitis	HP:0012115	http://purl.obolibrary.org/obo/HP_0012115	0.987	EFO
-ECQ_H	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.871	EFO
-DIQ_H	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991	EFO
-SMQ_H	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.944	EFO
-SMQRTU_H	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.81	EFO
-SLQ_H	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.975	EFO
-DUQ_H	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.945	EFO
-ALQ_H	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.868	EFO
-OCQ_H	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.802	EFO
-CKQ_H	Creatine Kinase	Elevated circulating creatine kinase concentration	HP:0003236	http://purl.obolibrary.org/obo/HP_0003236	0.845	EFO
+ECQ_H	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.872	EFO
+DIQ_H	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.992	EFO
+SMQ_H	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.946	EFO
+SMQRTU_H	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.812	EFO
+SLQ_H	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.977	EFO
+DUQ_H	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.946	EFO
+ALQ_H	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.87	EFO
+OCQ_H	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.801	EFO
+CKQ_H	Creatine Kinase	Elevated circulating creatine kinase concentration	HP:0003236	http://purl.obolibrary.org/obo/HP_0003236	0.844	EFO
 CFQ_H	Cognitive Functioning	cognition	EFO:0003925	http://www.ebi.ac.uk/efo/EFO_0003925	0.9	EFO
-BPX_I	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.983	EFO
-BMX_I	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.956	EFO
-UCPREG_I	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.909	EFO
-CHLMDA_I	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.897	EFO
-ALB_CR_I	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.837	EFO
+OCQ_H_R	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.801	EFO
+BPX_I	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.984	EFO
+BMX_I	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.955	EFO
+UCPREG_I	Pregnancy Test - Urine	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.907	EFO
+CHLMDA_I	Chlamydia - Urine	Chlamydia trachomatis infectious disease	EFO:0007205	http://www.ebi.ac.uk/efo/EFO_0007205	0.887	EFO
+ALB_CR_I	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.838	EFO
 HEPA_I	Hepatitis A	hepatitis A virus infection	EFO:0007305	http://www.ebi.ac.uk/efo/EFO_0007305	0.989	EFO
-HDL_I	Cholesterol - High-Density Lipoprotein (HDL)	high density lipoprotein cholesterol measurement	EFO:0004612	http://www.ebi.ac.uk/efo/EFO_0004612	0.855	EFO
-TCHOL_I	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.829	EFO
-GLU_I	Plasma Fasting Glucose	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.98	EFO
+HDL_I	Cholesterol - High-Density Lipoprotein (HDL)	high density lipoprotein cholesterol measurement	EFO:0004612	http://www.ebi.ac.uk/efo/EFO_0004612	0.854	EFO
+TCHOL_I	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.83	EFO
+GLU_I	Plasma Fasting Glucose	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.981	EFO
 INS_I	Insulin	insulinoma	EFO:0000549	http://www.ebi.ac.uk/efo/EFO_0000549	0.835	EFO
-OGTT_I	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.93	EFO
+OGTT_I	Oral Glucose Tolerance Test	glucose tolerance test	EFO:0004307	http://www.ebi.ac.uk/efo/EFO_0004307	0.931	EFO
 FOLATE_I	Folate - RBC	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.987	EFO
 APOB_I	Apolipoprotein B	abetalipoproteinemia	MONDO:0008692	http://purl.obolibrary.org/obo/MONDO_0008692	0.865	EFO
 VID_I	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.871	EFO
-CDQ_I	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815	EFO
-MCQ_I	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913	EFO
+CDQ_I	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.821	EFO
+MCQ_I	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.911	EFO
 HEQ_I	Hepatitis	Hepatitis	HP:0012115	http://purl.obolibrary.org/obo/HP_0012115	0.987	EFO
-PAQ_I	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.99	EFO
-IMQ_I	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.868	EFO
-SMQRTU_I	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.81	EFO
-SMQ_I	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.944	EFO
-DIQ_I	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991	EFO
-SXQ_I	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.99	EFO
-ECQ_I	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.871	EFO
-OCQ_I	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.802	EFO
-SLQ_I	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.975	EFO
-ALQ_I	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.868	EFO
-DUQ_I	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.945	EFO
-BPX_J	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.983	EFO
-BMX_J	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.956	EFO
-ALB_CR_J	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.837	EFO
-UCPREG_J	Urine Pregnancy Test	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.909	EFO
+PAQ_I	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.992	EFO
+IMQ_I	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.869	EFO
+SMQRTU_I	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.812	EFO
+SMQ_I	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.946	EFO
+DIQ_I	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.992	EFO
+SXQY_I_R	Sexual Behavior - Youth	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.887	EFO
+SXQ_I	Sexual Behavior	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.989	EFO
+ECQ_I	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.872	EFO
+OCQ_I	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.801	EFO
+SLQ_I	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.977	EFO
+ALQ_I	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.87	EFO
+DUQ_I	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.946	EFO
+BPX_J	Blood Pressure	blood pressure	EFO:0004325	http://www.ebi.ac.uk/efo/EFO_0004325	0.984	EFO
+BMX_J	Body Measures	body weights and measures	EFO:0004324	http://www.ebi.ac.uk/efo/EFO_0004324	0.955	EFO
+ALB_CR_J	Albumin & Creatinine - Urine	urinary albumin to creatinine ratio	EFO:0007778	http://www.ebi.ac.uk/efo/EFO_0007778	0.838	EFO
+UCPREG_J	Urine Pregnancy Test	pregnancy test	EFO:0009643	http://www.ebi.ac.uk/efo/EFO_0009643	0.907	EFO
 HEPA_J	Hepatitis A	hepatitis A virus infection	EFO:0007305	http://www.ebi.ac.uk/efo/EFO_0007305	0.989	EFO
-TCHOL_J	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.829	EFO
-HDL_J	Cholesterol - High - Density Lipoprotein (HDL)	high density lipoprotein cholesterol measurement	EFO:0004612	http://www.ebi.ac.uk/efo/EFO_0004612	0.855	EFO
-GLU_J	Plasma Fasting Glucose	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.98	EFO
+TCHOL_J	Cholesterol - Total	total cholesterol measurement	EFO:0004574	http://www.ebi.ac.uk/efo/EFO_0004574	0.83	EFO
+HDL_J	Cholesterol - High - Density Lipoprotein (HDL)	high density lipoprotein cholesterol measurement	EFO:0004612	http://www.ebi.ac.uk/efo/EFO_0004612	0.854	EFO
+GLU_J	Plasma Fasting Glucose	fasting blood glucose measurement	EFO:0004465	http://www.ebi.ac.uk/efo/EFO_0004465	0.981	EFO
 INS_J	Insulin	insulinoma	EFO:0000549	http://www.ebi.ac.uk/efo/EFO_0000549	0.835	EFO
 FOLATE_J	Folate - RBC	red blood cell folate measurement	EFO:0009703	http://www.ebi.ac.uk/efo/EFO_0009703	0.987	EFO
 VID_J	Vitamin D	vitamin D deficiency	EFO:0003762	http://www.ebi.ac.uk/efo/EFO_0003762	0.871	EFO
 HEQ_J	Hepatitis	Hepatitis	HP:0012115	http://purl.obolibrary.org/obo/HP_0012115	0.987	EFO
-CDQ_J	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.815	EFO
-PAQ_J	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.99	EFO
-IMQ_J	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.868	EFO
-DIQ_J	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.991	EFO
-SMQRTU_J	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.81	EFO
-SMQ_J	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.944	EFO
-MCQ_J	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.913	EFO
-SLQ_J	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.975	EFO
-OCQ_J	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.802	EFO
-DUQ_J	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.945	EFO
-ECQ_J	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.871	EFO
-OSQ_J	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.983	EFO
-ALQ_J	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.868	EFO
-BPX	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.986	NCIT
+CDQ_J	Cardiovascular Health	cardiovascular disease	EFO:0000319	http://www.ebi.ac.uk/efo/EFO_0000319	0.821	EFO
+PAQY_J	Physical Activity - Youth	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.888	EFO
+PAQ_J	Physical Activity	physical activity	EFO:0003940	http://www.ebi.ac.uk/efo/EFO_0003940	0.992	EFO
+IMQ_J	Immunization	vaccination	EFO:0004292	http://www.ebi.ac.uk/efo/EFO_0004292	0.869	EFO
+DIQ_J	Diabetes	diabetes mellitus	EFO:0000400	http://www.ebi.ac.uk/efo/EFO_0000400	0.992	EFO
+SMQRTU_J	Smoking - Recent Tobacco Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.812	EFO
+SMQ_J	Smoking - Cigarette Use	nicotine dependence	EFO:0003768	http://www.ebi.ac.uk/efo/EFO_0003768	0.946	EFO
+MCQ_J	Medical Conditions	disease	EFO:0000408	http://www.ebi.ac.uk/efo/EFO_0000408	0.911	EFO
+SLQ_J	Sleep Disorders	Sleep Disorder	EFO:0008568	http://www.ebi.ac.uk/efo/EFO_0008568	0.977	EFO
+OCQ_J	Occupation	occupational disorder	MONDO:0100366	http://purl.obolibrary.org/obo/MONDO_0100366	0.801	EFO
+DUQ_J	Drug Use	drug dependence	EFO:0003890	http://www.ebi.ac.uk/efo/EFO_0003890	0.946	EFO
+ECQ_J	Early Childhood	Death in infancy	HP:0001522	http://purl.obolibrary.org/obo/HP_0001522	0.872	EFO
+OSQ_J	Osteoporosis	osteoporosis	EFO:0003882	http://www.ebi.ac.uk/efo/EFO_0003882	0.984	EFO
+SXQY_J_R	Sexual Behavior - Youth	sexual behavior	EFO:0010141	http://www.ebi.ac.uk/efo/EFO_0010141	0.887	EFO
+ALQ_J	Alcohol Use	alcohol abuse	MONDO:0002046	http://purl.obolibrary.org/obo/MONDO_0002046	0.87	EFO
+BPX	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.988	NCIT
 AUX1	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
-AUXTYM	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.876	NCIT
-BIX	Bioelectrical Impedance Analysis	Bioelectric Impedance Analysis	NCIT:C43545	http://purl.obolibrary.org/obo/NCIT_C43545	0.988	NCIT
+AUXTYM	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.873	NCIT
+BIX	Bioelectrical Impedance Analysis	Bioelectric Impedance Analysis	NCIT:C43545	http://purl.obolibrary.org/obo/NCIT_C43545	0.99	NCIT
 BAX	Balance	Balance	NCIT:C73497	http://purl.obolibrary.org/obo/NCIT_C73497	0.994	NCIT
-MSX	Muscle Strength	Isometric Muscle Strength	NCIT:C138967	http://purl.obolibrary.org/obo/NCIT_C138967	0.807	NCIT
-OHXPERIO	Oral Health - Periodontal	Periodontal Route of Administration	NCIT:C38294	http://purl.obolibrary.org/obo/NCIT_C38294	0.824	NCIT
+MSX	Muscle Strength	Isometric Muscle Strength	NCIT:C138967	http://purl.obolibrary.org/obo/NCIT_C138967	0.806	NCIT
+OHXPERIO	Oral Health - Periodontal	Periodontal Route of Administration	NCIT:C38294	http://purl.obolibrary.org/obo/NCIT_C38294	0.83	NCIT
 TB	Tuberculosis	Tuberculosis	NCIT:C3423	http://purl.obolibrary.org/obo/NCIT_C3423	0.981	NCIT
-VIX	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.99	NCIT
-SSCHL_A	Sex Steroid Hormone - Men (Surplus)	Sex Steroid Hormone	NCIT:C123796	http://purl.obolibrary.org/obo/NCIT_C123796	0.84	NCIT
+VIX	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.991	NCIT
+SSCHL_A	Sex Steroid Hormone - Men (Surplus)	Sex Steroid Hormone	NCIT:C123796	http://purl.obolibrary.org/obo/NCIT_C123796	0.839	NCIT
 L02HBS	Hepatitis B Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9	NCIT
-L02HPA_a	Hepatitis A Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.885	NCIT
+L02HPA_a	Hepatitis A Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.887	NCIT
 PH	Fasting Questionnaire	Questionnaire	NCIT:C17048	http://purl.obolibrary.org/obo/NCIT_C17048	0.829	NCIT
 UC	Pregnancy Test - Urine	Pregnancy Test	NCIT:C92949	http://purl.obolibrary.org/obo/NCIT_C92949	0.93	NCIT
-LAB06HM	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.825	NCIT
-LAB11	C-Reactive Protein (CRP)	C-Reactive Protein Measurement	NCIT:C64548	http://purl.obolibrary.org/obo/NCIT_C64548	0.859	NCIT
-Lab13	Cholesterol - Total & HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.898	NCIT
-LAB18T4	Thyroid - Stimulating Hormone & Thyroxine (TSH & T4)	Recombinant Thyroid-Stimulating Hormone	NCIT:C887	http://purl.obolibrary.org/obo/NCIT_C887	0.808	NCIT
-lab09	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.89	NCIT
-Lab02	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.821	NCIT
-SSHSV1_A	Herpes Simplex Virus Type-1 (Surplus)	Human Herpesvirus 1	NCIT:C14311	http://purl.obolibrary.org/obo/NCIT_C14311	0.908	NCIT
-SSVARI_A	Varicella-Zoster Virus Antibody (Surplus)	Varicella-Zoster Virus Antibody	NCIT:C118486	http://purl.obolibrary.org/obo/NCIT_C118486	0.923	NCIT
+LAB06HM	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.837	NCIT
+LAB11	C-Reactive Protein (CRP)	C-Reactive Protein Measurement	NCIT:C64548	http://purl.obolibrary.org/obo/NCIT_C64548	0.855	NCIT
+Lab13	Cholesterol - Total & HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.896	NCIT
+LAB18T4	Thyroid - Stimulating Hormone & Thyroxine (TSH & T4)	Recombinant Thyroid-Stimulating Hormone	NCIT:C887	http://purl.obolibrary.org/obo/NCIT_C887	0.806	NCIT
+l09rdc_a	Herpes Simplex Virus Type-2 - Youth	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.919	NCIT
+lab09	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 1	NCIT:C14311	http://purl.obolibrary.org/obo/NCIT_C14311	0.89	NCIT
+VIT_2_R	Vitamin A & Vitamin E, Second Exam	Vitamin A Measurement	NCIT:C74895	http://purl.obolibrary.org/obo/NCIT_C74895	0.82	NCIT
+Lab02	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.822	NCIT
+SSHSV1_A	Herpes Simplex Virus Type-1 (Surplus)	Human Herpesvirus 1	NCIT:C14311	http://purl.obolibrary.org/obo/NCIT_C14311	0.898	NCIT
+SSVARI_A	Varicella-Zoster Virus Antibody (Surplus)	Varicella-Zoster Virus Antibody	NCIT:C118486	http://purl.obolibrary.org/obo/NCIT_C118486	0.92	NCIT
 SSOL_A	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	Monoclonal Gammopathy of Undetermined Significance	NCIT:C3996	http://purl.obolibrary.org/obo/NCIT_C3996	0.91	NCIT
-TFA_A	Trans Fatty Acids	Trans Fatty Acid	NCIT:C68440	http://purl.obolibrary.org/obo/NCIT_C68440	0.901	NCIT
-CIQGAD	Mental Health - Generalized Anxiety Disorder	Generalized Anxiety Disorder	NCIT:C92622	http://purl.obolibrary.org/obo/NCIT_C92622	0.896	NCIT
-CIQPANIC	Mental Health - Panic Disorder	Panic Disorder	NCIT:C34890	http://purl.obolibrary.org/obo/NCIT_C34890	0.808	NCIT
-ACQ	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.99	NCIT
-ALQ	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.985	NCIT
+TFA_A	Trans Fatty Acids	Trans Fatty Acid	NCIT:C68440	http://purl.obolibrary.org/obo/NCIT_C68440	0.9	NCIT
+ALQYTH	Alcohol Use - Youth	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.855	NCIT
+CIQGAD	Mental Health - Generalized Anxiety Disorder	Generalized Anxiety Disorder	NCIT:C92622	http://purl.obolibrary.org/obo/NCIT_C92622	0.901	NCIT
+CIQPANIC	Mental Health - Panic Disorder	Panic Disorder	NCIT:C34890	http://purl.obolibrary.org/obo/NCIT_C34890	0.813	NCIT
+ACQ	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.991	NCIT
+ALQ	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.986	NCIT
 AUQ	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
 BAQ	Balance	Balance	NCIT:C73497	http://purl.obolibrary.org/obo/NCIT_C73497	0.994	NCIT
-CDQ	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.901	NCIT
-CFQ	Cognitive Functioning	Cognitive Function Subordinate Domain	NCIT:C122365	http://purl.obolibrary.org/obo/NCIT_C122365	0.905	NCIT
+CDQ	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.909	NCIT
+CFQ	Cognitive Functioning	Cognitive Function Subordinate Domain	NCIT:C122365	http://purl.obolibrary.org/obo/NCIT_C122365	0.904	NCIT
 DEQ	Dermatology	Dermatology	NCIT:C16500	http://purl.obolibrary.org/obo/NCIT_C16500	0.994	NCIT
 DIQ	Diabetes	Diabetes Mellitus	NCIT:C2985	http://purl.obolibrary.org/obo/NCIT_C2985	0.987	NCIT
-DUQ	Drug Use	Medication	NCIT:C459	http://purl.obolibrary.org/obo/NCIT_C459	0.889	NCIT
+DUQ	Drug Use	Drug User	NCIT:C84366	http://purl.obolibrary.org/obo/NCIT_C84366	0.88	NCIT
 ECQ	Early Childhood	Early Childhood	NCIT:C89346	http://purl.obolibrary.org/obo/NCIT_C89346	0.989	NCIT
-FSQ	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.863	NCIT
-HIQ	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.978	NCIT
-HOQ	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.828	NCIT
-IMQ	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.993	NCIT
-MCQ	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.917	NCIT
-MPQ	Miscellaneous Pain	Miscellaneous	NCIT:C69023	http://purl.obolibrary.org/obo/NCIT_C69023	0.887	NCIT
-OCQ	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.993	NCIT
-OSQ	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.992	NCIT
-PUQ	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.875	NCIT
-PAQ	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.992	NCIT
-PFQ	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.887	NCIT
-RHQ	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.889	NCIT
-RDQ	Respiratory Health	Respiratory	NCIT:C25656	http://purl.obolibrary.org/obo/NCIT_C25656	0.878	NCIT
-SXQ	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.987	NCIT
+FSQ	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.865	NCIT
+HIQ	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.976	NCIT
+HOQ	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.83	NCIT
+IMQ	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.994	NCIT
+MCQ	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.914	NCIT
+MPQ	Miscellaneous Pain	Miscellaneous	NCIT:C69023	http://purl.obolibrary.org/obo/NCIT_C69023	0.888	NCIT
+OCQ	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.992	NCIT
+OSQ	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.993	NCIT
+PUQ	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.876	NCIT
+PAQ	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.993	NCIT
+PFQ	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.886	NCIT
+RHQ	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.885	NCIT
+RDQ	Respiratory Health	Respiratory	NCIT:C25656	http://purl.obolibrary.org/obo/NCIT_C25656	0.887	NCIT
+SXQ	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.988	NCIT
 SSQ	Social Support	Support System	NCIT:C17717	http://purl.obolibrary.org/obo/NCIT_C17717	0.976	NCIT
 TBQ	Tuberculosis	Tuberculosis	NCIT:C3423	http://purl.obolibrary.org/obo/NCIT_C3423	0.981	NCIT
-VIQ	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.99	NCIT
-WHQ	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.99	NCIT
+VIQ	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.991	NCIT
+WHQ	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.991	NCIT
+SXQYTH	Sexual Behavior - Youth	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.886	NCIT
 AUX_B	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
-AUXTYM_B	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.876	NCIT
+AUXTYM_B	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.873	NCIT
 BAX_B	Balance	Balance	NCIT:C73497	http://purl.obolibrary.org/obo/NCIT_C73497	0.994	NCIT
-BIX_B	Bioelectrical Impedance Analysis	Bioelectric Impedance Analysis	NCIT:C43545	http://purl.obolibrary.org/obo/NCIT_C43545	0.988	NCIT
-BPX_B	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.986	NCIT
-MSX_B	Muscle Strength	Isometric Muscle Strength	NCIT:C138967	http://purl.obolibrary.org/obo/NCIT_C138967	0.807	NCIT
-VIX_B	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.99	NCIT
-SSCHL_B	Sex Steroid Hormone - Men (Surplus)	Sex Steroid Hormone	NCIT:C123796	http://purl.obolibrary.org/obo/NCIT_C123796	0.84	NCIT
-l13_b	Cholesterol - Total & HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.898	NCIT
-l09_b	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.89	NCIT
+BIX_B	Bioelectrical Impedance Analysis	Bioelectric Impedance Analysis	NCIT:C43545	http://purl.obolibrary.org/obo/NCIT_C43545	0.99	NCIT
+BPX_B	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.988	NCIT
+MSX_B	Muscle Strength	Isometric Muscle Strength	NCIT:C138967	http://purl.obolibrary.org/obo/NCIT_C138967	0.806	NCIT
+VIX_B	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.991	NCIT
+SSCHL_B	Sex Steroid Hormone - Men (Surplus)	Sex Steroid Hormone	NCIT:C123796	http://purl.obolibrary.org/obo/NCIT_C123796	0.839	NCIT
+l13_b	Cholesterol - Total & HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.896	NCIT
+l09rdc_b	Herpes Simplex Virus Type-2 - Youth	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.919	NCIT
+l09_b	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 1	NCIT:C14311	http://purl.obolibrary.org/obo/NCIT_C14311	0.89	NCIT
 l39_2_b	Erythrocyte Protoporphyrin	Free Erythrocyte Protoporphyrin Measurement	NCIT:C147339	http://purl.obolibrary.org/obo/NCIT_C147339	0.86	NCIT
-L02_B	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.821	NCIT
-l34_b	Bacterial vaginosis (BV) & Trichomonas vaginalis	Trichomonas vaginalis Measurement	NCIT:C161403	http://purl.obolibrary.org/obo/NCIT_C161403	0.801	NCIT
+L02_B	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.822	NCIT
 SSCYST_B	Cystatin C (Surplus)	Cystatin C Measurement	NCIT:C92290	http://purl.obolibrary.org/obo/NCIT_C92290	0.824	NCIT
-SSHSV1_B	Herpes Simplex Virus Type-1 (Surplus)	Human Herpesvirus 1	NCIT:C14311	http://purl.obolibrary.org/obo/NCIT_C14311	0.908	NCIT
-SSVARI_B	Varicella-Zoster Virus Antibody (Surplus)	Varicella-Zoster Virus Antibody	NCIT:C118486	http://purl.obolibrary.org/obo/NCIT_C118486	0.923	NCIT
+SSHSV1_B	Herpes Simplex Virus Type-1 (Surplus)	Human Herpesvirus 1	NCIT:C14311	http://purl.obolibrary.org/obo/NCIT_C14311	0.898	NCIT
+SSVARI_B	Varicella-Zoster Virus Antibody (Surplus)	Varicella-Zoster Virus Antibody	NCIT:C118486	http://purl.obolibrary.org/obo/NCIT_C118486	0.92	NCIT
 PH_B	Fasting Questionnaire	Questionnaire	NCIT:C17048	http://purl.obolibrary.org/obo/NCIT_C17048	0.829	NCIT
 UC_B	Pregnancy Test - Urine	Pregnancy Test	NCIT:C92949	http://purl.obolibrary.org/obo/NCIT_C92949	0.93	NCIT
 L02HBS_B	Hepatitis B Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9	NCIT
-L02HPA_B	Hepatitis A Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.885	NCIT
+L02HPA_B	Hepatitis A Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.887	NCIT
 L06VID_B	Vitamin D	Ergocalciferol	NCIT:C29029	http://purl.obolibrary.org/obo/NCIT_C29029	0.988	NCIT
-L06UIO_B	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.891	NCIT
-L06HM_B	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.825	NCIT
-L11PSA_B	Prostate specific antigen (PSA)	Prostate Specific Antigen Measurement	NCIT:C17634	http://purl.obolibrary.org/obo/NCIT_C17634	0.887	NCIT
-L17_B	Toxoplasma (IgG), Toxoplasma (IgM),Toxoplasma (Dye),Toxoplasma Differential Agglutination, & Toxoplasma (Avidity)	Toxoplasma	NCIT:C75538	http://purl.obolibrary.org/obo/NCIT_C75538	0.908	NCIT
-L35_B	Methicillin - Resistant Staphylococcus aureus (MRSA)	Methicillin Resistant Staphylococcus Aureus	NCIT:C123515	http://purl.obolibrary.org/obo/NCIT_C123515	0.922	NCIT
+L06UIO_B	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.895	NCIT
+L06HM_B	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.837	NCIT
+L11PSA_B	Prostate specific antigen (PSA)	Prostate Specific Antigen Measurement	NCIT:C17634	http://purl.obolibrary.org/obo/NCIT_C17634	0.888	NCIT
+L17_B	Toxoplasma (IgG), Toxoplasma (IgM),Toxoplasma (Dye),Toxoplasma Differential Agglutination, & Toxoplasma (Avidity)	Toxoplasma	NCIT:C75538	http://purl.obolibrary.org/obo/NCIT_C75538	0.909	NCIT
+L35_B	Methicillin - Resistant Staphylococcus aureus (MRSA)	Methicillin Resistant Staphylococcus Aureus	NCIT:C123515	http://purl.obolibrary.org/obo/NCIT_C123515	0.92	NCIT
 L39_B	Erythrocyte Protoporphyrin	Free Erythrocyte Protoporphyrin Measurement	NCIT:C147339	http://purl.obolibrary.org/obo/NCIT_C147339	0.86	NCIT
-L40T4_B	Thyroid - Stimulating Hormone & Thyroxine (TSH & T4)	Recombinant Thyroid-Stimulating Hormone	NCIT:C887	http://purl.obolibrary.org/obo/NCIT_C887	0.808	NCIT
-L40FE_B	Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation	Transferrin Saturation Measurement	NCIT:C98792	http://purl.obolibrary.org/obo/NCIT_C98792	0.807	NCIT
+L40T4_B	Thyroid - Stimulating Hormone & Thyroxine (TSH & T4)	Recombinant Thyroid-Stimulating Hormone	NCIT:C887	http://purl.obolibrary.org/obo/NCIT_C887	0.806	NCIT
+L40FE_B	Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation	Transferrin Saturation Measurement	NCIT:C98792	http://purl.obolibrary.org/obo/NCIT_C98792	0.806	NCIT
 SSOL_B	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	Monoclonal Gammopathy of Undetermined Significance	NCIT:C3996	http://purl.obolibrary.org/obo/NCIT_C3996	0.91	NCIT
 VID_B	Vitamin D	Ergocalciferol	NCIT:C29029	http://purl.obolibrary.org/obo/NCIT_C29029	0.988	NCIT
-SSHE4_B	Human epididymal secretory protein E4 (HE4) - Serum (Surplus)	WAP Four-Disulfide Core Domain Protein 2	NCIT:C20893	http://purl.obolibrary.org/obo/NCIT_C20893	0.858	NCIT
-WHQ_B	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.99	NCIT
-ACQ_B	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.99	NCIT
-ALQ_B	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.985	NCIT
+SSHE4_B	Human epididymal secretory protein E4 (HE4) - Serum (Surplus)	WAP Four-Disulfide Core Domain Protein 2	NCIT:C20893	http://purl.obolibrary.org/obo/NCIT_C20893	0.868	NCIT
+WHQ_B	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.991	NCIT
+ACQ_B	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.991	NCIT
+ALQ_B	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.986	NCIT
 AUQ_B	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
 BAQ_B	Balance	Balance	NCIT:C73497	http://purl.obolibrary.org/obo/NCIT_C73497	0.994	NCIT
-CDQ_B	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.901	NCIT
-CFQ_B	Cognitive Functioning	Cognitive Function Subordinate Domain	NCIT:C122365	http://purl.obolibrary.org/obo/NCIT_C122365	0.905	NCIT
+CDQ_B	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.909	NCIT
+CFQ_B	Cognitive Functioning	Cognitive Function Subordinate Domain	NCIT:C122365	http://purl.obolibrary.org/obo/NCIT_C122365	0.904	NCIT
 DEQ_B	Dermatology	Dermatology	NCIT:C16500	http://purl.obolibrary.org/obo/NCIT_C16500	0.994	NCIT
 DIQ_B	Diabetes	Diabetes Mellitus	NCIT:C2985	http://purl.obolibrary.org/obo/NCIT_C2985	0.987	NCIT
-DUQ_B	Drug Use	Medication	NCIT:C459	http://purl.obolibrary.org/obo/NCIT_C459	0.889	NCIT
+DUQ_B	Drug Use	Drug User	NCIT:C84366	http://purl.obolibrary.org/obo/NCIT_C84366	0.88	NCIT
 ECQ_B	Early Childhood	Early Childhood	NCIT:C89346	http://purl.obolibrary.org/obo/NCIT_C89346	0.989	NCIT
-FSQ_B	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.863	NCIT
-HIQ_B	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.978	NCIT
-HOQ_B	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.828	NCIT
-IMQ_B	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.993	NCIT
-MCQ_B	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.917	NCIT
-MPQ_B	Miscellaneous Pain	Miscellaneous	NCIT:C69023	http://purl.obolibrary.org/obo/NCIT_C69023	0.887	NCIT
-OCQ_B	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.993	NCIT
-OSQ_B	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.992	NCIT
-PUQ_B	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.875	NCIT
-PAQ_B	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.992	NCIT
-PFQ_B	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.887	NCIT
-RHQ_B	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.889	NCIT
-RDQ_B	Respiratory Health	Respiratory	NCIT:C25656	http://purl.obolibrary.org/obo/NCIT_C25656	0.878	NCIT
-SXQ_B	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.987	NCIT
+FSQ_B	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.865	NCIT
+HIQ_B	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.976	NCIT
+HOQ_B	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.83	NCIT
+IMQ_B	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.994	NCIT
+MCQ_B	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.914	NCIT
+MPQ_B	Miscellaneous Pain	Miscellaneous	NCIT:C69023	http://purl.obolibrary.org/obo/NCIT_C69023	0.888	NCIT
+OCQ_B	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.992	NCIT
+OSQ_B	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.993	NCIT
+PUQ_B	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.876	NCIT
+PAQ_B	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.993	NCIT
+PFQ_B	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.886	NCIT
+RHQ_B	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.885	NCIT
+RDQ_B	Respiratory Health	Respiratory	NCIT:C25656	http://purl.obolibrary.org/obo/NCIT_C25656	0.887	NCIT
+SXQ_B	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.988	NCIT
 SSQ_B	Social Support	Support System	NCIT:C17717	http://purl.obolibrary.org/obo/NCIT_C17717	0.976	NCIT
-VIQ_B	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.99	NCIT
-CIQPAN_B	Mental Health - Panic Disorder	Panic Disorder	NCIT:C34890	http://purl.obolibrary.org/obo/NCIT_C34890	0.808	NCIT
-CIQGAD_B	Mental Health - Generalized Anxiety Disorder	Generalized Anxiety Disorder	NCIT:C92622	http://purl.obolibrary.org/obo/NCIT_C92622	0.896	NCIT
-FFQRAW_C	Food Frequency Questionnaire - Raw Questionnaire Responses	Food Frequency Questionnaire	NCIT:C94817	http://purl.obolibrary.org/obo/NCIT_C94817	0.856	NCIT
+VIQ_B	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.991	NCIT
+CIQPAN_B	Mental Health - Panic Disorder	Panic Disorder	NCIT:C34890	http://purl.obolibrary.org/obo/NCIT_C34890	0.813	NCIT
+CIQGAD_B	Mental Health - Generalized Anxiety Disorder	Generalized Anxiety Disorder	NCIT:C92622	http://purl.obolibrary.org/obo/NCIT_C92622	0.901	NCIT
+SXQYTH_B	Sexual Behavior - Youth	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.886	NCIT
+FFQRAW_C	Food Frequency Questionnaire - Raw Questionnaire Responses	Food Frequency Questionnaire	NCIT:C94817	http://purl.obolibrary.org/obo/NCIT_C94817	0.857	NCIT
 AUX_C	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
-AUXTYM_C	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.876	NCIT
+AUXTYM_C	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.873	NCIT
 BAX_C	Balance	Balance	NCIT:C73497	http://purl.obolibrary.org/obo/NCIT_C73497	0.994	NCIT
-BIX_C	Bioelectrical Impedance Analysis	Bioelectric Impedance Analysis	NCIT:C43545	http://purl.obolibrary.org/obo/NCIT_C43545	0.988	NCIT
-BPX_C	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.986	NCIT
+BIX_C	Bioelectrical Impedance Analysis	Bioelectric Impedance Analysis	NCIT:C43545	http://purl.obolibrary.org/obo/NCIT_C43545	0.99	NCIT
+BPX_C	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.988	NCIT
 DEX_C	Dermatology	Dermatology	NCIT:C16500	http://purl.obolibrary.org/obo/NCIT_C16500	0.994	NCIT
-OHXADD_C	Oral Health - Addendum	Addendum	NCIT:C41216	http://purl.obolibrary.org/obo/NCIT_C41216	0.83	NCIT
-PAXRAW_C	Physical Activity Monitor	Activity Monitor	NCIT:C156897	http://purl.obolibrary.org/obo/NCIT_C156897	0.821	NCIT
-VIX_C	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.99	NCIT
-L06PHY_C	Phytoestrogens - Urine	Phytoestrogen	NCIT:C1194	http://purl.obolibrary.org/obo/NCIT_C1194	0.934	NCIT
-L06VIT_C	Vitamin C	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.989	NCIT
-SSCHL_C	Sex Steroid Hormone - Men (Surplus)	Sex Steroid Hormone	NCIT:C123796	http://purl.obolibrary.org/obo/NCIT_C123796	0.84	NCIT
-l13_c	Cholesterol - Total & HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.898	NCIT
-l09_c	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.89	NCIT
-L02_C	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.821	NCIT
+OHXADD_C	Oral Health - Addendum	Addendum	NCIT:C41216	http://purl.obolibrary.org/obo/NCIT_C41216	0.829	NCIT
+PAXRAW_C	Physical Activity Monitor	Activity Monitor	NCIT:C156897	http://purl.obolibrary.org/obo/NCIT_C156897	0.817	NCIT
+VIX_C	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.991	NCIT
+L06PHY_C	Phytoestrogens - Urine	Phytoestrogen	NCIT:C1194	http://purl.obolibrary.org/obo/NCIT_C1194	0.936	NCIT
+L06VIT_C	Vitamin C	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.988	NCIT
+SSCHL_C	Sex Steroid Hormone - Men (Surplus)	Sex Steroid Hormone	NCIT:C123796	http://purl.obolibrary.org/obo/NCIT_C123796	0.839	NCIT
+l13_c	Cholesterol - Total & HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.896	NCIT
+l09rdc_c	Herpes Simplex Virus Type-2 - Youth	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.919	NCIT
+l09_c	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 1	NCIT:C14311	http://purl.obolibrary.org/obo/NCIT_C14311	0.89	NCIT
+L02_C	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.822	NCIT
 L02HBS_C	Hepatitis B Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9	NCIT
-L02HPA_C	Hepatitis A Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.885	NCIT
-L06COT_C	Cotinine - Serum	Cotinine Measurement	NCIT:C92249	http://purl.obolibrary.org/obo/NCIT_C92249	0.812	NCIT
+L02HPA_C	Hepatitis A Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.887	NCIT
+L06COT_C	Cotinine - Serum	Cotinine Measurement	NCIT:C92249	http://purl.obolibrary.org/obo/NCIT_C92249	0.814	NCIT
 L06TFR_C	Ferritin & Transferrin Receptor	Transferrin Receptor	NCIT:C17079	http://purl.obolibrary.org/obo/NCIT_C17079	0.914	NCIT
-L06HM_C	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.825	NCIT
-L06UIO_C	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.891	NCIT
-L11PSA_C	Prostate Specific Antigen (PSA)	Prostate Specific Antigen Measurement	NCIT:C17634	http://purl.obolibrary.org/obo/NCIT_C17634	0.887	NCIT
-L17_C	Toxoplasma (IgG) & Toxoplasma (IgM)	Toxoplasma	NCIT:C75538	http://purl.obolibrary.org/obo/NCIT_C75538	0.892	NCIT
-L24PH_C	Phthalates - Urine	Phthalate	NCIT:C152072	http://purl.obolibrary.org/obo/NCIT_C152072	0.837	NCIT
-L35_C	Methicillin - Resistant Staphylococcus aureus (MRSA)	Methicillin Resistant Staphylococcus Aureus	NCIT:C123515	http://purl.obolibrary.org/obo/NCIT_C123515	0.922	NCIT
-L40FE_C	Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation	Transferrin Saturation Measurement	NCIT:C98792	http://purl.obolibrary.org/obo/NCIT_C98792	0.807	NCIT
-L43_C	Vitamin B6	Vitamin B6 Measurement	NCIT:C74901	http://purl.obolibrary.org/obo/NCIT_C74901	0.989	NCIT
+L06HM_C	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.837	NCIT
+L06UIO_C	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.895	NCIT
+L11PSA_C	Prostate Specific Antigen (PSA)	Prostate Specific Antigen Measurement	NCIT:C17634	http://purl.obolibrary.org/obo/NCIT_C17634	0.888	NCIT
+L17_C	Toxoplasma (IgG) & Toxoplasma (IgM)	Toxoplasma	NCIT:C75538	http://purl.obolibrary.org/obo/NCIT_C75538	0.89	NCIT
+L24PH_C	Phthalates - Urine	Phthalate	NCIT:C152072	http://purl.obolibrary.org/obo/NCIT_C152072	0.843	NCIT
+L35_C	Methicillin - Resistant Staphylococcus aureus (MRSA)	Methicillin Resistant Staphylococcus Aureus	NCIT:C123515	http://purl.obolibrary.org/obo/NCIT_C123515	0.92	NCIT
+L40FE_C	Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation	Transferrin Saturation Measurement	NCIT:C98792	http://purl.obolibrary.org/obo/NCIT_C98792	0.806	NCIT
+L43_C	Vitamin B6	Vitamin B6 Measurement	NCIT:C74901	http://purl.obolibrary.org/obo/NCIT_C74901	0.99	NCIT
 PH_C	Fasting Questionnaire	Questionnaire	NCIT:C17048	http://purl.obolibrary.org/obo/NCIT_C17048	0.829	NCIT
 UC_C	Pregnancy Test - Urine	Pregnancy Test	NCIT:C92949	http://purl.obolibrary.org/obo/NCIT_C92949	0.93	NCIT
-SSVARI_C	Varicella-Zoster Virus Antibody (Surplus)	Varicella-Zoster Virus Antibody	NCIT:C118486	http://purl.obolibrary.org/obo/NCIT_C118486	0.923	NCIT
-l34_c	Bacterial vaginosis (BV) & Trichomonas vaginalis	Trichomonas vaginalis Measurement	NCIT:C161403	http://purl.obolibrary.org/obo/NCIT_C161403	0.801	NCIT
+SSVARI_C	Varicella-Zoster Virus Antibody (Surplus)	Varicella-Zoster Virus Antibody	NCIT:C118486	http://purl.obolibrary.org/obo/NCIT_C118486	0.92	NCIT
 L06VID_C	Vitamin D	Ergocalciferol	NCIT:C29029	http://purl.obolibrary.org/obo/NCIT_C29029	0.988	NCIT
 SSOL_C	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)	Monoclonal Gammopathy of Undetermined Significance	NCIT:C3996	http://purl.obolibrary.org/obo/NCIT_C3996	0.91	NCIT
 VID_C	Vitamin D	Ergocalciferol	NCIT:C29029	http://purl.obolibrary.org/obo/NCIT_C29029	0.988	NCIT
-CDQ_C	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.901	NCIT
-ACQ_C	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.99	NCIT
-ALQ_C	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.985	NCIT
+CDQ_C	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.909	NCIT
+ACQ_C	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.991	NCIT
+ALQ_C	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.986	NCIT
 AUQ_C	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
 BAQ_C	Balance	Balance	NCIT:C73497	http://purl.obolibrary.org/obo/NCIT_C73497	0.994	NCIT
 DEQ_C	Dermatology	Dermatology	NCIT:C16500	http://purl.obolibrary.org/obo/NCIT_C16500	0.994	NCIT
 DIQ_C	Diabetes	Diabetes Mellitus	NCIT:C2985	http://purl.obolibrary.org/obo/NCIT_C2985	0.987	NCIT
-DUQ_C	Drug Use	Medication	NCIT:C459	http://purl.obolibrary.org/obo/NCIT_C459	0.889	NCIT
+DUQ_C	Drug Use	Drug User	NCIT:C84366	http://purl.obolibrary.org/obo/NCIT_C84366	0.88	NCIT
 ECQ_C	Early Childhood	Early Childhood	NCIT:C89346	http://purl.obolibrary.org/obo/NCIT_C89346	0.989	NCIT
-FSQ_C	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.863	NCIT
-HIQ_C	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.978	NCIT
-HOQ_C	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.828	NCIT
-IMQ_C	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.993	NCIT
-MCQ_C	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.917	NCIT
-MPQ_C	Miscellaneous Pain	Miscellaneous	NCIT:C69023	http://purl.obolibrary.org/obo/NCIT_C69023	0.887	NCIT
-OCQ_C	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.993	NCIT
-OSQ_C	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.992	NCIT
-PUQ_C	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.875	NCIT
-PAQ_C	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.992	NCIT
-PFQ_C	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.887	NCIT
-PSQ_C	Prostate Specific Antigen Follow-up	Prostate Specific Antigen Measurement	NCIT:C17634	http://purl.obolibrary.org/obo/NCIT_C17634	0.827	NCIT
-RHQ_C	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.889	NCIT
-RDQ_C	Respiratory Health	Respiratory	NCIT:C25656	http://purl.obolibrary.org/obo/NCIT_C25656	0.878	NCIT
+FSQ_C	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.865	NCIT
+HIQ_C	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.976	NCIT
+HOQ_C	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.83	NCIT
+IMQ_C	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.994	NCIT
+MCQ_C	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.914	NCIT
+MPQ_C	Miscellaneous Pain	Miscellaneous	NCIT:C69023	http://purl.obolibrary.org/obo/NCIT_C69023	0.888	NCIT
+OCQ_C	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.992	NCIT
+OSQ_C	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.993	NCIT
+PUQ_C	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.876	NCIT
+PAQ_C	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.993	NCIT
+PFQ_C	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.886	NCIT
+PSQ_C	Prostate Specific Antigen Follow-up	Prostate Specific Antigen Measurement	NCIT:C17634	http://purl.obolibrary.org/obo/NCIT_C17634	0.833	NCIT
+RHQ_C	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.885	NCIT
+RDQ_C	Respiratory Health	Respiratory	NCIT:C25656	http://purl.obolibrary.org/obo/NCIT_C25656	0.887	NCIT
 SSQ_C	Social Support	Support System	NCIT:C17717	http://purl.obolibrary.org/obo/NCIT_C17717	0.976	NCIT
-SXQ_C	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.987	NCIT
-VIQ_C	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.99	NCIT
-WHQ_C	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.99	NCIT
-CIQGAD_C	Mental Health - Generalized Anxiety Disorder	Generalized Anxiety Disorder	NCIT:C92622	http://purl.obolibrary.org/obo/NCIT_C92622	0.896	NCIT
-CIQPAN_C	Mental Health - Panic Disorder	Panic Disorder	NCIT:C34890	http://purl.obolibrary.org/obo/NCIT_C34890	0.808	NCIT
-FFQRAW_D	Food Frequency Questionnaire - Raw Questionnaire Responses	Food Frequency Questionnaire	NCIT:C94817	http://purl.obolibrary.org/obo/NCIT_C94817	0.856	NCIT
-BPX_D	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.986	NCIT
+SXQ_C	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.988	NCIT
+VIQ_C	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.991	NCIT
+WHQ_C	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.991	NCIT
+CIQGAD_C	Mental Health - Generalized Anxiety Disorder	Generalized Anxiety Disorder	NCIT:C92622	http://purl.obolibrary.org/obo/NCIT_C92622	0.901	NCIT
+CIQPAN_C	Mental Health - Panic Disorder	Panic Disorder	NCIT:C34890	http://purl.obolibrary.org/obo/NCIT_C34890	0.813	NCIT
+SXQYTH_C	Sexual Behavior - Youth	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.886	NCIT
+FFQRAW_D	Food Frequency Questionnaire - Raw Questionnaire Responses	Food Frequency Questionnaire	NCIT:C94817	http://purl.obolibrary.org/obo/NCIT_C94817	0.857	NCIT
+BPX_D	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.988	NCIT
 AUX_D	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
-AUXTYM_D	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.876	NCIT
-PAXRAW_D	Physical Activity Monitor	Activity Monitor	NCIT:C156897	http://purl.obolibrary.org/obo/NCIT_C156897	0.821	NCIT
-VIX_D	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.99	NCIT
-PHTHTE_D	Phthalates - Urine	Phthalate	NCIT:C152072	http://purl.obolibrary.org/obo/NCIT_C152072	0.837	NCIT
+AUXTYM_D	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.873	NCIT
+PAXRAW_D	Physical Activity Monitor	Activity Monitor	NCIT:C156897	http://purl.obolibrary.org/obo/NCIT_C156897	0.817	NCIT
+VIX_D	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.991	NCIT
+PHTHTE_D	Phthalates - Urine	Phthalate	NCIT:C152072	http://purl.obolibrary.org/obo/NCIT_C152072	0.843	NCIT
 TCHOL_D	Cholesterol - Total	Serum Total Cholesterol Measurement	NCIT:C61032	http://purl.obolibrary.org/obo/NCIT_C61032	0.994	NCIT
 HDL_D	Cholesterol - HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.991	NCIT
-HSV_D	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.89	NCIT
-VIT_B6_D	Vitamin B6	Vitamin B6 Measurement	NCIT:C74901	http://purl.obolibrary.org/obo/NCIT_C74901	0.989	NCIT
-CRP_D	C-Reactive Protein (CRP)	C-Reactive Protein Measurement	NCIT:C64548	http://purl.obolibrary.org/obo/NCIT_C64548	0.859	NCIT
+HSV_DR	Herpes Simplex Virus Type-2 - Youth	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.919	NCIT
+HSV_D	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 1	NCIT:C14311	http://purl.obolibrary.org/obo/NCIT_C14311	0.89	NCIT
+VIT_B6_D	Vitamin B6	Vitamin B6 Measurement	NCIT:C74901	http://purl.obolibrary.org/obo/NCIT_C74901	0.99	NCIT
+CRP_D	C-Reactive Protein (CRP)	C-Reactive Protein Measurement	NCIT:C64548	http://purl.obolibrary.org/obo/NCIT_C64548	0.855	NCIT
 EPP_D	Erythrocyte Protoporphyrin	Free Erythrocyte Protoporphyrin Measurement	NCIT:C147339	http://purl.obolibrary.org/obo/NCIT_C147339	0.86	NCIT
 FERTIN_D	Ferritin	Ferritin Measurement	NCIT:C74737	http://purl.obolibrary.org/obo/NCIT_C74737	0.995	NCIT
-FOLATE_D	Folate - RBC & Serum	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.854	NCIT
-HEPA_D	Hepatitis A Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.885	NCIT
+FOLATE_D	Folate - RBC & Serum	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.856	NCIT
+HEPA_D	Hepatitis A Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.887	NCIT
 HEPB_S_D	Hepatitis B Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9	NCIT
-HCY_D	Homocysteine	Homocysteine Acid Measurement	NCIT:C74741	http://purl.obolibrary.org/obo/NCIT_C74741	0.989	NCIT
-FETIB_D	Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation	Transferrin Saturation Measurement	NCIT:C98792	http://purl.obolibrary.org/obo/NCIT_C98792	0.807	NCIT
-PTH_D	Parathyroid Hormone	Parathyroid Hormone	NCIT:C41027	http://purl.obolibrary.org/obo/NCIT_C41027	0.995	NCIT
+HCY_D	Homocysteine	Homocysteine Acid Measurement	NCIT:C74741	http://purl.obolibrary.org/obo/NCIT_C74741	0.99	NCIT
+FETIB_D	Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation	Transferrin Saturation Measurement	NCIT:C98792	http://purl.obolibrary.org/obo/NCIT_C98792	0.806	NCIT
+PTH_D	Parathyroid Hormone	Parathyroid Hormone	NCIT:C41027	http://purl.obolibrary.org/obo/NCIT_C41027	0.994	NCIT
 FASTQX_D	Fasting Questionnaire	Questionnaire	NCIT:C17048	http://purl.obolibrary.org/obo/NCIT_C17048	0.829	NCIT
-PSA_D	Prostate Specific Antigen (PSA)	Prostate Specific Antigen Measurement	NCIT:C17634	http://purl.obolibrary.org/obo/NCIT_C17634	0.887	NCIT
-COT_D	Cotinine - Serum	Cotinine Measurement	NCIT:C92249	http://purl.obolibrary.org/obo/NCIT_C92249	0.812	NCIT
+PSA_D	Prostate Specific Antigen (PSA)	Prostate Specific Antigen Measurement	NCIT:C17634	http://purl.obolibrary.org/obo/NCIT_C17634	0.888	NCIT
+COT_D	Cotinine - Serum	Cotinine Measurement	NCIT:C92249	http://purl.obolibrary.org/obo/NCIT_C92249	0.814	NCIT
 TFR_D	Transferrin Receptor	Transferrin Receptor	NCIT:C17079	http://purl.obolibrary.org/obo/NCIT_C17079	0.987	NCIT
-OGTT_D	Oral Glucose Tolerance Test	Glucose Tolerance Test	NCIT:C45946	http://purl.obolibrary.org/obo/NCIT_C45946	0.935	NCIT
-UIO_D	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.891	NCIT
-UHM_D	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.825	NCIT
+OGTT_D	Oral Glucose Tolerance Test	Glucose Tolerance Test	NCIT:C45946	http://purl.obolibrary.org/obo/NCIT_C45946	0.936	NCIT
+UIO_D	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.895	NCIT
+UHM_D	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.837	NCIT
 UCPREG_D	Pregnancy Test - Urine	Pregnancy Test	NCIT:C92949	http://purl.obolibrary.org/obo/NCIT_C92949	0.93	NCIT
 B12_D	Vitamin B12	Cyanocobalamin	NCIT:C64333	http://purl.obolibrary.org/obo/NCIT_C64333	0.989	NCIT
-VIC_D	Vitamin C	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.989	NCIT
-PHYTO_D	Phytoestrogens - Urine	Phytoestrogen	NCIT:C1194	http://purl.obolibrary.org/obo/NCIT_C1194	0.934	NCIT
+VIC_D	Vitamin C	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.988	NCIT
+PHYTO_D	Phytoestrogens - Urine	Phytoestrogen	NCIT:C1194	http://purl.obolibrary.org/obo/NCIT_C1194	0.936	NCIT
 VID_D	Vitamin D	Ergocalciferol	NCIT:C29029	http://purl.obolibrary.org/obo/NCIT_C29029	0.988	NCIT
-ACQ_D	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.99	NCIT
-ALQ_D	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.985	NCIT
-AGQ_D	Allergy	Allergic Reaction	NCIT:C114476	http://purl.obolibrary.org/obo/NCIT_C114476	0.937	NCIT
-BHQ_D	Bowel Health	Pattern of Bowel Movements	NCIT:C124186	http://purl.obolibrary.org/obo/NCIT_C124186	0.851	NCIT
-CDQ_D	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.901	NCIT
+ACQ_D	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.991	NCIT
+ALQ_D	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.986	NCIT
+AGQ_D	Allergy	Allergic Reaction	NCIT:C114476	http://purl.obolibrary.org/obo/NCIT_C114476	0.947	NCIT
+BHQ_D	Bowel Health	Pattern of Bowel Movements	NCIT:C124186	http://purl.obolibrary.org/obo/NCIT_C124186	0.861	NCIT
+CDQ_D	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.909	NCIT
 DEQ_D	Dermatology	Dermatology	NCIT:C16500	http://purl.obolibrary.org/obo/NCIT_C16500	0.994	NCIT
+ALQYTH_D	Alcohol Use - Youth	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.855	NCIT
+SXQYTH_D	Sexual Behavior - Youth	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.886	NCIT
 AUQ_D	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
 DIQ_D	Diabetes	Diabetes Mellitus	NCIT:C2985	http://purl.obolibrary.org/obo/NCIT_C2985	0.987	NCIT
-DUQ_D	Drug Use	Medication	NCIT:C459	http://purl.obolibrary.org/obo/NCIT_C459	0.889	NCIT
+DUQ_D	Drug Use	Drug User	NCIT:C84366	http://purl.obolibrary.org/obo/NCIT_C84366	0.88	NCIT
 ECQ_D	Early Childhood	Early Childhood	NCIT:C89346	http://purl.obolibrary.org/obo/NCIT_C89346	0.989	NCIT
-FSQ_D	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.863	NCIT
-HIQ_D	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.978	NCIT
-HOQ_D	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.828	NCIT
-IMQ_D	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.993	NCIT
-MCQ_D	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.917	NCIT
-OSQ_D	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.992	NCIT
-PUQMEC_D	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.875	NCIT
-PAQ_D	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.992	NCIT
-PFQ_D	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.887	NCIT
-PSQ_D	Prostate Specific Antigen Follow-up	Prostate Specific Antigen Measurement	NCIT:C17634	http://purl.obolibrary.org/obo/NCIT_C17634	0.827	NCIT
-RHQ_D	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.889	NCIT
-RDQ_D	Respiratory Health	Respiratory	NCIT:C25656	http://purl.obolibrary.org/obo/NCIT_C25656	0.878	NCIT
-SXQ_D	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.987	NCIT
-SLQ_D	Sleep Disorders	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.926	NCIT
-SMQ_D	Smoking - Cigarette Use	Cigarette Smoking	NCIT:C18270	http://purl.obolibrary.org/obo/NCIT_C18270	0.946	NCIT
-SMQRTU_D	Smoking - Recent Tobacco Use	Tobacco Smoking	NCIT:C17934	http://purl.obolibrary.org/obo/NCIT_C17934	0.811	NCIT
+FSQ_D	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.865	NCIT
+HIQ_D	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.976	NCIT
+HOQ_D	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.83	NCIT
+IMQ_D	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.994	NCIT
+MCQ_D	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.914	NCIT
+OSQ_D	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.993	NCIT
+PUQMEC_D	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.876	NCIT
+PAQ_D	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.993	NCIT
+PFQ_D	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.886	NCIT
+PSQ_D	Prostate Specific Antigen Follow-up	Prostate Specific Antigen Measurement	NCIT:C17634	http://purl.obolibrary.org/obo/NCIT_C17634	0.833	NCIT
+RHQ_D	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.885	NCIT
+RDQ_D	Respiratory Health	Respiratory	NCIT:C25656	http://purl.obolibrary.org/obo/NCIT_C25656	0.887	NCIT
+SXQ_D	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.988	NCIT
+SLQ_D	Sleep Disorders	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.928	NCIT
+SMQ_D	Smoking - Cigarette Use	Cigarette Smoking	NCIT:C18270	http://purl.obolibrary.org/obo/NCIT_C18270	0.948	NCIT
+SMQRTU_D	Smoking - Recent Tobacco Use	Tobacco Smoking	NCIT:C17934	http://purl.obolibrary.org/obo/NCIT_C17934	0.813	NCIT
 SSQ_D	Social Support	Support System	NCIT:C17717	http://purl.obolibrary.org/obo/NCIT_C17717	0.976	NCIT
-VIQ_D	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.99	NCIT
-WHQMEC_D	Weight History - Youth	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.814	NCIT
-WHQ_D	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.99	NCIT
-OCQ_D	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.993	NCIT
-DSQIDS_E	Dietary Supplement Use 30 Day - Individual Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.843	NCIT
-DSQTOT_E	Dietary Supplement Use 30-Day - Total Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.879	NCIT
-DS1TOT_E	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.812	NCIT
-DS2TOT_E	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.816	NCIT
-VIX_E	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.99	NCIT
-BPX_E	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.986	NCIT
+VIQ_D	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.991	NCIT
+WHQMEC_D	Weight History - Youth	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.899	NCIT
+WHQ_D	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.991	NCIT
+OCQ_D	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.992	NCIT
+OCQ_D_R	Occupation - Industry & Occupation Codes	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.855	NCIT
+DSQIDS_E	Dietary Supplement Use 30 Day - Individual Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.845	NCIT
+DSQTOT_E	Dietary Supplement Use 30-Day - Total Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.881	NCIT
+DS1TOT_E	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.824	NCIT
+DS2TOT_E	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.828	NCIT
+VIX_E	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.991	NCIT
+BPX_E	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.988	NCIT
 AUX_E	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
-AUXTYM_E	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.876	NCIT
-HEPA_E	Hepatitis A Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.885	NCIT
+AUXTYM_E	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.873	NCIT
+HEPA_E	Hepatitis A Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.887	NCIT
 HEPB_S_E	Hepatitis B Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9	NCIT
-CRP_E	C-Reactive Protein (CRP)	C-Reactive Protein Measurement	NCIT:C64548	http://purl.obolibrary.org/obo/NCIT_C64548	0.859	NCIT
-PSA_E	Prostate Specific Antigen (PSA)	Prostate Specific Antigen Measurement	NCIT:C17634	http://purl.obolibrary.org/obo/NCIT_C17634	0.887	NCIT
+CRP_E	C-Reactive Protein (CRP)	C-Reactive Protein Measurement	NCIT:C64548	http://purl.obolibrary.org/obo/NCIT_C64548	0.855	NCIT
+PSA_E	Prostate Specific Antigen (PSA)	Prostate Specific Antigen Measurement	NCIT:C17634	http://purl.obolibrary.org/obo/NCIT_C17634	0.888	NCIT
 FASTQX_E	Fasting Questionnaire	Questionnaire	NCIT:C17048	http://purl.obolibrary.org/obo/NCIT_C17048	0.829	NCIT
 UCPREG_E	Pregnancy Test - Urine	Pregnancy Test	NCIT:C92949	http://purl.obolibrary.org/obo/NCIT_C92949	0.93	NCIT
 FERTIN_E	Ferritin	Ferritin Measurement	NCIT:C74737	http://purl.obolibrary.org/obo/NCIT_C74737	0.995	NCIT
 TFR_E	Transferrin Receptor	Transferrin Receptor	NCIT:C17079	http://purl.obolibrary.org/obo/NCIT_C17079	0.987	NCIT
-UHM_E	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.825	NCIT
-UIO_E	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.891	NCIT
-HIV_E	HIV Antibody Test	HIV Antibody	NCIT:C16688	http://purl.obolibrary.org/obo/NCIT_C16688	0.872	NCIT
+UHM_E	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.837	NCIT
+UIO_E	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.895	NCIT
+HIV_E	HIV Antibody Test	HIV Antibody	NCIT:C16688	http://purl.obolibrary.org/obo/NCIT_C16688	0.87	NCIT
+HSV_E_R	Herpes Simplex Virus Type-2 - Youth	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.919	NCIT
 TCHOL_E	Cholesterol - Total	Serum Total Cholesterol Measurement	NCIT:C61032	http://purl.obolibrary.org/obo/NCIT_C61032	0.994	NCIT
-OGTT_E	Oral Glucose Tolerance Test	Glucose Tolerance Test	NCIT:C45946	http://purl.obolibrary.org/obo/NCIT_C45946	0.935	NCIT
+OGTT_E	Oral Glucose Tolerance Test	Glucose Tolerance Test	NCIT:C45946	http://purl.obolibrary.org/obo/NCIT_C45946	0.936	NCIT
 HDL_E	Cholesterol - HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.991	NCIT
-ApoB_E	Apolipoprotein B	Apolipoprotein B Measurement	NCIT:C74734	http://purl.obolibrary.org/obo/NCIT_C74734	0.99	NCIT
-HSV_E	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.89	NCIT
-PHTHTE_E	Phthalates - Urine	Phthalate	NCIT:C152072	http://purl.obolibrary.org/obo/NCIT_C152072	0.837	NCIT
-FOLATE_E	Folate - RBC & Serum	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.854	NCIT
-PHYTO_E	Phytoestrogens - Urine	Phytoestrogen	NCIT:C1194	http://purl.obolibrary.org/obo/NCIT_C1194	0.934	NCIT
-VIT_B6_E	Vitamin B6	Vitamin B6 Measurement	NCIT:C74901	http://purl.obolibrary.org/obo/NCIT_C74901	0.989	NCIT
+ApoB_E	Apolipoprotein B	Apolipoprotein B Measurement	NCIT:C74734	http://purl.obolibrary.org/obo/NCIT_C74734	0.991	NCIT
+HSV_E	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 1	NCIT:C14311	http://purl.obolibrary.org/obo/NCIT_C14311	0.89	NCIT
+PHTHTE_E	Phthalates - Urine	Phthalate	NCIT:C152072	http://purl.obolibrary.org/obo/NCIT_C152072	0.843	NCIT
+FOLATE_E	Folate - RBC & Serum	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.856	NCIT
+PHYTO_E	Phytoestrogens - Urine	Phytoestrogen	NCIT:C1194	http://purl.obolibrary.org/obo/NCIT_C1194	0.936	NCIT
+VIT_B6_E	Vitamin B6	Vitamin B6 Measurement	NCIT:C74901	http://purl.obolibrary.org/obo/NCIT_C74901	0.99	NCIT
 VID_E	Vitamin D	Ergocalciferol	NCIT:C29029	http://purl.obolibrary.org/obo/NCIT_C29029	0.988	NCIT
-ALQ_E	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.985	NCIT
-BHQ_E	Bowel Health	Pattern of Bowel Movements	NCIT:C124186	http://purl.obolibrary.org/obo/NCIT_C124186	0.851	NCIT
-CDQ_E	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.901	NCIT
+ALQ_E	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.986	NCIT
+BHQ_E	Bowel Health	Pattern of Bowel Movements	NCIT:C124186	http://purl.obolibrary.org/obo/NCIT_C124186	0.861	NCIT
+CDQ_E	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.909	NCIT
 ECQ_E	Early Childhood	Early Childhood	NCIT:C89346	http://purl.obolibrary.org/obo/NCIT_C89346	0.989	NCIT
-IMQ_E	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.993	NCIT
-MCQ_E	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.917	NCIT
-PAQ_E	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.992	NCIT
-PFQ_E	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.887	NCIT
-PUQMEC_E	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.875	NCIT
-SMQRTU_E	Smoking - Recent Tobacco Use	Tobacco Smoking	NCIT:C17934	http://purl.obolibrary.org/obo/NCIT_C17934	0.811	NCIT
+IMQ_E	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.994	NCIT
+MCQ_E	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.914	NCIT
+PAQ_E	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.993	NCIT
+PFQ_E	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.886	NCIT
+PUQMEC_E	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.876	NCIT
+SMQRTU_E	Smoking - Recent Tobacco Use	Tobacco Smoking	NCIT:C17934	http://purl.obolibrary.org/obo/NCIT_C17934	0.813	NCIT
 SSQ_E	Social Support	Support System	NCIT:C17717	http://purl.obolibrary.org/obo/NCIT_C17717	0.976	NCIT
-VIQ_E	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.99	NCIT
-WHQ_E	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.99	NCIT
-WHQMEC_E	Weight History - Youth	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.814	NCIT
-HIQ_E	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.978	NCIT
-OSQ_E	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.992	NCIT
+VIQ_E	Vision	Sight	NCIT:C38533	http://purl.obolibrary.org/obo/NCIT_C38533	0.991	NCIT
+WHQ_E	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.991	NCIT
+WHQMEC_E	Weight History - Youth	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.899	NCIT
+HIQ_E	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.976	NCIT
+OSQ_E	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.993	NCIT
 AUQ_E	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
-RDQ_E	Respiratory Health	Respiratory	NCIT:C25656	http://purl.obolibrary.org/obo/NCIT_C25656	0.878	NCIT
-SXQ_E	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.987	NCIT
+RDQ_E	Respiratory Health	Respiratory	NCIT:C25656	http://purl.obolibrary.org/obo/NCIT_C25656	0.887	NCIT
+SXQ_E	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.988	NCIT
 DIQ_E	Diabetes	Diabetes Mellitus	NCIT:C2985	http://purl.obolibrary.org/obo/NCIT_C2985	0.987	NCIT
-SMQ_E	Smoking - Cigarette Use	Cigarette Smoking	NCIT:C18270	http://purl.obolibrary.org/obo/NCIT_C18270	0.946	NCIT
-SLQ_E	Sleep Disorders	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.926	NCIT
-ACQ_E	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.99	NCIT
-HOQ_E	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.828	NCIT
-DUQ_E	Drug Use	Medication	NCIT:C459	http://purl.obolibrary.org/obo/NCIT_C459	0.889	NCIT
-RHQ_E	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.889	NCIT
+SMQ_E	Smoking - Cigarette Use	Cigarette Smoking	NCIT:C18270	http://purl.obolibrary.org/obo/NCIT_C18270	0.948	NCIT
+SLQ_E	Sleep Disorders	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.928	NCIT
+ALQYTH_E	Alcohol Use - Youth	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.855	NCIT
+ACQ_E	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.991	NCIT
+HOQ_E	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.83	NCIT
+DUQ_E	Drug Use	Drug User	NCIT:C84366	http://purl.obolibrary.org/obo/NCIT_C84366	0.88	NCIT
+RHQ_E	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.885	NCIT
 INQ_E	Income	Income	NCIT:C41150	http://purl.obolibrary.org/obo/NCIT_C41150	0.992	NCIT
-FSQ_E	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.863	NCIT
+FSQ_E	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.865	NCIT
 AQQ_E	Air Quality	EPA Air Quality Index	NCIT:C171587	http://purl.obolibrary.org/obo/NCIT_C171587	0.816	NCIT
-OCQ_E	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.993	NCIT
-DS2TOT_F	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.816	NCIT
-DTQ_F	Dietary Screener Questionnaire	Dietary Screener Questionnaire	NCIT:C188186	http://purl.obolibrary.org/obo/NCIT_C188186	0.982	NCIT
-DSQIDS_F	Dietary Supplement Use 30 Day - Individual Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.843	NCIT
-DSQTOT_F	Dietary Supplement Use 30-Day - Total Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.879	NCIT
-DS1TOT_F	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.812	NCIT
-BPX_F	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.986	NCIT
-OHXPER_F	Oral Health - Periodontal	Periodontal Route of Administration	NCIT:C38294	http://purl.obolibrary.org/obo/NCIT_C38294	0.824	NCIT
+SXQYTH_E	Sexual Behavior - Youth	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.886	NCIT
+DEQ_E_R	Dermatology	Dermatology	NCIT:C16500	http://purl.obolibrary.org/obo/NCIT_C16500	0.994	NCIT
+OCQ_E	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.992	NCIT
+OCQ_E_R	Occupation - Industry & Occupation Codes	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.855	NCIT
+DS2TOT_F	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.828	NCIT
+DTQ_F	Dietary Screener Questionnaire	Dietary Screener Questionnaire	NCIT:C188186	http://purl.obolibrary.org/obo/NCIT_C188186	0.986	NCIT
+DSQIDS_F	Dietary Supplement Use 30 Day - Individual Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.845	NCIT
+DSQTOT_F	Dietary Supplement Use 30-Day - Total Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.881	NCIT
+DS1TOT_F	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.824	NCIT
+BPX_F	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.988	NCIT
+OHXPER_F	Oral Health - Periodontal	Periodontal Route of Administration	NCIT:C38294	http://purl.obolibrary.org/obo/NCIT_C38294	0.83	NCIT
 AUX_F	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
-AUXTYM_F	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.876	NCIT
+AUXTYM_F	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.873	NCIT
+B27_F_R	Human Leukocyte Antigen B-27	MHC Class II Protein	NCIT:C20705	http://purl.obolibrary.org/obo/NCIT_C20705	0.881	NCIT
 UCPREG_F	Pregnancy Test - Urine	Pregnancy Test	NCIT:C92949	http://purl.obolibrary.org/obo/NCIT_C92949	0.93	NCIT
 HDL_F	Cholesterol - HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.991	NCIT
-FOLATE_F	Folate - RBC & Serum	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.854	NCIT
-HEPA_F	Hepatitis A Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.885	NCIT
-HIV_F	HIV Antibody Test	HIV Antibody	NCIT:C16688	http://purl.obolibrary.org/obo/NCIT_C16688	0.872	NCIT
-HSV_F	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.89	NCIT
+FOLATE_F	Folate - RBC & Serum	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.856	NCIT
+HEPA_F	Hepatitis A Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.887	NCIT
+HIV_F	HIV Antibody Test	HIV Antibody	NCIT:C16688	http://purl.obolibrary.org/obo/NCIT_C16688	0.87	NCIT
+HSV_F	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 1	NCIT:C14311	http://purl.obolibrary.org/obo/NCIT_C14311	0.89	NCIT
 TCHOL_F	Cholesterol - Total	Serum Total Cholesterol Measurement	NCIT:C61032	http://purl.obolibrary.org/obo/NCIT_C61032	0.994	NCIT
-UHM_F	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.825	NCIT
-PSA_F	Prostate Specific Antigen (PSA)	Prostate Specific Antigen Measurement	NCIT:C17634	http://purl.obolibrary.org/obo/NCIT_C17634	0.887	NCIT
-CHLMDA_F	Chlamydia - Urine	Chlamydia	NCIT:C76271	http://purl.obolibrary.org/obo/NCIT_C76271	0.913	NCIT
-CRP_F	C-Reactive Protein (CRP)	C-Reactive Protein Measurement	NCIT:C64548	http://purl.obolibrary.org/obo/NCIT_C64548	0.859	NCIT
+UHM_F	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.837	NCIT
+PSA_F	Prostate Specific Antigen (PSA)	Prostate Specific Antigen Measurement	NCIT:C17634	http://purl.obolibrary.org/obo/NCIT_C17634	0.888	NCIT
+CHLMDA_F	Chlamydia - Urine	Chlamydia	NCIT:C76271	http://purl.obolibrary.org/obo/NCIT_C76271	0.902	NCIT
+CRP_F	C-Reactive Protein (CRP)	C-Reactive Protein Measurement	NCIT:C64548	http://purl.obolibrary.org/obo/NCIT_C64548	0.855	NCIT
 FASTQX_F	Fasting Questionnaire	Questionnaire	NCIT:C17048	http://purl.obolibrary.org/obo/NCIT_C17048	0.829	NCIT
 HEPB_S_F	Hepatitis B Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9	NCIT
-UIO_F	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.891	NCIT
-UCFLOW_F	Urine Flow Rate	Flow Rate	NCIT:C82554	http://purl.obolibrary.org/obo/NCIT_C82554	0.903	NCIT
-UCOSMO_F	Osmolality - Urine	Osmolality	NCIT:C89824	http://purl.obolibrary.org/obo/NCIT_C89824	0.925	NCIT
-OGTT_F	Oral Glucose Tolerance Test	Glucose Tolerance Test	NCIT:C45946	http://purl.obolibrary.org/obo/NCIT_C45946	0.935	NCIT
+UIO_F	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.895	NCIT
+UCFLOW_F	Urine Flow Rate	Flow Rate	NCIT:C82554	http://purl.obolibrary.org/obo/NCIT_C82554	0.909	NCIT
+UCOSMO_F	Osmolality - Urine	Osmolality	NCIT:C89824	http://purl.obolibrary.org/obo/NCIT_C89824	0.93	NCIT
+OGTT_F	Oral Glucose Tolerance Test	Glucose Tolerance Test	NCIT:C45946	http://purl.obolibrary.org/obo/NCIT_C45946	0.936	NCIT
+HSV_F_R	Herpes Simplex Virus Type-2 - Youth	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.919	NCIT
 FERTIN_F	Ferritin	Ferritin Measurement	NCIT:C74737	http://purl.obolibrary.org/obo/NCIT_C74737	0.995	NCIT
 TFR_F	Transferrin Receptor	Transferrin Receptor	NCIT:C17079	http://purl.obolibrary.org/obo/NCIT_C17079	0.987	NCIT
-ApoB_F	Apolipoprotein B	Apolipoprotein B Measurement	NCIT:C74734	http://purl.obolibrary.org/obo/NCIT_C74734	0.99	NCIT
-PHTHTE_F	Phthalates - Urine	Phthalate	NCIT:C152072	http://purl.obolibrary.org/obo/NCIT_C152072	0.837	NCIT
-PHYTO_F	Phytoestrogens - Urine	Phytoestrogen	NCIT:C1194	http://purl.obolibrary.org/obo/NCIT_C1194	0.934	NCIT
-CAFE_F	Caffeine & Caffeine Metabolites - Urine	Caffeine Measurement	NCIT:C75346	http://purl.obolibrary.org/obo/NCIT_C75346	0.902	NCIT
-TFA_F	Trans Fatty Acids	Trans Fatty Acid	NCIT:C68440	http://purl.obolibrary.org/obo/NCIT_C68440	0.901	NCIT
-VIT_B6_F	Vitamin B6	Vitamin B6 Measurement	NCIT:C74901	http://purl.obolibrary.org/obo/NCIT_C74901	0.989	NCIT
+ApoB_F	Apolipoprotein B	Apolipoprotein B Measurement	NCIT:C74734	http://purl.obolibrary.org/obo/NCIT_C74734	0.991	NCIT
+PHTHTE_F	Phthalates - Urine	Phthalate	NCIT:C152072	http://purl.obolibrary.org/obo/NCIT_C152072	0.843	NCIT
+PHYTO_F	Phytoestrogens - Urine	Phytoestrogen	NCIT:C1194	http://purl.obolibrary.org/obo/NCIT_C1194	0.936	NCIT
+CAFE_F	Caffeine & Caffeine Metabolites - Urine	Caffeine Measurement	NCIT:C75346	http://purl.obolibrary.org/obo/NCIT_C75346	0.893	NCIT
+TFA_F	Trans Fatty Acids	Trans Fatty Acid	NCIT:C68440	http://purl.obolibrary.org/obo/NCIT_C68440	0.9	NCIT
+VIT_B6_F	Vitamin B6	Vitamin B6 Measurement	NCIT:C74901	http://purl.obolibrary.org/obo/NCIT_C74901	0.99	NCIT
 VID_F	Vitamin D	Ergocalciferol	NCIT:C29029	http://purl.obolibrary.org/obo/NCIT_C29029	0.988	NCIT
-SMQRTU_F	Smoking - Recent Tobacco Use	Tobacco Smoking	NCIT:C17934	http://purl.obolibrary.org/obo/NCIT_C17934	0.811	NCIT
-RDQ_F	Respiratory Health	Respiratory	NCIT:C25656	http://purl.obolibrary.org/obo/NCIT_C25656	0.878	NCIT
-CDQ_F	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.901	NCIT
-ARQ_F	Arthritis	Arthritis, CTCAE	NCIT:C143299	http://purl.obolibrary.org/obo/NCIT_C143299	0.997	NCIT
-MCQ_F	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.917	NCIT
+SMQRTU_F	Smoking - Recent Tobacco Use	Tobacco Smoking	NCIT:C17934	http://purl.obolibrary.org/obo/NCIT_C17934	0.813	NCIT
+RDQ_F	Respiratory Health	Respiratory	NCIT:C25656	http://purl.obolibrary.org/obo/NCIT_C25656	0.887	NCIT
+CDQ_F	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.909	NCIT
+ARQ_F	Arthritis	Arthritis, CTCAE	NCIT:C143299	http://purl.obolibrary.org/obo/NCIT_C143299	0.996	NCIT
+MCQ_F	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.914	NCIT
 DIQ_F	Diabetes	Diabetes Mellitus	NCIT:C2985	http://purl.obolibrary.org/obo/NCIT_C2985	0.987	NCIT
-RHQ_F	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.889	NCIT
-PAQ_F	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.992	NCIT
+RHQ_F	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.885	NCIT
+PAQ_F	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.993	NCIT
 AUQ_F	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
 AQQ_F	Air Quality	EPA Air Quality Index	NCIT:C171587	http://purl.obolibrary.org/obo/NCIT_C171587	0.816	NCIT
-PFQ_F	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.887	NCIT
-SMQ_F	Smoking - Cigarette Use	Cigarette Smoking	NCIT:C18270	http://purl.obolibrary.org/obo/NCIT_C18270	0.946	NCIT
-HIQ_F	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.978	NCIT
-SXQ_F	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.987	NCIT
+PFQ_F	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.886	NCIT
+SMQ_F	Smoking - Cigarette Use	Cigarette Smoking	NCIT:C18270	http://purl.obolibrary.org/obo/NCIT_C18270	0.948	NCIT
+HIQ_F	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.976	NCIT
+SXQ_F	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.988	NCIT
 INQ_F	Income	Income	NCIT:C41150	http://purl.obolibrary.org/obo/NCIT_C41150	0.992	NCIT
-PUQMEC_F	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.875	NCIT
-IMQ_F	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.993	NCIT
-OCQ_F	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.993	NCIT
+PUQMEC_F	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.876	NCIT
+IMQ_F	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.994	NCIT
+OCQ_F	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.992	NCIT
 ECQ_F	Early Childhood	Early Childhood	NCIT:C89346	http://purl.obolibrary.org/obo/NCIT_C89346	0.989	NCIT
-SLQ_F	Sleep Disorders	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.926	NCIT
-WHQMEC_F	Weight History - Youth	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.814	NCIT
-BHQ_F	Bowel Health	Pattern of Bowel Movements	NCIT:C124186	http://purl.obolibrary.org/obo/NCIT_C124186	0.851	NCIT
-OSQ_F	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.992	NCIT
-ALQ_F	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.985	NCIT
-DUQ_F	Drug Use	Medication	NCIT:C459	http://purl.obolibrary.org/obo/NCIT_C459	0.889	NCIT
-WHQ_F	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.99	NCIT
-ACQ_F	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.99	NCIT
+SLQ_F	Sleep Disorders	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.928	NCIT
+WHQMEC_F	Weight History - Youth	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.899	NCIT
+BHQ_F	Bowel Health	Pattern of Bowel Movements	NCIT:C124186	http://purl.obolibrary.org/obo/NCIT_C124186	0.861	NCIT
+OSQ_F	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.993	NCIT
+ALQ_F	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.986	NCIT
+ALQY_F_R	Alcohol Use - Youth	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.855	NCIT
+SXQY_F_R	Sexual Behavior - Youth	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.886	NCIT
+DUQ_F	Drug Use	Drug User	NCIT:C84366	http://purl.obolibrary.org/obo/NCIT_C84366	0.88	NCIT
+WHQ_F	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.991	NCIT
+ACQ_F	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.991	NCIT
 DEQ_F	Dermatology	Dermatology	NCIT:C16500	http://purl.obolibrary.org/obo/NCIT_C16500	0.994	NCIT
-HOQ_F	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.828	NCIT
-FSQ_F	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.863	NCIT
-DSQIDS_G	Dietary Supplement Use 30 Day - Individual Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.843	NCIT
-DSQTOT_G	Dietary Supplement Use 30-Day - Total Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.879	NCIT
-DS1TOT_G	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.812	NCIT
-DS2TOT_G	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.816	NCIT
+HOQ_F	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.83	NCIT
+FSQ_F	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.865	NCIT
+OCQ_F_R	Occupation - Industry & Occupation Codes	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.855	NCIT
+DSQIDS_G	Dietary Supplement Use 30 Day - Individual Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.845	NCIT
+DSQTOT_G	Dietary Supplement Use 30-Day - Total Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.881	NCIT
+DS1TOT_G	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.824	NCIT
+DS2TOT_G	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.828	NCIT
 TBX_G	Tuberculosis	Tuberculosis	NCIT:C3423	http://purl.obolibrary.org/obo/NCIT_C3423	0.981	NCIT
-BPX_G	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.986	NCIT
-OHXPER_G	Oral Health - Periodontal	Periodontal Route of Administration	NCIT:C38294	http://purl.obolibrary.org/obo/NCIT_C38294	0.824	NCIT
+BPX_G	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.988	NCIT
+OHXPER_G	Oral Health - Periodontal	Periodontal Route of Administration	NCIT:C38294	http://purl.obolibrary.org/obo/NCIT_C38294	0.83	NCIT
 AUX_G	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
-AUXTYM_G	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.876	NCIT
+AUXTYM_G	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.873	NCIT
 TCHOL_G	Cholesterol - Total	Serum Total Cholesterol Measurement	NCIT:C61032	http://purl.obolibrary.org/obo/NCIT_C61032	0.994	NCIT
-UHM_G	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.825	NCIT
-HEPA_G	Hepatitis A Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.885	NCIT
-HIV_G	HIV Antibody Test	HIV Antibody	NCIT:C16688	http://purl.obolibrary.org/obo/NCIT_C16688	0.872	NCIT
-HSV_G	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.89	NCIT
+UHM_G	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.837	NCIT
+HEPA_G	Hepatitis A Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.887	NCIT
+HIV_G	HIV Antibody Test	HIV Antibody	NCIT:C16688	http://purl.obolibrary.org/obo/NCIT_C16688	0.87	NCIT
+HSV_G	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 1	NCIT:C14311	http://purl.obolibrary.org/obo/NCIT_C14311	0.89	NCIT
 HEPB_S_G	Hepatitis B Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9	NCIT
-UCFLOW_G	Urine Flow Rate	Flow Rate	NCIT:C82554	http://purl.obolibrary.org/obo/NCIT_C82554	0.903	NCIT
-UCOSMO_G	Osmolality - Urine	Osmolality	NCIT:C89824	http://purl.obolibrary.org/obo/NCIT_C89824	0.925	NCIT
+HSV_G_R	Herpes Simplex Virus Type-2 - Youth	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.919	NCIT
+UCFLOW_G	Urine Flow Rate	Flow Rate	NCIT:C82554	http://purl.obolibrary.org/obo/NCIT_C82554	0.909	NCIT
+UCOSMO_G	Osmolality - Urine	Osmolality	NCIT:C89824	http://purl.obolibrary.org/obo/NCIT_C89824	0.93	NCIT
 UCPREG_G	Pregnancy Test - Urine	Pregnancy Test	NCIT:C92949	http://purl.obolibrary.org/obo/NCIT_C92949	0.93	NCIT
-FOLATE_G	Folate - RBC	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.99	NCIT
-MMA_G	Methylmalonic Acid	Methylmalonic Acid Measurement	NCIT:C96690	http://purl.obolibrary.org/obo/NCIT_C96690	0.984	NCIT
+FOLATE_G	Folate - RBC	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.989	NCIT
+MMA_G	Methylmalonic Acid	Methylmalonic Acid Measurement	NCIT:C96690	http://purl.obolibrary.org/obo/NCIT_C96690	0.985	NCIT
 VITB12_G	Vitamin B12	Cyanocobalamin	NCIT:C64333	http://purl.obolibrary.org/obo/NCIT_C64333	0.989	NCIT
-CMV_G	Cytomegalovirus IgG & IgM Antibodies - Serum	Cytomegalovirus IgM Antibody Measurement	NCIT:C96597	http://purl.obolibrary.org/obo/NCIT_C96597	0.833	NCIT
+CMV_G	Cytomegalovirus IgG & IgM Antibodies - Serum	Cytomegalovirus IgM Antibody Measurement	NCIT:C96597	http://purl.obolibrary.org/obo/NCIT_C96597	0.829	NCIT
 HDL_G	Cholesterol - HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.991	NCIT
 TST_G	Total Testosterone	Total Testosterone Measurement	NCIT:C74793	http://purl.obolibrary.org/obo/NCIT_C74793	0.979	NCIT
-UIO_G	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.891	NCIT
+UIO_G	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.895	NCIT
 FASTQX_G	Fasting Questionnaire	Questionnaire	NCIT:C17048	http://purl.obolibrary.org/obo/NCIT_C17048	0.829	NCIT
-CHLMDA_G	Chlamydia - Urine	Chlamydia	NCIT:C76271	http://purl.obolibrary.org/obo/NCIT_C76271	0.913	NCIT
-OGTT_G	Oral Glucose Tolerance Test	Glucose Tolerance Test	NCIT:C45946	http://purl.obolibrary.org/obo/NCIT_C45946	0.935	NCIT
-ApoB_G	Apolipoprotein B	Apolipoprotein B Measurement	NCIT:C74734	http://purl.obolibrary.org/obo/NCIT_C74734	0.99	NCIT
+CHLMDA_G	Chlamydia - Urine	Chlamydia	NCIT:C76271	http://purl.obolibrary.org/obo/NCIT_C76271	0.902	NCIT
+OGTT_G	Oral Glucose Tolerance Test	Glucose Tolerance Test	NCIT:C45946	http://purl.obolibrary.org/obo/NCIT_C45946	0.936	NCIT
+ApoB_G	Apolipoprotein B	Apolipoprotein B Measurement	NCIT:C74734	http://purl.obolibrary.org/obo/NCIT_C74734	0.991	NCIT
 VID_G	Vitamin D	Ergocalciferol	NCIT:C29029	http://purl.obolibrary.org/obo/NCIT_C29029	0.988	NCIT
-FAS_G	Fatty Acids - Serum	Fatty Acid	NCIT:C492	http://purl.obolibrary.org/obo/NCIT_C492	0.882	NCIT
-CAFE_G	Caffeine & Caffeine Metabolites - Urine	Caffeine Measurement	NCIT:C75346	http://purl.obolibrary.org/obo/NCIT_C75346	0.902	NCIT
+FAS_G	Fatty Acids - Serum	Fatty Acid	NCIT:C492	http://purl.obolibrary.org/obo/NCIT_C492	0.885	NCIT
+CAFE_G	Caffeine & Caffeine Metabolites - Urine	Caffeine Measurement	NCIT:C75346	http://purl.obolibrary.org/obo/NCIT_C75346	0.893	NCIT
 TBQ_G	Tuberculosis	Tuberculosis	NCIT:C3423	http://purl.obolibrary.org/obo/NCIT_C3423	0.981	NCIT
-HIQ_G	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.978	NCIT
-CDQ_G	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.901	NCIT
-RDQ_G	Respiratory Health	Respiratory	NCIT:C25656	http://purl.obolibrary.org/obo/NCIT_C25656	0.878	NCIT
-PAQ_G	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.992	NCIT
-PFQ_G	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.887	NCIT
-CKQ_G	Creatine Kinase	Creatine Kinase Measurement	NCIT:C64489	http://purl.obolibrary.org/obo/NCIT_C64489	0.991	NCIT
+HIQ_G	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.976	NCIT
+CDQ_G	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.909	NCIT
+RDQ_G	Respiratory Health	Respiratory	NCIT:C25656	http://purl.obolibrary.org/obo/NCIT_C25656	0.887	NCIT
+PAQ_G	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.993	NCIT
+PFQ_G	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.886	NCIT
+CKQ_G	Creatine Kinase	Creatine Kinase Measurement	NCIT:C64489	http://purl.obolibrary.org/obo/NCIT_C64489	0.99	NCIT
 DIQ_G	Diabetes	Diabetes Mellitus	NCIT:C2985	http://purl.obolibrary.org/obo/NCIT_C2985	0.987	NCIT
 ECQ_G	Early Childhood	Early Childhood	NCIT:C89346	http://purl.obolibrary.org/obo/NCIT_C89346	0.989	NCIT
-SXQ_G	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.987	NCIT
-SMQRTU_G	Smoking - Recent Tobacco Use	Tobacco Smoking	NCIT:C17934	http://purl.obolibrary.org/obo/NCIT_C17934	0.811	NCIT
-SMQ_G	Smoking - Cigarette Use	Cigarette Smoking	NCIT:C18270	http://purl.obolibrary.org/obo/NCIT_C18270	0.946	NCIT
-OCQ_G	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.993	NCIT
-HOQ_G	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.828	NCIT
-PUQMEC_G	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.875	NCIT
-MCQ_G	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.917	NCIT
-IMQ_G	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.993	NCIT
-DUQ_G	Drug Use	Medication	NCIT:C459	http://purl.obolibrary.org/obo/NCIT_C459	0.889	NCIT
-SLQ_G	Sleep Disorders	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.926	NCIT
-ALQ_G	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.985	NCIT
-RHQ_G	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.889	NCIT
+SXQ_G	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.988	NCIT
+SXQY_G_R	Sexual Behavior - Youth	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.886	NCIT
+SMQRTU_G	Smoking - Recent Tobacco Use	Tobacco Smoking	NCIT:C17934	http://purl.obolibrary.org/obo/NCIT_C17934	0.813	NCIT
+SMQ_G	Smoking - Cigarette Use	Cigarette Smoking	NCIT:C18270	http://purl.obolibrary.org/obo/NCIT_C18270	0.948	NCIT
+OCQ_G	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.992	NCIT
+HOQ_G	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.83	NCIT
+PUQMEC_G	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.876	NCIT
+MCQ_G	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.914	NCIT
+IMQ_G	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.994	NCIT
+DUQ_G	Drug Use	Drug User	NCIT:C84366	http://purl.obolibrary.org/obo/NCIT_C84366	0.88	NCIT
+SLQ_G	Sleep Disorders	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.928	NCIT
+ALQ_G	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.986	NCIT
+ALQY_G_R	Alcohol Use - Youth	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.855	NCIT
+RHQ_G	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.885	NCIT
 AUQ_G	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
-WHQMEC_G	Weight History - Youth	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.814	NCIT
+WHQMEC_G	Weight History - Youth	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.899	NCIT
 DEQ_G	Dermatology	Dermatology	NCIT:C16500	http://purl.obolibrary.org/obo/NCIT_C16500	0.994	NCIT
-ACQ_G	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.99	NCIT
-WHQ_G	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.99	NCIT
+ACQ_G	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.991	NCIT
+WHQ_G	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.991	NCIT
 INQ_G	Income	Income	NCIT:C41150	http://purl.obolibrary.org/obo/NCIT_C41150	0.992	NCIT
-FSQ_G	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.863	NCIT
-CFQ_G	Cognitive Functioning	Cognitive Function Subordinate Domain	NCIT:C122365	http://purl.obolibrary.org/obo/NCIT_C122365	0.905	NCIT
-DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.843	NCIT
-DS1TOT_H	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.812	NCIT
-DS2TOT_H	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.816	NCIT
-DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.879	NCIT
-BPX_H	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.986	NCIT
-OHXPER_H	Oral Health - Periodontal	Periodontal Route of Administration	NCIT:C38294	http://purl.obolibrary.org/obo/NCIT_C38294	0.824	NCIT
-ApoB_H	Apolipoprotein B	Apolipoprotein B Measurement	NCIT:C74734	http://purl.obolibrary.org/obo/NCIT_C74734	0.99	NCIT
+FSQ_G	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.865	NCIT
+CFQ_G	Cognitive Functioning	Cognitive Function Subordinate Domain	NCIT:C122365	http://purl.obolibrary.org/obo/NCIT_C122365	0.904	NCIT
+OCQ_G_R	Occupation - Industry & Occupation Codes	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.855	NCIT
+DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.845	NCIT
+DS1TOT_H	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.824	NCIT
+DS2TOT_H	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.828	NCIT
+DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.881	NCIT
+BPX_H	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.988	NCIT
+OHXPER_H	Oral Health - Periodontal	Periodontal Route of Administration	NCIT:C38294	http://purl.obolibrary.org/obo/NCIT_C38294	0.83	NCIT
+ApoB_H	Apolipoprotein B	Apolipoprotein B Measurement	NCIT:C74734	http://purl.obolibrary.org/obo/NCIT_C74734	0.991	NCIT
 HDL_H	Cholesterol - HDL	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.991	NCIT
 TCHOL_H	Cholesterol - Total	Serum Total Cholesterol Measurement	NCIT:C61032	http://purl.obolibrary.org/obo/NCIT_C61032	0.994	NCIT
-HEPA_H	Hepatitis A	Hepatitis A Infection	NCIT:C3096	http://purl.obolibrary.org/obo/NCIT_C3096	0.992	NCIT
+HEPA_H	Hepatitis A	Hepatitis A Infection	NCIT:C3096	http://purl.obolibrary.org/obo/NCIT_C3096	0.993	NCIT
 HEPB_S_H	Hepatitis B: Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9	NCIT
-HIV_H	HIV Antibody Test	HIV Antibody	NCIT:C16688	http://purl.obolibrary.org/obo/NCIT_C16688	0.872	NCIT
-HSV_H	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.89	NCIT
-OGTT_H	Oral Glucose Tolerance Test	Glucose Tolerance Test	NCIT:C45946	http://purl.obolibrary.org/obo/NCIT_C45946	0.935	NCIT
-TST_H	Sex Steroid Hormone - Serum	Sex Steroid Hormone	NCIT:C123796	http://purl.obolibrary.org/obo/NCIT_C123796	0.919	NCIT
-UCFLOW_H	Urine Flow Rate	Flow Rate	NCIT:C82554	http://purl.obolibrary.org/obo/NCIT_C82554	0.903	NCIT
+HIV_H	HIV Antibody Test	HIV Antibody	NCIT:C16688	http://purl.obolibrary.org/obo/NCIT_C16688	0.87	NCIT
+HSV_H	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 1	NCIT:C14311	http://purl.obolibrary.org/obo/NCIT_C14311	0.89	NCIT
+OGTT_H	Oral Glucose Tolerance Test	Glucose Tolerance Test	NCIT:C45946	http://purl.obolibrary.org/obo/NCIT_C45946	0.936	NCIT
+TST_H	Sex Steroid Hormone - Serum	Sex Steroid Hormone	NCIT:C123796	http://purl.obolibrary.org/obo/NCIT_C123796	0.917	NCIT
+UCFLOW_H	Urine Flow Rate	Flow Rate	NCIT:C82554	http://purl.obolibrary.org/obo/NCIT_C82554	0.909	NCIT
 UCPREG_H	Pregnancy Test - Urine	Pregnancy Test	NCIT:C92949	http://purl.obolibrary.org/obo/NCIT_C92949	0.93	NCIT
-UM_H	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.825	NCIT
-UIO_H	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.891	NCIT
-HEPC_H	Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype	Hepatitis C Virus RNA Measurement	NCIT:C142330	http://purl.obolibrary.org/obo/NCIT_C142330	0.856	NCIT
-TRICH_H	Trichomonas - Urine	Trichomonas Screening	NCIT:C92238	http://purl.obolibrary.org/obo/NCIT_C92238	0.935	NCIT
+UM_H	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.837	NCIT
+UIO_H	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.895	NCIT
+HEPC_H	Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype	Hepatitis C Virus RNA Measurement	NCIT:C142330	http://purl.obolibrary.org/obo/NCIT_C142330	0.859	NCIT
+TRICH_H	Trichomonas - Urine	Trichomonas Screening	NCIT:C92238	http://purl.obolibrary.org/obo/NCIT_C92238	0.933	NCIT
 VITB12_H	Vitamin B12	Cyanocobalamin	NCIT:C64333	http://purl.obolibrary.org/obo/NCIT_C64333	0.989	NCIT
-CHLMDA_H	Chlamydia - Urine	Chlamydia	NCIT:C76271	http://purl.obolibrary.org/obo/NCIT_C76271	0.913	NCIT
+CHLMDA_H	Chlamydia - Urine	Chlamydia	NCIT:C76271	http://purl.obolibrary.org/obo/NCIT_C76271	0.902	NCIT
+HSV_H_R	Herpes Simplex Virus Type-2 - Youth	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.919	NCIT
+TRIC_H_R	Trichomonas - Urine -Youth	Trichomonas Screening	NCIT:C92238	http://purl.obolibrary.org/obo/NCIT_C92238	0.851	NCIT
 FASTQX_H	Fasting Questionnaire	Questionnaire	NCIT:C17048	http://purl.obolibrary.org/obo/NCIT_C17048	0.829	NCIT
-INS_H	Insulin	Insulin	NCIT:C2271	http://purl.obolibrary.org/obo/NCIT_C2271	0.985	NCIT
-PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	Polycyclic Aromatic Hydrocarbons	NCIT:C761	http://purl.obolibrary.org/obo/NCIT_C761	0.913	NCIT
+INS_H	Insulin	Insulin	NCIT:C2271	http://purl.obolibrary.org/obo/NCIT_C2271	0.987	NCIT
+PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	Polycyclic Aromatic Hydrocarbons	NCIT:C761	http://purl.obolibrary.org/obo/NCIT_C761	0.916	NCIT
 PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	Polycyclic Aromatic Hydrocarbons	NCIT:C761	http://purl.obolibrary.org/obo/NCIT_C761	0.826	NCIT
-HCAA_H	Heterocyclic Aromatic Amines - Urine	Heterocyclic Amines	NCIT:C1926	http://purl.obolibrary.org/obo/NCIT_C1926	0.963	NCIT
-MMA_H	Methylmalonic Acid	Methylmalonic Acid Measurement	NCIT:C96690	http://purl.obolibrary.org/obo/NCIT_C96690	0.984	NCIT
+HCAA_H	Heterocyclic Aromatic Amines - Urine	Heterocyclic Amines	NCIT:C1926	http://purl.obolibrary.org/obo/NCIT_C1926	0.965	NCIT
+MMA_H	Methylmalonic Acid	Methylmalonic Acid Measurement	NCIT:C96690	http://purl.obolibrary.org/obo/NCIT_C96690	0.985	NCIT
 VID_H	Vitamin D	Ergocalciferol	NCIT:C29029	http://purl.obolibrary.org/obo/NCIT_C29029	0.988	NCIT
-ALD_H	Aldehydes - Serum	Aldehyde	NCIT:C94714	http://purl.obolibrary.org/obo/NCIT_C94714	0.833	NCIT
-FOLATE_H	Folate - RBC	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.99	NCIT
-ETHOX_H	Ethylene Oxide	Ethylene Oxide	NCIT:C29821	http://purl.obolibrary.org/obo/NCIT_C29821	0.995	NCIT
-AA_H	Aromatic Amines - Urine	Aromatic Amines	NCIT:C1815	http://purl.obolibrary.org/obo/NCIT_C1815	0.929	NCIT
-FORMAS_H	Formaldehyde - Special Sample	Formaldehyde	NCIT:C29744	http://purl.obolibrary.org/obo/NCIT_C29744	0.802	NCIT
-FORMAL_H	Formaldehyde	Formaldehyde	NCIT:C29744	http://purl.obolibrary.org/obo/NCIT_C29744	0.986	NCIT
-CAFE_H	Caffeine & Caffeine Metabolites - Urine	Caffeine Measurement	NCIT:C75346	http://purl.obolibrary.org/obo/NCIT_C75346	0.902	NCIT
-SSSNFL_H	Serum Neurofilament Light Chain - Serum	Neurofilament Light Polypeptide	NCIT:C88043	http://purl.obolibrary.org/obo/NCIT_C88043	0.82	NCIT
-SSGLYP_H	Glyphosate (GLYP) - Urine	Glyphosate	NCIT:C163664	http://purl.obolibrary.org/obo/NCIT_C163664	0.88	NCIT
-FAS_H	Fatty Acids - Serum	Fatty Acid	NCIT:C492	http://purl.obolibrary.org/obo/NCIT_C492	0.882	NCIT
-DLQ_H	Disability	Disability	NCIT:C21007	http://purl.obolibrary.org/obo/NCIT_C21007	0.988	NCIT
+ALD_H	Aldehydes - Serum	Aldehyde	NCIT:C94714	http://purl.obolibrary.org/obo/NCIT_C94714	0.836	NCIT
+FOLATE_H	Folate - RBC	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.989	NCIT
+ETHOX_H	Ethylene Oxide	Ethylene Oxide	NCIT:C29821	http://purl.obolibrary.org/obo/NCIT_C29821	0.996	NCIT
+AA_H	Aromatic Amines - Urine	Aromatic Amines	NCIT:C1815	http://purl.obolibrary.org/obo/NCIT_C1815	0.934	NCIT
+FORMAS_H	Formaldehyde - Special Sample	Formaldehyde	NCIT:C29744	http://purl.obolibrary.org/obo/NCIT_C29744	0.8	NCIT
+FORMAL_H	Formaldehyde	Formaldehyde	NCIT:C29744	http://purl.obolibrary.org/obo/NCIT_C29744	0.987	NCIT
+CAFE_H	Caffeine & Caffeine Metabolites - Urine	Caffeine Measurement	NCIT:C75346	http://purl.obolibrary.org/obo/NCIT_C75346	0.893	NCIT
+SSSNFL_H	Serum Neurofilament Light Chain - Serum	Neurofilament Light Polypeptide	NCIT:C88043	http://purl.obolibrary.org/obo/NCIT_C88043	0.822	NCIT
+SSGLYP_H	Glyphosate (GLYP) - Urine	Glyphosate	NCIT:C163664	http://purl.obolibrary.org/obo/NCIT_C163664	0.882	NCIT
+FAS_H	Fatty Acids - Serum	Fatty Acid	NCIT:C492	http://purl.obolibrary.org/obo/NCIT_C492	0.885	NCIT
+DLQ_H	Disability	Disability	NCIT:C21007	http://purl.obolibrary.org/obo/NCIT_C21007	0.987	NCIT
 DEQ_H	Dermatology	Dermatology	NCIT:C16500	http://purl.obolibrary.org/obo/NCIT_C16500	0.994	NCIT
-OSQ_H	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.992	NCIT
-IMQ_H	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.993	NCIT
-SXQ_H	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.987	NCIT
-CDQ_H	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.901	NCIT
-MCQ_H	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.917	NCIT
-HIQ_H	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.978	NCIT
-PAQ_H	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.992	NCIT
-PFQ_H	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.887	NCIT
+OSQ_H	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.993	NCIT
+IMQ_H	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.994	NCIT
+SXQ_H	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.988	NCIT
+SXQY_H_R	Sexual Behavior - Youth	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.886	NCIT
+CDQ_H	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.909	NCIT
+MCQ_H	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.914	NCIT
+HIQ_H	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.976	NCIT
+PAQ_H	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.993	NCIT
+PFQ_H	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.886	NCIT
 HEQ_H	Hepatitis	Hepatitis	NCIT:C3095	http://purl.obolibrary.org/obo/NCIT_C3095	0.995	NCIT
 ECQ_H	Early Childhood	Early Childhood	NCIT:C89346	http://purl.obolibrary.org/obo/NCIT_C89346	0.989	NCIT
 DIQ_H	Diabetes	Diabetes Mellitus	NCIT:C2985	http://purl.obolibrary.org/obo/NCIT_C2985	0.987	NCIT
-SMQ_H	Smoking - Cigarette Use	Cigarette Smoking	NCIT:C18270	http://purl.obolibrary.org/obo/NCIT_C18270	0.946	NCIT
-SMQRTU_H	Smoking - Recent Tobacco Use	Tobacco Smoking	NCIT:C17934	http://purl.obolibrary.org/obo/NCIT_C17934	0.811	NCIT
-HOQ_H	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.828	NCIT
-PUQMEC_H	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.875	NCIT
-SMQSHS_H	Smoking - Secondhand Smoke Exposure	Was the Individual Exposed to Second-Hand Smoke	NCIT:C159576	http://purl.obolibrary.org/obo/NCIT_C159576	0.924	NCIT
+SMQ_H	Smoking - Cigarette Use	Cigarette Smoking	NCIT:C18270	http://purl.obolibrary.org/obo/NCIT_C18270	0.948	NCIT
+SMQRTU_H	Smoking - Recent Tobacco Use	Tobacco Smoking	NCIT:C17934	http://purl.obolibrary.org/obo/NCIT_C17934	0.813	NCIT
+HOQ_H	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.83	NCIT
+PUQMEC_H	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.876	NCIT
+SMQSHS_H	Smoking - Secondhand Smoke Exposure	Was the Individual Exposed to Second-Hand Smoke	NCIT:C159576	http://purl.obolibrary.org/obo/NCIT_C159576	0.92	NCIT
 INQ_H	Income	Income	NCIT:C41150	http://purl.obolibrary.org/obo/NCIT_C41150	0.992	NCIT
-SLQ_H	Sleep Disorders	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.926	NCIT
-DUQ_H	Drug Use	Medication	NCIT:C459	http://purl.obolibrary.org/obo/NCIT_C459	0.889	NCIT
-WHQMEC_H	Weight History - Youth	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.814	NCIT
-ALQ_H	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.985	NCIT
-ACQ_H	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.99	NCIT
-WHQ_H	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.99	NCIT
-RHQ_H	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.889	NCIT
-FSQ_H	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.863	NCIT
-OCQ_H	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.993	NCIT
-CKQ_H	Creatine Kinase	Creatine Kinase Measurement	NCIT:C64489	http://purl.obolibrary.org/obo/NCIT_C64489	0.991	NCIT
-CFQ_H	Cognitive Functioning	Cognitive Function Subordinate Domain	NCIT:C122365	http://purl.obolibrary.org/obo/NCIT_C122365	0.905	NCIT
-DSQTOT_I	Dietary Supplement Use 30-Day - Total Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.879	NCIT
-DS1TOT_I	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.812	NCIT
-DS2TOT_I	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.816	NCIT
-DSQIDS_I	Dietary Supplement Use 30-Day - Individual Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.843	NCIT
-BPX_I	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.986	NCIT
+SLQ_H	Sleep Disorders	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.928	NCIT
+DUQ_H	Drug Use	Drug User	NCIT:C84366	http://purl.obolibrary.org/obo/NCIT_C84366	0.88	NCIT
+WHQMEC_H	Weight History - Youth	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.899	NCIT
+ALQ_H	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.986	NCIT
+ALQY_H_R	Alcohol Use - Youth	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.855	NCIT
+ACQ_H	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.991	NCIT
+WHQ_H	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.991	NCIT
+RHQ_H	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.885	NCIT
+FSQ_H	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.865	NCIT
+OCQ_H	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.992	NCIT
+CKQ_H	Creatine Kinase	Creatine Kinase Measurement	NCIT:C64489	http://purl.obolibrary.org/obo/NCIT_C64489	0.99	NCIT
+CFQ_H	Cognitive Functioning	Cognitive Function Subordinate Domain	NCIT:C122365	http://purl.obolibrary.org/obo/NCIT_C122365	0.904	NCIT
+OCQ_H_R	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.992	NCIT
+DSQTOT_I	Dietary Supplement Use 30-Day - Total Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.881	NCIT
+DS1TOT_I	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.824	NCIT
+DS2TOT_I	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.828	NCIT
+DSQIDS_I	Dietary Supplement Use 30-Day - Individual Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.845	NCIT
+BPX_I	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.988	NCIT
 AUX_I	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
-AUXTYM_I	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.876	NCIT
+AUXTYM_I	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.873	NCIT
 UCPREG_I	Pregnancy Test - Urine	Pregnancy Test	NCIT:C92949	http://purl.obolibrary.org/obo/NCIT_C92949	0.93	NCIT
-UCFLOW_I	Urine Flow Rate	Flow Rate	NCIT:C82554	http://purl.obolibrary.org/obo/NCIT_C82554	0.903	NCIT
-HSV_I	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.89	NCIT
-CHLMDA_I	Chlamydia - Urine	Chlamydia	NCIT:C76271	http://purl.obolibrary.org/obo/NCIT_C76271	0.913	NCIT
-TRICH_I	Trichomonas - Urine	Trichomonas Screening	NCIT:C92238	http://purl.obolibrary.org/obo/NCIT_C92238	0.935	NCIT
+UCFLOW_I	Urine Flow Rate	Flow Rate	NCIT:C82554	http://purl.obolibrary.org/obo/NCIT_C82554	0.909	NCIT
+HSV_I	Herpes Simplex Virus Type-1 & Type-2	Human Herpesvirus 1	NCIT:C14311	http://purl.obolibrary.org/obo/NCIT_C14311	0.89	NCIT
+HSV_I_R	Herpes Simplex Virus Type-1 and Type-2 - Youth	Human Herpesvirus 1	NCIT:C14311	http://purl.obolibrary.org/obo/NCIT_C14311	0.854	NCIT
+CHLMDA_I	Chlamydia - Urine	Chlamydia	NCIT:C76271	http://purl.obolibrary.org/obo/NCIT_C76271	0.902	NCIT
+TRICH_I	Trichomonas - Urine	Trichomonas Screening	NCIT:C92238	http://purl.obolibrary.org/obo/NCIT_C92238	0.933	NCIT
+TRIC_I_R	Trichomonas - Urine - Youth	Trichomonas Screening	NCIT:C92238	http://purl.obolibrary.org/obo/NCIT_C92238	0.851	NCIT
 FASTQX_I	Fasting Questionnaire	Questionnaire	NCIT:C17048	http://purl.obolibrary.org/obo/NCIT_C17048	0.829	NCIT
-HEPA_I	Hepatitis A	Hepatitis A Infection	NCIT:C3096	http://purl.obolibrary.org/obo/NCIT_C3096	0.992	NCIT
+HEPA_I	Hepatitis A	Hepatitis A Infection	NCIT:C3096	http://purl.obolibrary.org/obo/NCIT_C3096	0.993	NCIT
 HEPB_S_I	Hepatitis B: Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9	NCIT
-HDL_I	Cholesterol - High-Density Lipoprotein (HDL)	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.833	NCIT
+HDL_I	Cholesterol - High-Density Lipoprotein (HDL)	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.832	NCIT
 TCHOL_I	Cholesterol - Total	Serum Total Cholesterol Measurement	NCIT:C61032	http://purl.obolibrary.org/obo/NCIT_C61032	0.994	NCIT
-HEPC_I	Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype	Hepatitis C Virus RNA Measurement	NCIT:C142330	http://purl.obolibrary.org/obo/NCIT_C142330	0.856	NCIT
-HIV_I	HIV Antibody Test	HIV Antibody	NCIT:C16688	http://purl.obolibrary.org/obo/NCIT_C16688	0.872	NCIT
-INS_I	Insulin	Insulin	NCIT:C2271	http://purl.obolibrary.org/obo/NCIT_C2271	0.985	NCIT
-OGTT_I	Oral Glucose Tolerance Test	Glucose Tolerance Test	NCIT:C45946	http://purl.obolibrary.org/obo/NCIT_C45946	0.935	NCIT
-UM_I	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.825	NCIT
-UIO_I	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.891	NCIT
-TST_I	Sex Steroid Hormone - Serum	Sex Steroid Hormone	NCIT:C123796	http://purl.obolibrary.org/obo/NCIT_C123796	0.919	NCIT
-FOLATE_I	Folate - RBC	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.99	NCIT
-APOB_I	Apolipoprotein B	Apolipoprotein B Measurement	NCIT:C74734	http://purl.obolibrary.org/obo/NCIT_C74734	0.99	NCIT
+HEPC_I	Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype	Hepatitis C Virus RNA Measurement	NCIT:C142330	http://purl.obolibrary.org/obo/NCIT_C142330	0.859	NCIT
+HIV_I	HIV Antibody Test	HIV Antibody	NCIT:C16688	http://purl.obolibrary.org/obo/NCIT_C16688	0.87	NCIT
+INS_I	Insulin	Insulin	NCIT:C2271	http://purl.obolibrary.org/obo/NCIT_C2271	0.987	NCIT
+OGTT_I	Oral Glucose Tolerance Test	Glucose Tolerance Test	NCIT:C45946	http://purl.obolibrary.org/obo/NCIT_C45946	0.936	NCIT
+UM_I	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.837	NCIT
+UIO_I	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.895	NCIT
+TST_I	Sex Steroid Hormone - Serum	Sex Steroid Hormone	NCIT:C123796	http://purl.obolibrary.org/obo/NCIT_C123796	0.917	NCIT
+FOLATE_I	Folate - RBC	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.989	NCIT
+APOB_I	Apolipoprotein B	Apolipoprotein B Measurement	NCIT:C74734	http://purl.obolibrary.org/obo/NCIT_C74734	0.991	NCIT
 FERTIN_I	Ferritin	Ferritin Measurement	NCIT:C74737	http://purl.obolibrary.org/obo/NCIT_C74737	0.995	NCIT
 TFR_I	Transferrin Receptor	Transferrin Receptor	NCIT:C17079	http://purl.obolibrary.org/obo/NCIT_C17079	0.987	NCIT
-ETHOX_I	Ethylene Oxide	Ethylene Oxide	NCIT:C29821	http://purl.obolibrary.org/obo/NCIT_C29821	0.995	NCIT
-FORMAL_I	Formaldehyde	Formaldehyde	NCIT:C29744	http://purl.obolibrary.org/obo/NCIT_C29744	0.986	NCIT
-PAH_I	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	Polycyclic Aromatic Hydrocarbons	NCIT:C761	http://purl.obolibrary.org/obo/NCIT_C761	0.913	NCIT
+ETHOX_I	Ethylene Oxide	Ethylene Oxide	NCIT:C29821	http://purl.obolibrary.org/obo/NCIT_C29821	0.996	NCIT
+FORMAL_I	Formaldehyde	Formaldehyde	NCIT:C29744	http://purl.obolibrary.org/obo/NCIT_C29744	0.987	NCIT
+PAH_I	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	Polycyclic Aromatic Hydrocarbons	NCIT:C761	http://purl.obolibrary.org/obo/NCIT_C761	0.916	NCIT
 PAHS_I	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	Polycyclic Aromatic Hydrocarbons	NCIT:C761	http://purl.obolibrary.org/obo/NCIT_C761	0.826	NCIT
 VID_I	Vitamin D	Ergocalciferol	NCIT:C29029	http://purl.obolibrary.org/obo/NCIT_C29029	0.988	NCIT
-UFLDE_I	Fluoride - Urine	Fluoride Ion	NCIT:C28149	http://purl.obolibrary.org/obo/NCIT_C28149	0.9	NCIT
-SSGLYP_I	Glyphosate (GLYP) - Urine (Surplus)	Glyphosate	NCIT:C163664	http://purl.obolibrary.org/obo/NCIT_C163664	0.826	NCIT
-PFQ_I	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.887	NCIT
-CDQ_I	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.901	NCIT
-MCQ_I	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.917	NCIT
+UFLDE_I	Fluoride - Urine	Fluoride Ion	NCIT:C28149	http://purl.obolibrary.org/obo/NCIT_C28149	0.903	NCIT
+SSGLYP_I	Glyphosate (GLYP) - Urine (Surplus)	Glyphosate	NCIT:C163664	http://purl.obolibrary.org/obo/NCIT_C163664	0.829	NCIT
+PFQ_I	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.886	NCIT
+CDQ_I	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.909	NCIT
+MCQ_I	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.914	NCIT
 HEQ_I	Hepatitis	Hepatitis	NCIT:C3095	http://purl.obolibrary.org/obo/NCIT_C3095	0.995	NCIT
-DLQ_I	Disability	Disability	NCIT:C21007	http://purl.obolibrary.org/obo/NCIT_C21007	0.988	NCIT
-HIQ_I	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.978	NCIT
-PAQ_I	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.992	NCIT
-IMQ_I	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.993	NCIT
-SMQSHS_I	Smoking - Secondhand Smoke Exposure	Was the Individual Exposed to Second-Hand Smoke	NCIT:C159576	http://purl.obolibrary.org/obo/NCIT_C159576	0.924	NCIT
-SMQRTU_I	Smoking - Recent Tobacco Use	Tobacco Smoking	NCIT:C17934	http://purl.obolibrary.org/obo/NCIT_C17934	0.811	NCIT
-SMQ_I	Smoking - Cigarette Use	Cigarette Smoking	NCIT:C18270	http://purl.obolibrary.org/obo/NCIT_C18270	0.946	NCIT
+DLQ_I	Disability	Disability	NCIT:C21007	http://purl.obolibrary.org/obo/NCIT_C21007	0.987	NCIT
+HIQ_I	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.976	NCIT
+PAQ_I	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.993	NCIT
+IMQ_I	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.994	NCIT
+SMQSHS_I	Smoking - Secondhand Smoke Exposure	Was the Individual Exposed to Second-Hand Smoke	NCIT:C159576	http://purl.obolibrary.org/obo/NCIT_C159576	0.92	NCIT
+SMQRTU_I	Smoking - Recent Tobacco Use	Tobacco Smoking	NCIT:C17934	http://purl.obolibrary.org/obo/NCIT_C17934	0.813	NCIT
+SMQ_I	Smoking - Cigarette Use	Cigarette Smoking	NCIT:C18270	http://purl.obolibrary.org/obo/NCIT_C18270	0.948	NCIT
 DIQ_I	Diabetes	Diabetes Mellitus	NCIT:C2985	http://purl.obolibrary.org/obo/NCIT_C2985	0.987	NCIT
 DEQ_I	Dermatology	Dermatology	NCIT:C16500	http://purl.obolibrary.org/obo/NCIT_C16500	0.994	NCIT
-HOQ_I	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.828	NCIT
-SXQ_I	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.987	NCIT
+HOQ_I	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.83	NCIT
+SXQY_I_R	Sexual Behavior - Youth	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.886	NCIT
+SXQ_I	Sexual Behavior	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.988	NCIT
 INQ_I	Income	Income	NCIT:C41150	http://purl.obolibrary.org/obo/NCIT_C41150	0.992	NCIT
-ACQ_I	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.99	NCIT
+ACQ_I	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.991	NCIT
 ECQ_I	Early Childhood	Early Childhood	NCIT:C89346	http://purl.obolibrary.org/obo/NCIT_C89346	0.989	NCIT
-OCQ_I	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.993	NCIT
-PUQMEC_I	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.875	NCIT
-RHQ_I	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.889	NCIT
-WHQ_I	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.99	NCIT
-WHQMEC_I	Weight History - Youth	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.814	NCIT
-SLQ_I	Sleep Disorders	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.926	NCIT
+OCQ_I	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.992	NCIT
+PUQMEC_I	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.876	NCIT
+RHQ_I	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.885	NCIT
+WHQ_I	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.991	NCIT
+WHQMEC_I	Weight History - Youth	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.899	NCIT
+SLQ_I	Sleep Disorders	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.928	NCIT
 AUQ_I	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
-ALQ_I	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.985	NCIT
-DUQ_I	Drug Use	Medication	NCIT:C459	http://purl.obolibrary.org/obo/NCIT_C459	0.889	NCIT
-FSQ_I	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.863	NCIT
-DSQTOT_J	Dietary Supplement Use 30-Day - Total Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.879	NCIT
-DS1TOT_J	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.812	NCIT
-DS2TOT_J	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.816	NCIT
-DSQIDS_J	Dietary Supplement Use 30-Day - Individual Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.843	NCIT
-BPX_J	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.986	NCIT
-LUX_J	Liver Ultrasound Transient Elastography	Ultrasonographic Elastography	NCIT:C172563	http://purl.obolibrary.org/obo/NCIT_C172563	0.817	NCIT
+ALQY_I_R	Alcohol Use - Youth	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.855	NCIT
+ALQ_I	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.986	NCIT
+DUQ_I	Drug Use	Drug User	NCIT:C84366	http://purl.obolibrary.org/obo/NCIT_C84366	0.88	NCIT
+FSQ_I	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.865	NCIT
+DSQTOT_J	Dietary Supplement Use 30-Day - Total Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.881	NCIT
+DS1TOT_J	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.824	NCIT
+DS2TOT_J	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.828	NCIT
+DSQIDS_J	Dietary Supplement Use 30-Day - Individual Dietary Supplements	Dietary Supplement Marketing Category	NCIT:C86952	http://purl.obolibrary.org/obo/NCIT_C86952	0.845	NCIT
+BPX_J	Blood Pressure	Blood Pressure	NCIT:C54706	http://purl.obolibrary.org/obo/NCIT_C54706	0.988	NCIT
+LUX_J	Liver Ultrasound Transient Elastography	Ultrasonographic Elastography	NCIT:C172563	http://purl.obolibrary.org/obo/NCIT_C172563	0.816	NCIT
 AUX_J	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
-AUXTYM_J	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.876	NCIT
-UCFLOW_J	Urine Flow Rate	Flow Rate	NCIT:C82554	http://purl.obolibrary.org/obo/NCIT_C82554	0.903	NCIT
+AUXTYM_J	Audiometry - Tympanometry	Tympanometry	NCIT:C88505	http://purl.obolibrary.org/obo/NCIT_C88505	0.873	NCIT
+UCFLOW_J	Urine Flow Rate	Flow Rate	NCIT:C82554	http://purl.obolibrary.org/obo/NCIT_C82554	0.909	NCIT
 FASTQX_J	Fasting Questionnaire	Questionnaire	NCIT:C17048	http://purl.obolibrary.org/obo/NCIT_C17048	0.829	NCIT
 UCPREG_J	Urine Pregnancy Test	Pregnancy Test	NCIT:C92949	http://purl.obolibrary.org/obo/NCIT_C92949	0.93	NCIT
-HIV_J	HIV Antibody Test	HIV Antibody	NCIT:C16688	http://purl.obolibrary.org/obo/NCIT_C16688	0.872	NCIT
-HEPA_J	Hepatitis A	Hepatitis A Infection	NCIT:C3096	http://purl.obolibrary.org/obo/NCIT_C3096	0.992	NCIT
+HIV_J	HIV Antibody Test	HIV Antibody	NCIT:C16688	http://purl.obolibrary.org/obo/NCIT_C16688	0.87	NCIT
+HEPA_J	Hepatitis A	Hepatitis A Infection	NCIT:C3096	http://purl.obolibrary.org/obo/NCIT_C3096	0.993	NCIT
 HEPB_S_J	Hepatitis B: Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9	NCIT
 TCHOL_J	Cholesterol - Total	Serum Total Cholesterol Measurement	NCIT:C61032	http://purl.obolibrary.org/obo/NCIT_C61032	0.994	NCIT
-HDL_J	Cholesterol - High - Density Lipoprotein (HDL)	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.833	NCIT
-CMV_J	Cytomegalovirus IgG & IgM Antibodies - Serum	Cytomegalovirus IgM Antibody Measurement	NCIT:C96597	http://purl.obolibrary.org/obo/NCIT_C96597	0.833	NCIT
-INS_J	Insulin	Insulin	NCIT:C2271	http://purl.obolibrary.org/obo/NCIT_C2271	0.985	NCIT
+HDL_J	Cholesterol - High - Density Lipoprotein (HDL)	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.832	NCIT
+CMV_J	Cytomegalovirus IgG & IgM Antibodies - Serum	Cytomegalovirus IgM Antibody Measurement	NCIT:C96597	http://purl.obolibrary.org/obo/NCIT_C96597	0.829	NCIT
+HSV_J_R	Herpes Simplex Virus Type-2 - Youth	Human Herpesvirus 2	NCIT:C112313	http://purl.obolibrary.org/obo/NCIT_C112313	0.919	NCIT
+HSVA_J_R	Herpes Simplex Virus Type-1 and Type-2	Human Herpesvirus 1	NCIT:C14311	http://purl.obolibrary.org/obo/NCIT_C14311	0.89	NCIT
+MGEA_J_R	Mycoplasma genitalium - Urine - Adult	Mycoplasma genitalium Measurement	NCIT:C166047	http://purl.obolibrary.org/obo/NCIT_C166047	0.856	NCIT
+MGEN_J_R	Mycoplasma genitalium - Urine - Youth	Mycoplasma genitalium Measurement	NCIT:C166047	http://purl.obolibrary.org/obo/NCIT_C166047	0.906	NCIT
+TRIC_J_R	Trichomonas - Urine - Youth	Trichomonas Screening	NCIT:C92238	http://purl.obolibrary.org/obo/NCIT_C92238	0.851	NCIT
+INS_J	Insulin	Insulin	NCIT:C2271	http://purl.obolibrary.org/obo/NCIT_C2271	0.987	NCIT
 FERTIN_J	Ferritin	Ferritin Measurement	NCIT:C74737	http://purl.obolibrary.org/obo/NCIT_C74737	0.995	NCIT
-VIC_J	Vitamin C	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.989	NCIT
-FOLATE_J	Folate - RBC	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.99	NCIT
-UM_J	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.825	NCIT
-UCM_J	Chromium - Urine	Dietary Chromium	NCIT:C68245	http://purl.obolibrary.org/obo/NCIT_C68245	0.896	NCIT
-UNI_J	Nickel - Urine	Nickel	NCIT:C690	http://purl.obolibrary.org/obo/NCIT_C690	0.918	NCIT
-UIO_J	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.891	NCIT
+VIC_J	Vitamin C	Vitamin C	NCIT:C68507	http://purl.obolibrary.org/obo/NCIT_C68507	0.988	NCIT
+FOLATE_J	Folate - RBC	Red Blood Cell Folate Measurement	NCIT:C123334	http://purl.obolibrary.org/obo/NCIT_C123334	0.989	NCIT
+UM_J	Metals - Urine	Metal	NCIT:C637	http://purl.obolibrary.org/obo/NCIT_C637	0.837	NCIT
+UCM_J	Chromium - Urine	Dietary Chromium	NCIT:C68245	http://purl.obolibrary.org/obo/NCIT_C68245	0.9	NCIT
+UNI_J	Nickel - Urine	Nickel	NCIT:C690	http://purl.obolibrary.org/obo/NCIT_C690	0.922	NCIT
+UIO_J	Iodine - Urine	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo/NCIT_C68254	0.895	NCIT
 TFR_J	Transferrin Receptor	Transferrin Receptor	NCIT:C17079	http://purl.obolibrary.org/obo/NCIT_C17079	0.987	NCIT
 VID_J	Vitamin D	Ergocalciferol	NCIT:C29029	http://purl.obolibrary.org/obo/NCIT_C29029	0.988	NCIT
-ETHOX_J	Ethylene Oxide	Ethylene Oxide	NCIT:C29821	http://purl.obolibrary.org/obo/NCIT_C29821	0.995	NCIT
+ETHOX_J	Ethylene Oxide	Ethylene Oxide	NCIT:C29821	http://purl.obolibrary.org/obo/NCIT_C29821	0.996	NCIT
 HEQ_J	Hepatitis	Hepatitis	NCIT:C3095	http://purl.obolibrary.org/obo/NCIT_C3095	0.995	NCIT
-CDQ_J	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.901	NCIT
-PAQY_J	Physical Activity - Youth	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.801	NCIT
-PAQ_J	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.992	NCIT
-IMQ_J	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.993	NCIT
-HIQ_J	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.978	NCIT
-DLQ_J	Disability	Disability	NCIT:C21007	http://purl.obolibrary.org/obo/NCIT_C21007	0.988	NCIT
+CDQ_J	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.909	NCIT
+PAQY_J	Physical Activity - Youth	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.889	NCIT
+PAQ_J	Physical Activity	Physical Activity	NCIT:C17708	http://purl.obolibrary.org/obo/NCIT_C17708	0.993	NCIT
+IMQ_J	Immunization	Immunization	NCIT:C15258	http://purl.obolibrary.org/obo/NCIT_C15258	0.994	NCIT
+HIQ_J	Health Insurance	Private Health Insurance	NCIT:C70696	http://purl.obolibrary.org/obo/NCIT_C70696	0.976	NCIT
+DLQ_J	Disability	Disability	NCIT:C21007	http://purl.obolibrary.org/obo/NCIT_C21007	0.987	NCIT
 DIQ_J	Diabetes	Diabetes Mellitus	NCIT:C2985	http://purl.obolibrary.org/obo/NCIT_C2985	0.987	NCIT
-PFQ_J	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.887	NCIT
-SMQRTU_J	Smoking - Recent Tobacco Use	Tobacco Smoking	NCIT:C17934	http://purl.obolibrary.org/obo/NCIT_C17934	0.811	NCIT
-SMQSHS_J	Smoking - Secondhand Smoke Exposure	Was the Individual Exposed to Second-Hand Smoke	NCIT:C159576	http://purl.obolibrary.org/obo/NCIT_C159576	0.924	NCIT
-SMQ_J	Smoking - Cigarette Use	Cigarette Smoking	NCIT:C18270	http://purl.obolibrary.org/obo/NCIT_C18270	0.946	NCIT
-MCQ_J	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.917	NCIT
-HOQ_J	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.828	NCIT
+PFQ_J	Physical Functioning	PedsQL-4 Physical Functioning Scale	NCIT:C121525	http://purl.obolibrary.org/obo/NCIT_C121525	0.886	NCIT
+SMQRTU_J	Smoking - Recent Tobacco Use	Tobacco Smoking	NCIT:C17934	http://purl.obolibrary.org/obo/NCIT_C17934	0.813	NCIT
+SMQSHS_J	Smoking - Secondhand Smoke Exposure	Was the Individual Exposed to Second-Hand Smoke	NCIT:C159576	http://purl.obolibrary.org/obo/NCIT_C159576	0.92	NCIT
+SMQ_J	Smoking - Cigarette Use	Cigarette Smoking	NCIT:C18270	http://purl.obolibrary.org/obo/NCIT_C18270	0.948	NCIT
+MCQ_J	Medical Conditions	Medical Condition	NCIT:C156809	http://purl.obolibrary.org/obo/NCIT_C156809	0.914	NCIT
+HOQ_J	Housing Characteristics	Characteristic	NCIT:C25447	http://purl.obolibrary.org/obo/NCIT_C25447	0.83	NCIT
 DEQ_J	Dermatology	Dermatology	NCIT:C16500	http://purl.obolibrary.org/obo/NCIT_C16500	0.994	NCIT
 INQ_J	Income	Income	NCIT:C41150	http://purl.obolibrary.org/obo/NCIT_C41150	0.992	NCIT
-ACQ_J	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.99	NCIT
-RHQ_J	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.889	NCIT
-SLQ_J	Sleep Disorders	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.926	NCIT
-OCQ_J	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.993	NCIT
-DUQ_J	Drug Use	Medication	NCIT:C459	http://purl.obolibrary.org/obo/NCIT_C459	0.889	NCIT
+ACQ_J	Acculturation	Acculturation	NCIT:C93211	http://purl.obolibrary.org/obo/NCIT_C93211	0.991	NCIT
+RHQ_J	Reproductive Health	Reproduction	NCIT:C17087	http://purl.obolibrary.org/obo/NCIT_C17087	0.885	NCIT
+SLQ_J	Sleep Disorders	Sleep Disorder	NCIT:C3376	http://purl.obolibrary.org/obo/NCIT_C3376	0.928	NCIT
+OCQ_J	Occupation	Occupation	NCIT:C25193	http://purl.obolibrary.org/obo/NCIT_C25193	0.992	NCIT
+DUQ_J	Drug Use	Drug User	NCIT:C84366	http://purl.obolibrary.org/obo/NCIT_C84366	0.88	NCIT
 ECQ_J	Early Childhood	Early Childhood	NCIT:C89346	http://purl.obolibrary.org/obo/NCIT_C89346	0.989	NCIT
-OSQ_J	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.992	NCIT
-WHQ_J	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.99	NCIT
-WHQMEC_J	Weight History - Youth	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.814	NCIT
+OSQ_J	Osteoporosis	Osteoporosis, CTCAE 3.0	NCIT:C58396	http://purl.obolibrary.org/obo/NCIT_C58396	0.993	NCIT
+WHQ_J	Weight History	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.991	NCIT
+WHQMEC_J	Weight History - Youth	Weight History	NCIT:C153307	http://purl.obolibrary.org/obo/NCIT_C153307	0.899	NCIT
 AUQ_J	Audiometry	Audiometric Test	NCIT:C38036	http://purl.obolibrary.org/obo/NCIT_C38036	0.995	NCIT
-PUQMEC_J	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.875	NCIT
-ALQ_J	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.985	NCIT
-FSQ_J	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.863	NCIT
-DSQIDS_E	Dietary Supplement Use 30 Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.848	FOODON
-DSQTOT_E	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.884	FOODON
-DS1TOT_E	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.817	FOODON
-DS2TOT_E	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.821	FOODON
-DSQIDS_F	Dietary Supplement Use 30 Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.848	FOODON
-DSQTOT_F	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.884	FOODON
-DS1TOT_F	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.817	FOODON
-DSQIDS_G	Dietary Supplement Use 30 Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.848	FOODON
-DSQTOT_G	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.884	FOODON
-DS1TOT_G	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.817	FOODON
-DS2TOT_G	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.821	FOODON
-DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.848	FOODON
-DS1TOT_H	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.817	FOODON
-DS2TOT_H	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.821	FOODON
-DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.884	FOODON
-DS1TOT_I	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.817	FOODON
-DS2TOT_I	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.821	FOODON
-DSQIDS_I	Dietary Supplement Use 30-Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.848	FOODON
-DSQTOT_J	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.884	FOODON
-DS1TOT_J	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.817	FOODON
-DS2TOT_J	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.821	FOODON
-DSQIDS_J	Dietary Supplement Use 30-Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.848	FOODON
+SXQY_J_R	Sexual Behavior - Youth	Sex Behavior	NCIT:C17127	http://purl.obolibrary.org/obo/NCIT_C17127	0.886	NCIT
+PUQMEC_J	Pesticide Use	Pesticide	NCIT:C737	http://purl.obolibrary.org/obo/NCIT_C737	0.876	NCIT
+ALQY_J_R	Alcohol Use - Youth	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.855	NCIT
+ALQ_J	Alcohol Use	Alcohol Use History	NCIT:C81229	http://purl.obolibrary.org/obo/NCIT_C81229	0.986	NCIT
+FSQ_J	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obolibrary.org/obo/NCIT_C171593	0.865	NCIT
+DS2IDS_E	Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.803	FOODON
+DSQIDS_E	Dietary Supplement Use 30 Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.85	FOODON
+DSQTOT_E	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.885	FOODON
+DS1TOT_E	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.828	FOODON
+DS2TOT_E	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.833	FOODON
+DS2IDS_F	Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.803	FOODON
+DSQIDS_F	Dietary Supplement Use 30 Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.85	FOODON
+DSQTOT_F	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.885	FOODON
+DS1TOT_F	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.828	FOODON
+DSQIDS_G	Dietary Supplement Use 30 Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.85	FOODON
+DSQTOT_G	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.885	FOODON
+DS2IDS_G	Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.803	FOODON
+DS1TOT_G	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.828	FOODON
+DS2TOT_G	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.833	FOODON
+DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.85	FOODON
+DS2IDS_H	Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.803	FOODON
+DS1TOT_H	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.828	FOODON
+DS2TOT_H	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.833	FOODON
+DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.885	FOODON
+DS2IDS_I	Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.803	FOODON
+DS1TOT_I	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.828	FOODON
+DS2TOT_I	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.833	FOODON
+DSQIDS_I	Dietary Supplement Use 30-Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.85	FOODON
+DSQTOT_J	Dietary Supplement Use 30-Day - Total Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.885	FOODON
+DS2IDS_J	Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.803	FOODON
+DS1TOT_J	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.828	FOODON
+DS2TOT_J	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.833	FOODON
+DSQIDS_J	Dietary Supplement Use 30-Day - Individual Dietary Supplements	dietary supplement	FOODON:03401298	http://purl.obolibrary.org/obo/FOODON_03401298	0.85	FOODON
