@@ -3,7 +3,7 @@ This folder contains NHANES metadata tables extracted via [code/get_nhanes_metad
 ## nhanes_tables.tsv
 
 | Table | TableName | BeginYear | EndYear | DataGroup | UseConstraints |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+|-------|-----------|-----------|---------|-----------|----------------|
 
 - `Table` contains table identifiers, e.g., `BPX_I`.
 - `TableName` contains table names, e.g., `Blood Pressure`.
@@ -12,19 +12,21 @@ This folder contains NHANES metadata tables extracted via [code/get_nhanes_metad
 
 ## nhanes_variables.tsv
 
-| Variable | Table | SASLabel | EnglishText | Target | UseConstraints |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Variable | Table | SASLabel | EnglishText | Target | UseConstraints | ProcessedText | Tags |
+|----------|-------|----------|-------------|--------|----------------|---------------|------|
 
-- `Variable` contains variable identifiers, e.g., `BPXPTY`.
+- `Variable` contains variable identifiers, e.g., `PEASCCT1`.
 - `Table` contains table identifiers, e.g., `BPX_I`.
-- `SASLabel` contains variable labels, e.g., `Pulse type`.
+- `SASLabel` contains variable labels, e.g., `Blood Pressure Comment`.
+- `ProcessedText` contains the processed label, e.g., `Blood Pressure`.
+- `Tags` contains the tags attached to the variable during preprocessing, e.g., `comment`.
 
 
 ## nhanes_variables_codebooks.tsv 
 contains _**variable codebooks**_ which specify possible responses to questions (represented by the variables).
 
 | Variable | Table | CodeOrValue | ValueDescription | Count | Cumulative | SkipToItem |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+|----------|-------|-------------|------------------|-------|------------|------------|
 
 Similar to `nhanes_variables.tsv`:
 - `Variable` contains variable identifiers.
@@ -32,7 +34,7 @@ Similar to `nhanes_variables.tsv`:
 
 
 ## missing_codebooks.tsv
-contains variables that are listed by `nhanesTableVars()` but that do not have a corresponding codebook obtainable via the `nhanesCodebook()` function in nhanesA.
+contains variables that are listed by `nhanesTableVars()` but that do not have a corresponding codebook obtainable via the `nhanesCodebook()` function in nhanesA, which occurs with numerical variables.
 
 
 ## log.txt
