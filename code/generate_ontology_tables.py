@@ -4,7 +4,7 @@ import urllib.request
 import bioregistry
 import pandas as pd
 
-__version__ = "0.6.0"
+__version__ = "0.6.1"
 
 SUBJECT_COL = "Subject"
 OBJECT_COL = "Object"
@@ -19,8 +19,10 @@ def get_semsql_tables_for_ontologies(ontologies,
                                      save_tables=False):
     all_edges = all_entailed_edges = all_labels = all_dbxrefs = pd.DataFrame()
     for ontology in ontologies:
+        ontology_url = "https://s3.amazonaws.com/bbop-sqlite/" + ontology.lower() + ".db"
+        print(f"Downloading database file for {ontology} from {ontology_url}...")
         edges, entailed_edges, labels, dbxrefs, version = \
-            get_semsql_tables_for_ontology(ontology_url="https://s3.amazonaws.com/bbop-sqlite/" + ontology + ".db",
+            get_semsql_tables_for_ontology(ontology_url=ontology_url,
                                            ontology_name=ontology,
                                            db_output_folder=db_output_folder,
                                            save_tables=False)
@@ -44,7 +46,6 @@ def get_semsql_tables_for_ontology(ontology_url, ontology_name, tables_output_fo
     if not os.path.isfile(db_file):
         if not os.path.exists(db_output_folder):
             os.makedirs(db_output_folder)
-        print(f"Downloading database file for {ontology_name}...")
         urllib.request.urlretrieve(ontology_url, db_file)
     print(f"Generating tables for {ontology_name}...")
     conn = sqlite3.connect(db_file)
@@ -55,7 +56,8 @@ def get_semsql_tables_for_ontology(ontology_url, ontology_name, tables_output_fo
     labels_df = _get_labels_table(cursor)
     dbxrefs_df = _get_db_cross_references_table(cursor)
     onto_version = _get_ontology_version(cursor)
-    print(f"\tversion: {onto_version}")
+    if onto_version != "":
+        print(f"\tversion: {onto_version}")
     cursor.close()
     conn.close()
     if save_tables:
