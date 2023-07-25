@@ -129,7 +129,7 @@ def top_mappings(mappings_df):
 
 def flag_mapped_variables(nhanes_variables, mappings):
     # Convert the mappings data frame into a set of tuples for faster lookup
-    mappings_set = set(zip(mappings["Variable"], mappings["Table"]))
+    mappings_set = set(zip(mappings[NHANES_VARIABLE_ID_COL], mappings[NHANES_TABLE_ID_COL]))
 
     # Add a column to the nhanes_variables data frame to specify if a variable has or has not been ontology-mapped
     nhanes_variables["OntologyMapped"] = nhanes_variables.apply(lambda row: check_mapping(row, mappings_set), axis=1)
@@ -137,7 +137,7 @@ def flag_mapped_variables(nhanes_variables, mappings):
 
 
 def check_mapping(row, mappings):
-    return "Yes" if (row["Variable"], row["Table"]) in mappings else "No"
+    return "Yes" if (row[NHANES_VARIABLE_ID_COL], row[NHANES_TABLE_ID_COL]) in mappings else "No"
 
 
 def save_mappings_file(mappings_df, output_file_label, output_file_suffix="", output_folder=MAPPINGS_OUTPUT_FOLDER,
