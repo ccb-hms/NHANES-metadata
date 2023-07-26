@@ -8,6 +8,7 @@ permissions:
   issues: write 
 jobs:
   create-new-db-update-issue:
+    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - uses: dacbd/create-issue-action@main
