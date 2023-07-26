@@ -12,14 +12,15 @@ This folder contains NHANES metadata tables extracted via [code/get_nhanes_metad
 
 ## nhanes_variables.tsv
 
-| Variable | Table | SASLabel | EnglishText | Target | UseConstraints | ProcessedText | Tags |
-|----------|-------|----------|-------------|--------|----------------|---------------|------|
+| Variable | Table | SASLabel | EnglishText | Target | UseConstraints | ProcessedText | Tags | OntologyMapped |
+|----------|-------|----------|-------------|--------|----------------|---------------|------|----------------|
 
 - `Variable` contains variable identifiers, e.g., `PEASCCT1`.
 - `Table` contains table identifiers, e.g., `BPX_I`.
 - `SASLabel` contains variable labels, e.g., `Blood Pressure Comment`.
 - `ProcessedText` contains the processed label, e.g., `Blood Pressure`.
 - `Tags` contains the tags attached to the variable during preprocessing, e.g., `comment`.
+- `OntologyMapped` specifies if a variable has been mapped to an ontology. 
 
 
 ## nhanes_variables_codebooks.tsv 
