@@ -4,7 +4,7 @@ import urllib.request
 import bioregistry
 import pandas as pd
 
-__version__ = "0.7.0"
+__version__ = "0.8.0"
 
 SUBJECT_COL = "Subject"
 OBJECT_COL = "Object"
@@ -17,28 +17,31 @@ def get_semsql_tables_for_ontologies(ontologies,
                                      tables_output_folder='../ontology-tables',
                                      db_output_folder="../ontology-db",
                                      save_tables=False, single_table_for_all_ontologies=False):
-    all_edges = all_entailed_edges = all_labels = all_dbxrefs = pd.DataFrame()
+    all_edges = all_entailed_edges = all_labels = all_dbxrefs = all_synonyms = pd.DataFrame()
     for ontology in ontologies:
         ontology_url = "https://s3.amazonaws.com/bbop-sqlite/" + ontology.lower() + ".db"
         print(f"Downloading database file for {ontology} from {ontology_url}...")
-        edges, entailed_edges, labels, dbxrefs, version = \
+        edges, entailed_edges, labels, dbxrefs, synonyms, version = \
             get_semsql_tables_for_ontology(ontology_url=ontology_url,
                                            ontology_name=ontology,
                                            db_output_folder=db_output_folder,
                                            save_tables=(not single_table_for_all_ontologies))
         if single_table_for_all_ontologies:
-            labels[ONTOLOGY_COL] = edges[ONTOLOGY_COL] = entailed_edges[ONTOLOGY_COL] = dbxrefs[ONTOLOGY_COL] = ontology
+            labels[ONTOLOGY_COL] = edges[ONTOLOGY_COL] = entailed_edges[ONTOLOGY_COL] = dbxrefs[ONTOLOGY_COL] = \
+                synonyms[ONTOLOGY_COL] = ontology
             all_labels = pd.concat([all_labels, labels])
             all_edges = pd.concat([all_edges, edges])
             all_entailed_edges = pd.concat([all_entailed_edges, entailed_edges])
             all_dbxrefs = pd.concat([all_dbxrefs, dbxrefs])
+            all_synonyms = pd.concat([all_synonyms, synonyms])
 
     if save_tables and single_table_for_all_ontologies:
         save_table(all_labels, "ontology_labels.tsv", tables_output_folder)
         save_table(all_edges, "ontology_edges.tsv", tables_output_folder)
         save_table(all_entailed_edges, "ontology_entailed_edges.tsv", tables_output_folder)
         save_table(all_dbxrefs, "ontology_dbxrefs.tsv", tables_output_folder)
-    return all_edges, all_entailed_edges, all_labels, all_dbxrefs
+        save_table(all_synonyms, "ontology_synonyms.tsv", tables_output_folder)
+    return all_edges, all_entailed_edges, all_labels, all_dbxrefs, all_synonyms
 
 
 def get_semsql_tables_for_ontology(ontology_url, ontology_name, tables_output_folder='../ontology-tables',
@@ -56,6 +59,7 @@ def get_semsql_tables_for_ontology(ontology_url, ontology_name, tables_output_fo
     entailed_edges_df = _get_entailed_edges_table(cursor)
     labels_df = _get_labels_table(cursor)
     dbxrefs_df = _get_db_cross_references_table(cursor)
+    synonyms_df = _get_synonyms_table(cursor)
     onto_version = _get_ontology_version(cursor)
     if onto_version != "":
         print(f"\tversion: {onto_version}")
@@ -66,7 +70,8 @@ def get_semsql_tables_for_ontology(ontology_url, ontology_name, tables_output_fo
         save_table(edges_df, ontology_name.lower() + "_entailed_edges.tsv", tables_output_folder)
         save_table(entailed_edges_df, ontology_name.lower() + "_edges.tsv", tables_output_folder)
         save_table(dbxrefs_df, ontology_name.lower() + "_dbxrefs.tsv", tables_output_folder)
-    return edges_df, entailed_edges_df, labels_df, dbxrefs_df, onto_version
+        save_table(synonyms_df, ontology_name.lower() + "_synonyms.tsv", tables_output_folder)
+    return edges_df, entailed_edges_df, labels_df, dbxrefs_df, synonyms_df, onto_version
 
 
 def _get_ontology_version(cursor):
@@ -132,6 +137,19 @@ def _get_db_cross_references_table(cursor):
     db_xrefs = db_xrefs[db_xrefs[SUBJECT_COL].str.startswith("_:") == False]  # remove blank nodes
     db_xrefs = fix_identifiers(db_xrefs, columns=[SUBJECT_COL])
     return db_xrefs
+
+
+def _get_synonyms_table(cursor):
+    cursor.execute("SELECT * FROM has_exact_synonym_statement")
+    synonyms_df_columns = [x[0] for x in cursor.description]
+    synonyms_df_data = cursor.fetchall()
+    synonyms_df = pd.DataFrame(synonyms_df_data, columns=synonyms_df_columns)
+    synonyms_df = synonyms_df.drop(columns=["stanza", "predicate", "object", "datatype", "language"])
+    synonyms_df = synonyms_df.rename(columns={'value': OBJECT_COL, 'subject': SUBJECT_COL})
+    synonyms_df = synonyms_df.drop_duplicates()
+    synonyms_df = synonyms_df[synonyms_df[SUBJECT_COL].str.startswith("_:") == False]  # remove blank nodes
+    synonyms_df = fix_identifiers(synonyms_df, columns=[SUBJECT_COL])
+    return synonyms_df
 
 
 def get_iri(curie):
