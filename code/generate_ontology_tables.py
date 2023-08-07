@@ -3,13 +3,15 @@ import sqlite3
 import urllib.request
 import bioregistry
 import pandas as pd
+from collections import deque
 
-__version__ = "0.8.0"
+__version__ = "0.9.0"
 
 SUBJECT_COL = "Subject"
 OBJECT_COL = "Object"
 IRI_COL = "IRI"
 ONTOLOGY_COL = "Ontology"
+DISEASE_LOCATION_COL = "DiseaseLocation"
 IRI_PRIORITY_LIST = ["obofoundry", "default", "bioregistry"]
 
 
@@ -20,7 +22,6 @@ def get_semsql_tables_for_ontologies(ontologies,
     all_edges = all_entailed_edges = all_labels = all_dbxrefs = all_synonyms = pd.DataFrame()
     for ontology in ontologies:
         ontology_url = "https://s3.amazonaws.com/bbop-sqlite/" + ontology.lower() + ".db"
-        print(f"Downloading database file for {ontology} from {ontology_url}...")
         edges, entailed_edges, labels, dbxrefs, synonyms, version = \
             get_semsql_tables_for_ontology(ontology_url=ontology_url,
                                            ontology_name=ontology,
@@ -50,6 +51,7 @@ def get_semsql_tables_for_ontology(ontology_url, ontology_name, tables_output_fo
     if not os.path.isfile(db_file):
         if not os.path.exists(db_output_folder):
             os.makedirs(db_output_folder)
+        print(f"Downloading database file for {ontology_name} from {ontology_url}...")
         urllib.request.urlretrieve(ontology_url, db_file)
     print(f"Generating tables for {ontology_name}...")
     conn = sqlite3.connect(db_file)
@@ -62,7 +64,7 @@ def get_semsql_tables_for_ontology(ontology_url, ontology_name, tables_output_fo
     synonyms_df = _get_synonyms_table(cursor)
     onto_version = _get_ontology_version(cursor)
     if onto_version != "":
-        print(f"\tversion: {onto_version}")
+        print(f"\t{ontology_name} version: {onto_version}")
     cursor.close()
     conn.close()
     if save_tables:
@@ -123,6 +125,8 @@ def _get_labels_table(cursor):
     labels_df = fix_identifiers(labels_df, columns=[SUBJECT_COL])
     labels_df[OBJECT_COL] = labels_df[OBJECT_COL].str.strip()
     labels_df[IRI_COL] = labels_df[SUBJECT_COL].apply(get_iri)
+    labels_df[DISEASE_LOCATION_COL] = labels_df[SUBJECT_COL].apply(_get_disease_location_for_term,
+                                                                   connection=cursor.connection)
     return labels_df
 
 
@@ -167,18 +171,59 @@ def fix_identifiers(df, columns=()):
 
 
 def get_curie_id_for_term(term):
-    if not pd.isna(term):
-        if "<" in term or "http" in term:
-            term = term.replace("<", "")
-            term = term.replace(">", "")
-            curie = bioregistry.curie_from_iri(term)
-            if curie is None:
-                if "http://dbpedia.org" in term:
-                    return "DBR:" + term.rsplit('/', 1)[1]
-                else:
-                    return term
-            return curie.upper()
+    if (not pd.isna(term)) and ("<" in term or "http" in term):
+        term = term.replace("<", "")
+        term = term.replace(">", "")
+        if "," in term:
+            tokens = term.split(",")
+            curies = [_get_curie(token.strip()) for token in tokens]
+            curies = ",".join(curies)
+            return curies
+        else:
+            return _get_curie(term)
     return term
+
+
+def _get_curie(term):
+    curie = bioregistry.curie_from_iri(term)
+    if curie is None:
+        if "http://dbpedia.org" in term:
+            return "DBR:" + term.rsplit('/', 1)[1]
+        else:
+            return term
+    return curie.upper()
+
+
+def _get_disease_location(connection, subject):
+    disease_location_query = f"SELECT object FROM owl_subclass_of_some_values_from " \
+                             f"WHERE predicate='EFO:0000784' AND subject='{subject}'"
+    locations = pd.read_sql_query(disease_location_query, connection)
+    locations = locations[~locations['object'].str.startswith("_")]  # remove rows where locations are blank nodes
+    return locations["object"].tolist()
+
+
+def _get_parents(connection, subject):
+    parents_query = f"SELECT object FROM edge WHERE subject='{subject}' AND predicate='rdfs:subClassOf'"
+    parents = pd.read_sql_query(parents_query, connection)
+    parents = parents[~parents['object'].str.startswith("_")]  # remove blank nodes
+    return parents["object"].tolist()
+
+
+def _get_disease_location_for_term(subject, connection):
+    queue = deque([subject])  # Initialize a queue to perform a BFS
+    while queue:
+        current_term = queue.popleft()
+        asserted_location = _get_disease_location(connection, current_term)
+        if len(asserted_location) == 0:
+            parents = _get_parents(connection, current_term)
+            for parent in parents:
+                if parent != "owl:Thing":
+                    queue.append(parent)  # Add the parent terms to the queue to explore their locations after
+        elif len(asserted_location) == 1:
+            return asserted_location[0]
+        else:
+            return ",".join(asserted_location)  # return comma-separated terms
+    return ""  # return empty string if no location is found
 
 
 def save_table(df, output_filename, tables_output_folder):
