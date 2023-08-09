@@ -31,30 +31,18 @@ def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=(
                     max_mappings=MAX_MAPPINGS_PER_ONTOLOGY):
     if not text2term.cache_exists(target_ontology):
         raise FileNotFoundError("Could not find cache file for ontology: " + target_ontology)
-    if isinstance(terms_to_map[0], text2term.TaggedTerm):
-        mappings_df = text2term.map_tagged_terms(
-            tagged_terms_dict=terms_to_map,
-            target_ontology=target_ontology,
-            source_terms_ids=term_identifiers,
-            max_mappings=max_mappings,
-            min_score=min_mapping_score,
-            base_iris=base_iris,
-            excl_deprecated=True,
-            save_mappings=False,
-            use_cache=True
-        )
-    else:
-        mappings_df = text2term.map_terms(
-            source_terms=terms_to_map,
-            target_ontology=target_ontology,
-            source_terms_ids=term_identifiers,
-            max_mappings=max_mappings,
-            min_score=min_mapping_score,
-            base_iris=base_iris,
-            excl_deprecated=True,
-            save_mappings=False,
-            use_cache=True
-        )
+    mappings_df = text2term.map_terms(
+        source_terms=terms_to_map,
+        target_ontology=target_ontology,
+        source_terms_ids=term_identifiers,
+        max_mappings=max_mappings,
+        min_score=min_mapping_score,
+        base_iris=base_iris,
+        excl_deprecated=True,
+        save_mappings=False,
+        use_cache=True,
+        incl_unmapped=True
+    )
     mappings_df[ONTOLOGY_COL] = target_ontology
     mappings_df[MAPPING_SCORE_COL] = mappings_df[MAPPING_SCORE_COL].astype(float).round(decimals=3)
     return mappings_df

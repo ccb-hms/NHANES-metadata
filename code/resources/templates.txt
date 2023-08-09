@@ -32,7 +32,7 @@ HH Ref Person (.*)
 Num times (.*) eaten in past 30 days
 Had (.*) in last 30 minutes\?
 Excluded per (.*)
-Amount of (time) spend (in) (.*)
+Amount of (time )spend (in) (.*)
 Had (.*) Last 24 Hours(.*)\?
 Estimated (.*)
 Had (.*)\?
