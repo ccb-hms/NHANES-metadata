@@ -5,5 +5,7 @@ We use readily available [SemanticSQL](https://github.com/INCATools/semantic-sql
 * `ontology_labels.tsv` contains the labels of all ontology terms (specified via _rdfs:label_).
 * `ontology_edges.tsv` contains the asserted _rdfs:subClassOf_ relationships between ontology terms.   
 * `ontology_entailed_edges.tsv` contains the inferred _rdfs:subClassOf_ relationships between ontology terms—i.e., the relationships obtained after reasoning over the ontology—this includes asserted relationships.
+* `ontology_dbxrefs.tsv` contains the multiple database/ontology cross-references associated with each ontology term.
+* `ontology_synonyms.tsv` contains the multiple synonyms associated with each ontology term.
 
 Each file contains all the relationships of that type in all the ontologies—for example, all term labels (from EFO, NCIt, etc.) can be found in the `ontology_labels.tsv` table.
