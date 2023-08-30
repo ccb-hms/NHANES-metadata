@@ -2,6 +2,7 @@ import os
 import pandas as pd
 from generate_mapping_report import get_mapping_counts_to_ontologies
 
+__version__ = "0.2.0"
 
 ONTOLOGY_TABLES_FOLDER = "../ontology-tables/"
 
@@ -20,7 +21,7 @@ if __name__ == "__main__":
 
     for labels_file in labels_files:
         labels_file_path = os.path.join(ONTOLOGY_TABLES_FOLDER, labels_file)
-        labels_df = pd.read_csv(labels_file_path, sep="\t")
+        labels_df = pd.read_csv(labels_file_path, sep="\t", low_memory=False)
 
         # Merge the counts table with the labels table on the "IRI" column
         merged_df = pd.merge(labels_df, mapping_counts_df, on="IRI")
