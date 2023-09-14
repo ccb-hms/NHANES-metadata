@@ -1,7 +1,7 @@
 This folder contains software utilities to perform the tasks below.
 
 ## Retrieve NHANES Metadata
-`get_nhanes_metadata.Rmd` uses the [nhanesA](https://github.com/cjendres1/nhanes) R package to retrieve the metadata about NHANES survey tables, variables and response codes from all available years (pre-pandemic). The metadata are saved in the [metadata](https://github.com/ccb-hms/NHANES-metadata/tree/master/metadata) folder. 
+`get_nhanes_metadata.R` uses the [nhanesA](https://github.com/cjendres1/nhanes) R package to retrieve the metadata about NHANES survey tables, variables and response codes from all available years (pre-pandemic). The metadata are saved in the [metadata](https://github.com/ccb-hms/NHANES-metadata/tree/master/metadata) folder. 
 
 ## Map NHANES Metadata to Ontologies
 `generate_ontology_mappings.py` uses the [text2term](https://github.com/ccb-hms/ontology-mapper) Python package to generate ontology mappings for the labels used to describe NHANES tables and variables. The mappings are saved in the [ontology-mappings](https://github.com/ccb-hms/NHANES-metadata/tree/master/ontology-mappings) folder. 
@@ -21,7 +21,7 @@ Similarly, there are two blocklist files that denote which terms and tables are 
 ## Creating a New Release
 
 The steps to create a new release of the 'NHANES-metadata' resource:
-1. Execute `get_nhanes_metadata.Rmd` to retrieve the metadata from NHANES.
+1. Execute `get_nhanes_metadata.R` to retrieve the metadata from NHANES.
 2. Execute `run_nhanes_utilities.sh` to retrieve ontology tables, ontology mappings and their counts. 
 3. Create new release with the updated tables and file an issue in [NHANES repository](https://github.com/ccb-hms/NHANES). 
 
