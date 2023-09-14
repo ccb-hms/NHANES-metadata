@@ -1,8 +1,10 @@
+install.packages("../lib/nhanesA_0.7.9.tar.gz", repos = NULL, type="source")
 library(nhanesA)
 library(progress)
 
 # Get metadata about NHANES tables from all survey years and data groups.
 get_tables_metadata <- function() {
+  print("Extracting tables metadata...")
   data_groups <- c("DEMOGRAPHICS", "DIETARY", "EXAMINATION", "LABORATORY", "QUESTIONNAIRE")
   survey_years <- c(1999, 2001, 2003, 2005, 2007, 2009, 2011, 2013, 2015, 2017)
   all_tables <- data.frame(matrix(ncol=6, nrow = 0))
@@ -13,6 +15,8 @@ get_tables_metadata <- function() {
     }
   }
   colnames(all_tables) <-c("Table", "TableName", "BeginYear", "EndYear", "DataGroup", "UseConstraints", "DocFile", "DataFile", "DatePublished")
+  write.table(all_tables, file=paste(output_folder, "nhanes_tables.tsv", sep=""),
+              row.names=FALSE, sep="\t", na="")
   return(all_tables)
 }
 
@@ -43,6 +47,7 @@ get_tables <- function(data_group, year) {
 
 # Get metadata about all variables in the given collection of NHANES tables.
 get_variables_metadata <- function(tables) {
+  print("Extracting variables metadata...")
   # Write a table containing metadata about all variables
   all_variables <- data.frame(matrix(ncol=6, nrow = 0))
   colnames(all_variables) <-c("Variable", "Table", "SASLabel", "EnglishText", "Target", "UseConstraints")
@@ -53,7 +58,7 @@ get_variables_metadata <- function(tables) {
   all_codebooks <- data.frame(matrix(ncol=7, nrow = 0))
   variables_codebooks_file <- paste(output_folder, "nhanes_variables_codebooks.tsv", sep="")
   colnames(all_codebooks) <-c("Variable", "Table", "CodeOrValue", "ValueDescription", 
-                                          "Count", "Cumulative", "SkipToItem")
+                              "Count", "Cumulative", "SkipToItem")
   write.table(all_codebooks, file=variables_codebooks_file, row.names=FALSE, na="", sep="\t")
   pb <- progress_bar$new(total = nrow(tables))
   for (nhanes_table in 1:nrow(tables)) {
@@ -87,7 +92,14 @@ get_variables_metadata <- function(tables) {
 get_variables_in_table <- function(table_name, nhanes_data_group) {
   all_variables <- data.frame(matrix(ncol=6, nrow=0))
   all_variable_codebooks <- data.frame(matrix(ncol=7, nrow=0))
-  
+  table_codebooks = {}
+  tryCatch({
+    table_codebooks <- nhanesCodebook(nh_table=table_name)
+  },
+  error=function(e) {
+    log_missing_codebook("Error", conditionMessage(e), table_name=table_name, variable_name="")
+  })
+
   # Get all variables in the specified table
   # Note: the data groups in the data frame returned by nhanesTables() function
   #   are in lower case, but the nhanesTableVars() function argument `data_group`
@@ -101,42 +113,46 @@ get_variables_in_table <- function(table_name, nhanes_data_group) {
     for (variable in 1:nrow(table_variables)) {
       variable_name <- table_variables[variable, 'Variable.Name']
       use_constraints <- table_variables[variable, 'Use.Constraints']
-      if(variable_name != "SEQN") {
-        tryCatch({
-          variable_details <- nhanesCodebook(nh_table=table_name, colname=variable_name)
-          if(!is.null(variable_details)) {
-            label <- clean(variable_details['SAS Label:'][[1]])
-            text <- clean(variable_details['English Text:'][[1]])
-            targets <- ""
-            for (i in seq_along(variable_details)) {
-              if (names(variable_details[i])=='Target:') {
-                target <- clean(variable_details[[i]])
-                if(targets == "") {
-                  targets <- target
-                }
-                else {
-                  targets <- paste(targets, target, sep = " *AND* ")
-                }
+      tryCatch({
+        variable_details <- table_codebooks[variable_name][[1]]
+        if (!is.null(variable_details)) {
+          label <- clean(variable_details['SAS Label:'][[1]])
+          text <- clean(variable_details['English Text:'][[1]])
+          targets <- ""
+          for (i in seq_along(variable_details)) {
+            if ('Target:' %in% names(variable_details[i])) {
+              target <- clean(variable_details[[i]])
+              if (targets == "") {
+                targets <- target
+              } else {
+                targets <- paste(targets, target, sep = " *AND* ")
               }
             }
-            variable_details_vector <- c(variable_name, table_name, label, text, targets, use_constraints)
-            all_variables[nrow(all_variables) + 1, ] <- variable_details_vector
-            variable_codebook <- variable_details[variable_name][[1]]
-            variable_codebook[["Value Description"]] <- clean(variable_codebook[["Value Description"]])
+          }
+          variable_details_vector <- c(variable_name, table_name, label, text, targets, use_constraints)
+          all_variables[nrow(all_variables) + 1, ] <- variable_details_vector
+          variable_codebook <- variable_details[variable_name][[1]]
+          if (!is.na(variable_codebook) && variable_name != "SEQN" && variable_name != "SAMPLEID") {
+            if ("Value Description" %in% names(variable_codebook) && !is.null(variable_codebook[["Value Description"]])) {
+              variable_codebook[["Value Description"]] <- clean(variable_codebook[["Value Description"]])
+            } else {
+              variable_codebook[["Value Description"]] <- ""
+            }
             names(variable_codebook)[names(variable_codebook) == 'Value Description'] <- 'ValueDescription'
             variable_codebook <- cbind('Table'=table_name, variable_codebook)
             variable_codebook <- cbind('Variable'=variable_name, variable_codebook)
             all_variable_codebooks <- rbind(all_variable_codebooks, variable_codebook)
           }
-          else {
-            log_missing_codebook("Warning", "Codebook does not exist for this variable", table_name=table_name, variable_name=variable_name)
+        } else {
+          if (variable_name != "SEQN" && variable_name != "SAMPLEID") {
+            log_missing_codebook("Warning", "Codebook does not exist for this variable", table_name = table_name, variable_name = variable_name)
           }
-        }, error=function(e) {
-          log_missing_codebook("ERROR", conditionMessage(e), table_name=table_name, variable_name=variable_name)
-        }, warning=function(w) {
-          log_missing_codebook("WARNING", conditionMessage(w), table_name=table_name, variable_name=variable_name)
-        })
-      }
+        }
+      }, error=function(e) {
+        log_missing_codebook("ERROR", conditionMessage(e), table_name=table_name, variable_name=variable_name)
+      }, warning=function(w) {
+        log_missing_codebook("WARNING", conditionMessage(w), table_name=table_name, variable_name=variable_name)
+      })
     }
   } else {
     print(paste("Warning: nhanesA::nhanesTableVars() returns 0 variables in table ", table_name))
@@ -148,8 +164,7 @@ log_missing_codebook <- function(exception_type, exception_msg, table_name, vari
   log_msg <- paste(exception_type, ": ", exception_msg, " (Table-Variable: ", 
                    table_name, "-", variable_name, ")", sep="")
   cat(log_msg, "\n", file=log_file, append=TRUE)
-  cat(table_name, "\t", variable_name, "\n", 
-      file=missing_codebooks_file, append=TRUE)
+  cat(table_name, "\t", variable_name, "\n", file=missing_codebooks_file, append=TRUE)
   print(log_msg)
 }
 
@@ -168,9 +183,6 @@ missing_codebooks_file <- paste(output_folder, "missing_codebooks.tsv", sep="")
 # Get the metadata about all NHANES tables.
 start_tbls = proc.time()
 all_tables <- get_tables_metadata()
-write.table(all_tables, file=paste(output_folder, "nhanes_tables.tsv", sep=""), 
-            row.names=FALSE, sep="\t", na="")
-
 diff_tbls <- proc.time() - start_tbls
 print(paste("Tables metadata acquired in ", diff_tbls[3][["elapsed"]], " seconds"))
 
