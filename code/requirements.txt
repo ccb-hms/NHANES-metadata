@@ -1,2 +1,2 @@
-Owlready2==0.40
-text2term~=3.0.1
+Owlready2~=0.44
+text2term~=3.0.2
