@@ -7,7 +7,7 @@ import bioregistry
 import pandas as pd
 from collections import deque
 
-__version__ = "0.10.1"
+__version__ = "0.11.1"
 
 SUBJECT_COL = "Subject"
 OBJECT_COL = "Object"
@@ -68,7 +68,7 @@ def get_semsql_tables_for_ontology(ontology_url, ontology_name, tables_output_fo
         _add_views(cursor)  # add database views needed for disease location retrieval
     edges_df = _get_edges_table(cursor)
     entailed_edges_df = _get_entailed_edges_table(cursor)
-    labels_df = _get_labels_table(cursor, include_disease_locations)
+    labels_df = _get_labels_table(cursor, include_disease_locations, ontology_name)
     dbxrefs_df = _get_db_cross_references_table(cursor)
     synonyms_df = _get_synonyms_table(cursor)
     onto_version = _get_ontology_version(cursor)
@@ -139,7 +139,7 @@ def _get_entailed_edges_table(cursor):
     return entailed_edges_df
 
 
-def _get_labels_table(cursor, include_disease_locations=False):
+def _get_labels_table(cursor, ontology_name, include_disease_locations=False):
     # Get rdfs:label statements for ontology classes that are not deprecated
     labels_query = "SELECT * FROM statements WHERE predicate='rdfs:label' AND subject IN " + \
                    "(SELECT subject FROM statements WHERE predicate='rdf:type' AND object='owl:Class') " + \
@@ -157,8 +157,8 @@ def _get_labels_table(cursor, include_disease_locations=False):
     labels_df[OBJECT_COL] = labels_df[OBJECT_COL].str.strip()
     labels_df[IRI_COL] = labels_df[SUBJECT_COL].apply(get_iri)
     if include_disease_locations:
-        labels_df[DISEASE_LOCATION_COL] = labels_df[SUBJECT_COL].apply(_get_disease_location_for_term,
-                                                                       connection=cursor.connection)
+        labels_df[DISEASE_LOCATION_COL] = labels_df[SUBJECT_COL].apply(
+            _get_disease_location_for_term, connection=cursor.connection, ontology=ontology_name)
     return labels_df
 
 
@@ -231,9 +231,16 @@ def _get_curie(term):
     return curie
 
 
-def _get_disease_locations(connection, subject, table):
+def _get_disease_locations(connection, subject, table, ontology):
+    if ontology == "EFO":
+        predicate = "EFO:0000784"
+    elif ontology == "NCIT":
+        predicate = "NCIT:R101"
+    else:
+        # default to RO:0001025 ('located in') from Relations Ontology
+        predicate = "RO:0001025"
     disease_location_query = f"SELECT object FROM {table} " \
-                             f"WHERE predicate='EFO:0000784' AND subject='{subject}'"
+                             f"WHERE predicate='{predicate}' AND subject='{subject}'"
     locations = pd.read_sql_query(disease_location_query, connection)
     locations = locations[~locations['object'].str.startswith("_")]  # remove rows where locations are blank nodes
     return locations["object"].tolist()
@@ -246,17 +253,23 @@ def _get_parents(connection, subject):
     return parents["object"].tolist()
 
 
-def _get_disease_location_for_term(subject, connection):
+def _get_disease_location_for_term(subject, connection, ontology):
     queue = deque([subject])  # Initialize a queue to perform a BFS
     while queue:
         current_term = queue.popleft()
-        locations = _get_disease_locations(connection, current_term, "owl_subclass_of_some_values_from") or \
-            _get_disease_locations(connection, current_term, "owl_subclass_of_only_values_from")
+        # first check if a location is stated in existential restrictions (most common)
+        locations = _get_disease_locations(connection, current_term, "owl_subclass_of_some_values_from", ontology)
         if locations:
             return locations[0] if len(locations) == 1 else ",".join(locations)
         else:
-            parents = [parent for parent in _get_parents(connection, current_term) if parent != "owl:Thing"]
-            queue.extend(parents)
+            # then check if a location is stated in universal restrictions
+            locations = _get_disease_locations(connection, current_term, "owl_subclass_of_only_values_from", ontology)
+            if locations:
+                return locations[0] if len(locations) == 1 else ",".join(locations)
+            else:
+                # otherwise check if a parent has a stated disease location
+                parents = [parent for parent in _get_parents(connection, current_term) if parent != "owl:Thing"]
+                queue.extend(parents)
     return pd.NA
 
 
