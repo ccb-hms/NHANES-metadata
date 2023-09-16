@@ -3,7 +3,7 @@ import pandas as pd
 import text2term
 import preprocess_metadata
 
-__version__ = "0.9.0"
+__version__ = "0.9.1"
 
 # Input data
 NHANES_VARIABLES = "../metadata/nhanes_variables.tsv"
@@ -44,7 +44,6 @@ def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=(
         incl_unmapped=True
     )
     mappings_df[ONTOLOGY_COL] = target_ontology
-    mappings_df[MAPPING_SCORE_COL] = mappings_df[MAPPING_SCORE_COL].astype(float).round(decimals=3)
     return mappings_df
 
 
@@ -116,16 +115,16 @@ def top_mappings(mappings_df):
 
 
 def flag_mapped_variables(nhanes_variables, mappings):
-    # Convert the mappings data frame into a set of tuples for faster lookup
-    mappings_set = set(zip(mappings[NHANES_VARIABLE_ID_COL], mappings[NHANES_TABLE_ID_COL]))
-
     # Add a column to the nhanes_variables data frame to specify if a variable has or has not been ontology-mapped
-    nhanes_variables["OntologyMapped"] = nhanes_variables.apply(lambda row: check_mapping(row, mappings_set), axis=1)
+    nhanes_variables["OntologyMapped"] = nhanes_variables.apply(lambda row: check_mapping(row, mappings), axis=1)
     return nhanes_variables
 
 
 def check_mapping(row, mappings):
-    return "Yes" if (row[NHANES_VARIABLE_ID_COL], row[NHANES_TABLE_ID_COL]) in mappings else "No"
+    result = mappings[(mappings[NHANES_VARIABLE_ID_COL] == row[NHANES_VARIABLE_ID_COL]) &
+                      (mappings[NHANES_TABLE_ID_COL] == row[NHANES_TABLE_ID_COL]) &
+                      (mappings[MAPPING_SCORE_COL] > 0)]
+    return "Yes" if not result.empty else "No"
 
 
 def save_mappings_file(mappings_df, output_file_label, output_file_suffix="", output_folder=MAPPINGS_OUTPUT_FOLDER,
