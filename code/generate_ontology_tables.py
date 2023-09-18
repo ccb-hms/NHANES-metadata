@@ -7,7 +7,7 @@ import bioregistry
 import pandas as pd
 from collections import deque
 
-__version__ = "0.11.1"
+__version__ = "0.11.2"
 
 SUBJECT_COL = "Subject"
 OBJECT_COL = "Object"
@@ -167,7 +167,7 @@ def _get_db_cross_references_table(cursor):
     db_xrefs_columns = [x[0] for x in cursor.description]
     db_xrefs_data = cursor.fetchall()
     db_xrefs = pd.DataFrame(db_xrefs_data, columns=db_xrefs_columns)
-    db_xrefs = db_xrefs.drop(columns=["stanza", "predicate", "object", "datatype", "language"])
+    db_xrefs = db_xrefs.drop(columns=["stanza", "predicate", "object", "datatype", "language", "graph"])
     db_xrefs = db_xrefs.rename(columns={'value': OBJECT_COL, 'subject': SUBJECT_COL})
     db_xrefs = db_xrefs.drop_duplicates()
     db_xrefs = db_xrefs[db_xrefs[SUBJECT_COL].str.startswith("_:") == False]  # remove blank nodes
