@@ -4,8 +4,7 @@ import pandas as pd
 import tarfile
 import sqlite3
 
-__version__ = "0.1.1"
-
+__version__ = "0.1.2"
 
 ONTOLOGY_MAPPINGS_TABLE = 'ontology_mappings'
 
@@ -25,7 +24,8 @@ def build_database(database_name):
     import_table_to_db(db_connection, table_file=os.path.join(ontology_tables_folder, ontology_edges_table + '.tsv'),
                        table_name=ontology_edges_table, table_columns=ontology_tables_columns)
 
-    import_table_to_db(db_connection, table_file=os.path.join(ontology_tables_folder, ontology_entailed_edges_table + '.tsv'),
+    import_table_to_db(db_connection,
+                       table_file=os.path.join(ontology_tables_folder, ontology_entailed_edges_table + '.tsv'),
                        table_name=ontology_entailed_edges_table, table_columns=ontology_tables_columns)
 
     import_table_to_db(db_connection, table_file=os.path.join(ontology_tables_folder, ontology_dbxrefs_table + '.tsv'),
@@ -48,10 +48,17 @@ def build_database(database_name):
                        table_file=os.path.join("..", "ontology-mappings", "nhanes_variables_mappings.tsv"),
                        table_name=ONTOLOGY_MAPPINGS_TABLE, table_columns=mappings_table_columns)
 
+    # Import the NHANES variables metadata table
     metadata_columns = "Variable TEXT,`Table` TEXT,SASLabel TEXT,EnglishText TEXT,Target TEXT,UseConstraints TEXT," \
                        "ProcessedText TEXT,Tags TEXT,VariableID TEXT,OntologyMapped TEXT"
     import_table_to_db(db_connection, table_file=os.path.join("..", "metadata", "nhanes_variables.tsv"),
                        table_name="nhanes_variables_metadata", table_columns=metadata_columns)
+
+    # Import the NHANES tables metadata table
+    table_metadata_columns = "`Table` TEXT,TableName TEXT,BeginYear INT,EndYear INT,DataGroup TEXT,UseConstraints TEXT," \
+                             "DocFile TEXT,DataFile TEXT,DatePublished TEXT"
+    import_table_to_db(db_connection, table_file=os.path.join("..", "metadata", "nhanes_tables.tsv"),
+                       table_name="nhanes_tables_metadata", table_columns=table_metadata_columns)
     return db_connection
 
 
