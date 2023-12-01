@@ -7,7 +7,7 @@ import bioregistry
 import pandas as pd
 from collections import deque
 
-__version__ = "0.11.3"
+__version__ = "0.11.5"
 
 SUBJECT_COL = "Subject"
 OBJECT_COL = "Object"
@@ -16,10 +16,13 @@ ONTOLOGY_COL = "Ontology"
 DISEASE_LOCATION_COL = "DiseaseLocation"
 IRI_PRIORITY_LIST = ["obofoundry", "default", "bioregistry"]
 
+ONTOLOGY_TABLES_OUTPUT_FOLDER = os.path.join("..", "ontology-tables")
+DATABASE_OUTPUT_FOLDER = os.path.join("..", "ontology-db")
+
 
 def get_semsql_tables_for_ontologies(ontologies,
-                                     tables_output_folder='../ontology-tables',
-                                     db_output_folder="../ontology-db",
+                                     tables_output_folder=ONTOLOGY_TABLES_OUTPUT_FOLDER,
+                                     db_output_folder=DATABASE_OUTPUT_FOLDER,
                                      save_tables=False, single_table_for_all_ontologies=False,
                                      include_disease_locations=False):
     all_edges = all_entailed_edges = all_labels = all_dbxrefs = all_synonyms = pd.DataFrame()
@@ -49,8 +52,8 @@ def get_semsql_tables_for_ontologies(ontologies,
     return all_edges, all_entailed_edges, all_labels, all_dbxrefs, all_synonyms
 
 
-def get_semsql_tables_for_ontology(ontology_url, ontology_name, tables_output_folder='../ontology-tables',
-                                   db_output_folder="../ontology-db", save_tables=False,
+def get_semsql_tables_for_ontology(ontology_url, ontology_name, tables_output_folder=ONTOLOGY_TABLES_OUTPUT_FOLDER,
+                                   db_output_folder=DATABASE_OUTPUT_FOLDER, save_tables=False,
                                    include_disease_locations=False):
     db_file = os.path.join(db_output_folder, ontology_name.lower() + ".db")
     db_gz_file = db_file + ".gz"
@@ -67,7 +70,7 @@ def get_semsql_tables_for_ontology(ontology_url, ontology_name, tables_output_fo
         _add_views(cursor)  # add database views needed for disease location retrieval
     edges_df = _get_edges_table(cursor)
     entailed_edges_df = _get_entailed_edges_table(cursor)
-    labels_df = _get_labels_table(cursor, include_disease_locations, ontology_name)
+    labels_df = _get_labels_table(cursor, ontology_name=ontology_name, include_disease_locations=include_disease_locations)
     dbxrefs_df = _get_db_cross_references_table(cursor)
     synonyms_df = _get_synonyms_table(cursor)
     onto_version = _get_ontology_version(cursor)
@@ -227,6 +230,8 @@ def _get_curie(term):
         curie = curie.replace("OBO:", "obo:")
     if "NCBITAXON:" in curie:
         curie = curie.replace("NCBITAXON:", "NCBITaxon:")
+    if "ORPHANET.ORDO" in curie:
+        curie = curie.replace("ORPHANET.ORDO", "ORDO")
     return curie
 
 
