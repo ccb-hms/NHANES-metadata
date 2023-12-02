@@ -3,7 +3,7 @@ import pandas as pd
 import text2term
 import preprocess_metadata
 
-__version__ = "0.9.1"
+__version__ = "0.9.2"
 
 # Input data
 NHANES_VARIABLES = "../metadata/nhanes_variables.tsv"
@@ -171,7 +171,7 @@ def map_nhanes_variables(variables_file=NHANES_VARIABLES, preprocess=False, save
         labels_column = NHANES_VARIABLE_LABEL_PROCESSED_COL
         tags_column = "Tags"
     else:
-        input_df = pd.read_csv(variables_file, sep=variables_file_col_separator)
+        input_df = pd.read_csv(variables_file, sep=variables_file_col_separator, lineterminator="\n")
 
     mappings = map_data_with_composite_ids(df=input_df,
                                            labels_column=labels_column,
