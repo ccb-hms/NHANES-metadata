@@ -1,2 +1,2 @@
 Owlready2~=0.44
-text2term==4.1.0
+text2term==4.1.1
