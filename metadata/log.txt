@@ -50,4 +50,4 @@ Warning: get_nhanes_metadata::get_variables_in_table() returns 0 items (Table-Va
 Warning: get_nhanes_metadata::get_variables_in_table() returns 0 items (Table-Variable: VIT_2_R-) 
 Error in nhanesA::nhanesCodebook(): non-numeric argument to binary operator (Table-Variable: YDQ-) 
 Warning: get_nhanes_metadata::get_variables_in_table() returns 0 items (Table-Variable: YDQ-) 
-Downloaded on: 12-01-2023T14:22:00
+Downloaded on: 12-03-2023T15:37:44

@@ -231,6 +231,8 @@ get_variables_in_table <- function(table_name, nhanes_data_group) {
         instructions <- variable_details['English Instructions:'][[1]]
         if(is.null(instructions) || all(is.na(instructions))) {
           instructions <- ""
+        } else {
+          instructions <- clean(instructions)
         }
         targets <- ""
         for (i in seq_along(variable_details)) {
