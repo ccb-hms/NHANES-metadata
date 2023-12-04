@@ -41,7 +41,7 @@ def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=(
         excl_deprecated=True,
         save_mappings=False,
         use_cache=True,
-        incl_unmapped=True
+        incl_unmapped=False
     )
     mappings_df[ONTOLOGY_COL] = target_ontology
     return mappings_df
