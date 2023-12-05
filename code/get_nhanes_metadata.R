@@ -122,7 +122,7 @@ add_manifest <- function(manifest, nhanes_tables, use_constraints, manifest_vari
       table_name <- subset$TableDesc[1]
       
       if(is.na(table_name)) {
-        print(paste("nhanesManifest() does not contain a table name for ", missing_table, ". Scraping from documentation webpage..."))
+        print(paste("nhanesA::nhanesManifest() does not contain a table name for ", missing_table, ". Scraping from documentation webpage..."))
         webpage <- read_html(doc_url)
         h3_text <- webpage %>% html_nodes("#PageHeader h3") %>% html_text()
         split_string <- strsplit(h3_text, "\\(")
@@ -134,6 +134,22 @@ add_manifest <- function(manifest, nhanes_tables, use_constraints, manifest_vari
           print(paste("Error scraping the name of the table: ", missing_table, "(h3text: ", h3_text, ")"))
           print(conditionMessage(e))
         })
+      }
+      if(is.na(data_group)) {
+        print(paste("nhanesA::nhanesManifest() does not contain a data group for ", missing_table))
+        if(missing_table %in% c("DOC_2000", "PAX80_G_R", "PAXLUX_G_R", "DRXFMT", "DRXFMT_B", 
+                               "FOODLK_C", "FOODLK_D", "VARLK_C", "VARLK_D")) {
+          data_group <- "Documentation"
+        } 
+        else if(missing_table == "DRXFCD_I" || missing_table == "DRXFCD_J") {
+          data_group <- "Dietary"
+        }
+        else if(missing_table %in% c("POOLTF_D", "POOLTF_E", "PFC_POOL")) {
+          data_group <- "Laboratory"
+        }
+        else if(missing_table == "YDQ") {
+          data_group <- "Questionnaire"
+        }
       }
       new_row <- data.frame(Table=missing_table, TableName=table_name, BeginYear=begin_year, EndYear=end_year, DataGroup=data_group,
                             UseConstraints=use_constraints, DocFile=doc_url, DataFile=data_file_url, DatePublished=date_published)
