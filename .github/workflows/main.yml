@@ -1,5 +1,5 @@
 name: nhanes-database-update
-run-name: ${{ github.actor }} has updated NHANES database
+run-name: ${{ github.actor }} has updated NHANES metadata
 on: 
   release:
      types: [published]
@@ -14,7 +14,7 @@ jobs:
       - uses: dacbd/create-issue-action@main
         with:
           token: ${{ secrets.PAT_JP }}
-          title: Updated Database
+          title: Updated Metadata
           body: The NHANES Metadata Database has been updated to a new version at https://github.com/ccb-hms/NHANES-metadata/releases/latest . Please use at the earliest convenience.
           owner: ccb-hms
           repo: NHANES
