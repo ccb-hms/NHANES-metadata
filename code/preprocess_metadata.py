@@ -3,6 +3,8 @@ import numpy as np
 import text2term
 import os
 
+BLOCKLIST_LOC = "resources/table_blocklist.csv"
+
 def preprocess(input_file, column_to_process, save_processed_table=False, input_file_col_separator=","):
 	print("Preprocessing metadata table...")
 	df = pd.read_csv(input_file, sep=input_file_col_separator)
@@ -21,7 +23,7 @@ def preprocess(input_file, column_to_process, save_processed_table=False, input_
 		tags = ','.join(term.get_tags())
 		df.loc[df[column_to_process] == term.get_original_term(), "Tags"] = tags
 
-	bl_df = pd.read_csv("resources/table_blocklist.csv")
+	bl_df = pd.read_csv(BLOCKLIST_LOC)
 	for index, row in bl_df.iterrows():
 		df[processed_text_col] = np.where((df["Variable"] == row["names"]) & (df["Table"] == row["tables"]), \
 										"-", df[processed_text_col])

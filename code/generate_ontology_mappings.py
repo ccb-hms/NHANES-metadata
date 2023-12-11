@@ -2,8 +2,25 @@ from pathlib import Path
 import pandas as pd
 import text2term
 import preprocess_metadata
+import numpy as np
 
 __version__ = "0.9.1"
+
+# How the stack looks:
+#                                  map_to_ontology
+#                                        |
+#                                 map_to_ontologies
+#                                        |
+#                                     map_data <-> mark_phenotypes
+#                                      /    \
+#                                     /      map_data_with_composite_ids
+#                                    /                   |
+#                   map_nhanes_tables           map_nhanes_variables <-> preprocess       
+#                                    \         /
+#                                 map_nhanes_metadata
+#                                        |
+#                                       main
+
 
 # Input data
 NHANES_VARIABLES = "../metadata/nhanes_variables.tsv"
@@ -18,13 +35,17 @@ TARGET_ONTOLOGIES = "resources/ontologies.csv"
 # Mappings data frame columns configuration
 NHANES_TABLE_ID_COL = "Table"
 NHANES_TABLE_NAME_COL = "TableName"
+SOURCE_TERM_COL = "Source Term"
 NHANES_VARIABLE_ID_COL = "Variable"
 MAPPING_SCORE_COL = "Mapping Score"
 ONTOLOGY_COL = "Ontology"
+PHENOTYPE_COL = "IsPhenotype"
 
 NHANES_VARIABLE_LABEL_COL = "SASLabel"
 NHANES_VARIABLE_LABEL_PROCESSED_COL = "ProcessedText"
 
+IGNORE_TAG = "ignore"
+UNMAPPED = "unmapped"
 
 # Map the given terms to the target ontology
 def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=(), min_mapping_score=MIN_MAPPING_SCORE,
@@ -73,8 +94,12 @@ def map_data(source_df, labels_column, label_ids_column, tags_column=""):
         terms_to_map=terms,
         term_identifiers=term_ids,
         ontologies_table=TARGET_ONTOLOGIES)
+    mappings_df = mark_phenotpyes(mappings_df)
     return mappings_df
 
+def mark_phenotpyes(mappings_df):
+    mappings_df[PHENOTYPE_COL] = np.where(mappings_df[SOURCE_TERM_COL] == "-", False, True)
+    return mappings_df
 
 def get_terms_and_ids(nhanes_table, label_col, label_id_col, tags_column=""):
     if tags_column != "":
