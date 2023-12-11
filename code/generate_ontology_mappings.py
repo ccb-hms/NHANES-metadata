@@ -4,7 +4,7 @@ import text2term
 import preprocess_metadata
 import numpy as np
 
-__version__ = "0.9.1"
+__version__ = "0.9.2"
 
 # How the stack looks:
 #                                  map_to_ontology
@@ -62,7 +62,7 @@ def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=(
         excl_deprecated=True,
         save_mappings=False,
         use_cache=True,
-        incl_unmapped=True
+        incl_unmapped=False
     )
     mappings_df[ONTOLOGY_COL] = target_ontology
     return mappings_df
@@ -196,7 +196,7 @@ def map_nhanes_variables(variables_file=NHANES_VARIABLES, preprocess=False, save
         labels_column = NHANES_VARIABLE_LABEL_PROCESSED_COL
         tags_column = "Tags"
     else:
-        input_df = pd.read_csv(variables_file, sep=variables_file_col_separator)
+        input_df = pd.read_csv(variables_file, sep=variables_file_col_separator, lineterminator="\n")
 
     mappings = map_data_with_composite_ids(df=input_df,
                                            labels_column=labels_column,

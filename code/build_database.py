@@ -4,7 +4,7 @@ import pandas as pd
 import tarfile
 import sqlite3
 
-__version__ = "0.1.2"
+__version__ = "0.1.3"
 
 ONTOLOGY_MAPPINGS_TABLE = 'ontology_mappings'
 
@@ -49,8 +49,8 @@ def build_database(database_name):
                        table_name=ONTOLOGY_MAPPINGS_TABLE, table_columns=mappings_table_columns)
 
     # Import the NHANES variables metadata table
-    metadata_columns = "Variable TEXT,`Table` TEXT,SASLabel TEXT,EnglishText TEXT,Target TEXT,UseConstraints TEXT," \
-                       "ProcessedText TEXT,Tags TEXT,VariableID TEXT,OntologyMapped TEXT"
+    metadata_columns = "Variable TEXT,`Table` TEXT,SASLabel TEXT,EnglishText TEXT,EnglishInstructions TEXT,Target TEXT," \
+                       "UseConstraints TEXT,ProcessedText TEXT,Tags TEXT,VariableID TEXT,OntologyMapped TEXT"
     import_table_to_db(db_connection, table_file=os.path.join("..", "metadata", "nhanes_variables.tsv"),
                        table_name="nhanes_variables_metadata", table_columns=metadata_columns)
 
