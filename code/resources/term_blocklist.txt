@@ -1,1 +1,10 @@
-.*Jack Knife.*
+.*[Jj]ack [Kk]nife.*
+.*[Rr]ecall [Ss]tatus.*;:;Recall Status
+.*Interviewer ID code.*;:;Interviewer ID code
+.*Interview Status Code.*;:;Interview Status Code
+.*[Ll]anguage [Uu]sed.*;:;Language Used
+.*[Ii]nterpreter [Uu]sed.*;:;Interpreter Used
+.*Dietary (.*) sample weight.*
+Reasons for Not Done
+Pool identification number
+Respondent sequence number
