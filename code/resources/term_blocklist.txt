@@ -1,2 +1,12 @@
 .*Jack Knife.*
 .*Jackknife.*
+.*[Jj]ack [Kk]nife.*
+.*[Rr]ecall [Ss]tatus.*
+.*Interviewer ID code.*
+.*Interview Status Code.*
+.*[Ll]anguage [Uu]sed.*
+.*[Ii]nterpreter [Uu]sed.*
+.*Dietary (.*) sample weight.*
+Reasons for Not Done
+Pool identification number
+Respondent sequence number
