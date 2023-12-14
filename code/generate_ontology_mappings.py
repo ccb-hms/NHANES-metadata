@@ -39,7 +39,6 @@ SOURCE_TERM_COL = "Source Term"
 NHANES_VARIABLE_ID_COL = "Variable"
 MAPPING_SCORE_COL = "Mapping Score"
 ONTOLOGY_COL = "Ontology"
-PHENOTYPE_COL = "IsPhenotype"
 
 NHANES_VARIABLE_LABEL_COL = "SASLabel"
 NHANES_VARIABLE_LABEL_PROCESSED_COL = "ProcessedText"
@@ -94,11 +93,6 @@ def map_data(source_df, labels_column, label_ids_column, tags_column=""):
         terms_to_map=terms,
         term_identifiers=term_ids,
         ontologies_table=TARGET_ONTOLOGIES)
-    mappings_df = mark_phenotpyes(mappings_df)
-    return mappings_df
-
-def mark_phenotpyes(mappings_df):
-    mappings_df[PHENOTYPE_COL] = np.where(mappings_df[SOURCE_TERM_COL] == "-", False, True)
     return mappings_df
 
 def get_terms_and_ids(nhanes_table, label_col, label_id_col, tags_column=""):

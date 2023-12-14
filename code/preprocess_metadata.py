@@ -1,7 +1,10 @@
 import pandas as pd
+import numpy as np
 import text2term
 import os
 
+PROCESSED_TEXT_COL = "ProcessedText"
+PHENOTYPE_COL = "IsPhenotype"
 
 def preprocess(input_file, column_to_process, save_processed_table=False, input_file_col_separator=","):
     print("Preprocessing metadata table...")
@@ -14,20 +17,24 @@ def preprocess(input_file, column_to_process, save_processed_table=False, input_
                                                        blocklist_path="resources/term_blocklist.txt",
                                                        blocklist_char="-")
     os.remove("temp.txt")
-    processed_text_col = "ProcessedText"
-    df[processed_text_col] = ""
+    df[PROCESSED_TEXT_COL] = ""
     df["Tags"] = ""
     for term in processed_text:
-        df.loc[df[column_to_process] == term.get_original_term(), processed_text_col] = term.get_term()
+        df.loc[df[column_to_process] == term.get_original_term(), PROCESSED_TEXT_COL] = term.get_term()
         tags = ','.join(term.get_tags())
         df.loc[df[column_to_process] == term.get_original_term(), "Tags"] = tags
-
+    
+    df = mark_phenotpyes(df)
     if save_processed_table:
         df.to_csv(input_file, sep="\t", index=False, mode="w")
     print("...done")
     return df
 
+def mark_phenotpyes(df):
+    df[PHENOTYPE_COL] = np.where(df[PROCESSED_TEXT_COL] == "-", False, True)
+    return df
 
 if __name__ == '__main__':
     preprocess(input_file="../metadata/nhanes_variables.tsv", column_to_process="SASLabel", save_processed_table=True,
                input_file_col_separator="\t")
+
