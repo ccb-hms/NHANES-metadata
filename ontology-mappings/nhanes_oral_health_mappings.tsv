@@ -1,0 +1,270 @@
+Variable	Table	Variable Link	Variable Label	Mapped Ontology Term Label	Mapped Term IRI	Mapping Score	Ontology	Comments
+OHAEXSTS	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHAEXSTS	Overall Oral Health Exam Status	dental exam	http://purl.obolibrary.org/obo/OHD_0000019	0.35	OHD	
+OHASCST3	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHASCST3	Dentition Status Code	Status Code	http://purl.obolibrary.org/obo/NCIT_C164628	0.71	NCIT	
+OHX01TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX01TC	Tooth Count: #1	Tooth 1	http://purl.obolibrary.org/obo/NCIT_C94579	0.78	NCIT	
+OHX02CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX02CTC	Coronal Caries: Tooth count #2	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.46	OHD	
+OHX02DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX02DI	Fluorosis DI: #2	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.87	NCIT	
+OHX02SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX02SE	Dental Sealants: #2	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.68	NCIT	
+OHX02TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX02TC	Tooth Count: #2	Tooth 2	http://purl.obolibrary.org/obo/NCIT_C94584	0.78	NCIT	
+OHX03CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX03CTC	Coronal Caries: Tooth count #3	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.46	OHD	
+OHX03DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX03DI	Fluorosis DI: #3	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.86	NCIT	
+OHX03SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX03SE	Dental Sealants: #3	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.67	NCIT	
+OHX04CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX04CTC	Coronal Caries: Tooth count #4	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.46	OHD	
+OHX04DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX04DI	Fluorosis DI: #4	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.86	NCIT	
+OHX04SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX04SE	Dental Sealants: #4	Sealant (substance)	http://snomed.info/id/311899008	0.5	SNOMED	
+OHX05CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX05CTC	Coronal Caries: Tooth count #5	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.46	OHD	
+OHX05DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX05DI	Fluorosis DI: #5	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.86	NCIT	
+OHX05SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX05SE	Dental Sealants: #5	Sealant (substance)	http://snomed.info/id/311899008	0.5	SNOMED	
+OHX06CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX06CTC	Coronal Caries: Tooth count #6	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.46	OHD	
+OHX06DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX06DI	Fluorosis DI: #6	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.85	NCIT	
+OHX07DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX07DI	Fluorosis DI: #7	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.84	NCIT	
+OHX07SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX07SE	Dental Sealants: #7	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.66	NCIT	
+OHX07TR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX07TR	Incisor Trauma: #7	Incisor	http://purl.obolibrary.org/obo/NCIT_C32769	0.68	NCIT	
+OHX08CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX08CTC	Coronal Caries: Tooth count #8	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.45	OHD	
+OHX08DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX08DI	Fluorosis DI: #8	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.84	NCIT	
+OHX08TR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX08TR	Incisor Trauma: #8	Traumatized incisor (disorder)	http://snomed.info/id/404199004	0.68	SNOMED	
+OHX09DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX09DI	Fluorosis DI: #9	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.84	NCIT	
+OHX09TR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX09TR	Incisor Trauma: #9	Traumatized incisor (disorder)	http://snomed.info/id/404199004	0.68	SNOMED	
+OHX10CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX10CTC	Coronal Caries: Tooth count #10	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX10DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX10DI	Fluorosis DI: #10	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.81	NCIT	
+OHX10SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX10SE	Dental Sealants: #10	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.63	NCIT	
+OHX10TR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX10TR	Incisor Trauma: #10	Traumatized incisor (disorder)	http://snomed.info/id/404199004	0.67	SNOMED	
+OHX11CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX11CTC	Coronal Caries: Tooth Count #11	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX11DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX11DI	Fluorosis DI: #11	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.81	NCIT	
+OHX12CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX12CTC	Coronal Caries: Tooth count #12	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.45	OHD	
+OHX12DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX12DI	Fluorosis DI: #12	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.83	NCIT	
+OHX12SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX12SE	Dental Sealants: #12	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.65	NCIT	
+OHX13DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX13DI	Fluorosis DI: #13	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.81	NCIT	
+OHX13SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX13SE	Dental Sealants: #13	Sealant (substance)	http://snomed.info/id/311899008	0.47	SNOMED	
+OHX13TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX13TC	Tooth Count: #13	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.64	NCIT	
+OHX14DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX14DI	Fluorosis DI: #14	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.81	NCIT	
+OHX14SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX14SE	Dental Sealants: #14	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.63	NCIT	
+OHX15CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX15CTC	Coronal Caries: Tooth count #15	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX15DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX15DI	Fluorosis DI: #15	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.8	NCIT	
+OHX15TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX15TC	Tooth Count: #15	Tooth 15	http://purl.obolibrary.org/obo/NCIT_C94580	0.83	NCIT	
+OHX16TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX16TC	Tooth Count: #16	Tooth 16	http://purl.obolibrary.org/obo/NCIT_C94581	0.83	NCIT	
+OHX17TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX17TC	Tooth Count: #17	Tooth 17	http://purl.obolibrary.org/obo/NCIT_C94582	0.84	NCIT	
+OHX18CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX18CTC	Coronal Caries: Tooth count #18	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX18DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX18DI	Fluorosis DI: #18	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.82	NCIT	
+OHX18SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX18SE	Dental Sealants: #18	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.64	NCIT	
+OHX18TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX18TC	Tooth Count: #18	Tooth 18	http://purl.obolibrary.org/obo/NCIT_C94583	0.82	NCIT	
+OHX19CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX19CTC	Coronal Caries: Tooth count #19	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX19SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX19SE	Dental Sealants: #19	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.62	NCIT	
+OHX19TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX19TC	Tooth Count: #19	Tooth 19	http://purl.obolibrary.org/obo/NCIT_C60728	0.83	NCIT	
+OHX20CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX20CTC	Coronal Caries: Tooth count #20	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX20DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX20DI	Fluorosis DI: #20	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.81	NCIT	
+OHX20SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX20SE	Dental Sealants: #20	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.63	NCIT	
+OHX20TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX20TC	Tooth Count: #20	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.65	NCIT	
+OHX21CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX21CTC	Coronal Caries: Tooth count #21	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.43	OHD	
+OHX22CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX22CTC	Coronal Caries: Tooth count #22	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX22TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX22TC	Tooth Count: #22	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.66	NCIT	
+OHX23CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX23CTC	Coronal Caries: Tooth count #23	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX23DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX23DI	Fluorosis DI: #23	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.8	NCIT	
+OHX23TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX23TC	Tooth Count: #23	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.64	NCIT	
+OHX23TR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX23TR	Incisor Trauma: #23	Traumatized incisor (disorder)	http://snomed.info/id/404199004	0.66	SNOMED	
+OHX24CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX24CTC	Coronal Caries: Tooth count #24	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX24DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX24DI	Fluorosis DI: #24	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.81	NCIT	
+OHX24TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX24TC	Tooth Count: #24	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.64	NCIT	
+OHX24TR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX24TR	Incisor Trauma: #24	Traumatized incisor (disorder)	http://snomed.info/id/404199004	0.67	SNOMED	
+OHX25CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX25CTC	Coronal Caries: Tooth count #25	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX25DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX25DI	Fluorosis DI: #25	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.8	NCIT	
+OHX25TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX25TC	Tooth Count: #25	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.64	NCIT	
+OHX25TR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX25TR	Incisor Trauma: #25	Traumatized incisor (disorder)	http://snomed.info/id/404199004	0.66	SNOMED	
+OHX26CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX26CTC	Coronal Caries: Tooth count #26	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.43	OHD	
+OHX26DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX26DI	Fluorosis DI: #26	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.79	NCIT	
+OHX26TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX26TC	Tooth Count: #26	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.63	NCIT	
+OHX26TR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX26TR	Incisor Trauma: #26	Traumatized incisor (disorder)	http://snomed.info/id/404199004	0.66	SNOMED	
+OHX27CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX27CTC	Coronal Caries: Tooth count #27	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.43	OHD	
+OHX27DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX27DI	Fluorosis DI: #27	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.79	NCIT	
+OHX27TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX27TC	Tooth Count: #27	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.62	NCIT	
+OHX28CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX28CTC	Coronal Caries: Tooth count #28	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.43	OHD	
+OHX28DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX28DI	Fluorosis DI: #28	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.79	NCIT	
+OHX28SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX28SE	Dental Sealants: #28	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.62	NCIT	
+OHX29CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX29CTC	Coronal Caries: Tooth count #29	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.43	OHD	
+OHX29DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX29DI	Fluorosis DI: #29	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.79	NCIT	
+OHX29SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX29SE	Dental Sealants: #29	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.62	NCIT	
+OHX29TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX29TC	Tooth Count: #29	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.62	NCIT	
+OHX30CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX30CTC	Coronal Caries: Tooth count #30	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.45	OHD	
+OHX30DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX30DI	Fluorosis DI: #30	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.83	NCIT	
+OHX30SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX30SE	Dental Sealants: #30	Sealant (substance)	http://snomed.info/id/311899008	0.49	SNOMED	
+OHX30TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX30TC	Tooth Count: #30	Tooth 30	http://purl.obolibrary.org/obo/NCIT_C52667	0.81	NCIT	
+OHX31CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX31CTC	Coronal Caries: Tooth count #31	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.43	OHD	
+OHX31DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX31DI	Fluorosis DI: #31	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.79	NCIT	
+OHXEDEN	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHXEDEN	Edentulous-yes	Edentulous	http://purl.obolibrary.org/obo/NCIT_C63746	0.92	NCIT	
+OHXIMP	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHXIMP	Dental Implant: yes / no	Dental Implant	http://purl.obolibrary.org/obo/NCIT_C63718	0.84	NCIT	
+OHXRCAR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHXRCAR	Root Caries: yes / no	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.52	OHD	
+OHXRRES	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHXRRES	Root restorations: yes / no	tooth restoration procedure	http://purl.obolibrary.org/obo/OHD_0000004	0.42	OHD	
+OHAEXSTS	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHAEXSTS	Overall Oral Health Exam Status	dental exam	http://purl.obolibrary.org/obo/OHD_0000019	0.35	OHD	
+OHAPOS	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHAPOS	Was participant exam position recumbent	Recumbent Position	http://purl.obolibrary.org/obo/NCIT_C77532	0.67	NCIT	
+OHAREC	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHAREC	Overall recommendation for care	Recommendation	http://purl.obolibrary.org/obo/NCIT_C25197	0.75	NCIT	
+OHAROCCI	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHAROCCI	Assessment of soft tissue lesion	Soft tissue lesion (disorder)	http://snomed.info/id/239953001	0.69	SNOMED	
+OHAROCDE	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHAROCDE	Denture/Partial Denture/plates	partial denture	http://purl.obolibrary.org/obo/OHD_0000310	0.84	OHD	
+OHAROCDE	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHAROCDE	Denture/Partial Denture/plates	Denture	http://purl.obolibrary.org/obo/NCIT_C63720	0.83	NCIT	
+OHAROCDT	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHAROCDT	Untreated Caries / Restorative needs	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.34	OHD	
+OHAROTH	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHAROTH	Some other finding	dental finding	http://purl.obolibrary.org/obo/OHD_0000010	0.58	OHD	
+OHASCST5	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHASCST5	Referral Status Code	Referral	http://purl.obolibrary.org/obo/NCIT_C52582	0.7	NCIT	
+OHQ134	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ134	congenital heart murmurs	Heart Murmur	http://purl.obolibrary.org/obo/NCIT_C84480	0.77	NCIT	
+OHQ136	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ136	heart valve problem	Valve problem of stoma (disorder)	http://snomed.info/id/236136006	0.7	SNOMED	
+OHQ140	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ140	bacterial endocarditis	Bacterial Endocarditis	http://purl.obolibrary.org/obo/NCIT_C128359	0.99	NCIT	
+OHQ142	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ142	rheumatic fever	Rheumatic Fever	http://purl.obolibrary.org/obo/NCIT_C34984	0.99	NCIT	
+OHQ144	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ144	kidney disease w/ renal dialysis	Kidney disease (disorder)	http://snomed.info/id/90708001	0.7	SNOMED	
+OHQ146	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ146	other artificial material	Artificial graft - material (substance)	http://snomed.info/id/303274001	0.76	SNOMED	
+OHQ148	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ148	a hip bone or joint replacement	Joint Replacement	http://purl.obolibrary.org/obo/NCIT_C131579	0.8	NCIT	
+OHQ410	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ410	Removable complete/partial max denture	partial denture	http://purl.obolibrary.org/obo/OHD_0000310	0.61	OHD	
+OHQ420	OHXREF_C		Wears complete/partial max denture	partial denture	http://purl.obolibrary.org/obo/OHD_0000310	0.69	OHD	
+OHQ430	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ430	Removable complete/partial mand. denture	partial denture	http://purl.obolibrary.org/obo/OHD_0000310	0.6	OHD	
+OHQ490a	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ490a	Toothache	Toothache (finding)	http://snomed.info/id/27355003	0.87	SNOMED	
+OHQ490b	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ490b	Sensitivity	Sensitivity (finding)	http://snomed.info/id/35209006	0.86	SNOMED	
+OHQ490c	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ490c	Cavities/Caries	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.65	OHD	
+OHQ490e	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ490e	Broken / fractured teeth	Broken teeth injury without complication (disorder)	http://snomed.info/id/263270004	0.51	SNOMED	
+OHQ490f	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ490f	Staining/discoloration of teeth	Discoloration	http://purl.obolibrary.org/obo/NCIT_C124525	0.7	NCIT	
+OHQ490j	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ490j	Denture problems	Denture	http://purl.obolibrary.org/obo/NCIT_C63720	0.68	NCIT	
+OHQ490k	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ490k	Periodontal problems	Periodontal Route of Administration	http://purl.obolibrary.org/obo/NCIT_C38294	0.76	NCIT	
+OHQ490l	OHXREF_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXREF_C.htm#OHQ490l	Unsatisfactory prior dental experience	Unsatisfactory	http://purl.obolibrary.org/obo/NCIT_C126862	0.67	NCIT	
+OHAEXSTS	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHAEXSTS	Overall Oral Health Exam Status	dental exam	http://purl.obolibrary.org/obo/OHD_0000019	0.35	OHD	
+OHASCST3	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHASCST3	Dentition Status Code	Status Code	http://purl.obolibrary.org/obo/NCIT_C164628	0.71	NCIT	
+OHX01TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX01TC	Tooth Count: #1	Tooth 1	http://purl.obolibrary.org/obo/NCIT_C94579	0.78	NCIT	
+OHX01TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX01TC	Tooth Count: #1	Sound tooth count (observable entity)	http://snomed.info/id/251320006	0.62	SNOMED	
+OHX02CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX02CSC	Coronal Caries: Surface condition #2	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.61	NCIT	
+OHX02CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX02CTC	Coronal Caries: Tooth count #2	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.46	OHD	
+OHX02DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX02DI	Fluorosis DI: #2	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.87	NCIT	
+OHX02SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX02SE	Dental Sealants: #2	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.68	NCIT	
+OHX02TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX02TC	Tooth Count: #2	Tooth 2	http://purl.obolibrary.org/obo/NCIT_C94584	0.78	NCIT	
+OHX03CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX03CSC	Coronal Caries: Surface condition #3	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.61	NCIT	
+OHX03CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX03CTC	Coronal Caries: Tooth count #3	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.46	OHD	
+OHX03DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX03DI	Fluorosis DI: #3	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.86	NCIT	
+OHX03SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX03SE	Dental Sealants: #3	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.67	NCIT	
+OHX03TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX03TC	Tooth Count: #3	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.7	NCIT	
+OHX04CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX04CSC	Coronal Caries: Surface condition #4	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.61	NCIT	
+OHX04CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX04CTC	Coronal Caries: Tooth count #4	Coronal Plane	http://purl.obolibrary.org/obo/NCIT_C94876	0.56	NCIT	
+OHX04CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX04CTC	Coronal Caries: Tooth count #4	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.46	OHD	
+OHX04DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX04DI	Fluorosis DI: #4	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.86	NCIT	
+OHX04SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX04SE	Dental Sealants: #4	Sealant	http://snomed.info/id/311899008	0.5	SNOMED	
+OHX04TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX04TC	Tooth Count: #4	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.71	NCIT	
+OHX05CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX05CSC	Coronal Caries: Surface condition #5	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.61	NCIT	
+OHX05CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX05CTC	Coronal Caries: Tooth count #5	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.46	OHD	
+OHX05DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX05DI	Fluorosis DI: #5	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.86	NCIT	
+OHX05SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX05SE	Dental Sealants: #5	Sealant Dosage Form	http://purl.obolibrary.org/obo/NCIT_C149892	0.67	NCIT	
+OHX05TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX05TC	Tooth Count: #5	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.71	NCIT	
+OHX06CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX06CSC	Coronal Caries: Surface condition #6	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.61	NCIT	
+OHX06CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX06CTC	Coronal Caries: Tooth count #6	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.46	OHD	
+OHX06DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX06DI	Fluorosis DI: #6	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.85	NCIT	
+OHX06TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX06TC	Tooth Count: #6	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.69	NCIT	
+OHX07CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX07CSC	Coronal Caries: Surface condition #7	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.6	NCIT	
+OHX07CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX07CTC	Coronal Caries: Tooth count #7	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.45	OHD	
+OHX07DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX07DI	Fluorosis DI: #7	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.84	NCIT	
+OHX07SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX07SE	Dental Sealants: #7	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.66	NCIT	
+OHX08CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX08CSC	Coronal Caries: Surface condition #8	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.6	NCIT	
+OHX08CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX08CTC	Coronal Caries: Tooth count #8	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.45	OHD	
+OHX08DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX08DI	Fluorosis DI: #8	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.84	NCIT	
+OHX08TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX08TC	Tooth Count: #8	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.68	NCIT	
+OHX08TR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX08TR	Incisor Trauma: #8	Traumatized incisor (disorder)	http://snomed.info/id/404199004	0.68	SNOMED	
+OHX09CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX09CSC	Coronal Caries: Surface condition #9	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.6	NCIT	
+OHX09CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX09CTC	Coronal Caries: Tooth count #9	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.45	OHD	
+OHX09DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX09DI	Fluorosis DI: #9	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.84	NCIT	
+OHX09TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX09TC	Tooth Count: #9	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.68	NCIT	
+OHX09TR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX09TR	Incisor Trauma: #9	Traumatized incisor (disorder)	http://snomed.info/id/404199004	0.68	SNOMED	
+OHX10CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX10CSC	Coronal Caries: Surface condition #10	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.59	NCIT	
+OHX10CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX10CTC	Coronal Caries: Tooth count #10	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX10DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX10DI	Fluorosis DI: #10	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.81	NCIT	
+OHX10SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX10SE	Dental Sealants: #10	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.63	NCIT	
+OHX10TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX10TC	Tooth Count: #10	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.65	NCIT	
+OHX10TR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX10TR	Incisor Trauma: #10	Traumatized incisor (disorder)	http://snomed.info/id/404199004	0.67	SNOMED	
+OHX11CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX11CSC	Coronal Caries: Surface condition #11	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.59	NCIT	
+OHX11CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX11CTC	Coronal Caries: Tooth Count #11	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX11DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX11DI	Fluorosis DI: #11	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.81	NCIT	
+OHX12CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX12CSC	Coronal Caries: Surface condition #12	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.6	NCIT	
+OHX12CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX12CTC	Coronal Caries: Tooth count #12	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.45	OHD	
+OHX12DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX12DI	Fluorosis DI: #12	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.83	NCIT	
+OHX12SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX12SE	Dental Sealants: #12	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.65	NCIT	
+OHX12TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX12TC	Tooth Count: #12	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.67	NCIT	
+OHX13CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX13CSC	Coronal Caries: Surface condition #13	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.59	NCIT	
+OHX13CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX13CTC	Coronal Caries: Tooth count #13	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX13DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX13DI	Fluorosis DI: #13	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.81	NCIT	
+OHX13SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX13SE	Dental Sealants: #13	Sealant Dosage Form	http://purl.obolibrary.org/obo/NCIT_C149892	0.63	NCIT	
+OHX13TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX13TC	Tooth Count: #13	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.64	NCIT	
+OHX14CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX14CSC	Coronal Caries: Surface condition #14	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.59	NCIT	
+OHX14CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX14CTC	Coronal Caries: Tooth count #14	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX14DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX14DI	Fluorosis DI: #14	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.81	NCIT	
+OHX14SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX14SE	Dental Sealants: #14	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.63	NCIT	
+OHX14TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX14TC	Tooth Count: #14	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.64	NCIT	
+OHX15CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX15CSC	Coronal Caries: Surface condition #15	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.59	NCIT	
+OHX15CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX15CTC	Coronal Caries: Tooth count #15	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX15DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX15DI	Fluorosis DI: #15	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.8	NCIT	
+OHX15SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX15SE	Dental Sealants: #15	Sealant Dosage Form	http://purl.obolibrary.org/obo/NCIT_C149892	0.62	NCIT	
+OHX15TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX15TC	Tooth Count: #15	Tooth 15	http://purl.obolibrary.org/obo/NCIT_C94580	0.83	NCIT	
+OHX16TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX16TC	Tooth Count: #16	Tooth 16	http://purl.obolibrary.org/obo/NCIT_C94581	0.83	NCIT	
+OHX17TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX17TC	Tooth Count: #17	Tooth 17	http://purl.obolibrary.org/obo/NCIT_C94582	0.84	NCIT	
+OHX18CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX18CSC	Coronal Caries: Surface condition #18	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.6	NCIT	
+OHX18CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX18CTC	Coronal Caries: Tooth count #18	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX18DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX18DI	Fluorosis DI: #18	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.82	NCIT	
+OHX18SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX18SE	Dental Sealants: #18	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.64	NCIT	
+OHX18TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX18TC	Tooth Count: #18	Tooth 18	http://purl.obolibrary.org/obo/NCIT_C94583	0.82	NCIT	
+OHX19CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX19CSC	Coronal Caries: Surface condition #19	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.59	NCIT	
+OHX19CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX19CTC	Coronal Caries: Tooth count #19	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX19DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX19DI	Fluorosis DI: #19	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.8	NCIT	
+OHX19SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX19SE	Dental Sealants: #19	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.62	NCIT	
+OHX19TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX19TC	Tooth Count: #19	Tooth 19	http://purl.obolibrary.org/obo/NCIT_C60728	0.83	NCIT	
+OHX20CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX20CSC	Coronal Caries: Surface condition #20	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.59	NCIT	
+OHX20CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX20CTC	Coronal Caries: Tooth count #20	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX20DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX20DI	Fluorosis DI: #20	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.81	NCIT	
+OHX20SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX20SE	Dental Sealants: #20	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.63	NCIT	
+OHX20TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX20TC	Tooth Count: #20	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.65	NCIT	
+OHX21CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX21CSC	Coronal Caries: Surface condition #21	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.59	NCIT	
+OHX21CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX21CTC	Coronal Caries: Tooth count #21	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.43	OHD	
+OHX21DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX21DI	Fluorosis DI: #21	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.79	NCIT	
+OHX21SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX21SE	Dental Sealants: #21	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.62	NCIT	
+OHX21TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX21TC	Tooth Count: #21	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.63	NCIT	
+OHX22CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX22CSC	Coronal Caries: Surface condition #22	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.6	NCIT	
+OHX22CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX22CTC	Coronal Caries: Tooth count #22	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX22DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX22DI	Fluorosis DI: #22	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.82	NCIT	
+OHX22TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX22TC	Tooth Count: #22	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.66	NCIT	
+OHX23CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX23CSC	Coronal Caries: Surface condition #23	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.59	NCIT	
+OHX23CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX23CTC	Coronal Caries: Tooth count #23	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX23DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX23DI	Fluorosis DI: #23	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.8	NCIT	
+OHX23TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX23TC	Tooth Count: #23	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.64	NCIT	
+OHX23TR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX23TR	Incisor Trauma: #23	Traumatized incisor (disorder)	http://snomed.info/id/404199004	0.66	SNOMED	
+OHX24CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX24CSC	Coronal Caries: Surface condition #24	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.59	NCIT	
+OHX24CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX24CTC	Coronal Caries: Tooth count #24	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX24DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX24DI	Fluorosis DI: #24	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.81	NCIT	
+OHX24TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX24TC	Tooth Count: #24	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.64	NCIT	
+OHX24TR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX24TR	Incisor Trauma: #24	Traumatized incisor (disorder)	http://snomed.info/id/404199004	0.67	SNOMED	
+OHX25CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX25CSC	Coronal Caries: Surface condition #25	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.59	NCIT	
+OHX25CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX25CTC	Coronal Caries: Tooth count #25	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.44	OHD	
+OHX25DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX25DI	Fluorosis DI: #25	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.8	NCIT	
+OHX25TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX25TC	Tooth Count: #25	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.64	NCIT	
+OHX25TR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX25TR	Incisor Trauma: #25	Traumatized incisor (disorder)	http://snomed.info/id/404199004	0.66	SNOMED	
+OHX26CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX26CSC	Coronal Caries: Surface condition #26	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.59	NCIT	
+OHX26CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX26CTC	Coronal Caries: Tooth count #26	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.43	OHD	
+OHX26DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX26DI	Fluorosis DI: #26	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.79	NCIT	
+OHX26TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX26TC	Tooth Count: #26	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.63	NCIT	
+OHX26TR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX26TR	Incisor Trauma: #26	Traumatized incisor (disorder)	http://snomed.info/id/404199004	0.66	SNOMED	
+OHX27CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX27CSC	Coronal Caries: Surface condition #27	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.58	NCIT	
+OHX27CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX27CTC	Coronal Caries: Tooth count #27	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.43	OHD	
+OHX27DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX27DI	Fluorosis DI: #27	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.79	NCIT	
+OHX27TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX27TC	Tooth Count: #27	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.62	NCIT	
+OHX28CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX28CSC	Coronal Caries: Surface condition #28	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.59	NCIT	
+OHX28CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX28CTC	Coronal Caries: Tooth count #28	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.43	OHD	
+OHX28DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX28DI	Fluorosis DI: #28	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.79	NCIT	
+OHX28SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX28SE	Dental Sealants: #28	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.62	NCIT	
+OHX28TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX28TC	Tooth Count: #28	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.63	NCIT	
+OHX29CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX29CSC	Coronal Caries: Surface condition #29	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.58	NCIT	
+OHX29CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX29CTC	Coronal Caries: Tooth count #29	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.43	OHD	
+OHX29DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX29DI	Fluorosis DI: #29	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.79	NCIT	
+OHX29SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX29SE	Dental Sealants: #29	Sealant	http://purl.obolibrary.org/obo/NCIT_C52587	0.62	NCIT	
+OHX29TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX29TC	Tooth Count: #29	Tooth	http://purl.obolibrary.org/obo/NCIT_C12506	0.62	NCIT	
+OHX30CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX30CSC	Coronal Caries: Surface condition #30	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.6	NCIT	
+OHX30CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX30CTC	Coronal Caries: Tooth count #30	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.45	OHD	
+OHX30DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX30DI	Fluorosis DI: #30	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.83	NCIT	
+OHX30SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX30SE	Dental Sealants: #30	Sealant Dosage Form	http://purl.obolibrary.org/obo/NCIT_C149892	0.65	NCIT	
+OHX30TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX30TC	Tooth Count: #30	Tooth 30	http://purl.obolibrary.org/obo/NCIT_C52667	0.81	NCIT	
+OHX31CSC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX31CSC	Coronal Caries: Surface condition #31	Conditional	http://purl.obolibrary.org/obo/NCIT_C63905	0.59	NCIT	
+OHX31CTC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX31CTC	Coronal Caries: Tooth count #31	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.43	OHD	
+OHX31DI	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX31DI	Fluorosis DI: #31	Dental Fluorosis	http://purl.obolibrary.org/obo/NCIT_C85059	0.79	NCIT	
+OHX31SE	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX31SE	Dental Sealants: #31	Sealant Dosage Form	http://purl.obolibrary.org/obo/NCIT_C149892	0.62	NCIT	
+OHX31TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX31TC	Tooth Count: #31	Tooth 31	http://purl.obolibrary.org/obo/NCIT_C94585	0.84	NCIT	
+OHX32TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX32TC	Tooth Count: #32	Tooth 32	http://purl.obolibrary.org/obo/NCIT_C94586	0.85	NCIT	
+OHXEDEN	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHXEDEN	Edentulous-yes	Edentulous	http://purl.obolibrary.org/obo/NCIT_C63746	0.92	NCIT	
+OHXIMP	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHXIMP	Dental Implant: yes / no	Dental Implant	http://purl.obolibrary.org/obo/NCIT_C63718	0.84	NCIT	
+OHXRCAR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHXRCAR	Root Caries: yes / no	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.52	OHD	
+OHXRRES	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHXRRES	Root restorations: yes / no	Root	http://purl.obolibrary.org/obo/NCIT_C79664	0.52	NCIT	
