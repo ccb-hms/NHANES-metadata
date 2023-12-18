@@ -2,16 +2,16 @@ from pathlib import Path
 import pandas as pd
 import text2term
 import preprocess_metadata
-import numpy as np
+import csv
 
-__version__ = "0.9.2"
+__version__ = "0.9.3"
 
 # How the stack looks:
 #                                  map_to_ontology
 #                                        |
 #                                 map_to_ontologies
 #                                        |
-#                                     map_data <-> mark_phenotypes
+#                                     map_data
 #                                      /    \
 #                                     /      map_data_with_composite_ids
 #                                    /                   |
@@ -37,6 +37,7 @@ NHANES_TABLE_ID_COL = "Table"
 NHANES_TABLE_NAME_COL = "TableName"
 SOURCE_TERM_COL = "Source Term"
 NHANES_VARIABLE_ID_COL = "Variable"
+NHANES_VARIABLE_COMBINED_ID_COL = "VariableID"
 MAPPING_SCORE_COL = "Mapping Score"
 ONTOLOGY_COL = "Ontology"
 
@@ -45,6 +46,7 @@ NHANES_VARIABLE_LABEL_PROCESSED_COL = "ProcessedText"
 
 IGNORE_TAG = "ignore"
 UNMAPPED = "unmapped"
+
 
 # Map the given terms to the target ontology
 def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=(), min_mapping_score=MIN_MAPPING_SCORE,
@@ -95,6 +97,7 @@ def map_data(source_df, labels_column, label_ids_column, tags_column=""):
         ontologies_table=TARGET_ONTOLOGIES)
     return mappings_df
 
+
 def get_terms_and_ids(nhanes_table, label_col, label_id_col, tags_column=""):
     if tags_column != "":
         terms = []
@@ -110,9 +113,8 @@ def get_terms_and_ids(nhanes_table, label_col, label_id_col, tags_column=""):
 
 def map_data_with_composite_ids(df, labels_column, variable_id_column, table_id_column, tags_column=""):
     sep = "-"
-    combined_id_column = "VariableID"
-    df[combined_id_column] = df[variable_id_column].astype(str) + sep + df[table_id_column]
-    mappings_df = map_data(df, labels_column, combined_id_column, tags_column=tags_column)
+    df[NHANES_VARIABLE_COMBINED_ID_COL] = df[variable_id_column].astype(str) + sep + df[table_id_column]
+    mappings_df = map_data(df, labels_column, NHANES_VARIABLE_COMBINED_ID_COL, tags_column=tags_column)
     expanded_df = expand_composite_ids(mappings_df, variable_id_column, table_id_column, "Source Term ID", sep=sep)
     return expanded_df
 
@@ -143,7 +145,7 @@ def check_mapping(row, mappings):
     result = mappings[(mappings[NHANES_VARIABLE_ID_COL] == row[NHANES_VARIABLE_ID_COL]) &
                       (mappings[NHANES_TABLE_ID_COL] == row[NHANES_TABLE_ID_COL]) &
                       (mappings[MAPPING_SCORE_COL] > 0)]
-    return "Yes" if not result.empty else "No"
+    return True if not result.empty else False
 
 
 def save_mappings_file(mappings_df, output_file_label, output_file_suffix="", output_folder=MAPPINGS_OUTPUT_FOLDER,
@@ -201,7 +203,8 @@ def map_nhanes_variables(variables_file=NHANES_VARIABLES, preprocess=False, save
         save_mappings_file(mappings, output_file_label="nhanes_variables", top_mappings_only=top_mappings_only, sort=True)
     if flag_mapped:
         updated_nhanes_variables = flag_mapped_variables(input_df, mappings)
-        updated_nhanes_variables.to_csv(variables_file, sep="\t", index=False)
+        updated_nhanes_variables = updated_nhanes_variables.drop(columns=[NHANES_VARIABLE_COMBINED_ID_COL])
+        updated_nhanes_variables.to_csv(variables_file, sep="\t", index=False, quoting=csv.QUOTE_NONNUMERIC)
     return mappings
 
 
