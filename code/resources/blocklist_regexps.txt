@@ -1,6 +1,4 @@
-.*Jack Knife.*
-.*Jackknife.*
-.*[Jj]ack [Kk]nife.*
+.*[Jj]ack[ ]*[Kk]nife.*
 .*[Rr]ecall [Ss]tatus.*
 .*Interviewer ID code.*
 .*Interview Status Code.*
