@@ -4,7 +4,7 @@ import pandas as pd
 import tarfile
 import sqlite3
 
-__version__ = "0.1.3"
+__version__ = "0.2.0"
 
 ONTOLOGY_MAPPINGS_TABLE = 'ontology_mappings'
 
@@ -50,7 +50,7 @@ def build_database(database_name):
 
     # Import the NHANES variables metadata table
     metadata_columns = "Variable TEXT,`Table` TEXT,SASLabel TEXT,EnglishText TEXT,EnglishInstructions TEXT,Target TEXT," \
-                       "UseConstraints TEXT,ProcessedText TEXT,Tags TEXT,VariableID TEXT,OntologyMapped TEXT"
+                       "UseConstraints TEXT,ProcessedText TEXT,Tags TEXT,IsPhenotype BOOLEAN,OntologyMapped BOOLEAN"
     import_table_to_db(db_connection, table_file=os.path.join("..", "metadata", "nhanes_variables.tsv"),
                        table_name="nhanes_variables_metadata", table_columns=metadata_columns)
 
@@ -59,6 +59,19 @@ def build_database(database_name):
                              "DocFile TEXT,DataFile TEXT,DatePublished TEXT"
     import_table_to_db(db_connection, table_file=os.path.join("..", "metadata", "nhanes_tables.tsv"),
                        table_name="nhanes_tables_metadata", table_columns=table_metadata_columns)
+
+    # Import the table of expert-verified oral health phenotype mappings
+    manual_mappings_table_columns = "Variable TEXT,`Table` TEXT,SourceTermID TEXT,SourceTerm TEXT,MappedTermLabel TEXT," \
+                                    "MappedTermIRI TEXT,MappingScore REAL,Ontology TEXT,Comments TEXT"
+    import_table_to_db(db_connection,
+                       table_file=os.path.join("..", "ontology-mappings", "nhanes_oral_health_mappings.tsv"),
+                       table_name="ontology_mappings_confirmed", table_columns=manual_mappings_table_columns)
+
+    # Import the table of expert-contributed synonyms of variable labels
+    synonyms_table_columns = "Variable TEXT,`Table` TEXT,Synonym TEXT"
+    import_table_to_db(db_connection, table_file=os.path.join("..", "metadata", "synonym_table.tsv"),
+                       table_name="nhanes_variables_synonyms", table_columns=synonyms_table_columns)
+
     return db_connection
 
 
