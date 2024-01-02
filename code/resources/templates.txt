@@ -1,12 +1,15 @@
 Ever been told you have (.*)
 Ever been told you had (.*)
 Ever told[ you]? had[ any]? (.*)
+Ever been told of (.*)
 Parents ever told had (.*);:;family history
 Ever treated for (.*)
 (.*) treated by (.*) doctor
 Close blood relative have (.*);:;family history
 Doctor told you have (.*)
 Doctor ever told you have (.*)
+Ever told by MD you had (.*)
+First time being told to have (.*)
 Age when first had (.*);:;age
 Age when told you had (.*);:;age
 Age when (.*) first diagnosed;:;age
@@ -30,6 +33,8 @@ HH Ref Person (.*)
 (.*) eaten during past 30 days 
 (.*) eaten in past 30 days 
 Num times (.*) eaten in past 30 days
+.* Did you eat (.*) rest of year
+.* Did you eat (.*)
 Had (.*) in last 30 minutes\?
 Excluded per (.*)
 Amount of (time )spend (in) (.*)
@@ -57,5 +62,6 @@ Location [A-Za-z]+: (.*)
 (.*): temporal pattern
 (.*): how long to develop
 (.*) exam status
+Under/over 50 when (.*) .* time
 (.*) @ [A-z 0-9]+
 (.*)\?

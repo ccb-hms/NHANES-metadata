@@ -5,6 +5,11 @@
 .*[Ll]anguage [Uu]sed.*
 .*[Ii]nterpreter [Uu]sed.*
 .*Dietary (.*) sample weight.*
+.* 2 year weights
 Reasons for Not Done
 Pool identification number
 Respondent sequence number
+Now attend headstart
+What does Dr say .* should be
+Who was it that died
+How do you get to .*
