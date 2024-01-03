@@ -1,5 +1,5 @@
 acronym,version,url,iris
-EFO,3.60.0,https://github.com/EBISPOT/efo/releases/download/v3.60.0/efo.owl,"http://www.ebi.ac.uk/efo/,http://purl.obolibrary.org/obo/MONDO,http://purl.obolibrary.org/obo/HP,http://www.orpha.net/ORDO,http://purl.obolibrary.org/obo/DOID"
+EFO,3.61.0,https://github.com/EBISPOT/efo/releases/download/v3.61.0/efo.owl,"http://www.ebi.ac.uk/efo/,http://purl.obolibrary.org/obo/MONDO,http://purl.obolibrary.org/obo/HP,http://www.orpha.net/ORDO,http://purl.obolibrary.org/obo/DOID"
 NCIT,23.09d,http://purl.obolibrary.org/obo/ncit/releases/2023-10-19/ncit.owl,
 FOODON,0.6.0,https://github.com/FoodOntology/foodon/raw/v0.6.0/foodon.owl,http://purl.obolibrary.org/obo/FOODON
 
