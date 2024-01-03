@@ -21,6 +21,8 @@ Warning: get_nhanes_metadata::get_variables_in_table() returns 0 items (Table-Va
 Warning: get_nhanes_metadata::get_variables_in_table() returns 0 items (Table-Variable: l25_2_r-) 
 Error in nhanesA::nhanesCodebook(): could not find a web page for LA_DEMO (Table-Variable: LA_DEMO-) 
 Warning: get_nhanes_metadata::get_variables_in_table() returns 0 items (Table-Variable: LA_DEMO-) 
+Error in nhanesA::nhanesCodebook(): could not find a web page for OCQ_D_R (Table-Variable: OCQ_D_R-) 
+Warning: get_nhanes_metadata::get_variables_in_table() returns 0 items (Table-Variable: OCQ_D_R-) 
 Error in nhanesA::nhanesCodebook(): non-numeric argument to binary operator (Table-Variable: P_DRXFCD-) 
 Warning: get_nhanes_metadata::get_variables_in_table() returns 0 items (Table-Variable: P_DRXFCD-) 
 Error in nhanesA::nhanesCodebook(): non-numeric argument to binary operator (Table-Variable: PAX80_G_R-) 
@@ -50,4 +52,4 @@ Warning: get_nhanes_metadata::get_variables_in_table() returns 0 items (Table-Va
 Warning: get_nhanes_metadata::get_variables_in_table() returns 0 items (Table-Variable: VIT_2_R-) 
 Error in nhanesA::nhanesCodebook(): non-numeric argument to binary operator (Table-Variable: YDQ-) 
 Warning: get_nhanes_metadata::get_variables_in_table() returns 0 items (Table-Variable: YDQ-) 
-Downloaded on: 12-03-2023T15:37:44
+Downloaded on: 01-03-2024T13:20:12
