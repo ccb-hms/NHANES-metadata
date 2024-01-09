@@ -27,7 +27,7 @@ The headers of the table containing metadata about NHANES variables are depicted
 - `EnglishText` contains either the same labels as in `SASLabel` or more detailed descriptions of the variables, e.g., where the `SASLabel` of variable `BPXSY1` is "Systolic: Blood pres (1st rdg) mm Hg", the provided `EnglishText` is "Systolic: Blood pressure (first reading) mm Hg".  
 - `EnglishInstructions` contains, for some variables, instructions for answering the question, e.g., "Enter age in years".
 - `Target` contains the target demographic of the variable, e.g., "Both males and females 18 YEARS - 59 YEARS". If there are multiple target values for a given variable, the multiple targets get concatenated into one string while separated by the token `*AND*`.    
-- `ProcessedText` contains the processed version of the SASLabel of a variable, e.g., "Blood Pressure" instead of "Blood Pressure Comment" (see [Preprocessing the metadata](#preprocessing-the-metadata)).
+- `ProcessedText` contains the processed version of the SASLabel of a variable, e.g., "Blood Pressure" instead of "Blood Pressure Comment" (see [Preprocessing Metadata](#preprocessing-metadata)).
 - `Tags` contains the tags attached to the variable during preprocessing, e.g., "comment".
 - `IsPhenotype` specifies if the variable has been flagged as a non-phenotype during preprocessing.
 - `OntologyMapped` specifies if a variable has been mapped to an ontology. 
