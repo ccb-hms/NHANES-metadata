@@ -2,6 +2,7 @@
 This folder contains NHANES metadata tables extracted via [code/get_nhanes_metadata.R](https://github.com/ccb-hms/NHANES-metadata/blob/master/code/get_nhanes_metadata.R), using the [nhanesA](https://github.com/cjendres1/nhanes) package.
 
 ## Tables Metadata: `nhanes_tables.tsv`
+The headers of the table containing metadata about NHANES tables are depicted and described below.
 
 | Table | TableName | BeginYear | EndYear | DataGroup | UseConstraints | DocFile | DataFile | DatePublished |
 |-------|-----------|-----------|---------|-----------|----------------|---------|----------|---------------|
@@ -15,6 +16,7 @@ This folder contains NHANES metadata tables extracted via [code/get_nhanes_metad
 
 
 ## Variables Metadata: `nhanes_variables.tsv`
+The headers of the table containing metadata about NHANES variables are depicted and described below. 
 
 | Variable | Table | SASLabel | EnglishText | EnglishInstructions | Target | UseConstraints | ProcessedText | Tags | IsPhenotype | OntologyMapped |
 |----------|-------|----------|-------------|---------------------|--------|----------------|---------------|------|-------------|----------------|
@@ -32,7 +34,7 @@ This folder contains NHANES metadata tables extracted via [code/get_nhanes_metad
 
 
 ## Variables Codebooks: `nhanes_variables_codebooks.tsv` 
-contains _**variable codebooks**_ which specify possible responses to each variable in each table.
+The headers of the table containing the codebooks of NHANES variables are depicted and described below. Variable codebooks specify possible responses to each variable in each table, and how the coded values in the XPT data tables should be translated— since the coded values are often numbers that stand for strings, for example, in some variables a response of 0 means "No Lab Result" or "Yes" or "Good" or "No problem". For appropriate data analysis, the data tables need to be translated using the variable codebooks that we extract here.
 
 | Variable | Table | CodeOrValue | ValueDescription | Count | Cumulative | SkipToItem |
 |----------|-------|-------------|------------------|-------|------------|------------|
@@ -52,26 +54,26 @@ Similar to `nhanes_variables.tsv`:
 ---
 
 # Metadata Acquisition Process
-In this section we detail the methods and tools used to extract the NHANES metadata assets described above. 
+In this section we describe the methods and tools used to extract the NHANES metadata assets described above. 
 
 ## Downloading Metadata
-The R script `code/get_nhanes_metadata.R` is used to fetch the NHANES metadata primarily relying on the nhanesA R package.
+The R script [`code/get_nhanes_metadata.R`](https://github.com/ccb-hms/NHANES-metadata/blob/master/code/get_nhanes_metadata.R) is used to fetch the NHANES metadata, primarily relying on the [nhanesA](https://github.com/cjendres1/nhanes) R package.
 
-Metadata about NHANES tables are obtained using the `nhanesA::nhanesTables()` and `nhanes::nhanesManifest()` functions. We originally used only `nhanesA::nhanesTables()` but we found that it returns an incomplete set of NHANES tables. The more recently implemented `nhanesA::nhanesManifest()` function returns a more complete set of tables. The current code uses both functions, since there are 10 tables returned by `nhanesA::nhanesTables()` which are not in the manifest, and there are 92 tables that are in the manifest but are not returned by `nhanesA::nhanesTables()`.
+Metadata about NHANES tables are obtained using the `nhanesA::nhanesTables()` and `nhanes::nhanesManifest()` functions. We originally used only `nhanesA::nhanesTables()` but then found that it returns an incomplete set of NHANES tables. We now use the more recently implemented `nhanesA::nhanesManifest()` function, which returns a complete set of tables.
 
 Metadata about variables are obtained primarily using the `nhanesA::nhanesCodebook()` function, which returns variable and table identifiers, variable label, English text, English instructions, and variable targets. To obtain the UseConstraints detail associated with each variable we use `nhanesA::nhanesTableVars()`.
 
 The codebook of each variable is obtained using the `nhanesA::nhanesCodebook()` function.
 
 ## Preprocessing Metadata
-Some variable labels contain wording that makes it more challenging to identify the underlying phenotype, e.g., "Age when heart disease first diagnosed". For such cases, we developed a [preprocessing module](https://github.com/ccb-hms/NHANES-metadata/blob/master/code/preprocess_metadata.py) that applies "cleanup" regular expressions—provided in the file [`templates.txt`](https://github.com/ccb-hms/NHANES-metadata/blob/master/code/resources/templates.txt)—to the SASLabel of variables. The cleaned-up label text is represented in the `ProcessedText` column of `nhanes_variables.tsv`. For example, applying the regular expression `Age when (.*) first diagnosed` to the prior example gives rise to the processed text `heart disease`.
+Some variable labels contain wording that makes it more challenging to identify the underlying phenotype, e.g., "Age when heart disease first diagnosed". For such cases, we developed a [preprocessing module](https://github.com/ccb-hms/NHANES-metadata/blob/master/code/preprocess_metadata.py) that applies "cleanup" regular expressions—provided in the file [`templates.txt`](https://github.com/ccb-hms/NHANES-metadata/blob/master/code/resources/templates.txt)—to the SASLabel of variables. The cleaned-up label text is represented in the `ProcessedText` column of [`nhanes_variables.tsv`](#variables-metadata-nhanes_variablestsv). For example, applying the regular expression `Age when (.*) first diagnosed` to the prior example gives rise to the processed text `heart disease`.
 
 ### Adding Tags to Variables
-In addition to cleaning up the label text of variables, we developed a mechanism to add tags to variables that match the regular expressions in [`templates.txt`](https://github.com/ccb-hms/NHANES-metadata/blob/master/code/resources/templates.txt). We use a custom separator `;:;` between the regular expression and the desired tag(s). For example: `Age when (.*) first diagnosed;:;age` adds the tag `age` to all variables whose labels match the regex. Tags are represented in the column `Tags` of `nhanes_variables.tsv`.
+In addition to cleaning up the label text of variables, we developed a mechanism to add tags to variables that match the regular expressions in [`templates.txt`](https://github.com/ccb-hms/NHANES-metadata/blob/master/code/resources/templates.txt). We use a custom separator `;:;` between the regular expression and the desired tag(s). For example: `Age when (.*) first diagnosed;:;age` adds the tag `age` to all variables whose labels match the regex. Tags are represented in the column `Tags` of [`nhanes_variables.tsv`](#variables-metadata-nhanes_variablestsv).
 
 ## Flagging Non-Phenotypes
 Certain variables do not represent or relate to a phenotype, for example `DR1EXMER`: "Interviewer ID code" or `PSQ300`: "Language Used". In such cases it is desirable to have a way to flag those non-phenotype variables. We implemented two mechanisms to specify non-phenotype variables:
 - A table [`blocklist_table.csv`](https://github.com/ccb-hms/NHANES-metadata/blob/master/code/resources/blocklist_table.csv) that contains specific variable and table identifiers, which have been manually identified as non-phenotype variables.  
 - A file [`blocklist_regexps.txt`](https://github.com/ccb-hms/NHANES-metadata/blob/master/code/resources/blocklist_regexps.txt) that contains a list of regular expressions that are applied to the SASLabel of variables—if a label of a variable matches a regular expression, that variable is declared as a non-phenotype variable.  
 
-Variables flagged as non-phenotypes have a value of `False` in the column `IsPhenotype` of [`nhanes_variables.tsv`](#variables-metadata), or `True` otherwise.
+Variables flagged as non-phenotypes have a value of `False` in the column `IsPhenotype` of [`nhanes_variables.tsv`](#variables-metadata-nhanes_variablestsv), or `True` otherwise.
