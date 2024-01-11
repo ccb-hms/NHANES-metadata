@@ -3,7 +3,7 @@ This repository contains code and (meta)data components to be included in the [N
 
 ## Code
 The [code](https://github.com/ccb-hms/NHANES-metadata/tree/master/code) folder contains the programs that generate the metadata components described in the next subsections. 
-* `get_nhanes_metadata.Rmd` extracts and saves NHANES metadata from CDC using [nhanesA](https://github.com/cjendres1/nhanes).
+* `get_nhanes_metadata.R` extracts and saves NHANES metadata from CDC using [nhanesA](https://github.com/cjendres1/nhanes).
 * `generate_ontology_mappings.py` generates mappings of the metadata to a select set of ontologies.
 * `generate_ontology_tables.py` downloads [SemanticSQL](https://github.com/INCATools/semantic-sql) ontology databases and exports tables needed to support ontology-based querying.
 * `generate_nhanes_mapping_report.py` uses the generic module `generate_mapping_report.py` to compute counts of direct and inherited mappings and add them to the ontology labels table. 
@@ -24,5 +24,7 @@ The [ontology-tables](https://github.com/ccb-hms/NHANES-metadata/tree/master/ont
 * `ontology_labels.tsv` contains the labels of all ontology terms.
 * `ontology_edges.tsv` contains the asserted relationships between ontology terms.
 * `ontology_entailed_edges.tsv` contains the inferred relationships between ontology terms (including asserted ones).
+* `ontology_synonyms.tsv` contains the (exact) synonyms of all ontology terms.
+* `ontology_dbxrefs.tsv` contains database cross-references that relate ontology terms to other ontologies or databases.
 
 These tables are combined with the ontology mappings to enable ontology-based search of mapped data points. 
