@@ -4,7 +4,7 @@ import text2term
 import preprocess_metadata
 import csv
 
-__version__ = "0.9.3"
+__version__ = "0.9.4"
 
 # How the stack looks:
 #                                  map_to_ontology
@@ -28,7 +28,7 @@ NHANES_TABLES = "../metadata/nhanes_tables.tsv"
 
 # Mapping configuration
 MAX_MAPPINGS_PER_ONTOLOGY = 1
-MIN_MAPPING_SCORE = 0.8
+MIN_MAPPING_SCORE = 0.7
 MAPPINGS_OUTPUT_FOLDER = "../ontology-mappings/"
 TARGET_ONTOLOGIES = "resources/ontologies.csv"
 
@@ -145,7 +145,7 @@ def check_mapping(row, mappings):
     result = mappings[(mappings[NHANES_VARIABLE_ID_COL] == row[NHANES_VARIABLE_ID_COL]) &
                       (mappings[NHANES_TABLE_ID_COL] == row[NHANES_TABLE_ID_COL]) &
                       (mappings[MAPPING_SCORE_COL] > 0)]
-    return True if not result.empty else False
+    return "TRUE" if not result.empty else "FALSE"
 
 
 def save_mappings_file(mappings_df, output_file_label, output_file_suffix="", output_folder=MAPPINGS_OUTPUT_FOLDER,

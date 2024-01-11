@@ -43,7 +43,7 @@ def preprocess(input_file, column_to_process, save_processed_table=False, input_
     return df
 
 def mark_phenotpyes(df):
-    df[PHENOTYPE_COL] = np.where(df[PROCESSED_TEXT_COL] == "-", False, True)
+    df[PHENOTYPE_COL] = np.where(df[PROCESSED_TEXT_COL] == "-", "FALSE", "TRUE")
     return df
 
 if __name__ == '__main__':
