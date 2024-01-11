@@ -9,6 +9,12 @@ library(dplyr)
 nhanes_tables_metadata_column_names <- c("Table", "TableName", "BeginYear", "EndYear", "DataGroup", 
                                          "UseConstraints", "DocFile", "DataFile", "DatePublished")
 
+TABLES_WITHOUT_CODEBOOKS <- c("DOC_2000", "DRXFCD_I", "DRXFCD_J", "DRXFMT", "FOODLK_C", "FOODLK_D", 
+                              "LA_DEMO", "P_DRXFCD", "PAX80_G_R", "PAXLUX_G_R", "POOLTF_D", "POOLTF_E", 
+                              "RXQ_DRUG", "SSUIFG_R", "VARLK_C", "VARLK_D", "VID_2_00", "YDQ", "DRXFMT_B")
+
+LIMITED_USE_TABLES <- c("HP_01_R", "HP2_01_R", "L11_2_R", "l13_2_r", "L16_2_R", "L19_2_R", "l25_2_r", 
+                        "SSH7N9_R", "SSHN10_R", "SSUE10_R", "VIT_2_R", "OCQ_D_R")
 
 ## NHANES TABLES METADATA ACQUISITION FUNCTIONS ##
 
@@ -86,7 +92,6 @@ get_tables <- function(data_group, year) {
 # in nhanesA::nhanesManifest() but not obtainable via nhanesA::nhanesTables()
 add_tables_from_manifest <- function(nhanes_tables) {
   manifest_variables <- nhanesManifest(which="variables")
-  # nhanes_tables$Table <- toupper(nhanes_tables$Table)
   
   manifest_public <- nhanesManifest(which="public")
   nhanes_tables_new <- add_manifest(manifest_public, nhanes_tables, "None", manifest_variables)
@@ -263,7 +268,10 @@ get_variables_in_table <- function(table_name, nhanes_data_group) {
         }
         use_constraints <- ""
         if(length(table_variables) > 0) {
-          use_constraints <- table_variables[variable_name, 'Use.Constraints']
+          use_constraints <- table_variables[table_variables$Variable.Name == variable_name, 'Use.Constraints']
+          if(length(use_constraints) == 0) {
+            use_constraints <- ""
+          }
         }
         variable_details_vector <- c(toupper(variable_name), toupper(table_name), label, text, instructions, targets, use_constraints)
         all_variables[nrow(all_variables) + 1, ] <- variable_details_vector
@@ -309,11 +317,13 @@ get_variables_in_table <- function(table_name, nhanes_data_group) {
 
 ## UTILITY FUNCTIONS ##
 log_missing_codebook <- function(exception_type, exception_msg, table_name, variable_name) {
-  log_msg <- paste(exception_type, ": ", exception_msg, " (Table-Variable: ", 
-                   table_name, "-", variable_name, ")", sep="")
-  cat(log_msg, "\n", file=log_file, append=TRUE)
-  cat(table_name, "\t", variable_name, "\n", file=missing_codebooks_file, append=TRUE)
-  print(log_msg)
+  if( !(table_name %in% TABLES_WITHOUT_CODEBOOKS) && !(table_name %in% LIMITED_USE_TABLES) ) {
+    log_msg <- paste(exception_type, ": ", exception_msg, " (Table-Variable: ", 
+                     table_name, "-", variable_name, ")", sep="")
+    cat(log_msg, "\n", file=log_file, append=TRUE)
+    cat(table_name, "\t", variable_name, "\n", file=missing_codebooks_file, append=TRUE)
+    print(log_msg)
+  }
 }
 
 # Remove carriage return, new line, comma, backslash and quote characters

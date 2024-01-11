@@ -47,7 +47,7 @@ Similar to `nhanes_variables.tsv`:
 
 
 ## Additional files generated during the download process 
-- `missing_codebooks.tsv`: contains variables that are listed by `nhanesA::nhanesTableVars()` but that do not have a corresponding codebook obtainable via the `nhanesA::nhanesCodebook()` function.
+- `missing_codebooks.tsv`: contains names of tables that do not have a codebook obtainable via the `nhanesA::nhanesCodebook()` function.
 
 - `log.txt`: contains the date/time when the metadata was downloaded, along with any errors or warnings that may have occurred.
 
