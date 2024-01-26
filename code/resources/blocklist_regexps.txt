@@ -6,6 +6,9 @@
 .*[Ii]nterpreter [Uu]sed.*
 .*Dietary (.*) sample weight.*
 .* 2 year weights
+.*[Cc]omment [Cc]ode$
+.*[Cc]omment$
+[Cc]omment [Cc]ode for.*
 Reasons for Not Done
 Pool identification number
 Respondent sequence number

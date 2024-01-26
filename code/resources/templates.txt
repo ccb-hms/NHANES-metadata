@@ -15,6 +15,7 @@ Age when told you had (.*);:;age
 Age when (.*) first diagnosed;:;age
 Age when (.*) started \([A-Za-z]+\);:;age
 Age first told had (.*);:;age
+(.*) Last 24 Hours .*
 (.*) in past year
 Have (.*) now
 Do you still have [a]?(.*)
@@ -42,11 +43,6 @@ Had (.*) Last 24 Hours(.*)\?
 Estimated (.*)
 Had (.*)\?
 Have (.*)\?
-Blood (.*) Comment Code;:;comment
-[Cc]omment [Cc]ode for [an]*(.*);:;comment
-(.*) comment code;:;comment
-(.*) Comment Code;:;comment
-(.*) [Cc]omment;:;comment
 Handcard: (.*)\?
 Doctor said (.*)
 When (SED) did you (.*)\?
