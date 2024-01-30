@@ -9,6 +9,7 @@
 .*[Cc]omment [Cc]ode$
 .*[Cc]omment$
 [Cc]omment [Cc]ode for.*
+.*[Ii]nterview\\??$
 Reasons for Not Done
 Pool identification number
 Respondent sequence number
