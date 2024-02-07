@@ -266,11 +266,11 @@ get_variables_in_table <- function(table_name, nhanes_data_group) {
             }
           }
         }
-        use_constraints <- ""
+        use_constraints <- "None"
         if(length(table_variables) > 0) {
-          use_constraints <- table_variables[table_variables$Variable.Name == variable_name, 'Use.Constraints']
+          use_constraints <- clean(table_variables[table_variables$Variable.Name == variable_name, 'Use.Constraints'])
           if(length(use_constraints) == 0) {
-            use_constraints <- ""
+            use_constraints <- "None"
           }
         }
         variable_details_vector <- c(toupper(variable_name), toupper(table_name), label, text, instructions, targets, use_constraints)

@@ -36,7 +36,7 @@ def preprocess(input_file, column_to_process, save_processed_table=False, input_
 
     bl_df = pd.read_csv(BLOCKLIST_TABLE)
     for index, row in bl_df.iterrows():
-        df[PROCESSED_TEXT_COL] = np.where((df["Variable"] == row["names"]) & (df["Table"] == row["tables"]),
+        df[PROCESSED_TEXT_COL] = np.where((df["Variable"] == row["Variable"]) & (df["Table"] == row["Table"]),
                                           "-", df[PROCESSED_TEXT_COL])
     df = _mark_phenotpyes(df)
     df = _replace_synonym_labels(df)
