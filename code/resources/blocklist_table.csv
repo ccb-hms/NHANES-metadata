@@ -6731,3 +6731,272 @@ LBDVXYLC,VOCWBS_I,Blood m-/p-Xylene Comment Code,Comment,"grep(""LC$"", Variable
 LBDWIOLC,WPIN_D,Iodide water comment code,Comment,"grep(""LC$"", Variable) with exception of variables in allowlist.csv"
 LBDWNOLC,WPIN_D,Nitrate water comment code,Comment,"grep(""LC$"", Variable) with exception of variables in allowlist.csv"
 LBDWP8LC,WPIN_D,Perchlorate water comment code,Comment,"grep(""LC$"", Variable) with exception of variables in allowlist.csv"
+OHAEXSTS,OHXDEN_C,Overall Oral Health Exam Status,,Variable mapping verified by human expert
+OHASCST3,OHXDEN_C,Dentition Status Code,,Variable mapping verified by human expert
+OHX01TC,OHXDEN_C,Tooth Count: #1,,Variable mapping verified by human expert
+OHX02CTC,OHXDEN_C,Coronal Caries: Tooth count #2,,Variable mapping verified by human expert
+OHX02DI,OHXDEN_C,Fluorosis DI: #2,,Variable mapping verified by human expert
+OHX02SE,OHXDEN_C,Dental Sealants: #2,,Variable mapping verified by human expert
+OHX02TC,OHXDEN_C,Tooth Count: #2,,Variable mapping verified by human expert
+OHX03CTC,OHXDEN_C,Coronal Caries: Tooth count #3,,Variable mapping verified by human expert
+OHX03DI,OHXDEN_C,Fluorosis DI: #3,,Variable mapping verified by human expert
+OHX03SE,OHXDEN_C,Dental Sealants: #3,,Variable mapping verified by human expert
+OHX04CTC,OHXDEN_C,Coronal Caries: Tooth count #4,,Variable mapping verified by human expert
+OHX04DI,OHXDEN_C,Fluorosis DI: #4,,Variable mapping verified by human expert
+OHX04SE,OHXDEN_C,Dental Sealants: #4,,Variable mapping verified by human expert
+OHX05CTC,OHXDEN_C,Coronal Caries: Tooth count #5,,Variable mapping verified by human expert
+OHX05DI,OHXDEN_C,Fluorosis DI: #5,,Variable mapping verified by human expert
+OHX05SE,OHXDEN_C,Dental Sealants: #5,,Variable mapping verified by human expert
+OHX06CTC,OHXDEN_C,Coronal Caries: Tooth count #6,,Variable mapping verified by human expert
+OHX06DI,OHXDEN_C,Fluorosis DI: #6,,Variable mapping verified by human expert
+OHX07DI,OHXDEN_C,Fluorosis DI: #7,,Variable mapping verified by human expert
+OHX07SE,OHXDEN_C,Dental Sealants: #7,,Variable mapping verified by human expert
+OHX07TR,OHXDEN_C,Incisor Trauma: #7,,Variable mapping verified by human expert
+OHX08CTC,OHXDEN_C,Coronal Caries: Tooth count #8,,Variable mapping verified by human expert
+OHX08DI,OHXDEN_C,Fluorosis DI: #8,,Variable mapping verified by human expert
+OHX08TR,OHXDEN_C,Incisor Trauma: #8,,Variable mapping verified by human expert
+OHX09DI,OHXDEN_C,Fluorosis DI: #9,,Variable mapping verified by human expert
+OHX09TR,OHXDEN_C,Incisor Trauma: #9,,Variable mapping verified by human expert
+OHX10CTC,OHXDEN_C,Coronal Caries: Tooth count #10,,Variable mapping verified by human expert
+OHX10DI,OHXDEN_C,Fluorosis DI: #10,,Variable mapping verified by human expert
+OHX10SE,OHXDEN_C,Dental Sealants: #10,,Variable mapping verified by human expert
+OHX10TR,OHXDEN_C,Incisor Trauma: #10,,Variable mapping verified by human expert
+OHX11CTC,OHXDEN_C,Coronal Caries: Tooth Count #11,,Variable mapping verified by human expert
+OHX11DI,OHXDEN_C,Fluorosis DI: #11,,Variable mapping verified by human expert
+OHX12CTC,OHXDEN_C,Coronal Caries: Tooth count #12,,Variable mapping verified by human expert
+OHX12DI,OHXDEN_C,Fluorosis DI: #12,,Variable mapping verified by human expert
+OHX12SE,OHXDEN_C,Dental Sealants: #12,,Variable mapping verified by human expert
+OHX13DI,OHXDEN_C,Fluorosis DI: #13,,Variable mapping verified by human expert
+OHX13SE,OHXDEN_C,Dental Sealants: #13,,Variable mapping verified by human expert
+OHX13TC,OHXDEN_C,Tooth Count: #13,,Variable mapping verified by human expert
+OHX14DI,OHXDEN_C,Fluorosis DI: #14,,Variable mapping verified by human expert
+OHX14SE,OHXDEN_C,Dental Sealants: #14,,Variable mapping verified by human expert
+OHX15CTC,OHXDEN_C,Coronal Caries: Tooth count #15,,Variable mapping verified by human expert
+OHX15DI,OHXDEN_C,Fluorosis DI: #15,,Variable mapping verified by human expert
+OHX15TC,OHXDEN_C,Tooth Count: #15,,Variable mapping verified by human expert
+OHX16TC,OHXDEN_C,Tooth Count: #16,,Variable mapping verified by human expert
+OHX17TC,OHXDEN_C,Tooth Count: #17,,Variable mapping verified by human expert
+OHX18CTC,OHXDEN_C,Coronal Caries: Tooth count #18,,Variable mapping verified by human expert
+OHX18DI,OHXDEN_C,Fluorosis DI: #18,,Variable mapping verified by human expert
+OHX18SE,OHXDEN_C,Dental Sealants: #18,,Variable mapping verified by human expert
+OHX18TC,OHXDEN_C,Tooth Count: #18,,Variable mapping verified by human expert
+OHX19CTC,OHXDEN_C,Coronal Caries: Tooth count #19,,Variable mapping verified by human expert
+OHX19SE,OHXDEN_C,Dental Sealants: #19,,Variable mapping verified by human expert
+OHX19TC,OHXDEN_C,Tooth Count: #19,,Variable mapping verified by human expert
+OHX20CTC,OHXDEN_C,Coronal Caries: Tooth count #20,,Variable mapping verified by human expert
+OHX20DI,OHXDEN_C,Fluorosis DI: #20,,Variable mapping verified by human expert
+OHX20SE,OHXDEN_C,Dental Sealants: #20,,Variable mapping verified by human expert
+OHX20TC,OHXDEN_C,Tooth Count: #20,,Variable mapping verified by human expert
+OHX21CTC,OHXDEN_C,Coronal Caries: Tooth count #21,,Variable mapping verified by human expert
+OHX22CTC,OHXDEN_C,Coronal Caries: Tooth count #22,,Variable mapping verified by human expert
+OHX22TC,OHXDEN_C,Tooth Count: #22,,Variable mapping verified by human expert
+OHX23CTC,OHXDEN_C,Coronal Caries: Tooth count #23,,Variable mapping verified by human expert
+OHX23DI,OHXDEN_C,Fluorosis DI: #23,,Variable mapping verified by human expert
+OHX23TC,OHXDEN_C,Tooth Count: #23,,Variable mapping verified by human expert
+OHX23TR,OHXDEN_C,Incisor Trauma: #23,,Variable mapping verified by human expert
+OHX24CTC,OHXDEN_C,Coronal Caries: Tooth count #24,,Variable mapping verified by human expert
+OHX24DI,OHXDEN_C,Fluorosis DI: #24,,Variable mapping verified by human expert
+OHX24TC,OHXDEN_C,Tooth Count: #24,,Variable mapping verified by human expert
+OHX24TR,OHXDEN_C,Incisor Trauma: #24,,Variable mapping verified by human expert
+OHX25CTC,OHXDEN_C,Coronal Caries: Tooth count #25,,Variable mapping verified by human expert
+OHX25DI,OHXDEN_C,Fluorosis DI: #25,,Variable mapping verified by human expert
+OHX25TC,OHXDEN_C,Tooth Count: #25,,Variable mapping verified by human expert
+OHX25TR,OHXDEN_C,Incisor Trauma: #25,,Variable mapping verified by human expert
+OHX26CTC,OHXDEN_C,Coronal Caries: Tooth count #26,,Variable mapping verified by human expert
+OHX26DI,OHXDEN_C,Fluorosis DI: #26,,Variable mapping verified by human expert
+OHX26TC,OHXDEN_C,Tooth Count: #26,,Variable mapping verified by human expert
+OHX26TR,OHXDEN_C,Incisor Trauma: #26,,Variable mapping verified by human expert
+OHX27CTC,OHXDEN_C,Coronal Caries: Tooth count #27,,Variable mapping verified by human expert
+OHX27DI,OHXDEN_C,Fluorosis DI: #27,,Variable mapping verified by human expert
+OHX27TC,OHXDEN_C,Tooth Count: #27,,Variable mapping verified by human expert
+OHX28CTC,OHXDEN_C,Coronal Caries: Tooth count #28,,Variable mapping verified by human expert
+OHX28DI,OHXDEN_C,Fluorosis DI: #28,,Variable mapping verified by human expert
+OHX28SE,OHXDEN_C,Dental Sealants: #28,,Variable mapping verified by human expert
+OHX29CTC,OHXDEN_C,Coronal Caries: Tooth count #29,,Variable mapping verified by human expert
+OHX29DI,OHXDEN_C,Fluorosis DI: #29,,Variable mapping verified by human expert
+OHX29SE,OHXDEN_C,Dental Sealants: #29,,Variable mapping verified by human expert
+OHX29TC,OHXDEN_C,Tooth Count: #29,,Variable mapping verified by human expert
+OHX30CTC,OHXDEN_C,Coronal Caries: Tooth count #30,,Variable mapping verified by human expert
+OHX30DI,OHXDEN_C,Fluorosis DI: #30,,Variable mapping verified by human expert
+OHX30SE,OHXDEN_C,Dental Sealants: #30,,Variable mapping verified by human expert
+OHX30TC,OHXDEN_C,Tooth Count: #30,,Variable mapping verified by human expert
+OHX31CTC,OHXDEN_C,Coronal Caries: Tooth count #31,,Variable mapping verified by human expert
+OHX31DI,OHXDEN_C,Fluorosis DI: #31,,Variable mapping verified by human expert
+OHXEDEN,OHXDEN_C,Edentulous-yes,,Variable mapping verified by human expert
+OHXIMP,OHXDEN_C,Dental Implant: yes / no,,Variable mapping verified by human expert
+OHXRCAR,OHXDEN_C,Root Caries: yes / no,,Variable mapping verified by human expert
+OHXRRES,OHXDEN_C,Root restorations: yes / no,,Variable mapping verified by human expert
+OHAEXSTS,OHXREF_C,Overall Oral Health Exam Status,,Variable mapping verified by human expert
+OHAPOS,OHXREF_C,Was participant exam position recumbent,,Variable mapping verified by human expert
+OHAREC,OHXREF_C,Overall recommendation for care,,Variable mapping verified by human expert
+OHAROCCI,OHXREF_C,Assessment of soft tissue lesion,,Variable mapping verified by human expert
+OHAROCDE,OHXREF_C,Denture/Partial Denture/plates,,Variable mapping verified by human expert
+OHAROCDE,OHXREF_C,Denture/Partial Denture/plates,,Variable mapping verified by human expert
+OHAROCDT,OHXREF_C,Untreated Caries / Restorative needs,,Variable mapping verified by human expert
+OHAROTH,OHXREF_C,Some other finding,,Variable mapping verified by human expert
+OHASCST5,OHXREF_C,Referral Status Code,,Variable mapping verified by human expert
+OHQ134,OHXREF_C,congenital heart murmurs,,Variable mapping verified by human expert
+OHQ136,OHXREF_C,heart valve problem,,Variable mapping verified by human expert
+OHQ140,OHXREF_C,bacterial endocarditis,,Variable mapping verified by human expert
+OHQ142,OHXREF_C,rheumatic fever,,Variable mapping verified by human expert
+OHQ144,OHXREF_C,kidney disease w/ renal dialysis,,Variable mapping verified by human expert
+OHQ146,OHXREF_C,other artificial material,,Variable mapping verified by human expert
+OHQ148,OHXREF_C,a hip bone or joint replacement,,Variable mapping verified by human expert
+OHQ410,OHXREF_C,Removable complete/partial max denture,,Variable mapping verified by human expert
+OHQ420,OHXREF_C,Wears complete/partial max denture,,Variable mapping verified by human expert
+OHQ430,OHXREF_C,Removable complete/partial mand. denture,,Variable mapping verified by human expert
+OHQ490a,OHXREF_C,Toothache,,Variable mapping verified by human expert
+OHQ490b,OHXREF_C,Sensitivity,,Variable mapping verified by human expert
+OHQ490c,OHXREF_C,Cavities/Caries,,Variable mapping verified by human expert
+OHQ490e,OHXREF_C,Broken / fractured teeth,,Variable mapping verified by human expert
+OHQ490f,OHXREF_C,Staining/discoloration of teeth,,Variable mapping verified by human expert
+OHQ490j,OHXREF_C,Denture problems,,Variable mapping verified by human expert
+OHQ490k,OHXREF_C,Periodontal problems,,Variable mapping verified by human expert
+OHQ490l,OHXREF_C,Unsatisfactory prior dental experience,,Variable mapping verified by human expert
+OHAEXSTS,OHXDEN_C,Overall Oral Health Exam Status,,Variable mapping verified by human expert
+OHASCST3,OHXDEN_C,Dentition Status Code,,Variable mapping verified by human expert
+OHX01TC,OHXDEN_C,Tooth Count: #1,,Variable mapping verified by human expert
+OHX01TC,OHXDEN_C,Tooth Count: #1,,Variable mapping verified by human expert
+OHX02CSC,OHXDEN_C,Coronal Caries: Surface condition #2,,Variable mapping verified by human expert
+OHX02CTC,OHXDEN_C,Coronal Caries: Tooth count #2,,Variable mapping verified by human expert
+OHX02DI,OHXDEN_C,Fluorosis DI: #2,,Variable mapping verified by human expert
+OHX02SE,OHXDEN_C,Dental Sealants: #2,,Variable mapping verified by human expert
+OHX02TC,OHXDEN_C,Tooth Count: #2,,Variable mapping verified by human expert
+OHX03CSC,OHXDEN_C,Coronal Caries: Surface condition #3,,Variable mapping verified by human expert
+OHX03CTC,OHXDEN_C,Coronal Caries: Tooth count #3,,Variable mapping verified by human expert
+OHX03DI,OHXDEN_C,Fluorosis DI: #3,,Variable mapping verified by human expert
+OHX03SE,OHXDEN_C,Dental Sealants: #3,,Variable mapping verified by human expert
+OHX03TC,OHXDEN_C,Tooth Count: #3,,Variable mapping verified by human expert
+OHX04CSC,OHXDEN_C,Coronal Caries: Surface condition #4,,Variable mapping verified by human expert
+OHX04CTC,OHXDEN_C,Coronal Caries: Tooth count #4,,Variable mapping verified by human expert
+OHX04CTC,OHXDEN_C,Coronal Caries: Tooth count #4,,Variable mapping verified by human expert
+OHX04DI,OHXDEN_C,Fluorosis DI: #4,,Variable mapping verified by human expert
+OHX04SE,OHXDEN_C,Dental Sealants: #4,,Variable mapping verified by human expert
+OHX04TC,OHXDEN_C,Tooth Count: #4,,Variable mapping verified by human expert
+OHX05CSC,OHXDEN_C,Coronal Caries: Surface condition #5,,Variable mapping verified by human expert
+OHX05CTC,OHXDEN_C,Coronal Caries: Tooth count #5,,Variable mapping verified by human expert
+OHX05DI,OHXDEN_C,Fluorosis DI: #5,,Variable mapping verified by human expert
+OHX05SE,OHXDEN_C,Dental Sealants: #5,,Variable mapping verified by human expert
+OHX05TC,OHXDEN_C,Tooth Count: #5,,Variable mapping verified by human expert
+OHX06CSC,OHXDEN_C,Coronal Caries: Surface condition #6,,Variable mapping verified by human expert
+OHX06CTC,OHXDEN_C,Coronal Caries: Tooth count #6,,Variable mapping verified by human expert
+OHX06DI,OHXDEN_C,Fluorosis DI: #6,,Variable mapping verified by human expert
+OHX06TC,OHXDEN_C,Tooth Count: #6,,Variable mapping verified by human expert
+OHX07CSC,OHXDEN_C,Coronal Caries: Surface condition #7,,Variable mapping verified by human expert
+OHX07CTC,OHXDEN_C,Coronal Caries: Tooth count #7,,Variable mapping verified by human expert
+OHX07DI,OHXDEN_C,Fluorosis DI: #7,,Variable mapping verified by human expert
+OHX07SE,OHXDEN_C,Dental Sealants: #7,,Variable mapping verified by human expert
+OHX08CSC,OHXDEN_C,Coronal Caries: Surface condition #8,,Variable mapping verified by human expert
+OHX08CTC,OHXDEN_C,Coronal Caries: Tooth count #8,,Variable mapping verified by human expert
+OHX08DI,OHXDEN_C,Fluorosis DI: #8,,Variable mapping verified by human expert
+OHX08TC,OHXDEN_C,Tooth Count: #8,,Variable mapping verified by human expert
+OHX08TR,OHXDEN_C,Incisor Trauma: #8,,Variable mapping verified by human expert
+OHX09CSC,OHXDEN_C,Coronal Caries: Surface condition #9,,Variable mapping verified by human expert
+OHX09CTC,OHXDEN_C,Coronal Caries: Tooth count #9,,Variable mapping verified by human expert
+OHX09DI,OHXDEN_C,Fluorosis DI: #9,,Variable mapping verified by human expert
+OHX09TC,OHXDEN_C,Tooth Count: #9,,Variable mapping verified by human expert
+OHX09TR,OHXDEN_C,Incisor Trauma: #9,,Variable mapping verified by human expert
+OHX10CSC,OHXDEN_C,Coronal Caries: Surface condition #10,,Variable mapping verified by human expert
+OHX10CTC,OHXDEN_C,Coronal Caries: Tooth count #10,,Variable mapping verified by human expert
+OHX10DI,OHXDEN_C,Fluorosis DI: #10,,Variable mapping verified by human expert
+OHX10SE,OHXDEN_C,Dental Sealants: #10,,Variable mapping verified by human expert
+OHX10TC,OHXDEN_C,Tooth Count: #10,,Variable mapping verified by human expert
+OHX10TR,OHXDEN_C,Incisor Trauma: #10,,Variable mapping verified by human expert
+OHX11CSC,OHXDEN_C,Coronal Caries: Surface condition #11,,Variable mapping verified by human expert
+OHX11CTC,OHXDEN_C,Coronal Caries: Tooth Count #11,,Variable mapping verified by human expert
+OHX11DI,OHXDEN_C,Fluorosis DI: #11,,Variable mapping verified by human expert
+OHX12CSC,OHXDEN_C,Coronal Caries: Surface condition #12,,Variable mapping verified by human expert
+OHX12CTC,OHXDEN_C,Coronal Caries: Tooth count #12,,Variable mapping verified by human expert
+OHX12DI,OHXDEN_C,Fluorosis DI: #12,,Variable mapping verified by human expert
+OHX12SE,OHXDEN_C,Dental Sealants: #12,,Variable mapping verified by human expert
+OHX12TC,OHXDEN_C,Tooth Count: #12,,Variable mapping verified by human expert
+OHX13CSC,OHXDEN_C,Coronal Caries: Surface condition #13,,Variable mapping verified by human expert
+OHX13CTC,OHXDEN_C,Coronal Caries: Tooth count #13,,Variable mapping verified by human expert
+OHX13DI,OHXDEN_C,Fluorosis DI: #13,,Variable mapping verified by human expert
+OHX13SE,OHXDEN_C,Dental Sealants: #13,,Variable mapping verified by human expert
+OHX13TC,OHXDEN_C,Tooth Count: #13,,Variable mapping verified by human expert
+OHX14CSC,OHXDEN_C,Coronal Caries: Surface condition #14,,Variable mapping verified by human expert
+OHX14CTC,OHXDEN_C,Coronal Caries: Tooth count #14,,Variable mapping verified by human expert
+OHX14DI,OHXDEN_C,Fluorosis DI: #14,,Variable mapping verified by human expert
+OHX14SE,OHXDEN_C,Dental Sealants: #14,,Variable mapping verified by human expert
+OHX14TC,OHXDEN_C,Tooth Count: #14,,Variable mapping verified by human expert
+OHX15CSC,OHXDEN_C,Coronal Caries: Surface condition #15,,Variable mapping verified by human expert
+OHX15CTC,OHXDEN_C,Coronal Caries: Tooth count #15,,Variable mapping verified by human expert
+OHX15DI,OHXDEN_C,Fluorosis DI: #15,,Variable mapping verified by human expert
+OHX15SE,OHXDEN_C,Dental Sealants: #15,,Variable mapping verified by human expert
+OHX15TC,OHXDEN_C,Tooth Count: #15,,Variable mapping verified by human expert
+OHX16TC,OHXDEN_C,Tooth Count: #16,,Variable mapping verified by human expert
+OHX17TC,OHXDEN_C,Tooth Count: #17,,Variable mapping verified by human expert
+OHX18CSC,OHXDEN_C,Coronal Caries: Surface condition #18,,Variable mapping verified by human expert
+OHX18CTC,OHXDEN_C,Coronal Caries: Tooth count #18,,Variable mapping verified by human expert
+OHX18DI,OHXDEN_C,Fluorosis DI: #18,,Variable mapping verified by human expert
+OHX18SE,OHXDEN_C,Dental Sealants: #18,,Variable mapping verified by human expert
+OHX18TC,OHXDEN_C,Tooth Count: #18,,Variable mapping verified by human expert
+OHX19CSC,OHXDEN_C,Coronal Caries: Surface condition #19,,Variable mapping verified by human expert
+OHX19CTC,OHXDEN_C,Coronal Caries: Tooth count #19,,Variable mapping verified by human expert
+OHX19DI,OHXDEN_C,Fluorosis DI: #19,,Variable mapping verified by human expert
+OHX19SE,OHXDEN_C,Dental Sealants: #19,,Variable mapping verified by human expert
+OHX19TC,OHXDEN_C,Tooth Count: #19,,Variable mapping verified by human expert
+OHX20CSC,OHXDEN_C,Coronal Caries: Surface condition #20,,Variable mapping verified by human expert
+OHX20CTC,OHXDEN_C,Coronal Caries: Tooth count #20,,Variable mapping verified by human expert
+OHX20DI,OHXDEN_C,Fluorosis DI: #20,,Variable mapping verified by human expert
+OHX20SE,OHXDEN_C,Dental Sealants: #20,,Variable mapping verified by human expert
+OHX20TC,OHXDEN_C,Tooth Count: #20,,Variable mapping verified by human expert
+OHX21CSC,OHXDEN_C,Coronal Caries: Surface condition #21,,Variable mapping verified by human expert
+OHX21CTC,OHXDEN_C,Coronal Caries: Tooth count #21,,Variable mapping verified by human expert
+OHX21DI,OHXDEN_C,Fluorosis DI: #21,,Variable mapping verified by human expert
+OHX21SE,OHXDEN_C,Dental Sealants: #21,,Variable mapping verified by human expert
+OHX21TC,OHXDEN_C,Tooth Count: #21,,Variable mapping verified by human expert
+OHX22CSC,OHXDEN_C,Coronal Caries: Surface condition #22,,Variable mapping verified by human expert
+OHX22CTC,OHXDEN_C,Coronal Caries: Tooth count #22,,Variable mapping verified by human expert
+OHX22DI,OHXDEN_C,Fluorosis DI: #22,,Variable mapping verified by human expert
+OHX22TC,OHXDEN_C,Tooth Count: #22,,Variable mapping verified by human expert
+OHX23CSC,OHXDEN_C,Coronal Caries: Surface condition #23,,Variable mapping verified by human expert
+OHX23CTC,OHXDEN_C,Coronal Caries: Tooth count #23,,Variable mapping verified by human expert
+OHX23DI,OHXDEN_C,Fluorosis DI: #23,,Variable mapping verified by human expert
+OHX23TC,OHXDEN_C,Tooth Count: #23,,Variable mapping verified by human expert
+OHX23TR,OHXDEN_C,Incisor Trauma: #23,,Variable mapping verified by human expert
+OHX24CSC,OHXDEN_C,Coronal Caries: Surface condition #24,,Variable mapping verified by human expert
+OHX24CTC,OHXDEN_C,Coronal Caries: Tooth count #24,,Variable mapping verified by human expert
+OHX24DI,OHXDEN_C,Fluorosis DI: #24,,Variable mapping verified by human expert
+OHX24TC,OHXDEN_C,Tooth Count: #24,,Variable mapping verified by human expert
+OHX24TR,OHXDEN_C,Incisor Trauma: #24,,Variable mapping verified by human expert
+OHX25CSC,OHXDEN_C,Coronal Caries: Surface condition #25,,Variable mapping verified by human expert
+OHX25CTC,OHXDEN_C,Coronal Caries: Tooth count #25,,Variable mapping verified by human expert
+OHX25DI,OHXDEN_C,Fluorosis DI: #25,,Variable mapping verified by human expert
+OHX25TC,OHXDEN_C,Tooth Count: #25,,Variable mapping verified by human expert
+OHX25TR,OHXDEN_C,Incisor Trauma: #25,,Variable mapping verified by human expert
+OHX26CSC,OHXDEN_C,Coronal Caries: Surface condition #26,,Variable mapping verified by human expert
+OHX26CTC,OHXDEN_C,Coronal Caries: Tooth count #26,,Variable mapping verified by human expert
+OHX26DI,OHXDEN_C,Fluorosis DI: #26,,Variable mapping verified by human expert
+OHX26TC,OHXDEN_C,Tooth Count: #26,,Variable mapping verified by human expert
+OHX26TR,OHXDEN_C,Incisor Trauma: #26,,Variable mapping verified by human expert
+OHX27CSC,OHXDEN_C,Coronal Caries: Surface condition #27,,Variable mapping verified by human expert
+OHX27CTC,OHXDEN_C,Coronal Caries: Tooth count #27,,Variable mapping verified by human expert
+OHX27DI,OHXDEN_C,Fluorosis DI: #27,,Variable mapping verified by human expert
+OHX27TC,OHXDEN_C,Tooth Count: #27,,Variable mapping verified by human expert
+OHX28CSC,OHXDEN_C,Coronal Caries: Surface condition #28,,Variable mapping verified by human expert
+OHX28CTC,OHXDEN_C,Coronal Caries: Tooth count #28,,Variable mapping verified by human expert
+OHX28DI,OHXDEN_C,Fluorosis DI: #28,,Variable mapping verified by human expert
+OHX28SE,OHXDEN_C,Dental Sealants: #28,,Variable mapping verified by human expert
+OHX28TC,OHXDEN_C,Tooth Count: #28,,Variable mapping verified by human expert
+OHX29CSC,OHXDEN_C,Coronal Caries: Surface condition #29,,Variable mapping verified by human expert
+OHX29CTC,OHXDEN_C,Coronal Caries: Tooth count #29,,Variable mapping verified by human expert
+OHX29DI,OHXDEN_C,Fluorosis DI: #29,,Variable mapping verified by human expert
+OHX29SE,OHXDEN_C,Dental Sealants: #29,,Variable mapping verified by human expert
+OHX29TC,OHXDEN_C,Tooth Count: #29,,Variable mapping verified by human expert
+OHX30CSC,OHXDEN_C,Coronal Caries: Surface condition #30,,Variable mapping verified by human expert
+OHX30CTC,OHXDEN_C,Coronal Caries: Tooth count #30,,Variable mapping verified by human expert
+OHX30DI,OHXDEN_C,Fluorosis DI: #30,,Variable mapping verified by human expert
+OHX30SE,OHXDEN_C,Dental Sealants: #30,,Variable mapping verified by human expert
+OHX30TC,OHXDEN_C,Tooth Count: #30,,Variable mapping verified by human expert
+OHX31CSC,OHXDEN_C,Coronal Caries: Surface condition #31,,Variable mapping verified by human expert
+OHX31CTC,OHXDEN_C,Coronal Caries: Tooth count #31,,Variable mapping verified by human expert
+OHX31DI,OHXDEN_C,Fluorosis DI: #31,,Variable mapping verified by human expert
+OHX31SE,OHXDEN_C,Dental Sealants: #31,,Variable mapping verified by human expert
+OHX31TC,OHXDEN_C,Tooth Count: #31,,Variable mapping verified by human expert
+OHX32TC,OHXDEN_C,Tooth Count: #32,,Variable mapping verified by human expert
+OHXEDEN,OHXDEN_C,Edentulous-yes,,Variable mapping verified by human expert
+OHXIMP,OHXDEN_C,Dental Implant: yes / no,,Variable mapping verified by human expert
+OHXRCAR,OHXDEN_C,Root Caries: yes / no,,Variable mapping verified by human expert
+OHXRRES,OHXDEN_C,Root restorations: yes / no,,Variable mapping verified by human expert
