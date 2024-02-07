@@ -13,6 +13,8 @@ BLOCKLIST_TABLE = "resources/blocklist_table.csv"
 # where matches occur, the corresponding variables are marked as non-phenotypes
 BLOCKLIST_REGEXPS = "resources/blocklist_regexps.txt"
 
+# Table containing synonyms for some terms e.g. oral health tables
+SYNONYM_TABLE = "resources/synonym_table.tsv"
 
 def preprocess(input_file, column_to_process, save_processed_table=False, input_file_col_separator=","):
     print("Preprocessing metadata table...")
@@ -36,17 +38,27 @@ def preprocess(input_file, column_to_process, save_processed_table=False, input_
     for index, row in bl_df.iterrows():
         df[PROCESSED_TEXT_COL] = np.where((df["Variable"] == row["names"]) & (df["Table"] == row["tables"]),
                                           "-", df[PROCESSED_TEXT_COL])
-    df = mark_phenotpyes(df)
+    df = _mark_phenotpyes(df)
+    df = _replace_synonym_labels(df)
     if save_processed_table:
         df.to_csv(input_file, sep="\t", index=False, mode="w")
     print("...done")
     return df
 
-def mark_phenotpyes(df):
+def _mark_phenotpyes(df):
     df[PHENOTYPE_COL] = np.where(df[PROCESSED_TEXT_COL] == "-", "FALSE", "TRUE")
+    return df
+
+def _replace_synonym_labels(df):
+    synonyms_df = pd.read_csv(SYNONYM_TABLE, sep='\t')
+    for index, row in synonyms_df.iterrows():
+        df.loc[(df['Variable'] == row['Variable']) & \
+                (df['Table'] == row['Table']), PROCESSED_TEXT_COL] = row["Synonym"]
     return df
 
 if __name__ == '__main__':
     preprocess(input_file="../metadata/nhanes_variables.tsv", column_to_process="SASLabel", save_processed_table=True,
                input_file_col_separator="\t")
+
+
 

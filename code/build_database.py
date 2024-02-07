@@ -69,7 +69,7 @@ def build_database(database_name):
 
     # Import the table of expert-contributed synonyms of variable labels
     synonyms_table_columns = "Variable TEXT,`Table` TEXT,Synonym TEXT"
-    import_table_to_db(db_connection, table_file=os.path.join("..", "metadata", "synonym_table.tsv"),
+    import_table_to_db(db_connection, table_file=os.path.join("resources", "synonym_table.tsv"),
                        table_name="nhanes_variables_synonyms", table_columns=synonyms_table_columns)
 
     return db_connection

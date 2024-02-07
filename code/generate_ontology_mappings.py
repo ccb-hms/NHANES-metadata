@@ -15,8 +15,11 @@ __version__ = "0.9.4"
 #                                      /    \
 #                                     /      map_data_with_composite_ids
 #                                    /                   |
-#                   map_nhanes_tables           map_nhanes_variables <-> preprocess       
-#                                    \         /
+#                                   /                    |           preprocess
+#                                  /                     |          /
+#                   map_nhanes_tables           map_nhanes_variables
+#                                  \             /                  \
+#                                   \           /                    remove_empty_duplicates
 #                                 map_nhanes_metadata
 #                                        |
 #                                       main
@@ -63,7 +66,7 @@ def map_to_ontology(target_ontology, terms_to_map, term_identifiers, base_iris=(
         excl_deprecated=True,
         save_mappings=False,
         use_cache=True,
-        incl_unmapped=False
+        incl_unmapped=True
     )
     mappings_df[ONTOLOGY_COL] = target_ontology
     return mappings_df
@@ -96,7 +99,6 @@ def map_data(source_df, labels_column, label_ids_column, tags_column=""):
         term_identifiers=term_ids,
         ontologies_table=TARGET_ONTOLOGIES)
     return mappings_df
-
 
 def get_terms_and_ids(nhanes_table, label_col, label_id_col, tags_column=""):
     if tags_column != "":
@@ -199,6 +201,7 @@ def map_nhanes_variables(variables_file=NHANES_VARIABLES, preprocess=False, save
                                            variable_id_column=NHANES_VARIABLE_ID_COL,
                                            table_id_column=NHANES_TABLE_ID_COL,
                                            tags_column=tags_column)
+    mappings = remove_empty_duplicates(mappings)
     if save_mappings:
         save_mappings_file(mappings, output_file_label="nhanes_variables", top_mappings_only=top_mappings_only, sort=True)
     if flag_mapped:
@@ -207,6 +210,16 @@ def map_nhanes_variables(variables_file=NHANES_VARIABLES, preprocess=False, save
         updated_nhanes_variables.to_csv(variables_file, sep="\t", index=False, quoting=csv.QUOTE_NONNUMERIC)
     return mappings
 
+
+def remove_empty_duplicates(df):
+    filter_df = df.loc[pd.to_numeric(df["Mapping Score"]) == 0]
+    filter_df = filter_df.drop_duplicates(subset=['Variable', 'Table'], keep='last')
+    filter_df = filter_df.assign(Ontology="All")
+
+    new_df = df.loc[pd.to_numeric(df["Mapping Score"]) > 0]
+    final_df = pd.concat([new_df, filter_df], ignore_index=True)
+
+    return final_df
 
 def map_nhanes_metadata(create_ontology_cache=False, preprocess_labels=False, save_mappings=False,
                         top_mappings_only=False, flag_mapped=False):
