@@ -15,6 +15,7 @@ BLOCKLIST_REGEXPS = "resources/blocklist_regexps.txt"
 
 # Table containing synonyms for some terms e.g. oral health tables
 SYNONYM_TABLE = "resources/synonym_table.tsv"
+OUTPUT_FILE = "../metadata/nhanes_variables_processed.tsv"
 
 def preprocess(input_file, column_to_process, save_processed_table=False, input_file_col_separator=","):
     print("Preprocessing metadata table...")
@@ -41,7 +42,9 @@ def preprocess(input_file, column_to_process, save_processed_table=False, input_
     df = _mark_phenotpyes(df)
     df = _replace_synonym_labels(df)
     if save_processed_table:
-        df.to_csv(input_file, sep="\t", index=False, mode="w")
+        df.to_csv(OUTPUT_FILE, sep="\t", index=False, mode="w")
+        lesser_df = df.drop([PROCESSED_TEXT_COL, "Tags"], axis=1)
+        lesser_df.to_csv(input_file, sep="\t", index=False, mode="w")
     print("...done")
     return df
 

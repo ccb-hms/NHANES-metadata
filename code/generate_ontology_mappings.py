@@ -27,7 +27,9 @@ __version__ = "0.9.4"
 
 # Input data
 NHANES_VARIABLES = "../metadata/nhanes_variables.tsv"
+PROCESSED_NHANES_VARIABLES = "../metadata/nhanes_variables_processed.tsv"
 NHANES_TABLES = "../metadata/nhanes_tables.tsv"
+NHANES_ORAL_HEALTH_MAPPINGS = "../ontology-mappings/nhanes_oral_health_mappings.tsv"
 
 # Mapping configuration
 MAX_MAPPINGS_PER_ONTOLOGY = 1
@@ -182,12 +184,12 @@ def map_nhanes_tables(tables_file=NHANES_TABLES, save_mappings=False, top_mappin
     return mappings
 
 
-def map_nhanes_variables(variables_file=NHANES_VARIABLES, preprocess=False, save_mappings=False,
+def map_nhanes_variables(variables_file=PROCESSED_NHANES_VARIABLES, preprocess=False, save_mappings=False,
                          top_mappings_only=False, variables_file_col_separator="\t", flag_mapped=False):
     labels_column = NHANES_VARIABLE_LABEL_COL
     tags_column = ""
     if preprocess:
-        input_df = preprocess_metadata.preprocess(input_file=variables_file,
+        input_df = preprocess_metadata.preprocess(input_file=NHANES_VARIABLES,
                                                   column_to_process=labels_column,
                                                   save_processed_table=True,
                                                   input_file_col_separator=variables_file_col_separator)
@@ -202,6 +204,7 @@ def map_nhanes_variables(variables_file=NHANES_VARIABLES, preprocess=False, save
                                            table_id_column=NHANES_TABLE_ID_COL,
                                            tags_column=tags_column)
     mappings = remove_empty_duplicates(mappings)
+    # mappings = readd_oral_health_mappings(mappings)
     if save_mappings:
         save_mappings_file(mappings, output_file_label="nhanes_variables", top_mappings_only=top_mappings_only, sort=True)
     if flag_mapped:
@@ -220,6 +223,18 @@ def remove_empty_duplicates(df):
     final_df = pd.concat([new_df, filter_df], ignore_index=True)
 
     return final_df
+
+def readd_oral_health_mappings(df):
+    oral_health_mappings_df = pd.read_csv(NHANES_ORAL_HEALTH_MAPPINGS, sep='\t')
+    for index, row in oral_health_mappings_df.iterrows():
+        new_row = [row["SourceTermID"], row["SourceTerm"], row["MappedTermLabel"], "", \
+                   row["MappedTermIRI"], row["MappingScore"], ["human verified"], row["Ontology"]]
+        row_index = df.index[(df["Variable"] == row["Variable"]) & (df["Table"] == row["Table"])].to_list()
+        df = df.drop(row_index)
+        print(new_row)
+        df.loc[len(df.index)] = row["SourceTermID"], row["SourceTerm"], row["MappedTermLabel"], "", \
+                   row["MappedTermIRI"], row["MappingScore"], ["human verified"], row["Ontology"]
+    return df
 
 def map_nhanes_metadata(create_ontology_cache=False, preprocess_labels=False, save_mappings=False,
                         top_mappings_only=False, flag_mapped=False):

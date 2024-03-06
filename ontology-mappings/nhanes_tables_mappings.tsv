@@ -1473,8 +1473,8 @@ HDL_I	Cholesterol - High-Density Lipoprotein (HDL)	High Density Lipoprotein Chol
 HDL_J	Cholesterol - High - Density Lipoprotein (HDL)	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.831	None	NCIT
 HEPA_D	Hepatitis A Antibody	Hepatitis C Antibody	NCIT:C116400	http://purl.obolibrary.org/obo/NCIT_C116400	0.888	None	NCIT
 HEPA_H	Hepatitis A	Hepatitis A Infection	NCIT:C3096	http://purl.obolibrary.org/obo/NCIT_C3096	0.993	None	NCIT
-HEPB_S_D	Hepatitis B Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9	None	NCIT
-HEPB_S_H	Hepatitis B: Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9	None	NCIT
+HEPB_S_D	Hepatitis B Surface Antibody	Hepatitis B Surface Antibody Measurement	NCIT:C74711	http://purl.obolibrary.org/obo/NCIT_C74711	0.9	None	NCIT
+HEPB_S_H	Hepatitis B: Surface Antibody	Hepatitis B Surface Antibody Measurement	NCIT:C74711	http://purl.obolibrary.org/obo/NCIT_C74711	0.9	None	NCIT
 HEPBD_D	Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.794	None	NCIT
 HEPBD_H	Hepatitis B: core antibody, surface antigen, and Hepatitis D antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.794	None	NCIT
 HEPBD_I	Hepatitis B: Core antibody, Surface antigen, and Hepatitis D antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.794	None	NCIT
@@ -1516,7 +1516,7 @@ IODS_K_R	Iodine - Salt	Dietary Iodine	NCIT:C68254	http://purl.obolibrary.org/obo
 KIQ	Kidney Conditions	Kidney	NCIT:C12415	http://purl.obolibrary.org/obo/NCIT_C12415	0.754	None	NCIT
 KIQ_P_B	Prostate Conditions	Prostate Gland	NCIT:C12410	http://purl.obolibrary.org/obo/NCIT_C12410	0.713	None	NCIT
 L02_B	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.821	None	NCIT
-L02HBS	Hepatitis B Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9	None	NCIT
+L02HBS	Hepatitis B Surface Antibody	Hepatitis B Surface Antibody Measurement	NCIT:C74711	http://purl.obolibrary.org/obo/NCIT_C74711	0.9	None	NCIT
 L02HPA_A	Hepatitis A Antibody	Hepatitis C Antibody	NCIT:C116400	http://purl.obolibrary.org/obo/NCIT_C116400	0.888	None	NCIT
 L05_B	Chlamydia & Gonorrhea - Urine	Gonorrhea	NCIT:C92950	http://purl.obolibrary.org/obo/NCIT_C92950	0.724	None	NCIT
 L06AGE_C	Acrylamide & Glycidamide	Acrylamide	NCIT:C44329	http://purl.obolibrary.org/obo/NCIT_C44329	0.776	None	NCIT
@@ -1649,7 +1649,7 @@ P_FSQ	Food Security	USDA Six-Item Standard Measure	NCIT:C171593	http://purl.obol
 P_GHB	Glycohemoglobin	Hemoglobin, CTCAE	NCIT:C55991	http://purl.obolibrary.org/obo/NCIT_C55991	0.758	None	NCIT
 P_HDL	Cholesterol - High - Density Lipoprotein (HDL)	High Density Lipoprotein Cholesterol Measurement	NCIT:C105587	http://purl.obolibrary.org/obo/NCIT_C105587	0.831	None	NCIT
 P_HEPA	Hepatitis A	Hepatitis A Infection	NCIT:C3096	http://purl.obolibrary.org/obo/NCIT_C3096	0.993	None	NCIT
-P_HEPB_S	Hepatitis B Surface Antibody	Hepatitis B Virus Surface Antibody	NCIT:C62796	http://purl.obolibrary.org/obo/NCIT_C62796	0.9	None	NCIT
+P_HEPB_S	Hepatitis B Surface Antibody	Hepatitis B Surface Antibody Measurement	NCIT:C74711	http://purl.obolibrary.org/obo/NCIT_C74711	0.9	None	NCIT
 P_HEPBD	Hepatitis B: Core antibody, Surface antigen, and Hepatitis D antibody	Hepatitis C Antibody Measurement	NCIT:C92535	http://purl.obolibrary.org/obo/NCIT_C92535	0.794	None	NCIT
 P_HEPE	Hepatitis E: IgG & IgM Antibodies	Hepatitis E Virus IgM Antibody Measurement	NCIT:C96665	http://purl.obolibrary.org/obo/NCIT_C96665	0.731	None	NCIT
 P_HEQ	Hepatitis	Hepatitis	NCIT:C3095	http://purl.obolibrary.org/obo/NCIT_C3095	0.994	None	NCIT
