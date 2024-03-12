@@ -1401,7 +1401,7 @@ CBC_E	Complete Blood Count with 5-part Differential - Whole Blood	Blood Cell Cou
 CBC_I	Complete Blood Count with 5-Part Differential - Whole Blood	Blood Cell Count with Differential	NCIT:C98494	http://purl.obolibrary.org/obo/NCIT_C98494	0.771	None	NCIT
 CBC_J	Complete Blood Count with 5-Part Differential	Blood Cell Count with Differential	NCIT:C98494	http://purl.obolibrary.org/obo/NCIT_C98494	0.761	None	NCIT
 CBQ_E	Consumer Behavior	Consumer Promotional Material	NCIT:C97015	http://purl.obolibrary.org/obo/NCIT_C97015	0.707	None	NCIT
-CDQ	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.91	None	NCIT
+CDQ	Cardiovascular Health	Cardiovascular System	NCIT:C12686	http://purl.obolibrary.org/obo/NCIT_C12686	0.91	None	NCIT
 CFQ	Cognitive Functioning	Cognitive Function Subordinate Domain	NCIT:C122365	http://purl.obolibrary.org/obo/NCIT_C122365	0.904	None	NCIT
 CHLA_J_R	Chlamydia - Urine - Adult	Chlamydia	NCIT:C76271	http://purl.obolibrary.org/obo/NCIT_C76271	0.724	None	NCIT
 CHLM_G_R	Chlamydia - Urine - Youth	Chlamydia	NCIT:C76271	http://purl.obolibrary.org/obo/NCIT_C76271	0.804	None	NCIT
@@ -1622,7 +1622,7 @@ P_BPQ	Blood Pressure & Cholesterol	Blood Pressure	NCIT:C54706	http://purl.obolib
 P_BPXO	Blood Pressure - Oscillometric Measurement	Oscillometric Blood Pressure Monitor	NCIT:C69319	http://purl.obolibrary.org/obo/NCIT_C69319	0.779	None	NCIT
 P_CBC	Complete Blood Count with 5-Part Differential in Whole Blood	Blood Cell Count with Differential	NCIT:C98494	http://purl.obolibrary.org/obo/NCIT_C98494	0.771	None	NCIT
 P_CBQ_R	Consumer Behavior	Consumer Promotional Material	NCIT:C97015	http://purl.obolibrary.org/obo/NCIT_C97015	0.707	None	NCIT
-P_CDQ	Cardiovascular Health	Cardiovascular	NCIT:C25292	http://purl.obolibrary.org/obo/NCIT_C25292	0.91	None	NCIT
+P_CDQ	Cardiovascular Health	Cardiovascular System	NCIT:C12686	http://purl.obolibrary.org/obo/NCIT_C12686	0.91	None	NCIT
 P_CHLA_R	Chlamydia - Urine - Adult	Chlamydia	NCIT:C76271	http://purl.obolibrary.org/obo/NCIT_C76271	0.724	None	NCIT
 P_CHLM_R	Chlamydia - Urine - Youth	Chlamydia	NCIT:C76271	http://purl.obolibrary.org/obo/NCIT_C76271	0.804	None	NCIT
 P_CMV	Cytomegalovirus IgG & IgM Antibodies - Serum	Cytomegalovirus IgM Antibody Measurement	NCIT:C96597	http://purl.obolibrary.org/obo/NCIT_C96597	0.827	None	NCIT

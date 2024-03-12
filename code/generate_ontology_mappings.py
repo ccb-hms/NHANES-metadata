@@ -204,7 +204,7 @@ def map_nhanes_variables(variables_file=PROCESSED_NHANES_VARIABLES, preprocess=F
                                            table_id_column=NHANES_TABLE_ID_COL,
                                            tags_column=tags_column)
     mappings = remove_empty_duplicates(mappings)
-    # mappings = readd_oral_health_mappings(mappings)
+    mappings = readd_oral_health_mappings(mappings)
     if save_mappings:
         save_mappings_file(mappings, output_file_label="nhanes_variables", top_mappings_only=top_mappings_only, sort=True)
     if flag_mapped:
@@ -226,14 +226,15 @@ def remove_empty_duplicates(df):
 
 def readd_oral_health_mappings(df):
     oral_health_mappings_df = pd.read_csv(NHANES_ORAL_HEALTH_MAPPINGS, sep='\t')
+    new_df = pd.DataFrame(columns=df.columns)
     for index, row in oral_health_mappings_df.iterrows():
-        new_row = [row["SourceTermID"], row["SourceTerm"], row["MappedTermLabel"], "", \
+        new_row = [row["Variable"], row["Table"], \
+                   row["SourceTermID"], row["SourceTerm"], row["MappedTermLabel"], "", \
                    row["MappedTermIRI"], row["MappingScore"], ["human verified"], row["Ontology"]]
         row_index = df.index[(df["Variable"] == row["Variable"]) & (df["Table"] == row["Table"])].to_list()
         df = df.drop(row_index)
-        print(new_row)
-        df.loc[len(df.index)] = row["SourceTermID"], row["SourceTerm"], row["MappedTermLabel"], "", \
-                   row["MappedTermIRI"], row["MappingScore"], ["human verified"], row["Ontology"]
+        new_df.loc[len(new_df.index)] = new_row
+    df = pd.concat([df, new_df], ignore_index=True)
     return df
 
 def map_nhanes_metadata(create_ontology_cache=False, preprocess_labels=False, save_mappings=False,
