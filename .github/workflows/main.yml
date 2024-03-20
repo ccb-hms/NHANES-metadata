@@ -14,7 +14,7 @@ jobs:
       - uses: dacbd/create-issue-action@main
         with:
           token: ${{ secrets.PAT_JP }}
-          title: Updated Metadata
-          body: The NHANES Metadata Database has been updated to a new version at https://github.com/ccb-hms/NHANES-metadata/releases/latest . Please use at the earliest convenience.
+          title: Updated Metadata Version ${{ github.event.release.tag_name }}
+          body: The NHANES Metadata Database has been updated to version ${{ github.event.release.tag_name }} at https://github.com/ccb-hms/NHANES-metadata/releases/latest . Please use at the earliest convenience.
           owner: ccb-hms
           repo: NHANES
