@@ -18,20 +18,22 @@ The headers of the table containing metadata about NHANES tables are depicted an
 ## Variables Metadata: `nhanes_variables.tsv`
 The headers of the table containing metadata about NHANES variables are depicted and described below. 
 
-| Variable | Table | SASLabel | EnglishText | EnglishInstructions | Target | UseConstraints | ProcessedText | Tags | IsPhenotype | OntologyMapped |
-|----------|-------|----------|-------------|---------------------|--------|----------------|---------------|------|-------------|----------------|
+| Variable | Table | SASLabel | EnglishText | EnglishInstructions | Target | UseConstraints | IsPhenotype | OntologyMapped |
+|----------|-------|----------|-------------|---------------------|--------|----------------|-------------|----------------|
 
 - `Variable` contains variable identifiers, e.g., "PEASCCT1".
 - `Table` contains table identifiers, e.g., "BPX_I".
 - `SASLabel` contains variable labels, e.g., "Blood Pressure Comment".
 - `EnglishText` contains either the same labels as in `SASLabel` or more detailed descriptions of the variables, e.g., where the `SASLabel` of variable `BPXSY1` is "Systolic: Blood pres (1st rdg) mm Hg", the provided `EnglishText` is "Systolic: Blood pressure (first reading) mm Hg".  
 - `EnglishInstructions` contains, for some variables, instructions for answering the question, e.g., "Enter age in years".
-- `Target` contains the target demographic of the variable, e.g., "Both males and females 18 YEARS - 59 YEARS". If there are multiple target values for a given variable, the multiple targets get concatenated into one string while separated by the token `*AND*`.    
-- `ProcessedText` contains the processed version of the SASLabel of a variable, e.g., "Blood Pressure" instead of "Blood Pressure Comment" (see [Preprocessing Metadata](#preprocessing-metadata)).
-- `Tags` contains the tags attached to the variable during preprocessing, e.g., "comment".
+- `Target` contains the target demographic of the variable, e.g., "Both males and females 18 YEARS - 59 YEARS". If there are multiple target values for a given variable, the multiple targets get concatenated into one string while separated by the token `*AND*`.
 - `IsPhenotype` specifies if the variable has been flagged as a non-phenotype during preprocessing.
 - `OntologyMapped` specifies if a variable has been mapped to an ontology. 
 
+## Processed Variables Metadata: `nhanes_variables_processed.tsv`
+A copy of the `nhanes_variables.tsv` table with the additional columns listed below, which are used for ontology mapping. 
+- `ProcessedText` contains the processed version of the SASLabel of a variable, e.g., "Blood Pressure" instead of "Blood Pressure Comment" (see [Preprocessing Metadata](#preprocessing-metadata)).
+- `Tags` contains the tags attached to the variable during preprocessing, e.g., "comment".
 
 ## Variables Codebooks: `nhanes_variables_codebooks.tsv` 
 The headers of the table containing the codebooks of NHANES variables are depicted and described below. Variable codebooks specify possible responses to each variable in each table, and how the coded values in the XPT data tables should be translated— since the coded values are often numbers that stand for strings, for example, in some variables a response of 0 means "No Lab Result" or "Yes" or "Good" or "No problem". For appropriate data analysis, the data tables need to be translated using the variable codebooks that we extract here.
