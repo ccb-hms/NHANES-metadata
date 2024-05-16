@@ -1,5 +1,5 @@
 # NHANES-metadata
-This repository contains code and (meta)data components included in the [NHANES database and tools](https://github.com/ccb-hms/NHANES).  
+This repository contains code and (meta)data components included in the [NHANES database and tools](https://github.com/ccb-hms/NHANES-database).  
 
 ## Code
 The [code](https://github.com/ccb-hms/NHANES-metadata/tree/master/code) folder contains the programs that generate the metadata components described in the next subsections. 
