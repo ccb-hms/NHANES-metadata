@@ -267,4 +267,4 @@ OHX32TC	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHX32TC
 OHXEDEN	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHXEDEN	Edentulous-yes	Edentulous	http://purl.obolibrary.org/obo/NCIT_C63746	0.92	NCIT	
 OHXIMP	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHXIMP	Dental Implant: yes / no	Dental Implant	http://purl.obolibrary.org/obo/NCIT_C63718	0.84	NCIT	
 OHXRCAR	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHXRCAR	Root Caries: yes / no	dental caries	http://purl.obolibrary.org/obo/OHD_0000031	0.52	OHD	
-OHXRRES	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHXRRES	Root restorations: yes / no	Root	http://purl.obolibrary.org/obo/NCIT_C79664	0.52	NCIT	
+OHXRRES	OHXDEN_C	https://wwwn.cdc.gov/nchs/nhanes/2003-2004/OHXDEN_C.htm#OHXRRES	Root restorations: yes / no	Root	http://purl.obolibrary.org/obo/NCIT_C79664	0.52	NCIT
